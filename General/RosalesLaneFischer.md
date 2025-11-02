@@ -1,9 +1,3 @@
-GRACIAS. 😭😭😭
-
-(Avísame si quieres que vaya más lento o si no entiendes algo, igual lo voy a separar en dos partes: la infancia y la adolescencia/adultez —esta tiene subpartes— y dejaré la adultez como la historia que se está escribiendo).
-
-(Algo rápido, Juno, James y su familia son agnósticos, mientras que la familia de Willow es deísta en su mayoría, aunque Willow y sus padres son estudiantes de los Testigos de Jehová).
-
 # ✨ Salvadores de Seikatsu: tras los elegidos ✨
 ⚠ TW: Cultos, temas algo densos, agresión leve ⚠
 
@@ -104,7 +98,7 @@ El tiempo pasaba y ambos crecían, entraron a la misma escuela de Willow y era l
 
 Para pasar su tiempo libre, James buscaba cualquier cosa sobre el paradero de Marcus, cada momento era una pista posible para, terminando por pensar en hacer cualquier cosa por encontrar a su amigo, pensando en que, si lo hacía, todo volvería a la normalidad. Ellos volverían a Estados Unidos y las cosas serían como cuando era un niño.
 
-Su actitud bromista y arriesgada era la mejor manera de sobrellevar el trauma mientras buscaba la forma de revertir errores y problemas que no eran su culpa, sino de la irresponsabilidad de sus padres por no vigilarlos y, en su lugar, lanzar su remordimiento a él.
+Su actitud bromista y arriesgada era la mejor manera de sobrellevar el trauma mientras buscaba la forma de revertir errores y problemas que no eran su culpa, sino de la irresponsabilidad de sus padres por no vigilar a los chicos y, en su lugar, lanzar su remordimiento a él.
 
 Juno hizo nuevos amigos, tanto James como Willow vieron que no eran la mejor opción para ella, pues no eran muy leales o buenos.
 En ese tiempo, James empezó a salir en secreto a caminar por un bosque cercano a la ciudad, era más pequeño que el de su hogar, pero se sentía seguro ahí, sin embargo, sus padres lo empezaron a regañar cada vez que descubrían sus escapes secretos, lo que hacía que la relación familiar fuera cada vez más tensa.
@@ -334,7 +328,7 @@ Sin embargo, la **posesión** en su cuerpo apenas había empezado, lo notó al m
 
 —Marcus, vamos a casa, ¿sí?
 
-Al intentar voltearlo, notó un vacío, una cara, pero sin su rostro.
+Al intentar voltear a Marcus, notó un vacío, una cara, pero sin su rostro.
 
 En ese momento se dió cuenta de que lo habían engañado…
 
@@ -488,7 +482,7 @@ Willow dirigió la mirada al demonio que poseía a James.
 
 —Juno, el amor no te va a ayudar con esto.
 
-—Debo intentarlo. Después debo regañarlo por esto
+—Debo intentarlo. Después debo regañarle por esto
 
 Después de un largo rato de batallar, finalmente el demonio salió, no sin antes una última advertencia de que no sería la última vez que lo verían.
 
@@ -554,13 +548,13 @@ Después de un rato, Juno la dejó pasar.
 
 —¿Quieres conectar con James de nuevo?
 
-—Por supuesto, es mi hermano depués de todo.
+—Por supuesto, es mi hermano después de todo.
 
 —Juno, ¿te estás obligando a querer hablar con él? Si es así, no es el mejor punto de inicio.
 
 —No me obligo, pero *nunca regresas al mismo río dos veces*, además, ya vamos a ser adultos-
 
-—Empecemos de nuevo, hace un rato te entería eso por la adrenalina del momento, pero ¿en qué piensas, ahora que estás calmada?
+—Empecemos de nuevo, hace un rato te entendería eso por la adrenalina del momento, pero ¿en qué piensas, ahora que estás calmada?
 
 —En las palabras de la chica de la cueva sobre… un supuesto entrenamiento para una misión donde convenientemente estamos nosotras dos y James.
 
@@ -572,7 +566,7 @@ Después de un rato, Juno la dejó pasar.
 
 —Bueno, pensaba en si debería… ya sabes, hablar con él ahora, pero no sé si estará enojado conmigo por todo lo que está pasando.
 
-—Piensa en lo que sabemos. Tus padres culpan a James tras "tener" que mudarse por lo que pasó con Marcus, justamente después de la mudanza James vive encerrado en su cuarto porque depende de ti para salir y eso lo sé porque, Juno, he oído como tus padres le negaban salir solo porque tú no salías o porque no querías que fuera con nosotras. Tus "amigos" le hacen creer a James que lo consideras un peligro, un culto lo usó de ofrenda y un demonio lo poseyó, los demonios poseen a personas que estén débiles emocionalmente. ¿Qué conslusión puedes darme al respecto?
+—Piensa en lo que sabemos. Tus padres culpan a James tras "tener" que mudarse por lo que pasó con Marcus, justamente después de la mudanza James vive encerrado en su cuarto porque depende de ti para salir y eso lo sé porque, Juno, he oído como tus padres le negaban salir solo porque tú no salías o porque no querías que fuera con nosotras. Tus "amigos" le hacen creer a James que lo consideras un peligro, un culto lo usó de ofrenda y un demonio lo poseyó, los demonios poseen a personas que estén débiles emocionalmente. ¿Qué conclusión puedes darme al respecto?
 
 —¿Que podría tener resentimiento conmigo por todo eso?
 
