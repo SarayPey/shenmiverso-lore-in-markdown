@@ -32,7 +32,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Cinco datos:**  
 	1. Le encanta el picante.  
 	2. Su gorro fue un regalo de su padre, está vivo por suerte.  
-	3. No puede entrar a la cocina porque termina causando un incendio (Léase ***Un secreto***).  
+	3. No puede entrar a la cocina porque termina causando un incendio (Léase ****Un secreto).  
 	4. Es muy bueno con los poemas de amor o para crear declaraciones. Cobra 50 perskins selins a los desconocidos, muy barato creo yo.  
 	5. Aunque es bueno con las relaciones, una ardilla que le robó el gorro causó que finalmente se confesara a Darya.  
 **Un secreto:** Es un elesterlio, el del fuego exactamente, se hace llamar *Mishan* en honor a Ezer McMishan, su personaje favorito de la infancia (que era interpretado por Ángel Mishan —Por eso en su presentación del capítulo 3 Ángel aclaraba que no era el héroe).  
@@ -41,30 +41,30 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 3. Akiko Rosales  
 **Nombre completo o apodos:** Akiko Sahori Rosales Kuusuko (Apodos: Aki, Saho, Kuukiko, Akirisako —la mezcla de su nombre completo—, "Plantita del bien").  
 **Edad:** 14 años (20/Agosto/3031).  
-**Habilidad de nacimiento:** Curación (*Okimantis:* Eterno, Curación. *Serfanías:* Ver el futuro inmediato —y cambiarlo a veces).  
+**Habilidad de nacimiento:** Curación (Okimantis: Eterno, Curación. Serfanías: Ver el futuro inmediato —y cambiarlo a veces).  
 **Cuishiga:** Darya Collins (Akiko: Ookamimi —tiene orejas de lobo).  
 **Gema de unión:** Pulsera.  
 **Rol en el grupo:** Peluche abrazable.  
-**Lore rápido:** Es la hija del medio de una familia pobre, nació con inmortalidad, a los 3 años recibió su *Serfanía*. A los 10 años adquirió orejas y cola de lobo por una vacuna errónea, pero tuvo que ir a Senlín a encontrarse con su cuishiga.  
+**Lore rápido:** Es la hija del medio de una familia pobre, nació con inmortalidad, a los 3 años recibió su Serfanía de visisón del fututo inmediato. A los 6 empezó a trabajar en un mercado para conseguir los medicamentos para su madre enferma. A los 9 casi 10 años adquirió orejas y cola de lobo por una vacuna errónea, pero tuvo que ir a Senlín a encontrarse con su cuishiga.  
 **¿Cómo llegó?:** Al ser anish de una fundadora de los 20 (Darya), automáticamente entró al grupo.  
 **En el presente:** Es la más querida y protegida del grupo. Mejor amiga de Darya y muy confiable.  
 **Cinco datos:**  
-	1. -.  
-	2. -.  
-	3. -.  
-	4. -.  
-	5. -.  
-**Un secreto:** -.  
+	1. Adora los dulces, pero es alérgica al maní.  
+	2. Le cuesta nadar.  
+	3. Es la más joven y bajita.  
+	4. Su piel es rojita de nacimiento, si se sonroja se vuelve un tomatito pequeño. Tiene una marca de nacimiento: una manchita amarilla alrededor del ojo izquierdo (que es dorado).  
+	5. El primer regalo de cumpleaños que tuvo en toda su vida fue un peluche que Darya le regaló cuando Akiko cumplió 10 años. Lloró de felicidad cuando lo recibió.  
+**Un secreto:** Tiene el elesterlio de la naturaleza, se hace llamar *Ayame* porque le pareció bonito el nombre.  
 
 
 4. Alejandro Rivera
-**Nombre completo o apodos:** - (Apodos: Alej).  
-**Edad:** 15 años (DD/MES/AAAA) -.  
-**Habilidad de nacimiento:** Manipular las emociones del resto y las suyas (*Okimantis:* Maldición, *Malcursikas:* Lo opuesto a quien inició la maldición —Léase ***Lore rápido***).  
+**Nombre completo o apodos:** Alejandro Rivera (Apodos: Alej).  
+**Edad:** 15 años (11/Octubre/AAAA) -.  
+**Habilidad de nacimiento:** Manipular las emociones del resto y las suyas (Okimantis: Maldición, Malcursikas: Lo opuesto a quien inició la maldición —Léase ***Lore rápido***).  
 **Cuishigo:** Andrés Johnson (Alejandro:  Ookamimi —tiene orejas de lobo).  
 **Gema de unión:** Pulsera.  
 **Rol en el grupo:** El que calma las discusiones.  
-**Lore rápido:** -.  
+**Lore rápido:** Por una maldición que le lanzaron a su abuelo por algo imperdonable que hizo, Alejandro nació con.  
 **¿Cómo llegó?:** Al ser anish de un fundador (Andrés), entró automáticamente.  
 **En el presente:** -.  
 **Cinco datos:**  
@@ -376,4 +376,4 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 	3. -.  
 	4. -.  
 	5. -.  
-**Un secreto:** -.  
+**Un secreto:** -.
