@@ -60,7 +60,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 4. Alejandro Rivera
 **Nombre completo o apodos:** Alejandro Rivera (Apodos: Alej).  
 **Edad:** 15 años (11/Octubre/AAAA) -.  
-**Habilidad de nacimiento:** Manipular las emociones del resto y las suyas (Okimantis: Maldición, Malcursikas: Lo opuesto a quien inició la maldición —Léase ***Lore rápido***).  
+**Habilidad de nacimiento:** Manipular las emociones del resto y las suyas (Okimantis: Maldición, Malcursikas: Hechizo de la inversa —Léase ***Lore rápido***).  
 **Cuishigo:** Andrés Johnson (Alejandro:  Ookamimi —tiene orejas de lobo).  
 **Gema de unión:** Pulsera.  
 **Rol en el grupo:** El que calma las discusiones.  

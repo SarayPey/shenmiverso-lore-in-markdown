@@ -2,7 +2,7 @@
 > 
 > ⇢✮✮✮⋯⋯⋯✶✷✵✷✶⋯⋯⋯✮✮✮⇠
 > 
-> *«Un conjuro muy antiguo el cual hace que el hijo de la descendencia afectada sea lo opuesto a las > actitudes de a quien se le lanzó...»*
+> *«Un conjuro muy antiguo el cual hace que el hijo de la descendencia afectada sea lo opuesto a las > actitudes de aquel al que se le lanzó...»*
 >> *«Hilos del destino, vientos de castigo, que el hijo de su descendencia enfrente tu llanto moribundo»*
 > 
 > ⇢✮✮✮⋯⋯⋯✶✷✵✷✶⋯⋯⋯✮✮✮⇠
