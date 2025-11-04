@@ -45,7 +45,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Cuishiga:** Darya Collins (Akiko: Ookamimi —tiene orejas de lobo).  
 **Gema de unión:** Pulsera.  
 **Rol en el grupo:** Peluche abrazable.  
-**Lore rápido:** Es la hija del medio de una familia pobre, nació con inmortalidad, a los 3 años recibió su Serfanía de visisón del fututo inmediato. A los 6 empezó a trabajar en un mercado para conseguir los medicamentos para su madre enferma. A los 9 casi 10 años adquirió orejas y cola de lobo por una vacuna errónea, pero tuvo que ir a Senlín a encontrarse con su cuishiga.  
+**Lore rápido:** Es la hija del medio de una familia pobre, nació con inmortalidad, a los 3 años recibió su Serfanía de visión del futuro inmediato. A los 6 empezó a trabajar en un mercado para conseguir los medicamentos para su madre enferma. A los 9 casi 10 años adquirió orejas y cola de lobo por una vacuna errónea, pero tuvo que ir a Senlín a encontrarse con su cuishiga.  
 **¿Cómo llegó?:** Al ser anish de una fundadora de los 20 (Darya), automáticamente entró al grupo.  
 **En el presente:** Es la más querida y protegida del grupo. Mejor amiga de Darya y muy confiable.  
 **Cinco datos:**  
@@ -58,37 +58,37 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 4. Alejandro Rivera
-**Nombre completo o apodos:** Alejandro Rivera (Apodos: Alej).  
-**Edad:** 15 años (11/Octubre/AAAA) -.  
+**Nombre completo o apodos:** Alejandro Fain Sheryon Rivera Doameria (Apodos: Alej, Faryon, Fain, Sher).  
+**Edad:** 15 años (11/Octubre/3031) -.  
 **Habilidad de nacimiento:** Manipular las emociones del resto y las suyas (Okimantis: Maldición, Malcursikas: Hechizo de la inversa —Léase ***Lore rápido***).  
 **Cuishigo:** Andrés Johnson (Alejandro:  Ookamimi —tiene orejas de lobo).  
 **Gema de unión:** Pulsera.  
 **Rol en el grupo:** El que calma las discusiones.  
-**Lore rápido:** Por una maldición que le lanzaron a su abuelo por algo imperdonable que hizo, Alejandro nació con.  
+**Lore rápido:** Por una maldición que le lanzaron a Wyatt Rivera por algo imperdonable que hizo, Alejandro nació con el hechizo de la inversa, lo que causó que, a diferencia de su abuelo paterno, tuviera mala suerte y las personas desconfíen en él y se olviden de él inmediatamente a menos de recibir un regalo, no ser humanos o tener memoria fotográfica. Su familia desapareció y Andrés lo encontró llorando en un parque, como vió que era su anish, se lo llevó con él.  
 **¿Cómo llegó?:** Al ser anish de un fundador (Andrés), entró automáticamente.  
-**En el presente:** -.  
+**En el presente:** Mejor amigo de Andrés y Akiko, es el trata de pasar desapercibido para evitar que miren mal al grupo por su maldición.  
 **Cinco datos:**  
-	1. -.  
-	2. -.  
-	3. -.  
-	4. -.  
-	5. -.  
-**Un secreto:** -.  
+	1. La cicatriz en su ojo izquierdo es por un cuchillo que le pasaron cuando unos terrícolas entraron a robar a su casa una vez.  
+	2. Los primordiales le tuvieron piedad al darle la condición de dar un regalo de corazón para que una persona no lo olvide.  
+	3. Se ha pillado a muchas víctimas de las locuras de su abuelo cuando era joven.  
+	4. Es el más calmado, pero uno de los que fue más subestimado del grupo.  
+	5. A veces creen que es hermano de Akiko por lo parecidos que son.  
+**Un secreto:** Es el elesterlio de la luz, se hace llamar *Élian* porque siente que representa la luz que podría ser si no estuviera atado a los malos de Wyatt.  
 
 
 5. Laura Flores  
-**Nombre completo o apodos:** - (Apodos: ).  
-**Edad:** 16 años (DD/MES/AAAA) -.  
-**Habilidad de nacimiento:** -.  
-**Cuishiga:** -.  
-**Gema de unión:** -.  
-**Rol en el grupo:** -.  
-**Lore rápido:** -.  
-**¿Cómo llegó?:** -.  
-**En el presente:** -.  
+**Nombre completo o apodos:** Laura Rosalee Kaili Flores Belyesa (Apodos: Lau, Rosy).  
+**Edad:** 16 años (07/Agosto/3030) -.  
+**Habilidad de nacimiento:** Puede aprender todos los idiomas posibles.  
+**Cuishiga:** Melissa Torres (Laura: Nekomimi —tiene orejas y cola de gato).  
+**Gema de unión:** Reloj.  
+**Rol en el grupo:** A la que hay que proteger de su madre que la quiere llevar a casa.  
+**Lore rápido:** Conoce a Melissa desde que era una recién nacida, sin embargo, su madre alejó a su padre de ella, después de un tiempo, Amelia (su madre), solo le importaba la fama que estaba adquiriendo, por lo que hizo que Laura y sus otros dos hijos se enfocasen en ser perfectos, lo que causó que Laura sufriera de trastornos alimenticios, sin embargo, a sus 13 años recibió una vacuna errónea y adquirió orejas de gato, lo que causó que la mandaran a Senlín para que busque a su anish.  
+**¿Cómo llegó?:** Darya la encontró en la calle, Laura pensó que era su cuishiga hasta que descubrió que ya tenía su anish (Akiko).  
+**En el presente:** Mejor amiga de Melissa y Alexa, Laura está más estable emocionalmente.  
 **Cinco datos:**  
-	1. -.  
-	2. -.  
+	1. Laura estaba celosa de que Akiko recibía más atención de Darya (porque es su anish) y le frustraba ser la que no tenía cuishiga.  
+	2. Sus alas son de nacimiento, herencia de su padre.  
 	3. -.  
 	4. -.  
 	5. -.  
@@ -96,12 +96,12 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 6. Eliza Evans  
-**Nombre completo o apodos:** - (Apodos: ).  
+**Nombre completo o apodos:** - (Apodos: Eli).  
 **Edad:** 17 años (DD/MES/AAAA) -.  
 **Habilidad de nacimiento:** -.  
-**Anish:** -.  
-**Gema de unión:** -.  
-**Rol en el grupo:** -.  
+**Anish:** Alexa Miller.  
+**Gema de unión:** Collar.  
+**Rol en el grupo:** Pacificadora.  
 **Lore rápido:** -.  
 **¿Cómo llegó?:** -.  
 **En el presente:** -.  
@@ -118,8 +118,8 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Nombre completo o apodos:** - (Apodos: ).  
 **Edad:** 17 años (DD/MES/AAAA) -.  
 **Habilidad de nacimiento:** -.  
-**Cuishiga:** -.  
-**Gema de unión:** -.  
+**Cuishiga:** Eliza Evans (Alexa: Usagimimi —tiene orejas de conejo).  
+**Gema de unión:** Collar.  
 **Rol en el grupo:** -.  
 **Lore rápido:** -.  
 **¿Cómo llegó?:** -.  
@@ -130,15 +130,15 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 	3. -.  
 	4. -.  
 	5. -.  
-**Un secreto:** -.  
+**Un secreto:** Trata de investigar por su cuenta para hacer a su primo y tío orgullosos, aunque Adam y Erin también andan investigando por su lado.  
 
 
 8. Diana Ramirez  
 **Nombre completo o apodos:** - (Apodos: ).  
 **Edad:** 22 años (DD/MES/AAAA) -.  
 **Habilidad de nacimiento:** -.  
-**Anish:** -.  
-**Gema de unión:** -.  
+**Anish:** Daniel Clark.  
+**Gema de unión:** Broche de cabello.  
 **Rol en el grupo:** -.  
 **Lore rápido:** -.  
 **¿Cómo llegó?:** -.  
@@ -156,8 +156,8 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Nombre completo o apodos:** - (Apodos: ).  
 **Edad:** 16 años (DD/MES/AAAA) -.  
 **Habilidad de nacimiento:** -.  
-**Cuishiga:** -.  
-**Gema de unión:** -.  
+**Cuishiga:** Diana Ramirez (Daniel: Inumimi —tiene orejas de perro).  
+**Gema de unión:** Broche de cabello.  
 **Rol en el grupo:** -.  
 **Lore rápido:** -.  
 **¿Cómo llegó?:** -.  
@@ -168,33 +168,33 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 	3. -.  
 	4. -.  
 	5. -.  
-**Un secreto:** -.  
+**Un secreto:** Le gusta la danza y el color rosa.  
 
 
 10. Alec Holland  
 **Nombre completo o apodos:** - (Apodos: ).  
 **Edad:** 21 años (DD/MES/AAAA) -.  
 **Habilidad de nacimiento:** -.  
-**Anish:** -.  
-**Gema de unión:** -.  
-**Rol en el grupo:** -.  
+**Anish:** Christian Garten.  
+**Gema de unión:** Broche.  
+**Rol en el grupo:** Fotógrafo sensible que todos aman.  
 **Lore rápido:** -.  
 **¿Cómo llegó?:** -.  
 **En el presente:** -.  
 **Cinco datos:**  
-	1. -.  
-	2. -.  
+	1. Se empezó a enamorar de Violeta porque le dió un beso en la mejilla cuando ella llegó con Emma, se sonrojó bonito sin disimular ni notarlo.  
+	2. Es primo lejano de Andrés.  
 	3. -.  
 	4. -.  
 	5. -.  
-**Un secreto:** -.  
+**Un secreto:** Ha visto a *la muerte* en algunas fotos del grupo, lo suficientemente lejos como para saber que son muertes del pasado pero lo suficientemente cerca como para saber que sigue doliendo a pesar de ello.  
 
 11. Violeta Anderson  
 **Nombre completo o apodos:** - (Apodos: ).  
 **Edad:** 22 años (DD/MES/AAAA) -.  
-**Habilidad de nacimiento:** -.  
-**Anish:** -.  
-**Gema de unión:** -.  
+**Habilidad de "nacimiento":** Velocidad, diseños hermosos.  
+**Anish:** Emma Park.  
+**Gema de unión:** Collar.  
 **Rol en el grupo:** -.  
 **Lore rápido:** -.  
 **¿Cómo llegó?:** -.  
@@ -211,9 +211,9 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 12. Emma Park  
 **Nombre completo o apodos:** - (Apodos: ).  
 **Edad:** 16 años (DD/MES/AAAA) -.  
-**Habilidad de nacimiento:** -.  
-**Cuishiga** -.  
-**Gema de unión:** -.  
+**Habilidad de nacimiento:** Telekinesis cantante.  
+**Cuishiga** Violeta Anderson (Emma: Nekomimi —tiene orejas de gato).  
+**Gema de unión:** Collar.  
 **Rol en el grupo:** -.  
 **Lore rápido:** -.  
 **¿Cómo llegó?:** -.  
@@ -228,17 +228,17 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 13. Christian Garten  
-**Nombre completo o apodos:** - (Apodos: ).  
+**Nombre completo o apodos:** - (Apodos: Chris).  
 **Edad:** 15 años (DD/MES/AAAA) -.  
-**Habilidad de nacimiento:** -.  
-**Cuishigo:** -.  
-**Gema de unión:** -.  
-**Rol en el grupo:** -.  
-**Lore rápido:** -.  
-**¿Cómo llegó?:** -.  
+**Habilidad de nacimiento:** Cocina magistral.  
+**Cuishigo:** Alec Holland (Christian: Nekomimi —tiene orejas de gato).  
+**Gema de unión:** Broche.  
+**Rol en el grupo:** Chef del grupo.  
+**Lore rápido:** Fue adoptado por una pareja de ancianos que lo encontraron en la puerta de su casa (su madre lo dejó ahí para salvarlo de posibles peligros), estos lo cuidaron y le ayudaron a usar su habilidad culinaria para animar a las personas, sin embargo, cuando ellos murieron, Christian fue enviado a un orfanato terrícola donde lo golpearon por ser un mochibria hasta logró escapar.  
+**¿Cómo llegó?:** Llegó empapado y hambriento a la puerta de la cabaña en una noche de lluvia, suplicando hasta las lágrimas por un escondite de los terrícolas que lo perseguían (Estuvo corriendo desde el distrito de Lonea hasta el de Senlín, muy lejos), Alec lo recibió y lo ayudó a esconderse.  
 **En el presente:** -.  
 **Cinco datos:**  
-	1. -.  
+	1. Es un nekomimi de nacimiento, su situación lo hizo necesitar de un cuishigo.  
 	2. -.  
 	3. -.  
 	4. -.  
@@ -249,9 +249,9 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 14. James Larson  
 **Nombre completo o apodos:** - (Apodos: ).  
 **Edad:** 17 años (DD/MES/AAAA) -.  
-**Habilidad de nacimiento:** -.  
-**Anish:** -.  
-**Gema de unión:** -.  
+**Habilidad de nacimiento:** Ver a través de las paredes.  
+**Anish:** Joseph Walker.  
+**Gema de unión:** Collar.  
 **Rol en el grupo:** -.  
 **Lore rápido:** -.  
 **¿Cómo llegó?:** -.  
@@ -267,10 +267,10 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 15. Joseph Walker  
 **Nombre completo o apodos:** - (Apodos: ).  
-**Edad:** 16 años (DD/MES/AAAA) -.  
-**Habilidad de nacimiento:** -.  
-**Cuishigo:** -.  
-**Gema de unión:** -.  
+**Edad:** 16 años (DD/MES/AAAA).  
+**Habilidad de nacimiento:** Detectar cosas perdidas.  
+**Cuishigo:** James Larson (Joseph: Usagimimi —Tiene orejas de conejo).  
+**Gema de unión:** Collar.  
 **Rol en el grupo:** -.  
 **Lore rápido:** -.  
 **¿Cómo llegó?:** -.  
@@ -286,10 +286,10 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 16. Connor Scott  
 **Nombre completo o apodos:** - (Apodos: ).  
-**Edad:** 15 años (DD/MES/AAAA) -.  
-**Habilidad de nacimiento:** -.  
-**Cuishigo:** -.  
-**Gema de unión:** -.  
+**Edad:** 15 años (DD/MES/AAAA).  
+**Habilidad de nacimiento:** Duplicación.  
+**Cuishigo:** Michael Sky (Connor: Hanemimi —Tiene alas, de loro, específicamente).  
+**Gema de unión:** Brocha de cabello.  
 **Rol en el grupo:** -.  
 **Lore rápido:** -.  
 **¿Cómo llegó?:** -.  
@@ -304,11 +304,11 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 17. Michael Sky  
-**Nombre completo o apodos:** - (Apodos: ).  
-**Edad:** 24 años (DD/MES/AAAA) -.  
+**Nombre completo o apodos:** Michael Sky (Apodos: Mike, Sky-el).  
+**Edad:** 24 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** -.  
-**Anish:** -.  
-**Gema de unión:** -.  
+**Anish:** Connor Scott.  
+**Gema de unión:** Brocha de cabello.  
 **Rol en el grupo:** -.  
 **Lore rápido:** -.  
 **¿Cómo llegó?:** -.  
@@ -323,11 +323,11 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 18. Cara Narvaez  
-**Nombre completo o apodos:** - (Apodos: ).  
-**Edad:** 16 años (DD/MES/AAAA) -.  
+**Nombre completo o apodos:** - (Apodos: "10-08").  
+**Edad:** 16 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** -.  
-**Cuishigo:** -.  
-**Gema de unión:** -.  
+**Cuishigo:** Jacob Sanders (Cara: Nekomimi —tiene orejas de gato).  
+**Gema de unión:** Collar.  
 **Rol en el grupo:** -.  
 **Lore rápido:** -.  
 **¿Cómo llegó?:** -.  
@@ -342,11 +342,11 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 19. Jacob Sanders  
-**Nombre completo o apodos:** - (Apodos: ).  
-**Edad:** 17 años (28/Julio/2007) -.  
+**Nombre completo o apodos:** - (Apodos: "10-01").  
+**Edad:** 17 años (28/Julio/2005).  
 **Habilidad de nacimiento:** -.  
-**Anish:** -.  
-**Gema de unión:** -.  
+**Anish:** Cara Narvaez.  
+**Gema de unión:** Collar.  
 **Rol en el grupo:** -.  
 **Lore rápido:** -.  
 **¿Cómo llegó?:** -.  
@@ -357,7 +357,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 	3. -.  
 	4. -.  
 	5. -.  
-**Un secreto:** -.  
+**Un secreto:** Además de su pasado, el espíritu que todos ven es la punta del iceberg de todo lo que está en su interior (Es un recipiente de espíritus humano).  
 
 
 20. Melissa Torres  
@@ -365,10 +365,10 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Edad:** 25 años (03/Enero/3021) -.  
 **Habilidad de nacimiento:** -.  
 **Anish:** -.  
-**Gema de unión:** -.  
+**Gema de unión:** Reloj.  
 **Rol en el grupo:** -.  
 **Lore rápido:** -.  
-**¿Cómo llegó?:** -.  
+**¿Cómo llegó?:** Originalmente vivía en un departamento (Adam vivió ahí un tiempo antes de conseguir su casa propia) porque estaba buscando a Laura, entonces en un momento la encontró con el resto y no tuvo más opción que quedarse.  
 **En el presente:** -.  
 **Cinco datos:**  
 	1. -.  
