@@ -32,7 +32,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Cinco datos:**  
 	1. Le encanta el picante.  
 	2. Su gorro fue un regalo de su padre, está vivo por suerte.  
-	3. No puede entrar a la cocina porque termina causando un incendio (Léase ****Un secreto).  
+	3. No puede entrar a la cocina porque termina causando un incendio (Léase ***Un secreto***).  
 	4. Es muy bueno con los poemas de amor o para crear declaraciones. Cobra 50 perskins selins a los desconocidos, muy barato creo yo.  
 	5. Aunque es bueno con las relaciones, una ardilla que le robó el gorro causó que finalmente se confesara a Darya.  
 **Un secreto:** Es un elesterlio, el del fuego exactamente, se hace llamar *Mishan* en honor a Ezer McMishan, su personaje favorito de la infancia (que era interpretado por Ángel Mishan —Por eso en su presentación del capítulo 3 Ángel aclaraba que no era el héroe).  
