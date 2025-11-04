@@ -173,7 +173,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 10. Alec Holland  
 **Nombre completo o apodos:** Alec Holland (Apodos: ).  
-**Edad:** 21 años (DD/MES/AAAA).  
+**Edad:** 21 años (19/Agosto/AAAA).  
 **Habilidad de nacimiento:** Ver los secretos y espíritus de otros tras las cámaras.  
 **Anish:** Christian Garten.  
 **Gema de unión:** Broche.  
@@ -191,7 +191,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 11. Violeta Anderson  
 **Nombre completo o apodos:** Violeta Julieta Anderson Pardo (Apodos: ).  
-**Edad:** 22 años (DD/MES/AAAA).  
+**Edad:** 22 años (28/Mayo/AAAA).  
 **Habilidad de "nacimiento":** Velocidad, diseños hermosos.  
 **Anish:** Emma Park.  
 **Gema de unión:** Collar.  
@@ -248,7 +248,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 14. James Larson  
 **Nombre completo o apodos:** James Larson (Apodos: ).  
-**Edad:** 17 años (DD/MES/AAAA).  
+**Edad:** 17 años (21/Junio/AAAA).  
 **Habilidad de nacimiento:** Ver a través de las paredes.  
 **Anish:** Joseph Walker.  
 **Gema de unión:** Collar.  
