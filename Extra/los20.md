@@ -59,7 +59,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 4. Alejandro Rivera
 **Nombre completo o apodos:** Alejandro Fain Sheryon Rivera Doameria (Apodos: Alej, Faryon, Fain, Sher).  
-**Edad:** 15 años (11/Octubre/3031) -.  
+**Edad:** 15 años (11/Octubre/3031).  
 **Habilidad de nacimiento:** Manipular las emociones del resto y las suyas (Okimantis: Maldición, Malcursikas: Hechizo de la inversa —Léase ***Lore rápido***).  
 **Cuishigo:** Andrés Johnson (Alejandro:  Ookamimi —tiene orejas de lobo).  
 **Gema de unión:** Pulsera.  
@@ -78,7 +78,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 5. Laura Flores  
 **Nombre completo o apodos:** Laura Rosalee Kaili Flores Belyesa (Apodos: Lau, Rosy).  
-**Edad:** 16 años (07/Agosto/3030) -.  
+**Edad:** 16 años (07/Agosto/3030).  
 **Habilidad de nacimiento:** Puede aprender todos los idiomas posibles.  
 **Cuishiga:** Melissa Torres (Laura: Nekomimi —tiene orejas y cola de gato).  
 **Gema de unión:** Reloj.  
@@ -89,20 +89,20 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Cinco datos:**  
 	1. Laura estaba celosa de que Akiko recibía más atención de Darya (porque es su anish) y le frustraba ser la que no tenía cuishiga.  
 	2. Sus alas son de nacimiento, herencia de su padre.  
-	3. -.  
-	4. -.  
-	5. -.  
-**Un secreto:** -.  
+	3. Todavía le cuesta superar sus trastornos alimenticios.  
+	4. Es la única que tuvo una mala relación con Akiko, ahora son amigas.  
+	5. Le gustaría jugar juegos de mesa con Adam y el equipo policial.  
+**Un secreto:** Tiene el elesterlio del viento, se hace llamar *Breeze* por la brisa.  
 
 
 6. Eliza Evans  
-**Nombre completo o apodos:** - (Apodos: Eli).  
-**Edad:** 17 años (DD/MES/AAAA) -.  
-**Habilidad de nacimiento:** -.  
+**Nombre completo o apodos:** Eliza Evans (Apodos: Eli).  
+**Edad:** 17 años (27/Noviembre/3028).  
+**Habilidad de nacimiento:** Poder entrar a los libros.  
 **Anish:** Alexa Miller.  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** Pacificadora.  
-**Lore rápido:** -.  
+**Lore rápido:** La verdad, su vida es calmada, cuidó a Alexa cuando escapó de la casa de Erin para buscar a sus padres.  
 **¿Cómo llegó?:** -.  
 **En el presente:** -.  
 **Cinco datos:**  
@@ -115,8 +115,8 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 7. Alexa Miller  
-**Nombre completo o apodos:** - (Apodos: ).  
-**Edad:** 17 años (DD/MES/AAAA) -.  
+**Nombre completo o apodos:** Alexa Miller (Apodos: ).  
+**Edad:** 17 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** -.  
 **Cuishiga:** Eliza Evans (Alexa: Usagimimi —tiene orejas de conejo).  
 **Gema de unión:** Collar.  
@@ -134,8 +134,8 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 8. Diana Ramirez  
-**Nombre completo o apodos:** - (Apodos: ).  
-**Edad:** 22 años (DD/MES/AAAA) -.  
+**Nombre completo o apodos:** Diana Ramirez (Apodos: ).  
+**Edad:** 22 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** -.  
 **Anish:** Daniel Clark.  
 **Gema de unión:** Broche de cabello.  
@@ -153,8 +153,8 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 9. Daniel Clark  
-**Nombre completo o apodos:** - (Apodos: ).  
-**Edad:** 16 años (DD/MES/AAAA) -.  
+**Nombre completo o apodos:** Daniel Clark (Apodos: ).  
+**Edad:** 16 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** -.  
 **Cuishiga:** Diana Ramirez (Daniel: Inumimi —tiene orejas de perro).  
 **Gema de unión:** Broche de cabello.  
@@ -172,8 +172,8 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 10. Alec Holland  
-**Nombre completo o apodos:** - (Apodos: ).  
-**Edad:** 21 años (DD/MES/AAAA) -.  
+**Nombre completo o apodos:** Alec Holland (Apodos: ).  
+**Edad:** 21 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** -.  
 **Anish:** Christian Garten.  
 **Gema de unión:** Broche.  
@@ -190,8 +190,8 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Un secreto:** Ha visto a *la muerte* en algunas fotos del grupo, lo suficientemente lejos como para saber que son muertes del pasado pero lo suficientemente cerca como para saber que sigue doliendo a pesar de ello.  
 
 11. Violeta Anderson  
-**Nombre completo o apodos:** - (Apodos: ).  
-**Edad:** 22 años (DD/MES/AAAA) -.  
+**Nombre completo o apodos:** Violeta Julieta Anderson Pardo (Apodos: ).  
+**Edad:** 22 años (DD/MES/AAAA).  
 **Habilidad de "nacimiento":** Velocidad, diseños hermosos.  
 **Anish:** Emma Park.  
 **Gema de unión:** Collar.  
@@ -209,8 +209,8 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 12. Emma Park  
-**Nombre completo o apodos:** - (Apodos: ).  
-**Edad:** 16 años (DD/MES/AAAA) -.  
+**Nombre completo o apodos:** Emma Park (Apodos: ).  
+**Edad:** 16 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** Telekinesis cantante.  
 **Cuishiga** Violeta Anderson (Emma: Nekomimi —tiene orejas de gato).  
 **Gema de unión:** Collar.  
@@ -228,8 +228,8 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 13. Christian Garten  
-**Nombre completo o apodos:** - (Apodos: Chris).  
-**Edad:** 15 años (DD/MES/AAAA) -.  
+**Nombre completo o apodos:** Cristian Clement Garten Moretti (Apodos: Chris).  
+**Edad:** 15 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** Cocina magistral.  
 **Cuishigo:** Alec Holland (Christian: Nekomimi —tiene orejas de gato).  
 **Gema de unión:** Broche.  
@@ -239,16 +239,16 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **En el presente:** -.  
 **Cinco datos:**  
 	1. Es un nekomimi de nacimiento, su situación lo hizo necesitar de un cuishigo.  
-	2. -.  
+	2. Su acento francés-italiano es un tributo a sus "nonnos" que lo criaron.  
 	3. -.  
 	4. -.  
 	5. -.  
-**Un secreto:** -.  
+**Un secreto:** En la mejilla tiene una marca que puede empezar a acabar su vida cuando siente un fuerte dolor emocional.  
 
 
 14. James Larson  
 **Nombre completo o apodos:** - (Apodos: ).  
-**Edad:** 17 años (DD/MES/AAAA) -.  
+**Edad:** 17 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** Ver a través de las paredes.  
 **Anish:** Joseph Walker.  
 **Gema de unión:** Collar.  
@@ -357,7 +357,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 	3. -.  
 	4. -.  
 	5. -.  
-**Un secreto:** Además de su pasado, el espíritu que todos ven es la punta del iceberg de todo lo que está en su interior (Es un recipiente de espíritus humano).  
+**Un secreto:** Además de su pasado, el espíritu que todos ven es la punta del iceberg de todo lo que está en su interior (Es un recipiente de espíritus humano). Más profundo está su **segunda forma** (a.k.a, las garras que le salieron en el capítulo 6).  
 
 
 20. Melissa Torres  
