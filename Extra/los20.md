@@ -191,7 +191,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 11. Violeta Anderson  
 **Nombre completo o apodos:** Violeta Julieta Anderson Pardo (Apodos: ).  
-**Edad:** 22 años (28/Mayo/AAAA).  
+**Edad:** 22 años (28/Mayo/2000).  
 **Habilidad de "nacimiento":** Velocidad, diseños hermosos.  
 **Anish:** Emma Park.  
 **Gema de unión:** Collar.  
