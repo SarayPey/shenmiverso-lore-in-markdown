@@ -184,7 +184,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Cinco datos:**  
 	1. Se empezó a enamorar de Violeta porque le dió un beso en la mejilla cuando ella llegó con Emma, se sonrojó bonito sin disimular ni notarlo.  
 	2. Es primo lejano de Andrés.  
-	3. -.  
+	3. Cuando Christian llegó y lo identificó como su anish, no lo soltó por unos días.  
 	4. -.  
 	5. -.  
 **Un secreto:** Ha visto a *la muerte* en algunas fotos del grupo, lo suficientemente lejos como para saber que son muertes del pasado pero lo suficientemente cerca como para saber que sigue doliendo a pesar de ello.  
