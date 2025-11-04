@@ -117,7 +117,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 7. Alexa Miller  
 **Nombre completo o apodos:** Alexa Miller (Apodos: ).  
 **Edad:** 17 años (DD/MES/AAAA).  
-**Habilidad de nacimiento:** -.  
+**Habilidad de nacimiento:** Superfuerza.  
 **Cuishiga:** Eliza Evans (Alexa: Usagimimi —tiene orejas de conejo).  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** -.  
@@ -136,7 +136,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 8. Diana Ramirez  
 **Nombre completo o apodos:** Diana Ramirez (Apodos: ).  
 **Edad:** 22 años (DD/MES/AAAA).  
-**Habilidad de nacimiento:** -.  
+**Habilidad de nacimiento:** Control mental con la música (controlable por ella misma).  
 **Anish:** Daniel Clark.  
 **Gema de unión:** Broche de cabello.  
 **Rol en el grupo:** -.  
@@ -155,7 +155,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 9. Daniel Clark  
 **Nombre completo o apodos:** Daniel Clark (Apodos: ).  
 **Edad:** 16 años (DD/MES/AAAA).  
-**Habilidad de nacimiento:** -.  
+**Habilidad de nacimiento:** Hablar con los animales.  
 **Cuishiga:** Diana Ramirez (Daniel: Inumimi —tiene orejas de perro).  
 **Gema de unión:** Broche de cabello.  
 **Rol en el grupo:** -.  
@@ -174,7 +174,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 10. Alec Holland  
 **Nombre completo o apodos:** Alec Holland (Apodos: ).  
 **Edad:** 21 años (DD/MES/AAAA).  
-**Habilidad de nacimiento:** -.  
+**Habilidad de nacimiento:** Ver los secretos y espíritus de otros tras las cámaras.  
 **Anish:** Christian Garten.  
 **Gema de unión:** Broche.  
 **Rol en el grupo:** Fotógrafo sensible que todos aman.  
@@ -306,7 +306,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 17. Michael Sky  
 **Nombre completo o apodos:** Michael Sky (Apodos: Mike, Sky-el).  
 **Edad:** 24 años (DD/MES/AAAA).  
-**Habilidad de nacimiento:** -.  
+**Habilidad de nacimiento:** Conocimiento y habilidad mecánica y/o tecnológica.  
 **Anish:** Connor Scott.  
 **Gema de unión:** Brocha de cabello.  
 **Rol en el grupo:** -.  
@@ -325,7 +325,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 18. Cara Narvaez  
 **Nombre completo o apodos:** Cara Narvaez (Apodos: "10-08").  
 **Edad:** 16 años (DD/MES/AAAA).  
-**Habilidad de "nacimiento":** -.  
+**Habilidad de "nacimiento":** Volver realidad lo que pinta (controlable).  
 **Cuishigo:** Jacob Sanders (Cara: Nekomimi —tiene orejas de gato).  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** -.  
@@ -344,7 +344,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 19. Jacob Sanders  
 **Nombre completo o apodos:** Jacob Sanders (Apodos: "10-01").  
 **Edad:** 17 años (28/Julio/2005).  
-**Habilidad de "nacimiento":** -.  
+**Habilidad de "nacimiento":** Volverse un fantasma.  
 **Anish:** Cara Narvaez.  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** -.  
