@@ -102,13 +102,13 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Anish:** Alexa Miller.  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** Pacificadora.  
-**Lore rápido:** La verdad, su vida es calmada, cuidó a Alexa cuando escapó de la casa de Erin para buscar a sus padres.  
-**¿Cómo llegó?:** -.  
+**Lore rápido:** La verdad, su vida es calmada, cuidó a Alexa cuando escapó de la casa de Erin para buscar a sus padres y descubrió lo común en sus gemas de unión.  
+**¿Cómo llegó?:** Encontró la cabaña cuando estaba jugando a las escondidas con Alexa, cuando notó anishes y cuishigos juntos, le dió la propuesta a Alexa de considerarlo su nuevo hogar.  
 **En el presente:** -.  
 **Cinco datos:**  
-	1. -.  
-	2. -.  
-	3. -.  
+	1. Le encanta el origami.  
+	2. Sabe que James tiene cierto interés en ella, pero prefiere que él se lo diga directamente.  
+	3. Aunque es tímida e introvertida, en las historias que ha entrado es capaz de mostrar su faceta más valiente.  
 	4. -.  
 	5. -.  
 **Un secreto:** -.  
@@ -240,14 +240,14 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Cinco datos:**  
 	1. Es un nekomimi de nacimiento, su situación lo hizo necesitar de un cuishigo.  
 	2. Su acento francés-italiano es un tributo a sus "nonnos" que lo criaron.  
-	3. -.  
-	4. -.  
-	5. -.  
+	3. Cuando algo no pasa como es lógico, se descompensa.  
+	4. Colecciona monedas de todo el mundo.  
+	5. Le parece curiosa la forma en la que Adam cocina panqueques. Le gustan, son ricos.  
 **Un secreto:** En la mejilla tiene una marca que puede empezar a acabar su vida cuando siente un fuerte dolor emocional.  
 
 
 14. James Larson  
-**Nombre completo o apodos:** - (Apodos: ).  
+**Nombre completo o apodos:** James Larson (Apodos: ).  
 **Edad:** 17 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** Ver a través de las paredes.  
 **Anish:** Joseph Walker.  
@@ -266,7 +266,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 15. Joseph Walker  
-**Nombre completo o apodos:** - (Apodos: ).  
+**Nombre completo o apodos:** Joseph Walker (Apodos: ).  
 **Edad:** 16 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** Detectar cosas perdidas.  
 **Cuishigo:** James Larson (Joseph: Usagimimi —Tiene orejas de conejo).  
@@ -285,7 +285,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 16. Connor Scott  
-**Nombre completo o apodos:** - (Apodos: ).  
+**Nombre completo o apodos:** Connor Scott (Apodos: ).  
 **Edad:** 15 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** Duplicación.  
 **Cuishigo:** Michael Sky (Connor: Hanemimi —Tiene alas, de loro, específicamente).  
@@ -323,9 +323,9 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 18. Cara Narvaez  
-**Nombre completo o apodos:** - (Apodos: "10-08").  
+**Nombre completo o apodos:** Cara Narvaez (Apodos: "10-08").  
 **Edad:** 16 años (DD/MES/AAAA).  
-**Habilidad de nacimiento:** -.  
+**Habilidad de "nacimiento":** -.  
 **Cuishigo:** Jacob Sanders (Cara: Nekomimi —tiene orejas de gato).  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** -.  
@@ -342,9 +342,9 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 19. Jacob Sanders  
-**Nombre completo o apodos:** - (Apodos: "10-01").  
+**Nombre completo o apodos:** Jacob Sanders (Apodos: "10-01").  
 **Edad:** 17 años (28/Julio/2005).  
-**Habilidad de nacimiento:** -.  
+**Habilidad de "nacimiento":** -.  
 **Anish:** Cara Narvaez.  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** -.  
