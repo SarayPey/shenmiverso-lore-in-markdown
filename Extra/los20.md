@@ -109,9 +109,9 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 	1. Le encanta el origami.  
 	2. Sabe que James tiene cierto interés en ella, pero prefiere que él se lo diga directamente.  
 	3. Aunque es tímida e introvertida, en las historias que ha entrado es capaz de mostrar su faceta más valiente.  
-	4. -.  
-	5. -.  
-**Un secreto:** -.  
+	4. Le gusta leer en la biblioteca central de Senlín con James.  
+	5. Además del origami, ama las manualidades.  
+**Un secreto:** Tiene el elesterlio del tiempo, se hace llamar *Aisha* por la protagonista de uno de sus libros favoritos.  
 
 
 7. Alexa Miller  
@@ -130,7 +130,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 	3. -.  
 	4. -.  
 	5. -.  
-**Un secreto:** Trata de investigar por su cuenta para hacer a su primo y tío orgullosos, aunque Adam y Erin también andan investigando por su lado.  
+**Un secreto:** Trata de investigar por su cuenta para hacer a su primo y su tío orgullosos, aunque Adam y Erin también andan investigando por su lado.  
 
 
 8. Diana Ramirez  
