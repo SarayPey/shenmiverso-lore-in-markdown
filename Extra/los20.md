@@ -153,7 +153,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 9. Daniel Clark  
-**Nombre completo o apodos:** Daniel Clark Shajari (Apodos: Dani, Dan).  
+**Nombre completo o apodos:** Daniel Jesús Clark Shajari (Apodos: Dani, Dan).  
 **Edad:** 16 años (08/Mayo/3030).  
 **Habilidad de nacimiento:** Hablar con los animales.  
 **Cuishiga:** Diana Ramirez (Daniel: Inumimi —tiene orejas de perro).  
@@ -172,7 +172,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 10. Alec Holland  
-**Nombre completo o apodos:** Alec Fyztar Holland (Apodos: Al, fotógrafo, mini-Alan).  
+**Nombre completo o apodos:** Alec Fyztar Holland Herselka (Apodos: Al, fotógrafo, mini-Alan).  
 **Edad:** 20 años (19/Agosto/3026).  
 **Habilidad de nacimiento:** Ver los secretos y espíritus de otros tras las cámaras.  
 **Anish:** Christian Garten.  
@@ -190,7 +190,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Un secreto:** Ha visto a *la muerte* en algunas fotos del grupo, lo suficientemente lejos como para saber que son muertes del pasado pero lo suficientemente cerca como para saber que sigue doliendo a pesar de ello, además de conocer los secretos de todos por los espíritus que cargan.  
 
 11. Violeta Anderson  
-**Nombre completo o apodos:** Violeta Julieta Anderson Pardo (Apodos: ).  
+**Nombre completo o apodos:** Violeta Julieta Anderson Pardo (Apodos: Vi, Violeta, Vivi, ).  
 **Edad:** 20 años (28/Mayo/2000).  
 **Habilidad de "nacimiento":** Velocidad, diseños hermosos.  
 **Anish:** Emma Park.  
@@ -209,22 +209,22 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 12. Emma Park  
-**Nombre completo o apodos:** Emma Park (Apodos: ).  
+**Nombre completo o apodos:** Emma Solsy Park Doremi (Apodos: Emy, Notita dorada).  
 **Edad:** 16 años (25/Agosto/3030).  
 **Habilidad de nacimiento:** Telekinesis cantante.  
 **Cuishiga** Violeta Anderson (Emma: Nekomimi —tiene orejas de gato).  
 **Gema de unión:** Collar.  
-**Rol en el grupo:** -.  
-**Lore rápido:** -.  
-**¿Cómo llegó?:** -.  
-**En el presente:** -.  
+**Rol en el grupo:** Contención emocional.  
+**Lore rápido:** No hay mucho que comentar, tuvo una vida tranquila hasta que conoció a Violeta, la cual la empezó a cuidar hasta volverse su cuishiga.  
+**¿Cómo llegó?:** Siguiendo a Violeta, tuvo que traducirle a Darya lo que Violeta dijo.  
+**En el presente:** Cantante de apoyo en Magistic, Emma trata de ayudar a contener a los demás con su voz.  
 **Cinco datos:**  
-	1. -.  
-	2. -.  
-	3. -.  
-	4. -.  
-	5. -.  
-**Un secreto:** -.  
+	1. Incluso tarareando, puede elevar a personas más pesadas que ella.  
+	2. Le gusta ver lo que hace, los demás, especialmente Violeta.  
+	3. Es una nekomimi de nacimiento, de hecho, su situación de anish es poco común, especialmente que su cuishiga sea una terrícola.  
+	4. Es a la que Violeta le hizo más trajes.  
+	5. Le gustaría ir a una misión para cazar anomalías.  
+**Un secreto:** No tiene nada que esconder.  
 
 
 13. Christian Garten  
@@ -266,7 +266,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 15. Joseph Walker  
-**Nombre completo o apodos:** Joseph Walker (Apodos: Josh).  
+**Nombre completo o apodos:** Joseph Bartil Walker Disastirk (Apodos: Josh).  
 **Edad:** 16 años (18/Abril/3030).  
 **Habilidad de nacimiento:** Detectar cosas perdidas.  
 **Cuishigo:** James Larson (Joseph: Usagimimi —Tiene orejas de conejo).  
@@ -285,7 +285,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 16. Connor Scott  
-**Nombre completo o apodos:** Connor Scott (Apodos: Cono).  
+**Nombre completo o apodos:** Connor Kartyn Scott Zeryl (Apodos: Cono).  
 **Edad:** 15 años (05/Julio/3030).  
 **Habilidad de nacimiento:** Duplicación.  
 **Cuishigo:** Michael Sky (Connor: Hanemimi —Tiene alas, de loro, específicamente).  
@@ -304,7 +304,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 17. Michael Sky  
-**Nombre completo o apodos:** Michael Sky (Apodos: Mike, Sky-el).  
+**Nombre completo o apodos:** Michael Elcaryn Sky Clyrk (Apodos: Mike, Sky-el).  
 **Edad:** 25 años (20/Noviembre/3031).  
 **Habilidad de nacimiento:** Conocimiento y habilidad mecánica y/o tecnológica.  
 **Anish:** Connor Scott.  
@@ -323,7 +323,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 18. Cara Narvaez  
-**Nombre completo o apodos:** Cara Narvaez (Apodos: "10-08").  
+**Nombre completo o apodos:** Cara Camila Amelia Narvaez Sosa (Apodos: "10-08").  
 **Edad:** 16 años (22/Mayo/2008).  
 **Habilidad de "nacimiento":** Volver realidad lo que pinta (controlable).  
 **Cuishigo:** Jacob Sanders (Cara: Nekomimi —tiene orejas de gato).  
@@ -342,7 +342,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 19. Jacob Sanders  
-**Nombre completo o apodos:** Jacob Sanders (Apodos: "10-01").  
+**Nombre completo o apodos:** Jacob Alex Sanders Alvarado (Apodos: "10-01").  
 **Edad:** 17 años (28/Julio/2005).  
 **Habilidad de "nacimiento":** Volverse un fantasma.  
 **Anish:** Cara Narvaez.  
