@@ -328,17 +328,17 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Habilidad de "nacimiento":** Volver realidad lo que pinta (controlable).  
 **Cuishigo:** Jacob Sanders (Cara: Nekomimi —tiene orejas de gato).  
 **Gema de unión:** Collar.  
-**Rol en el grupo:** -.  
-**Lore rápido:** -.  
-**¿Cómo llegó?:** -.  
-**En el presente:** -.  
+**Rol en el grupo:** Dibujante.  
+**Lore rápido:** Tenía una vida normal en Puerto Rico, hasta que La asociación la tomó cautiva y la llevó a Mochu, ahí fue cuando adquirió heterocromía, su habilidad y sus orejas y cola de gato, ahí conoció a 10-01(Jacob) y otros chicos más, entonces escaparon y ella se quedó junto a Jacob.  
+**¿Cómo llegó?:** Se estaban escondiendo en una casa abandonada hasta que Alec, Darya, Emma y James los encontraron y los llevaron a la cabaña.  
+**En el presente:** Cara es la que mejor puede entender a Jacob (además de Melissa, Akiko, Alec y James), su habilidad la hace un gran apoyo para crear objetos en caso de ser necesario.  
 **Cinco datos:**  
-	1. -.  
-	2. -.  
-	3. -.  
-	4. -.  
-	5. -.  
-**Un secreto:** -.  
+	1. Al ser la última en llegar a la asociación, es la más debíl, no podría con Jacob en fuerza.  
+	2. Conoce el brainrot y desearía no haberlo hecho.  
+	3. Era amiga de Joseph, pero cuando empezó a meterse con los traumas y el pasado de Jacob (que ELLA le dijo en confianza), se alejó de él.  
+	4. En su vida como terrícola, era hija única y mimada, no se acostumbra a tener que compartir cuarto.  
+	5. Odia que se metan en su vida, pero le gusta que la protejan, es algo inestable, si me preguntas.  
+**Un secreto:** Le gusta Jacob.  
 
 
 19. Jacob Sanders  
