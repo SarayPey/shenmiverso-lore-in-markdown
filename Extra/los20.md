@@ -138,7 +138,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Edad:** 22 años (03/Marzo/3034).  
 **Habilidad de nacimiento:** Control mental con la música.  
 **Anish:** Daniel Clark.  
-**Gema de unión:** Broche de cabello.  
+**Gema de unión:** Arete que usa como argollas en su gorra.  
 **Rol en el grupo:** Es la que tiene entradas gratis por trabajar como guitarrista y vocalista en Magistic, además de la que enseña artes marciales en el grupo.  
 **Lore rápido:** Tiene una historia bastante alegre, antes de llegar a la cabaña era maestra de danza y artes marciales en la colonia prohibida de Alaska Oriental hasta que conoció a un Daniel niño que acudió a ella para que le enseñara defensa personal.  
 **¿Cómo llegó?:** Cuando Daniel y ella se fueron de la colonia para buscar un lugar más seguro, encontraron la cabaña por coincidencia y, ante la propuesta de Darya, aceptaron.  
@@ -157,18 +157,18 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Edad:** 16 años (08/Mayo/3030).  
 **Habilidad de nacimiento:** Hablar con los animales.  
 **Cuishiga:** Diana Ramirez (Daniel: Inumimi —tiene orejas de perro).  
-**Gema de unión:** Broche de cabello.  
-**Rol en el grupo:** -.  
-**Lore rápido:** -.  
-**¿Cómo llegó?:** -.  
-**En el presente:** -.  
+**Gema de unión:** Arete que usa como argollas en su gorra.  
+**Rol en el grupo:** Naturalista (Porque habla con los animales).  
+**Lore rápido:** Su padre es mochibria y su madre era terrícola, cuando nació, su madre lo alejó inmediatamente de su padre por haber nacido mochibria (la genética mochibria prima sobre la terrícola), por años su madre lo maltrató y obligó a buscar metas imposibles, lo que Daniel tomó como cariño, sin embargo, cuando tenía 13 años, su madre fue a una terapia para pensar en mejores formas de exigirle a Daniel la perfección, pero terminó teniendo redención con él hasta que murió un año después.  
+**¿Cómo llegó?:** Diana (que le enseñó defensa personal para que pudiera protegerse de su madre) ideó el escape de Alaska Oriental hacia Senlín, ahí encontraron la cabaña y se hicieron parte de ella.  
+**En el presente:** Es el blanco fácil de Joseph, pero es uno de los integrantes más complejos de entender.  
 **Cinco datos:**  
-	1. -.  
-	2. -.  
-	3. -.  
-	4. -.  
-	5. -.  
-**Un secreto:** Le gusta la danza y el color rosa.  
+	1. Tiene una enfermedad mochibria rara, la cual lo hace sobreexigirse hasta colapsar, por lo que necesita medicamentos.  
+	2. Antes, Connor, Christian, Joseph y él eran buenos amigos, pero por cosas desconocidas Connor, Joseph y Daniel pelearon y se separaron.  
+	3. Es más delgado de lo que debería, dice que "debería pesar 20kg para ser perfecto".  
+	4. Tiene problemas de respiración en una costilla.  
+	5. Actualmente, Akiko, Alejandro y Jade son sus mejores amigos.  
+**Un secreto:** Le gusta la danza y el color rosa. También, quiere hacer las paces con Connor.  
 
 
 10. Alec Holland  
