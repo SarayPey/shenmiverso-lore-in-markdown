@@ -116,7 +116,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 7. Alexa Miller  
 **Nombre completo o apodos:** Alexa Yilya Miller Dermisa (Apodos: Alexya, Lexi, Yiyi).  
-**Edad:** 17 años (DD/MES/AAAA).  
+**Edad:** 17 años (05/Enero/3029).  
 **Habilidad de nacimiento:** Superfuerza.  
 **Cuishiga:** Eliza Evans (Alexa: Usagimimi —tiene orejas de conejo).  
 **Gema de unión:** Collar.  
@@ -205,7 +205,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 	3. -.  
 	4. -.  
 	5. -.  
-**Un secreto:** -.  
+**Un secreto:** Tiene una tía chilena.  
 
 
 12. Emma Park  
