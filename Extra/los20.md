@@ -54,7 +54,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 	3. Es la más joven y bajita.  
 	4. Su piel es rojita de nacimiento, si se sonroja se vuelve un tomatito pequeño. Tiene una marca de nacimiento: una manchita amarilla alrededor del ojo izquierdo (que es dorado).  
 	5. El primer regalo de cumpleaños que tuvo en toda su vida fue un peluche que Darya le regaló cuando Akiko cumplió 10 años. Lloró de felicidad cuando lo recibió.  
-**Un secreto:** Tiene el elesterlio de la naturaleza, se hace llamar *Ayame* porque le pareció bonito el nombre.  
+**Un secreto:** Tiene el elesterlio de la naturaleza, se hace llamar *Ayame* porque le pareció bonito el nombre. La flor que le dió a Adam es una que inventó con ese poder, crece y se multiplica con buenas acciones, pero se marchita con malas acciones (todo debe ser del corazón).  
 
 
 4. Alejandro Rivera
@@ -135,26 +135,26 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 8. Diana Ramirez  
 **Nombre completo o apodos:** Diana Jarasy Ramirez Tilkira (Apodos: Di, Dj-Diana).  
-**Edad:** 22 años (DD/MES/AAAA).  
-**Habilidad de nacimiento:** Control mental con la música (controlable por ella misma).  
+**Edad:** 22 años (03/Marzo/3034).  
+**Habilidad de nacimiento:** Control mental con la música.  
 **Anish:** Daniel Clark.  
 **Gema de unión:** Broche de cabello.  
-**Rol en el grupo:** -.  
-**Lore rápido:** -.  
-**¿Cómo llegó?:** -.  
-**En el presente:** -.  
+**Rol en el grupo:** Es la que tiene entradas gratis por trabajar como guitarrista y vocalista en Magistic, además de la que enseña artes marciales en el grupo.  
+**Lore rápido:** Tiene una historia bastante alegre, antes de llegar a la cabaña era maestra de danza y artes marciales en la colonia prohibida de Alaska Oriental hasta que conoció a un Daniel niño que acudió a ella para que le enseñara defensa personal.  
+**¿Cómo llegó?:** Cuando Daniel y ella se fueron de la colonia para buscar un lugar más seguro, encontraron la cabaña por coincidencia y, ante la propuesta de Darya, aceptaron.  
+**En el presente:** Es el pase gratis de los chicos a conciertos o eventos de su interés, además se encarga de ayudar a los más débiles a defenderse y controlar magia básica.  
 **Cinco datos:**  
-	1. -.  
-	2. -.  
-	3. -.  
-	4. -.  
-	5. -.  
-**Un secreto:** -.  
+	1. Es la que más se niega a los sobornos de Violeta.  
+	2. Ve a Daniel como su hermanito pequeño.  
+	3. Por su control mental con la música, pudo hacer que los terrícolas no descubrieran que es una mochibria, pero en un punto dejó de ser rentable.  
+	4. A diferencia de lo que parece, su habilidad es controlable, ella maneja si quiere o no usarla al hacer música.  
+	5. Es muy buena enseñando, perfectamente podría ser profesora.  
+**Un secreto:** No tiene secretos, es bastante franca al hablar de sus orígenes y opinión.  
 
 
 9. Daniel Clark  
 **Nombre completo o apodos:** Daniel Clark Shajari (Apodos: Dani, Dan).  
-**Edad:** 16 años (DD/MES/AAAA).  
+**Edad:** 16 años (08/Mayo/3030).  
 **Habilidad de nacimiento:** Hablar con los animales.  
 **Cuishiga:** Diana Ramirez (Daniel: Inumimi —tiene orejas de perro).  
 **Gema de unión:** Broche de cabello.  
@@ -173,7 +173,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 10. Alec Holland  
 **Nombre completo o apodos:** Alec Fyztar Holland (Apodos: ).  
-**Edad:** 20 años (19/Agosto/AAAA).  
+**Edad:** 20 años (19/Agosto/3026).  
 **Habilidad de nacimiento:** Ver los secretos y espíritus de otros tras las cámaras.  
 **Anish:** Christian Garten.  
 **Gema de unión:** Broche.  
@@ -210,7 +210,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 12. Emma Park  
 **Nombre completo o apodos:** Emma Park (Apodos: ).  
-**Edad:** 16 años (DD/MES/AAAA).  
+**Edad:** 16 años (25/Agosto/3030).  
 **Habilidad de nacimiento:** Telekinesis cantante.  
 **Cuishiga** Violeta Anderson (Emma: Nekomimi —tiene orejas de gato).  
 **Gema de unión:** Collar.  
@@ -229,16 +229,16 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 13. Christian Garten  
 **Nombre completo o apodos:** Cristian Clement Garten Moretti (Apodos: Chris).  
-**Edad:** 15 años (DD/MES/AAAA).  
+**Edad:** 15 años (28/Diciembre/3030).  
 **Habilidad de nacimiento:** Cocina magistral.  
 **Cuishigo:** Alec Holland (Christian: Nekomimi —tiene orejas de gato).  
 **Gema de unión:** Broche.  
 **Rol en el grupo:** Chef del grupo.  
 **Lore rápido:** Fue adoptado por una pareja de ancianos que lo encontraron en la puerta de su casa (su madre lo dejó ahí para salvarlo de posibles peligros), estos lo cuidaron y le ayudaron a usar su habilidad culinaria para animar a las personas, sin embargo, cuando ellos murieron, Christian fue enviado a un orfanato terrícola donde lo golpearon por ser un mochibria hasta logró escapar.  
 **¿Cómo llegó?:** Llegó empapado y hambriento a la puerta de la cabaña en una noche de lluvia, suplicando hasta las lágrimas por un escondite de los terrícolas que lo perseguían (Estuvo corriendo desde el distrito de Lonea hasta el de Senlín, muy lejos), Alec lo recibió y lo ayudó a esconderse.  
-**En el presente:** -.  
+**En el presente:** Es cocinero de la casa (a menos que esté estudiando, pues logró retomar sus estudios) y es el encargado de los banquetes, aunque Alec lo cuida para que no descompense.  
 **Cinco datos:**  
-	1. Es un nekomimi de nacimiento, su situación lo hizo necesitar de un cuishigo.  
+	1. Es un nekomimi de nacimiento, su situación de pérdida lo hizo necesitar de un cuishigo, pero en una situación normal no lo hubiera requerido.  
 	2. Su acento francés-italiano es un tributo a sus "nonnos" que lo criaron.  
 	3. Cuando algo no pasa como es lógico, se descompensa.  
 	4. Colecciona monedas de todo el mundo.  
@@ -253,7 +253,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Anish:** Joseph Walker.  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** Paranoico.  
-**Lore rápido:** Su padre lo abandonó a él y a su madre, a los 5 años vio a su creadora y sus compañeros lo llamaron loco, lo maltrataban y hacían bullying hasta que a su alrededor aparecieron unos ojos rojos que lo torturaban y solo él ve, antes tenía una mente más oscura que Jacob, pues se hacía daño y tenia un vicio con unas pastillas raras.  
+**Lore rápido:** Su padre lo abandonó a él y a su madre, a los 5 años vio a su creadora y sus compañeros lo llamaron loco, lo maltrataban y hacían bullying hasta que a su alrededor aparecieron unos ojos rojos que lo torturaban y solo él ve, antes tenía una mente más oscura que Jacob, pues se hacía daño y tenia un vicio con unas pastillas raras, estaba poco cuerdo en ese tiempo pero ya se sanó.  
 **¿Cómo llegó?:** -.  
 **En el presente:** -.  
 **Cinco datos:**  
@@ -267,7 +267,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 15. Joseph Walker  
 **Nombre completo o apodos:** Joseph Walker (Apodos: Josh).  
-**Edad:** 16 años (DD/MES/AAAA).  
+**Edad:** 16 años (18/Abril/3030).  
 **Habilidad de nacimiento:** Detectar cosas perdidas.  
 **Cuishigo:** James Larson (Joseph: Usagimimi —Tiene orejas de conejo).  
 **Gema de unión:** Collar.  
@@ -286,7 +286,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 16. Connor Scott  
 **Nombre completo o apodos:** Connor Scott (Apodos: Cono).  
-**Edad:** 15 años (DD/MES/AAAA).  
+**Edad:** 15 años (05/Julio/3030).  
 **Habilidad de nacimiento:** Duplicación.  
 **Cuishigo:** Michael Sky (Connor: Hanemimi —Tiene alas, de loro, específicamente).  
 **Gema de unión:** Brocha de cabello.  
@@ -305,7 +305,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 17. Michael Sky  
 **Nombre completo o apodos:** Michael Sky (Apodos: Mike, Sky-el).  
-**Edad:** 24 años (30/Noviembre/AAAA).  
+**Edad:** 25 años (20/Noviembre/3031).  
 **Habilidad de nacimiento:** Conocimiento y habilidad mecánica y/o tecnológica.  
 **Anish:** Connor Scott.  
 **Gema de unión:** Brocha de cabello.  
@@ -324,7 +324,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 18. Cara Narvaez  
 **Nombre completo o apodos:** Cara Narvaez (Apodos: "10-08").  
-**Edad:** 16 años (DD/MES/AAAA).  
+**Edad:** 16 años (22/Mayo/2008).  
 **Habilidad de "nacimiento":** Volver realidad lo que pinta (controlable).  
 **Cuishigo:** Jacob Sanders (Cara: Nekomimi —tiene orejas de gato).  
 **Gema de unión:** Collar.  
