@@ -96,7 +96,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 6. Eliza Evans  
-**Nombre completo o apodos:** Eliza Evans (Apodos: Eli).  
+**Nombre completo o apodos:** Eliza Evans Sarfila (Apodos: Eli).  
 **Edad:** 17 años (27/Noviembre/3028).  
 **Habilidad de nacimiento:** Poder entrar a los libros.  
 **Anish:** Alexa Miller.  
@@ -104,7 +104,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Rol en el grupo:** Pacificadora.  
 **Lore rápido:** La verdad, su vida es calmada, cuidó a Alexa cuando escapó de la casa de Erin para buscar a sus padres y descubrió lo común en sus gemas de unión.  
 **¿Cómo llegó?:** Encontró la cabaña cuando estaba jugando a las escondidas con Alexa, cuando notó anishes y cuishigos juntos, le dió la propuesta a Alexa de considerarlo su nuevo hogar.  
-**En el presente:** -.  
+**En el presente:** Mejor amiga de Alexa y confidente de Melissa, Eliza es la que calma las aguas con su mera presencia.  
 **Cinco datos:**  
 	1. Le encanta el origami.  
 	2. Sabe que James tiene cierto interés en ella, pero prefiere que él se lo diga directamente.  
@@ -115,18 +115,18 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 7. Alexa Miller  
-**Nombre completo o apodos:** Alexa Miller (Apodos: ).  
+**Nombre completo o apodos:** Alexa Yilya Miller Dermisa (Apodos: ).  
 **Edad:** 17 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** Superfuerza.  
 **Cuishiga:** Eliza Evans (Alexa: Usagimimi —tiene orejas de conejo).  
 **Gema de unión:** Collar.  
-**Rol en el grupo:** -.  
-**Lore rápido:** -.  
-**¿Cómo llegó?:** -.  
-**En el presente:** -.  
+**Rol en el grupo:** Desde llevar cosas hasta ser la más resistente del grupo ante una catástrofe.  
+**Lore rápido:** Tenía una vida normal hasta que su familia desapareció misteriosamente, aunque fue a vivir con los padres de Adam, escapó para buscar a sus padres por su cuenta y se encontró con Eliza.  
+**¿Cómo llegó?:** Eliza la llamó para que viera el lugar, por lo que Alexa aceptó la idea como una forma de buscar pistas sobre su familia.  
+**En el presente:** Alexa es la más fuerte del equipo, lo que hace capaz de ser la que detiene físicamente a quienes se ponen a pelear, ayudar al equipo a llevar cosas, o simplemente jugar videojuegos.  
 **Cinco datos:**  
-	1. -.  
-	2. -.  
+	1. Si alguien toca a Eliza (o a alguien que ame), Alexa no tiene piedad como Adam.  
+	2. Es una usagimimi de nacimiento, ya que hay una rama de los Miller que puede ser kemonomimi.  
 	3. -.  
 	4. -.  
 	5. -.  
@@ -153,7 +153,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 9. Daniel Clark  
-**Nombre completo o apodos:** Daniel Clark (Apodos: ).  
+**Nombre completo o apodos:** Daniel Clark Shajari (Apodos: Dani, Dan).  
 **Edad:** 16 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** Hablar con los animales.  
 **Cuishiga:** Diana Ramirez (Daniel: Inumimi —tiene orejas de perro).  
@@ -172,8 +172,8 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 10. Alec Holland  
-**Nombre completo o apodos:** Alec Holland (Apodos: ).  
-**Edad:** 21 años (19/Agosto/AAAA).  
+**Nombre completo o apodos:** Alec Fyztar Holland (Apodos: ).  
+**Edad:** 20 años (19/Agosto/AAAA).  
 **Habilidad de nacimiento:** Ver los secretos y espíritus de otros tras las cámaras.  
 **Anish:** Christian Garten.  
 **Gema de unión:** Broche.  
@@ -191,7 +191,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 11. Violeta Anderson  
 **Nombre completo o apodos:** Violeta Julieta Anderson Pardo (Apodos: ).  
-**Edad:** 22 años (28/Mayo/2000).  
+**Edad:** 20 años (28/Mayo/2000).  
 **Habilidad de "nacimiento":** Velocidad, diseños hermosos.  
 **Anish:** Emma Park.  
 **Gema de unión:** Collar.  
@@ -266,7 +266,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 15. Joseph Walker  
-**Nombre completo o apodos:** Joseph Walker (Apodos: ).  
+**Nombre completo o apodos:** Joseph Walker (Apodos: Josh).  
 **Edad:** 16 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** Detectar cosas perdidas.  
 **Cuishigo:** James Larson (Joseph: Usagimimi —Tiene orejas de conejo).  
