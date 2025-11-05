@@ -249,19 +249,19 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 14. James Larson  
 **Nombre completo o apodos:** James Clerick Larson (Apodos: Librito emo, Jamie).  
 **Edad:** 17 años (21/Junio/3029).  
-**Habilidad de nacimiento:** Ver a través de las paredes.  
+**Habilidad de nacimiento:** Ver a través de las paredes (*gamkina:* Soreiyahomagia).  
 **Anish:** Joseph Walker.  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** Paranoico.  
-**Lore rápido:** Su padre lo abandonó a él y a su madre, a los 5 años vio a su creadora y sus compañeros lo llamaron loco, lo maltrataban y hacían bullying hasta que a su alrededor aparecieron unos ojos rojos que lo torturaban y solo él ve, antes tenía una mente más oscura que Jacob, pues se hacía daño y tenia un vicio con unas pastillas raras, estaba poco cuerdo en ese tiempo pero ya se sanó.  
-**¿Cómo llegó?:** -.  
-**En el presente:** -.  
+**Lore rápido:** Su padre lo abandonó a él y a su madre, a los 5 años vio a su creadora y sus compañeros lo llamaron loco, lo maltrataban y hacían bullying hasta que a su alrededor aparecieron unos ojos rojos que lo torturaban y solo él ve, su padre tiene otra familia y no le dió el apelido a James por ser "un defecto", antes tenía una mente más oscura que Jacob, pues se hacía daño y tenia un vicio con unas pastillas raras, además de no poder controlar las voces de su cabeza y los ojos rojos, estaba poco cuerdo en ese tiempo pero, por suerte, logró salir de esa fase oscura.  
+**¿Cómo llegó?:** Un día que estaba leyendo, se encontró con la cabaña, algo dentro de él supo que sería aceptado en esa pequeña comunidad, inmediatamente llevó a Joseph allá.  
+**En el presente:** Aunque esté mejorando, está seguro de que todo lo que conoce no es real.  
 **Cinco datos:**  
-	1. -.  
-	2. -.  
-	3. -.  
-	4. -.  
-	5. -.  
+	1. Siente cosas por Eliza.  
+	2. Ama leer, por la lectura se volvió escritor.  
+	3. Rompe la cuarta pared (De hecho, me dijo que los saludara de su parte).  
+	4. Es dibujante frustrado.  
+	5. La Soreiyahomagia es bastante poderosa, siento capaz de controlar la mente incluso.  
 **Un secreto:** Es capaz de controlar a los ojos rojos ahora, si quisiera, podría hacer que todo el mundo se vuelva loco.  
 
 
