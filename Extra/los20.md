@@ -271,17 +271,17 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Habilidad de nacimiento:** Detectar cosas perdidas.  
 **Cuishigo:** James Larson (Joseph: Usagimimi —Tiene orejas de conejo).  
 **Gema de unión:** Collar.  
-**Rol en el grupo:** -.  
-**Lore rápido:** -.  
-**¿Cómo llegó?:** -.  
-**En el presente:** -.  
+**Rol en el grupo:** Provocador, el que peor cae del grupo, el de las bromas pesadas.  
+**Lore rápido:** Su madre lo dejó con su padre, el cual lo crió como un niño de bien, pero una vez su madre se lo llevó un par de meses, lo regresó siendo un niño totalmente diferente.  
+**¿Cómo llegó?:** James lo llevó a la cabaña, a pesar de que lo consideraba "un lugar de parias fracasados", no tardó en ir allá con James.  
+**En el presente:** Es el ente del mal, el caos que Darya, Andrés y Melissa tratan de reformar. Un clásico chico problemático que hiere al resto por gusto propio.  
 **Cinco datos:**  
-	1. -.  
-	2. -.  
-	3. -.  
-	4. -.  
-	5. -.  
-**Un secreto:** -.  
+	1. Es conejo de nacimiento por herencia de su padre.  
+	2. A pesar de que lo abandonó, Joseph prefiere a su madre porque no le dió reglas.  
+	3. Suele hacer bromas y chistes muy crueles.  
+	4. Antes de Connor, era mejor amigo de Cara, hasta que ella se alejó de él por considerar que se estaba pasando con Jacob.  
+	5. Es muy bueno con la pelota.  
+**Un secreto:** No se arrepiente de nada de lo que hace, pero tiene un punto débil con James y Alexa.  
 
 
 16. Connor Scott  
