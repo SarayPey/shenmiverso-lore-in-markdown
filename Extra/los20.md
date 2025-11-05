@@ -310,16 +310,16 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Anish:** Connor Scott.  
 **Gema de unión:** Brocha de cabello.  
 **Rol en el grupo:** Servicio técnico.  
-**Lore rápido:** -.  
-**¿Cómo llegó?:** -.  
-**En el presente:** -.  
+**Lore rápido:** Era un mochibria humano normal, hasta que, a los 17 años, tuvo una enfermedad degenerativa grave que obligó a su familia a tener que buscar la forma de salvarlo, siendo la única forma la de cambiar las partes dañadas por piezas robóticas de alta tecnología, incluso la mitad de su cerebro tuvo que ser reprogramado con una inteligencia artificial. Salió bien, pero esta IA robótica era de un vieja máquina de guerra, por lo que, además de cosas sin sentido, tenía un modo de destrucción masiva que era imparable, por lo que Michael debía controlarlo.  
+**¿Cómo llegó?:** Jugando futbol con Connor, su IA detectó la pelota como peligro y la lanzó con fuerza a la puerta cabaña, por lo que la arreglaron, pero cuando la IA Michael detectó unas falencias, se ofreció para quedarse ahí para arreglarlas.  
+**En el presente:** Michael es uno de lo más efectivos en lo que respecta a reparar cosas, tanto por su habilidad de nacimiento como por sus integraciones robóticas.  
 **Cinco datos:**  
-	1. -.  
-	2. -.  
-	3. -.  
-	4. -.  
-	5. -.  
-**Un secreto:** -.  
+	1. Hay piezas que no se pintaron, que están al descubierto.  
+	2. Sus alas robóticas son parte de los agregados para mantenerlo estable.  
+	3. Uno de sus ojos fue reemplazado totalmente con uno robótico.  
+	4. Tiene cierto interés por Melissa, pero trata de mantenerlo oculto porque su IA podría delatarlo.  
+	5. Le gusta inventar, incluso usa sus propias piezas robóticas para sus inventos.  
+**Un secreto:** No le ha dicho a nadie qué tan peligrosa puede ser la IA, en especial si lo controla.  
 
 
 18. Cara Narvaez  
