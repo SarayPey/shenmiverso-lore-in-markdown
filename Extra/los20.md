@@ -115,7 +115,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 7. Alexa Miller  
-**Nombre completo o apodos:** Alexa Yilya Miller Dermisa (Apodos: ).  
+**Nombre completo o apodos:** Alexa Yilya Miller Dermisa (Apodos: Alexya, Lexi, Yiyi).  
 **Edad:** 17 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** Superfuerza.  
 **Cuishiga:** Eliza Evans (Alexa: Usagimimi —tiene orejas de conejo).  
@@ -127,9 +127,9 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Cinco datos:**  
 	1. Si alguien toca a Eliza (o a alguien que ame), Alexa no tiene piedad como Adam.  
 	2. Es una usagimimi de nacimiento, ya que hay una rama de los Miller que puede ser kemonomimi.  
-	3. -.  
-	4. -.  
-	5. -.  
+	3. Su arma insignia es más grande que ella misma y la toma con una mano como si nada.  
+	4. No la dejan entrar a la cocina porque podría frustrarse y romper algo.  
+	5. Quiere mucho a Adam y a su tío Erin.  
 **Un secreto:** Trata de investigar por su cuenta para hacer a su primo y su tío orgullosos, aunque Adam y Erin también andan investigando por su lado.  
 
 
