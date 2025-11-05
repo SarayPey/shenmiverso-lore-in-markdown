@@ -172,22 +172,22 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 10. Alec Holland  
-**Nombre completo o apodos:** Alec Fyztar Holland (Apodos: ).  
+**Nombre completo o apodos:** Alec Fyztar Holland (Apodos: Al, fotógrafo, mini-Alan).  
 **Edad:** 20 años (19/Agosto/3026).  
 **Habilidad de nacimiento:** Ver los secretos y espíritus de otros tras las cámaras.  
 **Anish:** Christian Garten.  
 **Gema de unión:** Broche.  
 **Rol en el grupo:** Fotógrafo sensible que todos aman.  
-**Lore rápido:** -.  
-**¿Cómo llegó?:** -.  
-**En el presente:** -.  
+**Lore rápido:** Tenía una vida feliz en Jeonsa, vivía con su madre, su padre y su hermano mayor Alan (que era un pintor), hasta que inculparon a su padre y Zadok (el juez corrupto del piloto) le dio pena de muerte, cuando Alec tenía 12 años, vio a su hermano acabar con su propia vida saltando del edificio más alto de Jeonsa. Su madre falleció tiempo después por pena, pero una vecina de Ñore lo adoptó hasta que le dijo que fuera a Senlín a enfrentar a Zadok para hacerlo pagar por lo que causó en su familia.  
+**¿Cómo llegó?:** En su búsqueda de respuestas, un espíritu benigno lo guió a la cabaña.  
+**En el presente:** Es el cuishigo más tranquilo de la cabaña, nunca empieza pleitos y trata de controlarlos, además de sacar las fotos del grupo.  
 **Cinco datos:**  
 	1. Se empezó a enamorar de Violeta porque le dió un beso en la mejilla cuando ella llegó con Emma, se sonrojó bonito sin disimular ni notarlo.  
 	2. Es primo lejano de Andrés.  
 	3. Cuando Christian llegó y lo identificó como su anish, no lo soltó por unos días.  
-	4. -.  
-	5. -.  
-**Un secreto:** Ha visto a *la muerte* en algunas fotos del grupo, lo suficientemente lejos como para saber que son muertes del pasado pero lo suficientemente cerca como para saber que sigue doliendo a pesar de ello.  
+	4. Normalmente no saca fotos de edificios porque le recuerda a Alan, si saca fotos de un edificio, algo malo está pensando.  
+	5. Extraña su hogar, a veces tiene pesadillas con Alan y cómo era tan joven para poder evitar su final.  
+**Un secreto:** Ha visto a *la muerte* en algunas fotos del grupo, lo suficientemente lejos como para saber que son muertes del pasado pero lo suficientemente cerca como para saber que sigue doliendo a pesar de ello, además de conocer los secretos de todos por los espíritus que cargan.  
 
 11. Violeta Anderson  
 **Nombre completo o apodos:** Violeta Julieta Anderson Pardo (Apodos: ).  
