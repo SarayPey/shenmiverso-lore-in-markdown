@@ -134,7 +134,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 8. Diana Ramirez  
-**Nombre completo o apodos:** Diana Ramirez (Apodos: ).  
+**Nombre completo o apodos:** Diana Jarasy Ramirez Tilkira (Apodos: Di, Dj-Diana).  
 **Edad:** 22 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** Control mental con la música (controlable por ella misma).  
 **Anish:** Daniel Clark.  
