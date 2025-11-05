@@ -285,22 +285,22 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 16. Connor Scott  
-**Nombre completo o apodos:** Connor Kartyn Scott Zeryl (Apodos: Cono).  
+**Nombre completo o apodos:** Connor Kartyn Scott Zeryl (Apodos: Cono, Kart).  
 **Edad:** 15 años (05/Julio/3030).  
 **Habilidad de nacimiento:** Duplicación.  
 **Cuishigo:** Michael Sky (Connor: Hanemimi —Tiene alas, de loro, específicamente).  
 **Gema de unión:** Brocha de cabello.  
-**Rol en el grupo:** -.  
-**Lore rápido:** -.  
-**¿Cómo llegó?:** -.  
-**En el presente:** -.  
+**Rol en el grupo:** Generador de suministros, observador aéreo.  
+**Lore rápido:** Por algún motivo, todas las mascotas que tenía fallecían, en la escuela le hacían bullying porque en ese entonces su habilidad no estaba controlada, por lo que aprendió a huir rápido hasta que conoció a un Michael totalmente humano, ambos se hicieron amigos, incluso tras la transformación de Michael, era capaz de reconocerlo y aceptarlo como es, por lo que Connor era capaz de controlar el lado robótico de Michael cuando este activaba un modo de destrucción inevitable.  
+**¿Cómo llegó?:** Estaba jugando a la pelota con Michael, en un momento que su lado robótico lanzo la pelota muy fuerte y dejó una marca en la puerta de la cabaña, tuvieron que arreglarla juntos, pero al final del día decidieron quedarse más tiempo ahí.  
+**En el presente:** A pesar de ser amigo de Joseph, Connor es alguien noble, solo necesita reencontrar el rumbo.  
 **Cinco datos:**  
-	1. -.  
-	2. -.  
-	3. -.  
-	4. -.  
-	5. -.  
-**Un secreto:** -.  
+	1. Es fácil de manipular, por lo que Joseph no tuvo que hacer mucho para alejarlo de Daniel, que era su mejor amigo.  
+	2. Su habilidad le permite duplicar personas, pero por un límite de tiempo.  
+	3. Es un hanemimi de nacimiento.  
+	4. Le gusta la ropa que hace Violeta, le parece bonita y cómoda.  
+	5. Juzga mucho a las personas.  
+**Un secreto:** Su inestabilidad se basa en el espíritu que habíta en su cuerpo, es su aura la que causaba la muerte de las mascotas de Connor.  
 
 
 17. Michael Sky  
