@@ -247,13 +247,13 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 14. James Larson  
-**Nombre completo o apodos:** James Larson (Apodos: ).  
-**Edad:** 17 años (21/Junio/AAAA).  
+**Nombre completo o apodos:** James Clerick Larson (Apodos: Librito emo, Jamie).  
+**Edad:** 17 años (21/Junio/3029).  
 **Habilidad de nacimiento:** Ver a través de las paredes.  
 **Anish:** Joseph Walker.  
 **Gema de unión:** Collar.  
-**Rol en el grupo:** -.  
-**Lore rápido:** -.  
+**Rol en el grupo:** Paranoico.  
+**Lore rápido:** Su padre lo abandonó a él y a su madre, a los 5 años vio a su creadora y sus compañeros lo llamaron loco, lo maltrataban y hacían bullying hasta que a su alrededor aparecieron unos ojos rojos que lo torturaban y solo él ve, antes tenía una mente más oscura que Jacob, pues se hacía daño y tenia un vicio con unas pastillas raras.  
 **¿Cómo llegó?:** -.  
 **En el presente:** -.  
 **Cinco datos:**  
@@ -262,7 +262,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 	3. -.  
 	4. -.  
 	5. -.  
-**Un secreto:** -.  
+**Un secreto:** Es capaz de controlar a los ojos rojos ahora, si quisiera, podría hacer que todo el mundo se vuelva loco.  
 
 
 15. Joseph Walker  
@@ -285,7 +285,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 16. Connor Scott  
-**Nombre completo o apodos:** Connor Scott (Apodos: ).  
+**Nombre completo o apodos:** Connor Scott (Apodos: Cono).  
 **Edad:** 15 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** Duplicación.  
 **Cuishigo:** Michael Sky (Connor: Hanemimi —Tiene alas, de loro, específicamente).  
@@ -305,11 +305,11 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 17. Michael Sky  
 **Nombre completo o apodos:** Michael Sky (Apodos: Mike, Sky-el).  
-**Edad:** 24 años (DD/MES/AAAA).  
+**Edad:** 24 años (30/Noviembre/AAAA).  
 **Habilidad de nacimiento:** Conocimiento y habilidad mecánica y/o tecnológica.  
 **Anish:** Connor Scott.  
 **Gema de unión:** Brocha de cabello.  
-**Rol en el grupo:** -.  
+**Rol en el grupo:** Servicio técnico.  
 **Lore rápido:** -.  
 **¿Cómo llegó?:** -.  
 **En el presente:** -.  
@@ -361,7 +361,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 20. Melissa Torres  
-**Nombre completo o apodos:** - (Apodos: ).  
+**Nombre completo o apodos:** Melissa Isidora Torres Carson (Apodos: ).  
 **Edad:** 25 años (03/Enero/3021) -.  
 **Habilidad de nacimiento:** Inteligencia lógica brillante, una habilidad donde puede ver las posibilidades infinitas del entorno y los seres a su alrededor.  
 **Anish:** Laura Flores.  
