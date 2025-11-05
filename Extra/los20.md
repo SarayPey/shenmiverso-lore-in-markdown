@@ -363,8 +363,8 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 20. Melissa Torres  
 **Nombre completo o apodos:** - (Apodos: ).  
 **Edad:** 25 años (03/Enero/3021) -.  
-**Habilidad de nacimiento:** -.  
-**Anish:** -.  
+**Habilidad de nacimiento:** Inteligencia lógica brillante, una habilidad donde puede ver las posibilidades infinitas del entorno y los seres a su alrededor.  
+**Anish:** Laura Flores.  
 **Gema de unión:** Reloj.  
 **Rol en el grupo:** -.  
 **Lore rápido:** -.  
