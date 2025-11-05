@@ -97,7 +97,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 6. Eliza Evans  
 **Nombre completo o apodos:** Eliza Evans Sarfila (Apodos: Eli).  
-**Edad:** 17 años (27/Noviembre/3028).  
+**Edad:** 17 años (25/Noviembre/3028).  
 **Habilidad de nacimiento:** Poder entrar a los libros.  
 **Anish:** Alexa Miller.  
 **Gema de unión:** Collar.  
