@@ -8,7 +8,6 @@
 - Gravedad
 - Alma
 - Tecnología
-- Arte
 - Prisma
 ⇢✮✮✮⋯⋯⋯✶✷✵✷✶⋯⋯⋯✮✮✮⇠  
 Elesterlios / Elesiers de Estela:
