@@ -347,16 +347,16 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Habilidad de "nacimiento":** Volverse un fantasma.  
 **Anish:** Cara Narvaez.  
 **Gema de unión:** Collar.  
-**Rol en el grupo:** -.  
-**Lore rápido:** -.  
-**¿Cómo llegó?:** -.  
-**En el presente:** -.  
+**Rol en el grupo:** Intengrante misterioso, recurso de emergencia.  
+**Lore rápido:** Era un ecuatoriano normal, vivía con sus padres y su hermana menor Charlotte, hasta que la asociación, el día de su cumpleaños, decidió llevárselo, acabando con su hogar, sus padres y su hermana ante sus ojos, fue usado como experimento sin piedad, obligado a pasar por procesos dolorosos para tener sus alas poderes por años, una vez estaba a punto de escapar con el resto, uno de sus compañeros los traicionó, causando que Jacob despierte su segunda forma por primera vez.  
+**¿Cómo llegó?:** Tras el escape casi exitoso, los de la cabaña los encontraron a él y a Cara, por lo que los llevaron con ellos.  
+**En el presente:** Trata de mantenerse bajo perfil para que aquella que lo traicionó no amenaze a los de la cabaña.  
 **Cinco datos:**  
-	1. -.  
-	2. -.  
-	3. -.  
-	4. -.  
-	5. -.  
+	1. Siente cosas por Cara, aunque no lo sabe.  
+	2. Le gusta volar por los cielos, porque se siente cerca de su familia.  
+	3. A diferencia de los otros "prototipos" (terrícolas llevados a Mochu por la asociación), su segunda forma es un monstruo, la odia y por eso no puede controlarla.  
+	4. El espíritu está en su cuerpo porque Jacob estaba buscando tener más poder para vengarse de la asociación, por lo que tomó un cetro y de ahí que el espíritu lo tiene de huésped al igual que muchos otros más.  
+	5. Tras lo del capítulo 6, le parecío curiosa la existencia de Adam. Melissa lo apuntó para que Jacob sintiera que él era un peligro; si no había escudo, había confianza (Aunque el espíritu aprovechó esa circunstancia para incitar a Jacob para que lo atacase).  
 **Un secreto:** Además de su pasado, el espíritu que todos ven es la punta del iceberg de todo lo que está en su interior (Es un recipiente de espíritus humano). Más profundo está su **segunda forma** (a.k.a, las garras que le salieron en el capítulo 6).  
 
 
