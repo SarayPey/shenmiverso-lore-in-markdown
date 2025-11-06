@@ -356,24 +356,24 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 	2. Le gusta volar por los cielos, porque se siente cerca de su familia.  
 	3. A diferencia de los otros "prototipos" (terrícolas llevados a Mochu por la asociación), su segunda forma es un monstruo, la odia y por eso no puede controlarla.  
 	4. El espíritu está en su cuerpo porque Jacob estaba buscando tener más poder para vengarse de la asociación, por lo que tomó un cetro y de ahí que el espíritu lo tiene de huésped al igual que muchos otros más.  
-	5. Tras lo del capítulo 6, le parecío curiosa la existencia de Adam. Melissa lo apuntó para que Jacob sintiera que él era un peligro; si no había escudo, había confianza (Aunque el espíritu aprovechó esa circunstancia para incitar a Jacob para que lo atacase).  
+	5. Tras lo del capítulo 6, le parecío curiosa la existencia de Adam.  
 **Un secreto:** Además de su pasado, el espíritu que todos ven es la punta del iceberg de todo lo que está en su interior (Es un recipiente de espíritus humano). Más profundo está su **segunda forma** (a.k.a, las garras que le salieron en el capítulo 6).  
 
 
 20. Melissa Torres  
-**Nombre completo o apodos:** Melissa Isidora Torres Carson (Apodos: ).  
-**Edad:** 25 años (03/Enero/3021) -.  
+**Nombre completo o apodos:** Melissa Isidora Torres Carson (Apodos: Meli).  
+**Edad:** 25 años (03/Enero/3021).  
 **Habilidad de nacimiento:** Inteligencia lógica brillante, una habilidad donde puede ver las posibilidades infinitas del entorno y los seres a su alrededor.  
 **Anish:** Laura Flores.  
 **Gema de unión:** Reloj.  
-**Rol en el grupo:** -.  
-**Lore rápido:** -.  
+**Rol en el grupo:** "Líder", protectora.  
+**Lore rápido:** Conoció a Laura cuando era una bebé. Melissa vivía feliz con sus padres y hermanos (¿Escucharon? MELISSA ERA FELIZ) hasta que envenaron a su padre, y, unos días despues, su madre murió por protegerla de una araña (De ahí sale su aracnofobia), En ese tiempo, Laura fue a Senlín a buscar a su cuishigo, cuando Melissa vió que era su cuishiga, ya no estaba, por lo que fue a buscarla.  
 **¿Cómo llegó?:** Originalmente vivía en un departamento (Adam vivió ahí un tiempo antes de conseguir su casa propia) porque estaba buscando a Laura, entonces en un momento la encontró con el resto y no tuvo más opción que quedarse.  
-**En el presente:** -.  
+**En el presente:** Ayuda a los fundadores (Darya y Andrés) a mantener el control de la casa, ayuda a asignar tarear y mantener la cabaña protegida.  
 **Cinco datos:**  
-	1. -.  
-	2. -.  
-	3. -.  
-	4. -.  
-	5. -.  
+	1. Le gusta leer sobre ciencias en la noche.  
+	2. El collar que tiene es un regalo de su madre, le da poderes de plasma.  
+	3. Sus lentes son para evitar tener una sobrecarga de posibilidades de su habilidad de nacimiento.  
+	4. Le estresa Joseph y considera que Connor debería alejarse de él, pero, lamentablemente, no puede obligarlo.  
+	5. Melissa apuntó a Adam para que Jacob sintiera que él no era un peligro; si no había escudo, había confianza; además, era notorio que no disfrutaba de hacerle daño a su mejor amigo (Aunque el espíritu aprovechó esa circunstancia para incitar a Jacob para que atacara a Adam).  
 **Un secreto:** -.
