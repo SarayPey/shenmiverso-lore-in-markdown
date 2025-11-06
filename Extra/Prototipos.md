@@ -259,3 +259,91 @@ Princesita/principito
 Emergencia
 Peligrosos
 
+Generación 0: 
+00-01: Makari Sotiriu: 
+00-02: Mairead Petridis: 
+Generación 1: 
+01-01: 
+01-02: 
+01-03: 
+01-04
+Generación 2: 
+02-01: 
+02-02: 
+02-03: 
+02-04: 
+Generación 3: 
+03-01: 
+03-02: 
+03-03: 
+03-04: 
+Generación 4: 
+04-01: 
+04-02: 
+04-03: 
+04-04: 
+Generación 5: 
+05-01: 
+05-02: 
+05-03: 
+05-04: 
+Generación 6: 
+06-01: 
+06-02: 
+06-03: 
+06-04: 
+Generación 7: 
+07-01: 
+07-02: 
+07-03: 
+07-04: 
+Generación 8: 
+08-01: 
+08-02: 
+08-03: 
+08-04: Dominic Illanes: 
+08-05: 
+08-06: 
+08-07: 
+08-08: 
+08-09: 
+08-10: 
+08-11: 
+08-12: 
+Generación 9: 
+09-01: Rarahu Faatasi: 
+09-02: Ezra Lemaire: 
+09-03: Eowyn Todd: Esmeralda (Emerald)
+09-04: Sharell Rosseau: Trébol (Clover)
+Generación 10: 
+10-01: Jacob Sanders: Carmesí (Crimson)
+10-02: Naira Athumani: Azur (Azure)
+10-03: "Kaede" Rodriguez: Escarlata (Scarlet)
+10-04: Kayne Mosley: Azul marino (Navy)
+10-05: Stacy Farrell: 
+10-06: Daisy Spencer: Orquídea (Orchid)
+10-07: Marcus Fischer: 
+10-08: Cara Narvaez: Amatista (Amethyst)
+Generación 11: 
+10-01: Kai Watts: 
+11-02: Cole Gregory: 
+11-03: Shayla Ford: 
+Decidiendo su generación: 
+"Xanthe" (Nyota Kariuki): Cerceta (Teal)
+Shafir Vaknin: 
+Soraia Ferraz: 
+Mia Wilson: 
+Tara Prasad: 
+Rini Oshima: 
+Gale Cameron: Ámbar (Amber)
+Ramzi Iqbal: 
+Minetta Vogel: 
+Daivik Kumari: 
+Orkhan Xalilov: 
+Fenuku Ayad: 
+
+??-??: Nombre Apellido - Español (Inglés)
+Normal / débil
+Princesita/principito
+Emergencia
+Peligrosos
