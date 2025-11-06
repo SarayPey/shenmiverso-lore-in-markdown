@@ -190,7 +190,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Un secreto:** Ha visto a *la muerte* en algunas fotos del grupo, lo suficientemente lejos como para saber que son muertes del pasado pero lo suficientemente cerca como para saber que sigue doliendo a pesar de ello, además de conocer los secretos de todos por los espíritus que cargan.  
 
 11. Violeta Anderson  
-**Nombre completo o apodos:** Violeta Julieta Anderson Pardo (Apodos: Vi, Violeta, Vivi, ).  
+**Nombre completo o apodos:** Violeta Julieta Anderson Pardo (Apodos: Vi, Violeta, Vivi).  
 **Edad:** 20 años (28/Mayo/2000).  
 **Habilidad de "nacimiento":** Velocidad, diseños hermosos.  
 **Anish:** Emma Park.  
@@ -247,7 +247,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 
 
 14. James Larson  
-**Nombre completo o apodos:** James Clerick Larson (Apodos: Librito emo, Jamie).  
+**Nombre completo o apodos:** James Clerick Larson (Apodos: Librero emo, Jamie).  
 **Edad:** 17 años (21/Junio/3029).  
 **Habilidad de nacimiento:** Ver a través de las paredes (*gamkina:* Soreiyahomagia).  
 **Anish:** Joseph Walker.  
@@ -300,7 +300,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 	3. Es un hanemimi de nacimiento.  
 	4. Le gusta la ropa que hace Violeta, le parece bonita y cómoda.  
 	5. Juzga mucho a las personas.  
-**Un secreto:** Su inestabilidad se basa en el espíritu que habíta en su cuerpo, es su aura la que causaba la muerte de las mascotas de Connor.  
+**Un secreto:** Su inestabilidad se basa en el espíritu que habita en su cuerpo, es su aura la que causaba la muerte de las mascotas de Connor.  
 
 
 17. Michael Sky  
@@ -311,7 +311,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Gema de unión:** Brocha de cabello.  
 **Rol en el grupo:** Servicio técnico.  
 **Lore rápido:** Era un mochibria humano normal, hasta que, a los 17 años, tuvo una enfermedad degenerativa grave que obligó a su familia a tener que buscar la forma de salvarlo, siendo la única forma la de cambiar las partes dañadas por piezas robóticas de alta tecnología, incluso la mitad de su cerebro tuvo que ser reprogramado con una inteligencia artificial. Salió bien, pero esta IA robótica era de un vieja máquina de guerra, por lo que, además de cosas sin sentido, tenía un modo de destrucción masiva que era imparable, por lo que Michael debía controlarlo.  
-**¿Cómo llegó?:** Jugando futbol con Connor, su IA detectó la pelota como peligro y la lanzó con fuerza a la puerta cabaña, por lo que la arreglaron, pero cuando la IA Michael detectó unas falencias, se ofreció para quedarse ahí para arreglarlas.  
+**¿Cómo llegó?:** Jugando futbol con Connor, su IA detectó la pelota como peligro y la lanzó con fuerza a la puerta de la cabaña, por lo que la arreglaron, pero cuando la IA de Michael detectó unas falencias, se ofreció a quedarse ahí para arreglarlas.  
 **En el presente:** Michael es uno de lo más efectivos en lo que respecta a reparar cosas, tanto por su habilidad de nacimiento como por sus integraciones robóticas.  
 **Cinco datos:**  
 	1. Hay piezas que no se pintaron, que están al descubierto.  
@@ -333,7 +333,7 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **¿Cómo llegó?:** Se estaban escondiendo en una casa abandonada hasta que Alec, Darya, Emma y James los encontraron y los llevaron a la cabaña.  
 **En el presente:** Cara es la que mejor puede entender a Jacob (además de Melissa, Akiko, Alec y James), su habilidad la hace un gran apoyo para crear objetos en caso de ser necesario.  
 **Cinco datos:**  
-	1. Al ser la última en llegar a la asociación, es la más debíl, no podría con Jacob en fuerza.  
+	1. Al ser la última en llegar a la asociación, es la más débil, no podría con Jacob en fuerza.  
 	2. Conoce el brainrot y desearía no haberlo hecho.  
 	3. Era amiga de Joseph, pero cuando empezó a meterse con los traumas y el pasado de Jacob (que ELLA le dijo en confianza), se alejó de él.  
 	4. En su vida como terrícola, era hija única y mimada, no se acostumbra a tener que compartir cuarto.  
@@ -347,16 +347,16 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Habilidad de "nacimiento":** Volverse un fantasma.  
 **Anish:** Cara Narvaez.  
 **Gema de unión:** Collar.  
-**Rol en el grupo:** Intengrante misterioso, recurso de emergencia.  
+**Rol en el grupo:** Integrante misterioso, recurso de emergencia.  
 **Lore rápido:** Era un ecuatoriano normal, vivía con sus padres y su hermana menor Charlotte, hasta que la asociación, el día de su cumpleaños, decidió llevárselo, acabando con su hogar, sus padres y su hermana ante sus ojos, fue usado como experimento sin piedad, obligado a pasar por procesos dolorosos para tener sus alas poderes por años, una vez estaba a punto de escapar con el resto, uno de sus compañeros los traicionó, causando que Jacob despierte su segunda forma por primera vez.  
 **¿Cómo llegó?:** Tras el escape casi exitoso, los de la cabaña los encontraron a él y a Cara, por lo que los llevaron con ellos.  
-**En el presente:** Trata de mantenerse bajo perfil para que aquella que lo traicionó no amenaze a los de la cabaña.  
+**En el presente:** Trata de mantenerse bajo perfil para que aquella que lo traicionó no amenace a los de la cabaña.  
 **Cinco datos:**  
 	1. Siente cosas por Cara, aunque no lo sabe.  
 	2. Le gusta volar por los cielos, porque se siente cerca de su familia.  
 	3. A diferencia de los otros "prototipos" (terrícolas llevados a Mochu por la asociación), su segunda forma es un monstruo, la odia y por eso no puede controlarla.  
 	4. El espíritu está en su cuerpo porque Jacob estaba buscando tener más poder para vengarse de la asociación, por lo que tomó un cetro y de ahí que el espíritu lo tiene de huésped al igual que muchos otros más.  
-	5. Tras lo del capítulo 6, le parecío curiosa la existencia de Adam.  
+	5. Tras lo del capítulo 6, le pareció curiosa la existencia de Adam.  
 **Un secreto:** Además de su pasado, el espíritu que todos ven es la punta del iceberg de todo lo que está en su interior (Es un recipiente de espíritus humano). Más profundo está su **segunda forma** (a.k.a, las garras que le salieron en el capítulo 6).  
 
 
@@ -367,13 +367,13 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Anish:** Laura Flores.  
 **Gema de unión:** Reloj.  
 **Rol en el grupo:** "Líder", protectora.  
-**Lore rápido:** Conoció a Laura cuando era una bebé. Melissa vivía feliz con sus padres y hermanos (¿Escucharon? MELISSA ERA FELIZ) hasta que envenaron a su padre, y, unos días despues, su madre murió por protegerla de una araña (De ahí sale su aracnofobia), En ese tiempo, Laura fue a Senlín a buscar a su cuishigo, cuando Melissa vió que era su cuishiga, ya no estaba, por lo que fue a buscarla.  
+**Lore rápido:** Conoció a Laura cuando era una bebé. Melissa vivía feliz con sus padres y hermanos (¿Escucharon? MELISSA ERA FELIZ) hasta que envenenaron a su padre, y, unos días después, su madre murió por protegerla de una araña (De ahí sale su arachnophobia), En ese tiempo, Laura fue a Senlín a buscar a su cuishigo, cuando Melissa vió que era su cuishiga, ya no estaba, por lo que fue a buscarla.  
 **¿Cómo llegó?:** Originalmente vivía en un departamento (Adam vivió ahí un tiempo antes de conseguir su casa propia) porque estaba buscando a Laura, entonces en un momento la encontró con el resto y no tuvo más opción que quedarse.  
-**En el presente:** Ayuda a los fundadores (Darya y Andrés) a mantener el control de la casa, ayuda a asignar tarear y mantener la cabaña protegida.  
+**En el presente:** Ayuda a los fundadores (Darya y Andrés) a mantener el control de la casa, asignar tareas y mantener la cabaña protegida.  
 **Cinco datos:**  
 	1. Le gusta leer sobre ciencias en la noche.  
 	2. El collar que tiene es un regalo de su madre, le da poderes de plasma.  
 	3. Sus lentes son para evitar tener una sobrecarga de posibilidades de su habilidad de nacimiento.  
-	4. Le estresa Joseph y considera que Connor debería alejarse de él, pero, lamentablemente, no puede obligarlo.  
+	4. Le estresa Joseph y considera que Connor debería alejarse de él, pero, lamentablemente, no puede obligarlo. Además, tiene cierto interés por Michael (por eso es al único que deja que le diga "Meli" y al único que trata con apodos).  
 	5. Melissa apuntó a Adam para que Jacob sintiera que él no era un peligro; si no había escudo, había confianza; además, era notorio que no disfrutaba de hacerle daño a su mejor amigo (Aunque el espíritu aprovechó esa circunstancia para incitar a Jacob para que atacara a Adam).  
-**Un secreto:** -.
+**Un secreto:** (OH NO) por razones que ni siquiera ella sabe, es la mensajera de la guardiana elesterlia, osea, le toca entregar los elesterlios a los elegidos para mantener a la guardiana a salvo.
