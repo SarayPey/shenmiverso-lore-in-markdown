@@ -1,32 +1,32 @@
-Generación 0: 
+Generación 0:  
 00-01: Makari Sotiriu - Grecia ♂️
 00-02: Mairead Petridis - Grecia ♀️
-Generación 1: 
+Generación 1:  
 01-01: 
 01-02: 
 01-03: 
 01-04: 
 01-05: 
-Generación 2: 
+Generación 2:  
 02-01: 
 02-02: 
 02-03: 
 02-04: 
 02-05: 
-Generación 3: 
+Generación 3:  
 03-01: 
 03-02: 
 03-03: 
 03-04: 
 03-05: 
 03-06: 
-Generación 4: 
+Generación 4:  
 04-01: 
 04-02: 
 04-03: 
 04-04: 
 04-05: 
-Generación 5: 
+Generación 5:  
 05-01: 
 05-02: 
 05-03: 
@@ -47,7 +47,7 @@ Generación 6:
 06-07: 
 06-08: 
 06-09: 
-Generación 7: 
+Generación 7:  
 07-01: 
 07-02: 
 07-03: 
@@ -55,7 +55,7 @@ Generación 7:
 07-05: 
 07-06: 
 07-07: 
-Generación 8: 
+Generación 8:  
 08-01: 
 08-02: 
 08-03: 
@@ -87,7 +87,7 @@ Generación 11:
 11-02: Cole Gregory - Estados Unidos ♂️
 11-03: Shayla Ford - Estados Unidos ♀️ 
 
-Decidiendo su generación: 
+Decidiendo su generación:  
 "Xanthe" (Nyota Kariuki) - Kenia ♂️
 Shafir Vaknin - Israel ♂️
 Soraia Ferraz - Brasil ♀️
