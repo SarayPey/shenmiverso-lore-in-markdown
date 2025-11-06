@@ -1,4 +1,4 @@
-Tipos de gamkinas: 
+# Tipos de gamkinas: 
 
 Psicomagia: La usan y consiguen los que tienen habilidades psicológicas y/o intelectuales muy bien trabajadas (como Jade), los que la tienen pueden usar un material resistente para atacar y crear ilusiones, además de que también mejora sus habilidades ya existentes.
 Habilidades:
