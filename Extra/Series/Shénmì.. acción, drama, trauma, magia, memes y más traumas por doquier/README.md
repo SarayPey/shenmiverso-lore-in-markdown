@@ -37,7 +37,7 @@
 Cuando hay nuevo personaje:
 
 ☆★☆★☆  
-*Música [Algo que represente al personaje].*
+*Música [Algo que represente al personaje].*   
 ### ☄ NUEVO PERSONAJE
 
 [Nombre] [Apellido] (♂️♀️) - X años  
