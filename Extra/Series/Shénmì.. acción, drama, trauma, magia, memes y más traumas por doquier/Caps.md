@@ -42,7 +42,7 @@
 2. Cap 2: Deskari Equilibria
 3. Cap 3: Viaje en Solerdia
 4. Cap 4: Dubishka
-5. Cap 5: Encuentro casual en Shénmoha
+5. Cap 5: Encuentro casual en el Shénmoha
 6. Cap 6: ElesVister: ataque a la Investigación
 
 # Temporada 3 🌼
