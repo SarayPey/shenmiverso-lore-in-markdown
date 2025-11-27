@@ -35,6 +35,6 @@ Habilidades:
 - Lanzar escudos, ya sea para defender a otro de último momento o de forma ofensiva.
 
 
-Para conseguir alguna de estas magia, primero debes despertarla, pero eso será en una situación muy crucial para la persona... 
+Para conseguir alguna de estas magia, primero debes despertarla, pero eso será en una situación muy crucial para la persona… 
 
 Habrán más cosas pronto, pero eso ya lo veremos
