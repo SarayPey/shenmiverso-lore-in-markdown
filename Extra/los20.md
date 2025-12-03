@@ -310,15 +310,16 @@ Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno desp
 **Anish:** Connor Scott.  
 **Gema de unión:** Brocha de cabello.  
 **Rol en el grupo:** Servicio técnico.  
-**Lore rápido:** Era un mochibria humano normal, hasta que, a los 17 años, tuvo una enfermedad degenerativa grave que obligó a su familia a tener que buscar la forma de salvarlo, siendo la única forma la de cambiar las partes dañadas por piezas robóticas de alta tecnología, incluso la mitad de su cerebro tuvo que ser reprogramado con una inteligencia artificial. Salió bien, pero esta IA robótica era de un vieja máquina de guerra, por lo que, además de cosas sin sentido, tenía un modo de destrucción masiva que era imparable, por lo que Michael debía controlarlo.  
+**Lore rápido:** Era un mochibria humano normal, hasta que, a los 17 años, tuvo una enfermedad degenerativa grave que obligó a su familia a tener que buscar la forma de salvarlo, siendo la única forma la de cambiar las partes dañadas por piezas robóticas de alta tecnología, su cerebro tuvo daños en ambos hemisferios, especialmente en el derecho, por lo que tuvo que integraese una inteligencia artificial llamada Jampariskarti.ai.original, (aunque es mejor conocida como Pari) para ayudarlo a manejar su cuerpo.  
+Salió bien, pero esta IA robótica era usada para enseñar a militares, por lo que, además de cosas sin sentido, tenía un modo de destrucción masiva que era imparable, por lo que Michael debía controlarlo.  
 **¿Cómo llegó?:** Jugando futbol con Connor, su IA detectó la pelota como peligro y la lanzó con fuerza a la puerta de la cabaña, por lo que la arreglaron, pero cuando la IA de Michael detectó unas falencias, se ofreció a quedarse ahí para arreglarlas.  
 **En el presente:** Michael es uno de lo más efectivos en lo que respecta a reparar cosas, tanto por su habilidad de nacimiento como por sus integraciones robóticas.  
 **Cinco datos:**  
-	1. Hay piezas que no se pintaron, que están al descubierto.  
-	2. Sus alas robóticas son parte de los agregados para mantenerlo estable.  
-	3. Uno de sus ojos fue reemplazado totalmente con uno robótico.  
+	1. Hay piezas que no se pintaron, que están al descubierto. Sus alas robóticas son parte de los agregados para mantenerlo estable.  
+	2. Por la enfermedad, no siente dolor en sus partes humanas, por lo que no siente cuando se enferma. Además, no es capaz de ponerse límites en algo que le guste y es fácil que se obsesione para complacer al resto y especialmente a Pari, pues sus emociones son inestables.
+	3. Uno de sus ojos fue reemplazado totalmente con uno robótico, por ahí es cómo saben cuándo Pari habla y tiene señales sobre su estado.  
 	4. Tiene cierto interés por Melissa, pero trata de mantenerlo oculto porque su IA podría delatarlo.  
-	5. Le gusta inventar, incluso usa sus propias piezas robóticas para sus inventos.  
+	5. Le gusta inventar cosas como compensación por lo fallado que quedo su hemisferio creativo, incluso usa sus propias piezas robóticas para sus inventos. De hecho, inventó unas medicinas y suplementos médicos para robots, que se le denomina como tecnoquímicos.  
 **Un secreto:** No le ha dicho a nadie qué tan peligrosa puede ser la IA, en especial si lo controla.  
 
 
