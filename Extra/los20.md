@@ -1,5 +1,3 @@
-Vamos a ir de forma rápida por los 20, si quieres que te profundice alguno después, me dices:
-
 1. Darya Collins  
 **Nombre completo o apodos:** Darya Lía Collins Suárez (Apodos: Lía, Lirya)  
 **Edad:** 20 años (18/Marzo/3026)  
