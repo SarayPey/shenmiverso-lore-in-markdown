@@ -29,7 +29,7 @@
 **En el presente:** Es el que siempre tiene un ojo para ver las relaciones (Como la de Alec y Violeta, o la de Alexa y Joseph) e intentar que alguna de estas funcione (ahora está tratando de hacer su magia con Eliza y James, Melissa y Michael, y Jacob y Cara). Pareja de Darya y mejor amigo de Alejandro.  
 **Cinco datos:**  
 	1. Le encanta el picante.  
-	2. Su gorro fue un regalo de su padre, está vivo por suerte.  
+	2. Su gorro fue un regalo de su padre, quien está vivo por suerte.  
 	3. No puede entrar a la cocina porque termina causando un incendio (Léase ***Un secreto***).  
 	4. Es muy bueno con los poemas de amor o para crear declaraciones. Cobra 50 perskins selins a los desconocidos, muy barato creo yo.  
 	5. Aunque es bueno con las relaciones, una ardilla que le robó el gorro causó que finalmente se confesara a Darya.  
@@ -219,7 +219,7 @@
 **En el presente:** Cantante de apoyo en Magistic, Emma trata de ayudar a contener a los demás con su voz.  
 **Cinco datos:**  
 	1. Incluso tarareando, puede elevar a personas más pesadas que ella.  
-	2. Le gusta ver lo que hace, los demás, especialmente Violeta.  
+	2. Le gusta ver lo que hacen los demás, especialmente Violeta.  
 	3. Es una nekomimi de nacimiento, de hecho, su situación de anish es poco común, especialmente que su cuishiga sea una terrícola.  
 	4. Es a la que Violeta le hizo más trajes.  
 	5. Le gustaría ir a una misión para cazar anomalías.  
