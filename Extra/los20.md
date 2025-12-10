@@ -161,10 +161,10 @@
 **¿Cómo llegó?:** Diana (que le enseñó defensa personal para que pudiera protegerse de su madre) ideó el escape de Alaska Oriental hacia Senlín, ahí encontraron la cabaña y se hicieron parte de ella.  
 **En el presente:** Es el blanco fácil de Joseph, pero es uno de los integrantes más complejos de entender.  
 **Cinco datos:**  
-	1. Tiene una enfermedad mochibria rara, la cual lo hace sobreexigirse hasta colapsar, por lo que necesita medicamentos.  
+	1. Tiene una enfermedad mochibria rara, la cual lo hace sobreexigirse hasta colapsar, por lo que necesita medicamentos. Tiene problemas de respiración en una costilla.  
 	2. Antes, Connor, Christian, Joseph y él eran buenos amigos, pero por cosas desconocidas Connor, Joseph y Daniel pelearon y se separaron.  
 	3. Es más delgado de lo que debería, dice que "debería pesar 20kg para ser perfecto".  
-	4. Tiene problemas de respiración en una costilla.  
+	4. Por un tiempo pensó que estaba enamorado de Diana, hasta que entendió que estaba confundido.  
 	5. Actualmente, Akiko, Alejandro y Jade son sus mejores amigos.  
 **Un secreto:** Le gusta la danza y el color rosa. También, quiere hacer las paces con Connor.  
 
@@ -186,6 +186,7 @@
 	4. Normalmente no saca fotos de edificios porque le recuerda a Alan, si saca fotos de un edificio, algo malo está pensando.  
 	5. Extraña su hogar, a veces tiene pesadillas con Alan y cómo era tan joven para poder evitar su final.  
 **Un secreto:** Ha visto a *la muerte* en algunas fotos del grupo, lo suficientemente lejos como para saber que son muertes del pasado pero lo suficientemente cerca como para saber que sigue doliendo a pesar de ello, además de conocer los secretos de todos por los espíritus que cargan.  
+
 
 11. Violeta Anderson  
 **Nombre completo o apodos:** Violeta Julieta Anderson Pardo (Apodos: Vi, Violeta, Vivi).  
@@ -238,8 +239,8 @@
 **Cinco datos:**  
 	1. Es un nekomimi de nacimiento, su situación de pérdida lo hizo necesitar de un cuishigo, pero en una situación normal no lo hubiera requerido.  
 	2. Su acento francés-italiano es un tributo a sus "nonnos" que lo criaron.  
-	3. Cuando algo no pasa como es lógico, se descompensa.  
-	4. Colecciona monedas de todo el mundo.  
+	3. Cuando algo no pasa como es lógico (si alguien que debería entrenar decide dormir o comer, por ejemplo, o que algún plan no salga por algo sin sentido como el tipo de silla), se descompensa.  
+	4. Colecciona monedas de todo el mundo y de todos los mundos.  
 	5. Le parece curiosa la forma en la que Adam cocina panqueques. Le gustan, son ricos.  
 **Un secreto:** En la mejilla tiene una marca que puede empezar a acabar su vida cuando siente un fuerte dolor emocional.  
 
@@ -275,7 +276,7 @@
 **En el presente:** Es el ente del mal, el caos que Darya, Andrés y Melissa tratan de reformar. Un clásico chico problemático que hiere al resto por gusto propio.  
 **Cinco datos:**  
 	1. Es conejo de nacimiento por herencia de su padre.  
-	2. A pesar de que lo abandonó, Joseph prefiere a su madre porque no le dió reglas.  
+	2. A pesar de que lo abandonó, Joseph prefiere a su madre porque no le dió reglas aunque su padre le haya dado cariño y apoyo.  
 	3. Suele hacer bromas y chistes muy crueles.  
 	4. Antes de Connor, era mejor amigo de Cara, hasta que ella se alejó de él por considerar que se estaba pasando con Jacob.  
 	5. Es muy bueno con la pelota.  
