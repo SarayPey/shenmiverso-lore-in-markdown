@@ -13,8 +13,8 @@
 	2. Le cuesta mentir por su habilidad de nacimiento.  
 	3. Fue cuishiga simbólica de Laura antes de que Melissa llegara.  
 	4. Es una de las que siempre es mandada a resolver anomalías (digamos que por alguna razón, el grupo debe resolver anomalías de su mundo que se filtran a otros mundo, o simplemente investigar mundos mágicos).  
-	5. Es la que tiene mejor relación con todo el grupo (Además de Akiko y James)  
-**Un secreto:** es una elesterlia, la elesterlia del agua, exactamente, se hace llamar *Irvette* en honor a su entrenadora de gimnasia en su infancia: Irvette Ortega.  
+	5. Es la que tiene mejor relación con todo el grupo (Además de Akiko y James).  
+**Un secreto:** Es una elesterlia, la elesterlia del agua, exactamente, se hace llamar *Irvette* en honor a su entrenadora de gimnasia en su infancia: Irvette Ortega.  
 
 
 2. Andrés Johnson  
@@ -29,9 +29,9 @@
 **En el presente:** Es el que siempre tiene un ojo para ver las relaciones (Como la de Alec y Violeta, o la de Alexa y Joseph) e intentar que alguna de estas funcione (ahora está tratando de hacer su magia con Eliza y James, Melissa y Michael, y Jacob y Cara). Pareja de Darya y mejor amigo de Alejandro.  
 **Cinco datos:**  
 	1. Le encanta el picante.  
-	2. Su gorro fue un regalo de su padre, quien está vivo por suerte.  
+	2. Su gorro es un regalo de su padre, quien está vivo por suerte.  
 	3. No puede entrar a la cocina porque termina causando un incendio (Léase ***Un secreto***).  
-	4. Es muy bueno con los poemas de amor o para crear declaraciones. Cobra 50 perskins selins a los desconocidos, muy barato creo yo.  
+	4. Es muy bueno con los poemas de amor. Cobra 50 perskins selins a los desconocidos, muy barato creo yo.  
 	5. Aunque es bueno con las relaciones, una ardilla que le robó el gorro causó que finalmente se confesara a Darya.  
 **Un secreto:** Es un elesterlio, el del fuego exactamente, se hace llamar *Mishan* en honor a Ezer McMishan, su personaje favorito de la infancia (que era interpretado por Ángel Mishan —Por eso en su presentación del capítulo 3 Ángel aclaraba que no era el héroe).  
 
@@ -43,14 +43,14 @@
 **Cuishiga:** Darya Collins (Akiko: Ookamimi —tiene orejas de lobo).  
 **Gema de unión:** Pulsera.  
 **Rol en el grupo:** Peluche abrazable.  
-**Lore rápido:** Es la hija del medio de una familia pobre, nació con inmortalidad, a los 3 años recibió su Serfanía de visión del futuro inmediato. A los 6 empezó a trabajar en un mercado para conseguir los medicamentos para su madre enferma. A los 9 casi 10 años adquirió orejas y cola de lobo por una vacuna errónea, pero tuvo que ir a Senlín a encontrarse con su cuishiga.  
+**Lore rápido:** Es la hija del medio de una familia pobre, nació con inmortalidad, a los 3 años recibió su Serfanía de visión del futuro inmediato. A los 6 empezó a trabajar en un mercado para conseguir los medicamentos para su madre enferma. A los 9 casi 10 años adquirió orejas y cola de lobo por una vacuna errónea, por lo tuvo que ir a Senlín a encontrarse con su cuishiga.  
 **¿Cómo llegó?:** Al ser anish de una fundadora de los 20 (Darya), automáticamente entró al grupo.  
 **En el presente:** Es la más querida y protegida del grupo. Mejor amiga de Darya y muy confiable.  
 **Cinco datos:**  
 	1. Adora los dulces, pero es alérgica al maní.  
 	2. Le cuesta nadar.  
 	3. Es la más joven y bajita.  
-	4. Su piel es rojita de nacimiento, si se sonroja se vuelve un tomatito pequeño. Tiene una marca de nacimiento: una manchita amarilla alrededor del ojo izquierdo (que es dorado).  
+	4. Su piel es rojita de nacimiento, si se sonroja, se vuelve un tomatito pequeño. Tiene una marca de nacimiento: una manchita amarilla alrededor del ojo izquierdo (que es dorado).  
 	5. El primer regalo de cumpleaños que tuvo en toda su vida fue un peluche que Darya le regaló cuando Akiko cumplió 10 años. Lloró de felicidad cuando lo recibió.  
 **Un secreto:** Tiene el elesterlio de la naturaleza, se hace llamar *Ayame* porque le pareció bonito el nombre. La flor que le dió a Adam es una que inventó con ese poder, crece y se multiplica con buenas acciones, pero se marchita con malas acciones (todo debe ser del corazón).  
 
@@ -62,16 +62,16 @@
 **Cuishigo:** Andrés Johnson (Alejandro:  Ookamimi —tiene orejas de lobo).  
 **Gema de unión:** Pulsera.  
 **Rol en el grupo:** El que calma las discusiones.  
-**Lore rápido:** Por una maldición que le lanzaron a Wyatt Rivera por algo imperdonable que hizo, Alejandro nació con el hechizo de la inversa, lo que causó que, a diferencia de su abuelo paterno, tuviera mala suerte y las personas desconfíen en él y se olviden de él inmediatamente a menos de recibir un regalo, no ser humanos o tener memoria fotográfica. Su familia desapareció y Andrés lo encontró llorando en un parque, como vió que era su anish, se lo llevó con él.  
-**¿Cómo llegó?:** Al ser anish de un fundador (Andrés), entró automáticamente.  
-**En el presente:** Mejor amigo de Andrés y Akiko, es el trata de pasar desapercibido para evitar que miren mal al grupo por su maldición.  
+**Lore rápido:** Por una maldición que le lanzaron a Wyatt Rivera por algo imperdonable que hizo, Alejandro nació con el hechizo de la inversa, lo que causó que, a diferencia de su abuelo paterno, tuviera mala suerte y las personas desconfíen en él y se olviden de él inmediatamente a menos de recibir un regalo, no ser humanos o tener memoria fotográfica. Su familia desapareció y Andrés lo encontró llorando en un parque, como vió que era su anish (automáticamente eso es un regalo), se lo llevó con él.  
+**¿Cómo llegó?:** Al ser el anish de un fundador (Andrés), entró automáticamente cuando se hizo el grupo.  
+**En el presente:** Mejor amigo de Andrés y Akiko, trata de pasar desapercibido para evitar que miren mal al grupo por su maldición.  
 **Cinco datos:**  
 	1. La cicatriz en su ojo izquierdo es por un cuchillo que le pasaron cuando unos terrícolas entraron a robar a su casa una vez.  
-	2. Los primordiales le tuvieron piedad al darle la condición de dar un regalo de corazón para que una persona no lo olvide.  
-	3. Se ha pillado a muchas víctimas de las locuras de su abuelo cuando era joven.  
+	2. Los primordiales le tuvieron piedad al darle la condición de dar un regalo de corazón para que la persona que lo reciba no lo olvide.  
+	3. Se ha encontrado con muchas víctimas o descendientes de víctimas de las maldades de su abuelo cuando era joven.  
 	4. Es el más calmado, pero uno de los que fue más subestimado del grupo.  
 	5. A veces creen que es hermano de Akiko por lo parecidos que son.  
-**Un secreto:** Es el elesterlio de la luz, se hace llamar *Élian* porque siente que representa la luz que podría ser si no estuviera atado a los malos de Wyatt.  
+**Un secreto:** Es el elesterlio de la luz, se hace llamar *Élian* porque siente que representa la luz que podría ser si no estuviera atado a los malos actos de Wyatt.  
 
 
 5. Laura Flores  
@@ -81,11 +81,11 @@
 **Cuishiga:** Melissa Torres (Laura: Nekomimi —tiene orejas y cola de gato).  
 **Gema de unión:** Reloj.  
 **Rol en el grupo:** A la que hay que proteger de su madre que la quiere llevar a casa.  
-**Lore rápido:** Conoce a Melissa desde que era una recién nacida, sin embargo, su madre alejó a su padre de ella, después de un tiempo, Amelia (su madre), solo le importaba la fama que estaba adquiriendo, por lo que hizo que Laura y sus otros dos hijos se enfocasen en ser perfectos, lo que causó que Laura sufriera de trastornos alimenticios, sin embargo, a sus 13 años recibió una vacuna errónea y adquirió orejas de gato, lo que causó que la mandaran a Senlín para que busque a su anish.  
+**Lore rápido:** Conoce a Melissa desde que era una recién nacida. La madre de Laura alejó a su padre de ella, después de unos años, Amelia (su madre), solo le importaba la fama que estaba adquiriendo, por lo que hizo que Laura y sus otros dos hijos se enfocasen en ser perfectos, causando que Laura sufriera de trastornos alimenticios, sin embargo, a sus 13 años recibió una vacuna errónea y adquirió orejas de gato, lo que causó que la mandaran a Senlín para que busque a su cuishiga.  
 **¿Cómo llegó?:** Darya la encontró en la calle, Laura pensó que era su cuishiga hasta que descubrió que ya tenía su anish (Akiko).  
 **En el presente:** Mejor amiga de Melissa y Alexa, Laura está más estable emocionalmente.  
 **Cinco datos:**  
-	1. Laura estaba celosa de que Akiko recibía más atención de Darya (porque es su anish) y le frustraba ser la que no tenía cuishiga.  
+	1. Laura estaba celosa porque Akiko recibía más atención de Darya (porque es su anish) y le frustraba ser la que no tenía cuishiga.  
 	2. Sus alas son de nacimiento, herencia de su padre.  
 	3. Todavía le cuesta superar sus trastornos alimenticios.  
 	4. Es la única que tuvo una mala relación con Akiko, ahora son amigas.  
@@ -104,11 +104,11 @@
 **¿Cómo llegó?:** Encontró la cabaña cuando estaba jugando a las escondidas con Alexa, cuando notó anishes y cuishigos juntos, le dió la propuesta a Alexa de considerarlo su nuevo hogar.  
 **En el presente:** Mejor amiga de Alexa y confidente de Melissa, Eliza es la que calma las aguas con su mera presencia.  
 **Cinco datos:**  
-	1. Le encanta el origami.  
+	1. Le encanta el origami y las manualidades..  
 	2. Sabe que James tiene cierto interés en ella, pero prefiere que él se lo diga directamente.  
 	3. Aunque es tímida e introvertida, en las historias que ha entrado es capaz de mostrar su faceta más valiente.  
 	4. Le gusta leer en la biblioteca central de Senlín con James.  
-	5. Además del origami, ama las manualidades.  
+	5. Es callada, pero su presencia no pasa desapercibida.  
 **Un secreto:** Tiene el elesterlio del tiempo, se hace llamar *Aisha* por la protagonista de uno de sus libros favoritos.  
 
 
@@ -118,29 +118,29 @@
 **Habilidad de nacimiento:** Superfuerza.  
 **Cuishiga:** Eliza Evans (Alexa: Usagimimi —tiene orejas de conejo).  
 **Gema de unión:** Collar.  
-**Rol en el grupo:** Desde llevar cosas hasta ser la más resistente del grupo ante una catástrofe.  
+**Rol en el grupo:** Desde llevar cosas hasta ser la más resistente físicamente del grupo ante una catástrofe.  
 **Lore rápido:** Tenía una vida normal hasta que su familia desapareció misteriosamente, aunque fue a vivir con los padres de Adam, escapó para buscar a sus padres por su cuenta y se encontró con Eliza.  
-**¿Cómo llegó?:** Eliza la llamó para que viera el lugar, por lo que Alexa aceptó la idea como una forma de buscar pistas sobre su familia.  
+**¿Cómo llegó?:** Eliza la llamó para que viera el lugar, por lo que Alexa aceptó la idea como una forma de buscar pistas sobre el paradero de su familia.  
 **En el presente:** Alexa es la más fuerte del equipo, lo que hace capaz de ser la que detiene físicamente a quienes se ponen a pelear, ayudar al equipo a llevar cosas, o simplemente jugar videojuegos.  
 **Cinco datos:**  
-	1. Si alguien toca a Eliza (o a alguien que ame), Alexa no tiene piedad como Adam.  
+	1. Si alguien toca a Eliza (o a alguien que ame como Adam, sus tíos, o alguno de los 20), Alexa no tiene piedad como Adam.  
 	2. Es una usagimimi de nacimiento, ya que hay una rama de los Miller que puede ser kemonomimi.  
 	3. Su arma insignia es más grande que ella misma y la toma con una mano como si nada.  
 	4. No la dejan entrar a la cocina porque podría frustrarse y romper algo.  
-	5. Quiere mucho a Adam y a su tío Erin.  
+	5. Quiere mucho a Adam y a Erin.  
 **Un secreto:** Trata de investigar por su cuenta para hacer a su primo y su tío orgullosos, aunque Adam y Erin también andan investigando por su lado.  
 
 
 8. Diana Ramirez  
 **Nombre completo o apodos:** Diana Jarasy Ramirez Tilkira (Apodos: Di, Dj-Diana).  
 **Edad:** 22 años (03/Marzo/3034).  
-**Habilidad de nacimiento:** Control mental con la música.  
+**Habilidad de nacimiento:** Control mental con música.  
 **Anish:** Daniel Clark.  
 **Gema de unión:** Arete que usa como argollas en su gorra.  
 **Rol en el grupo:** Es la que tiene entradas gratis por trabajar como guitarrista y vocalista en Magistic, además de la que enseña artes marciales en el grupo.  
 **Lore rápido:** Tiene una historia bastante alegre, antes de llegar a la cabaña era maestra de danza y artes marciales en la colonia prohibida de Alaska Oriental hasta que conoció a un Daniel niño que acudió a ella para que le enseñara defensa personal.  
 **¿Cómo llegó?:** Cuando Daniel y ella se fueron de la colonia para buscar un lugar más seguro, encontraron la cabaña por coincidencia y, ante la propuesta de Darya, aceptaron.  
-**En el presente:** Es el pase gratis de los chicos a conciertos o eventos de su interés, además se encarga de ayudar a los más débiles a defenderse y controlar magia básica.  
+**En el presente:** Es el pase gratis de los chicos a conciertos o eventos de su interés, además, se encarga de ayudar a los más débiles a defenderse y controlar magia básica.  
 **Cinco datos:**  
 	1. Es la que más se niega a los sobornos de Violeta.  
 	2. Ve a Daniel como su hermanito pequeño.  
@@ -157,7 +157,7 @@
 **Cuishiga:** Diana Ramirez (Daniel: Inumimi —tiene orejas de perro).  
 **Gema de unión:** Arete que usa como argollas en su gorra.  
 **Rol en el grupo:** Naturalista (Porque habla con los animales).  
-**Lore rápido:** Su padre es mochibria y su madre era terrícola, cuando nació, su madre lo alejó inmediatamente de su padre por haber nacido mochibria (la genética mochibria prima sobre la terrícola), por años su madre lo maltrató y obligó a buscar metas imposibles, lo que Daniel tomó como cariño, sin embargo, cuando tenía 13 años, su madre fue a una terapia para pensar en mejores formas de exigirle a Daniel la perfección, pero terminó teniendo redención con él hasta que murió un año después.  
+**Lore rápido:** Su padre es mochibria y su madre era terrícola, cuando nació, su madre lo alejó inmediatamente de su padre por haber nacido mochibria (la genética mochibria prima sobre la terrícola), por años su madre lo maltrató física y psicológicamente y obligó a buscar metas imposibles, lo que Daniel tomó como cariño, sin embargo, cuando tenía 13 años, su madre fue a una terapia para pensar en mejores formas de exigirle a Daniel la perfección, pero terminó teniendo redención con él hasta que murió un año después.  
 **¿Cómo llegó?:** Diana (que le enseñó defensa personal para que pudiera protegerse de su madre) ideó el escape de Alaska Oriental hacia Senlín, ahí encontraron la cabaña y se hicieron parte de ella.  
 **En el presente:** Es el blanco fácil de Joseph, pero es uno de los integrantes más complejos de entender.  
 **Cinco datos:**  
