@@ -5,7 +5,7 @@
 **Anish:** Akiko Rosales  
 **Gema de unión:** Pulsera  
 **Rol en el grupo:** Fundadora, madre del grupo.  
-**Lore rápido:** No tiene un lore traumático, pero descubrió que era cuishiga de Akiko cuando tenía 16 años y desde entonces la cuidó (lo que explica que ambas se traten como hermanas). Recientemente, su madre se había enfermado y Akiko la ayudó a salvarla.  
+**Lore rápido:** No tiene un lore traumático, pero descubrió que era cuishiga de Akiko cuando tenía 16 años y desde entonces la cuidó (lo que explica que ambas se traten como hermanas). Recientemente, su madre se había enfermado y Akiko la ayudó a salvarla.  
 **Cómo llegó al grupo:** Un día cualquiera a sus 17 años, Andrés (que era un compañero suyo en la escuela) se encontraron para charlar y entre ambos pensaron en un grupito pequeño de cuishigos y sus anishes donde pudieran enfrentar sus temores y ser aceptados, por lo que ambos son fundadores.  
 **En el presente:** Actualmente es la líder, aunque no lo parezca, pareja de Andrés y mejor amiga de Akiko.  
 **Cinco datos:**  
@@ -374,7 +374,7 @@ Salió bien, pero esta IA robótica era usada para enseñar a militares, por lo 
 **En el presente:** Ayuda a los fundadores (Darya y Andrés) a mantener el control de la casa, asignar tareas y mantener la cabaña protegida.  
 **Cinco datos:**  
   1. Le gusta leer sobre ciencias en la noche.  
-  2. El collar que tiene es un regalo de su madre, le da poderes de plasma.  
+  2. El collar que tiene es un regalo de su madre, le da poderes de plasma.  
   3. Sus lentes son para evitar tener una sobrecarga de posibilidades de su habilidad de nacimiento.  
   4. Le estresa Joseph y considera que Connor debería alejarse de él, pero, lamentablemente, no puede obligarlo. Además, tiene cierto interés por Michael (por eso es al único que deja que le diga "Meli" y al único que trata con apodos).  
   5. Melissa apuntó a Adam para que Jacob sintiera que él no era un peligro; si no había escudo, había confianza; además, era notorio que no disfrutaba de hacerle daño a su mejor amigo (Aunque el espíritu aprovechó esa circunstancia para incitar a Jacob para que atacara a Adam).  
