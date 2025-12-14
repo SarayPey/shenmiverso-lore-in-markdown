@@ -12,7 +12,7 @@
 **En el presente:** Actualmente es la líder, aunque no lo parezca, pareja de Andrés y mejor amiga de Akiko.  
 **Cinco datos:**  
   1. Es atleta.  
-  2. Le cuesta mentir por su habilidad de nacimiento. 
+  2. Le cuesta mentir por su habilidad de nacimiento.  
   3. Fue cuishiga simbólica de Laura antes de que Melissa llegara.  
   4. Es una de las que siempre es mandada a resolver anomalías (digamos que, por alguna razón, el grupo debe resolver anomalías de su mundo que se filtran a otros mundos, o simplemente investigar mundos mágicos).  
   5. Es la que tiene mejor relación con todo el grupo (además de Akiko y James).  
