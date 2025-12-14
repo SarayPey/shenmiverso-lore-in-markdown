@@ -29,8 +29,9 @@
 
 - Jeonsa (🍀)
 - Barbystia (✨)
+- Qarpaquisa (✨)
 - Los Alpes de las Bermudas Orientales (🌎)
-- Shahada Santa (🌎)
+- Shahada (🌎)
 
 ## Shinrín
 
