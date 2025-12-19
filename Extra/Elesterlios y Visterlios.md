@@ -1,14 +1,5 @@
 # Elesterlios
 
-## Sin usar:
-
-- Tormenta
-- Sonido
-- Sombra
-- Gravedad
-- Alma
-- Tecnología
-- Prisma
 ⇢✮✮✮⋯⋯⋯✶✷✵✷✶⋯⋯⋯✮✮✮⇠  
 Elesterlios / Elesiers de Estela:
 
@@ -48,15 +39,6 @@ Elesterlios / Elesiers de Estela:
 ⇢✮✮✮⋯⋯⋯✶✷✵✷✶⋯⋯⋯✮✮✮⇠
 
 # Visterlios
-
-## Sin usar
-- Caos
-- Ácido
-- Veneno
-- Vacío
-- Fantasmal
-- Radioactivo
-- Confusión (Asertijos)
 
 ⇢✮✮✮⋯⋯⋯✶✷✵✷✶⋯⋯⋯✮✮✮⇠
 
