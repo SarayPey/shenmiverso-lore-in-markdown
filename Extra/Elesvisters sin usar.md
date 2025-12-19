@@ -7,10 +7,3 @@
 |Alma|Fantasmal|
 |Tecnología|Radioactivo|
 |Prisma|Confusión (Asertijos)|
-
-
-
-
-
-
-
