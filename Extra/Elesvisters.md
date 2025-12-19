@@ -12,7 +12,7 @@
 |10|Sonido|🟥|Confusión|🟥|
 |11|Sombra|🟥|Veneno|🟥|
 |12|Gravedad|🟥|Ácido|🟥|
-|13|Alma|🟥|-|🟥|
+|13|Alma|🟥|Oscuridad|🟥|
 |14|Tecnología|🟥|Radioactivo|🟥|
 |15|Prisma|🟥|Vacío|🟥|
 |16|Piedra|🟥|Ilusión|🟩|
