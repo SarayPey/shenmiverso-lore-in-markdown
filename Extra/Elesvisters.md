@@ -16,3 +16,4 @@
 |Tecnología|🟥|Radioactivo|🟥|
 |Prisma|🟥|Vacío|🟥|
 |Piedra|🟥|Ilusión|🟩|
+|Frecuencia|🟥|Miedo|🟥|
