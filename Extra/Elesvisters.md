@@ -1,8 +1,8 @@
-|№|ELESTERLIOS|En uso|VISTERLIOS|En uso|
+|№|ELESTERLIO|En uso|VISTERLIO|En uso|
 |-|-|-|-|-|
 |1|Memoria|🟩|Olvido|🟩|
 |2|Naturaleza|🟩|Trampa|🟩|
-|3|Fuego|🟩|Bombas y silencio|🟩|
+|3|Fuego|🟩|Bombas/silencio|🟩|
 |4|Agua|🟩|Fantasmal|🟩|
 |5|Viento|🟩|Eclipse|🟩|
 |6|Luz|🟩|Poder|🟩|
@@ -13,7 +13,7 @@
 |11|Sombra|🟥|Veneno|🟥|
 |12|Gravedad|🟥|Ácido|🟥|
 |13|Alma|🟥|Oscuridad|🟥|
-|14|Tecnología|🟥|Radioactivo|🟥|
+|14|Tecnología|🟥|Radiación|🟥|
 |15|Prisma|🟥|Vacío|🟥|
 |16|Piedra|🟥|Ilusión|🟩|
 |17|Frecuencia|🟥|Miedo|🟥|
