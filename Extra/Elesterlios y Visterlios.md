@@ -48,7 +48,7 @@ Visterlios / Visliers de Estela:
 - Espinas, engaño, manipulación, terremotos, confusión = Espinas, terremotos / Manipulación
 
 ### WaterSpy  
-- Viscoso, pertubador de la paz, espía, cambiante = viajar por el suelo a través de materiales viscosos / Traición
+- Fantasmal / Traición
 
 ### Saykalen
 - Destrucción, paz, silencio, mimo, explosión = Cambiar las voces, silenciar a las personas, bombas destructivas / hipocresía
@@ -63,7 +63,7 @@ Visterlios / Visliers de Estela:
 - Eclipses, control del campo / Manipulación 
 
 ### SenderVil (Mensajero)
-- Mensajero, chisme, veneno, prejuicios = Alucinaciones / Rumores
+- Mensajero, chisme, veneno, prejuicios = Ilusión / Rumores
 
 ### InversCrome (Mentora)
 - Abstracto, alucinaciones = Deformación de la realidad / Engaño
