@@ -9,10 +9,10 @@
 |7|Tiempo|🟩|Cambiaformas|🟩|
 |8|Tierra|🟥|Deformación|🟩|
 |9|Tormenta|🟥|Caos|🟥|
-|10|Sonido|🟥|Confusión (Acertijos)|🟥|
+|10|Sonido|🟥|Confusión|🟥|
 |11|Sombra|🟥|Veneno|🟥|
 |12|Gravedad|🟥|Ácido|🟥|
-|13|Alma|🟥|Caos|🟥|
+|13|Alma|🟥|-|🟥|
 |14|Tecnología|🟥|Radioactivo|🟥|
 |15|Prisma|🟥|Vacío|🟥|
 |16|Piedra|🟥|Ilusión|🟩|
