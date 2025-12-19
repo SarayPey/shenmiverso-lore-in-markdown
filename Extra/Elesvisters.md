@@ -1,4 +1,4 @@
-|ELESTERLIOS|Estado|VISTERLIOS|Estado|
+|ELESTERLIOS|En uso|VISTERLIOS|En uso|
 |-|-|-|-|
 |Memoria|🟩|Olvido|🟩|
 |Naturaleza|🟩|Trampa|🟩|
