@@ -44,6 +44,54 @@ Arma:
 - .  
 - .  
 
+01-06: [Nombre] [Apellido] - [País](Otro) ♀️/♂️  
+Magia: 
+Arma: 
+- .  
+- .  
+
+01-07: [Nombre] [Apellido] - [País](Otro) ♀️/♂️  
+Magia: 
+Arma: 
+- .  
+- .  
+
+01-08: [Nombre] [Apellido] - [País](Otro) ♀️/♂️  
+Magia: 
+Arma: 
+- .  
+- .  
+
+01-09: [Nombre] [Apellido] - [País](Otro) ♀️/♂️  
+Magia: 
+Arma: 
+- .  
+- .  
+
+01-10: [Nombre] [Apellido] - [País](Otro) ♀️/♂️  
+Magia: 
+Arma: 
+- .  
+- .  
+
+01-11: [Nombre] [Apellido] - [País](Otro) ♀️/♂️  
+Magia: 
+Arma: 
+- .  
+- .  
+
+01-12: [Nombre] [Apellido] - [País](Otro) ♀️/♂️  
+Magia: 
+Arma: 
+- .  
+- .  
+
+01-13: [Nombre] [Apellido] - [País](Otro) ♀️/♂️  
+Magia: 
+Arma: 
+- .  
+- .  
+
 
 ## Generación 2
 
@@ -72,6 +120,42 @@ Arma:
 - .  
 
 02-05: [Nombre] [Apellido] - [País](Otro) ♀️/♂️  
+Magia: 
+Arma: 
+- .  
+- .  
+
+01-06: [Nombre] [Apellido] - [País](Otro) ♀️/♂️  
+Magia: 
+Arma: 
+- .  
+- .  
+
+01-07: [Nombre] [Apellido] - [País](Otro) ♀️/♂️  
+Magia: 
+Arma: 
+- .  
+- .  
+
+01-08: [Nombre] [Apellido] - [País](Otro) ♀️/♂️  
+Magia: 
+Arma: 
+- .  
+- .  
+
+01-09: [Nombre] [Apellido] - [País](Otro) ♀️/♂️  
+Magia: 
+Arma: 
+- .  
+- .  
+
+01-10: [Nombre] [Apellido] - [País](Otro) ♀️/♂️  
+Magia: 
+Arma: 
+- .  
+- .  
+
+01-11: [Nombre] [Apellido] - [País](Otro) ♀️/♂️  
 Magia: 
 Arma: 
 - .  
