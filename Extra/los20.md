@@ -1,7 +1,7 @@
 (⚠️ TW: AD1CCI0N, MU3RT3, SU¡C1D1O, GU3RR4, T0R7UR4 ⚠️)
 
 1. Darya Collins  
-**Nombre completo o apodos:** Darya Lía Collins Suárez (Apodos:** Lía, Lirya)  
+**Nombre completo o apodos:** Darya Lía Collins Suárez (Apodos: Lía, Lirya)  
 **Edad:** 20 años (18/Marzo/3026)  
 **Habilidad de nacimiento:** Detectar mentiras y verdades.  
 **Anish:** Akiko Rosales  
@@ -21,7 +21,7 @@
 
 
 2. Andrés Johnson  
-**Nombre completo o apodos:** Andrés Camilo Johnson Rojas (Apodos:** Andre, "Picantito").  
+**Nombre completo o apodos:** Andrés Camilo Johnson Rojas (Apodos: Andre, "Picantito").  
 **Edad:** 20 años (14/Febrero/3026).  
 **Habilidad de nacimiento:** Telekinesis.  
 **Anish:** Alejandro Rivera.  
@@ -41,9 +41,9 @@
 
 
 3. Akiko Rosales  
-**Nombre completo o apodos:** Akiko Sahori Rosales Kuusuko (Apodos:** Aki, Saho, Kuukiko, Akirisako —la mezcla de su nombre completo—, "Plantita del bien").  
+**Nombre completo o apodos:** Akiko Sahori Rosales Kuusuko (Apodos: Aki, Saho, Kuukiko, Akirisako —la mezcla de su nombre completo—, "Plantita del bien").  
 **Edad:** 14 años (20/Agosto/3031).  
-**Habilidad de nacimiento:** Curación (Okimantis:** Eterno, Curación. Serfanías:** Ver el futuro inmediato —y cambiarlo a veces).  
+**Habilidad de nacimiento:** Curación (Okimantis: Eterno, Curación. Serfanías: Ver el futuro inmediato —y cambiarlo a veces).  
 **Cuishiga:** Darya Collins (Akiko: Ookamimi —tiene orejas de lobo).  
 **Gema de unión:** Pulsera.  
 **Rol en el grupo:** Peluche abrazable.  
@@ -61,9 +61,9 @@
 
 
 4. Alejandro Rivera
-**Nombre completo o apodos:** Alejandro Fain Sheryon Rivera Doameria (Apodos:** Alej, Faryon, Fain, Sher).  
+**Nombre completo o apodos:** Alejandro Fain Sheryon Rivera Doameria (Apodos: Alej, Faryon, Fain, Sher).  
 **Edad:** 15 años (11/Octubre/3031).  
-**Habilidad de nacimiento:** Manipular las emociones del resto y las suyas (Okimantis:** Maldición, Malcursikas:** Hechizo de la inversa —Léase ***Lore rápido***).  
+**Habilidad de nacimiento:** Manipular las emociones del resto y las suyas (Okimantis: Maldición, Malcursikas: Hechizo de la inversa —Léase ***Lore rápido***).  
 **Cuishigo:** Andrés Johnson (Alejandro:  Ookamimi —tiene orejas de lobo).  
 **Gema de unión:** Pulsera.  
 **Rol en el grupo:** El que calma las discusiones.  
@@ -81,7 +81,7 @@
 
 
 5. Laura Flores  
-**Nombre completo o apodos:** Laura Rosalee Kaili Flores Belyesa (Apodos:** Lau, Rosy).  
+**Nombre completo o apodos:** Laura Rosalee Kaili Flores Belyesa (Apodos: Lau, Rosy).  
 **Edad:** 16 años (07/Agosto/3030).  
 **Habilidad de nacimiento:** Puede aprender todos los idiomas posibles.  
 **Cuishiga:** Melissa Torres (Laura: Nekomimi —tiene orejas y cola de gato).  
@@ -101,7 +101,7 @@
 
 
 6. Eliza Evans  
-**Nombre completo o apodos:** Eliza Evans Sarfila (Apodos:** Eli).  
+**Nombre completo o apodos:** Eliza Evans Sarfila (Apodos: Eli).  
 **Edad:** 17 años (25/Noviembre/3028).  
 **Habilidad de nacimiento:** Poder entrar a los libros. 
 **Anish:** Alexa Miller.  
@@ -121,7 +121,7 @@
 
 
 7. Alexa Miller  
-**Nombre completo o apodos:** Alexa Yilya Miller Dermisa (Apodos:** Alexya, Lexi, Yiyi).  
+**Nombre completo o apodos:** Alexa Yilya Miller Dermisa (Apodos: Alexya, Lexi, Yiyi).  
 **Edad:** 17 años (05/Enero/3029).  
 **Habilidad de nacimiento:** Superfuerza.  
 **Cuishiga:** Eliza Evans (Alexa: Usagimimi —tiene orejas de conejo).  
@@ -141,7 +141,7 @@
 
 
 8. Diana Ramirez  
-**Nombre completo o apodos:** Diana Jarasy Ramirez Tilkira (Apodos:** Di, Dj-Diana).  
+**Nombre completo o apodos:** Diana Jarasy Ramirez Tilkira (Apodos: Di, Dj-Diana).  
 **Edad:** 22 años (03/Marzo/3034).  
 **Habilidad de nacimiento:** Control mental con música.  
 **Anish:** Daniel Clark.  
@@ -161,7 +161,7 @@
 
 
 9. Daniel Clark  
-**Nombre completo o apodos:** Daniel Jesús Clark Shajari (Apodos:** Dani, Dan).  
+**Nombre completo o apodos:** Daniel Jesús Clark Shajari (Apodos: Dani, Dan).  
 **Edad:** 16 años (08/Mayo/3030).  
 **Habilidad de nacimiento:** Hablar con los animales. 
 **Cuishiga:** Diana Ramirez (Daniel: Inumimi —tiene orejas de perro).  
@@ -181,7 +181,7 @@
 
 
 10. Alec Holland  
-**Nombre completo o apodos:** Alec Fyztar Holland Herselka (Apodos:** Al, fotógrafo, mini-Alan).  
+**Nombre completo o apodos:** Alec Fyztar Holland Herselka (Apodos: Al, fotógrafo, mini-Alan).  
 **Edad:** 20 años (19/Agosto/3026).  
 **Habilidad de nacimiento:** Ver los secretos y espíritus de otros tras las cámaras.  
 **Anish:** Christian Garten.  
@@ -201,7 +201,7 @@
 
 
 11. Violeta Anderson  
-**Nombre completo o apodos:** Violeta Julieta Anderson Pardo (Apodos:** Vi, Violeta, Vivi).  
+**Nombre completo o apodos:** Violeta Julieta Anderson Pardo (Apodos: Vi, Violeta, Vivi).  
 **Edad:** 20 años (28/Mayo/2000).  
 **Habilidad de "nacimiento":** Velocidad, diseños hermosos.  
 **Anish:** Emma Park.  
@@ -221,7 +221,7 @@
 
 
 12. Emma Park  
-**Nombre completo o apodos:** Emma Solsy Park Doremi (Apodos:** Emy, Notita dorada).  
+**Nombre completo o apodos:** Emma Solsy Park Doremi (Apodos: Emy, Notita dorada).  
 **Edad:** 16 años (25/Agosto/3030).  
 **Habilidad de nacimiento:** Telekinesis cantante.  
 **Cuishiga:** Violeta Anderson (Emma: Nekomimi —tiene orejas de gato).  
@@ -241,7 +241,7 @@
 
 
 13. Christian Garten  
-**Nombre completo o apodos:** Cristian Clement Garten Moretti (Apodos:** Chris).  
+**Nombre completo o apodos:** Cristian Clement Garten Moretti (Apodos: Chris).  
 **Edad:** 15 años (28/Diciembre/3030).  
 **Habilidad de nacimiento:** Cocina magistral.  
 **Cuishigo:** Alec Holland (Christian: Nekomimi —tiene orejas de gato).  
@@ -261,9 +261,9 @@
 
 
 14. James Larson  
-**Nombre completo o apodos:** James Clerick Larson (Apodos:** Librero emo, Jamie).  
+**Nombre completo o apodos:** James Clerick Larson (Apodos: Librero emo, Jamie).  
 **Edad:** 17 años (21/Junio/3029).  
-**Habilidad de nacimiento:** Ver a través de las paredes (*gamkina:*** Soreiyahomagia).  
+**Habilidad de nacimiento:** Ver a través de las paredes (gamkina: Soreiyahomagia).  
 **Anish:** Joseph Walker.  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** Paranoico.  
@@ -281,7 +281,7 @@
 
 
 15. Joseph Walker  
-**Nombre completo o apodos:** Joseph Bartil Walker Disastirk (Apodos:** Josh).  
+**Nombre completo o apodos:** Joseph Bartil Walker Disastirk (Apodos: Josh).  
 **Edad:** 16 años (18/Abril/3030).  
 **Habilidad de nacimiento:** Detectar cosas perdidas.  
 **Cuishigo:** James Larson (Joseph: Usagimimi —Tiene orejas de conejo).  
@@ -301,7 +301,7 @@
 
 
 16. Connor Scott  
-**Nombre completo o apodos:** Connor Kartyn Scott Zeryl (Apodos:** Cono, Kart).  
+**Nombre completo o apodos:** Connor Kartyn Scott Zeryl (Apodos: Cono, Kart).  
 **Edad:** 15 años (05/Julio/3030).  
 **Habilidad de nacimiento:** Duplicación.  
 **Cuishigo:** Michael Sky (Connor: Hanemimi —Tiene alas, de loro, específicamente).  
@@ -321,7 +321,7 @@
 
 
 17. Michael Sky  
-**Nombre completo o apodos:** Michael Elcaryn Sky Clyrk (Apodos:** Mike, Sky-el).  
+**Nombre completo o apodos:** Michael Elcaryn Sky Clyrk (Apodos: Mike, Sky-el).  
 **Edad:** 25 años (20/Noviembre/3031).  
 **Habilidad de nacimiento:** Conocimiento y habilidad mecánica y/o tecnológica.  
 **Anish:** Connor Scott.  
@@ -342,7 +342,7 @@ Salió bien, pero esta IA robótica era usada para enseñar a militares, por lo 
 
 
 18. Cara Narvaez  
-**Nombre completo o apodos:** Cara Camila Amelia Narvaez Sosa (Apodos:** "10-08").  
+**Nombre completo o apodos:** Cara Camila Amelia Narvaez Sosa (Apodos: "10-08").  
 **Edad:** 16 años (22/Mayo/2008).  
 **Habilidad de "nacimiento":** Volver realidad lo que pinta (controlable).  
 **Cuishigo:** Jacob Sanders (Cara: Nekomimi —tiene orejas de gato).  
@@ -362,7 +362,7 @@ Salió bien, pero esta IA robótica era usada para enseñar a militares, por lo 
 
 
 19. Jacob Sanders  
-**Nombre completo o apodos:** Jacob Alex Sanders Alvarado (Apodos:** "10-01").  
+**Nombre completo o apodos:** Jacob Alex Sanders Alvarado (Apodos: "10-01").  
 **Edad:** 17 años (28/Julio/2005).  
 **Habilidad de "nacimiento":** Volverse un fantasma.  
 **Anish:** Cara Narvaez.  
@@ -382,7 +382,7 @@ Salió bien, pero esta IA robótica era usada para enseñar a militares, por lo 
 
 
 20. Melissa Torres  
-**Nombre completo o apodos:** Melissa Isidora Torres Carson (Apodos:** Meli).  
+**Nombre completo o apodos:** Melissa Isidora Torres Carson (Apodos: Meli).  
 **Edad:** 25 años (03/Enero/3021).  
 **Habilidad de nacimiento:** Inteligencia lógica brillante, una habilidad donde puede ver las posibilidades infinitas del entorno y los seres a su alrededor.  
 **Anish:** Laura Flores.  

@@ -6,6 +6,6 @@
 > 
 > Este hechizo que solo puede ser usado por gente con factor curación o eterno, hace que cualquiera que quiera sanar sus heridas sea imposibilitado de hacerlo con el propósito de cumplir el tratado.
 > 
-> Tipo, si tratas de sanar los daños con magia, esta se devuelve, si es con vendas, se devuelve y así hasta que el que aquel que hizo el trato decida romperlo
+> Si tratas de sanar los daños con magia, esta se devuelve, si es con vendas, se devuelve y así hasta que el que aquel que hizo el trato decida romperlo
 > 
 >> *“Tratado eterno carmesí, las cien vueltas han llegado, el trato ha terminado, las almas ya han regresado”*
