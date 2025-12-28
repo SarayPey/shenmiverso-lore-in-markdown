@@ -27,11 +27,11 @@
 |3044|Santa no aparece, Melissa va a buscar respuestas|*“El secreto de Santa Claus”*|
 |3044-45 (Año nuevo)|Laura prioriza salud mental|*“Un nuevo comienzo”*|
 |3045 & 3046|Daniel, Connor, Joseph dejan de ser amigos|*“Una traición y tres corazones resentidos”*|
-|3045|Melissa, Marcus, Liberty, Elio e Ishaya secuestrados. Ex-agentes mueren|*“Dos casos con misterios”*|
 |3045|Alejandro luz - Elián|Saga **Elesterlios: segundo eclipse** - *“El brillo del sol”*|
-|3045|Akiko viaja, problemas en el multiverso|*“Multiversos”*|
 |3045|Eliza tiempo - Aisha|Saga **Elesterlios: segundo eclipse** - *“El paso del tiempo”*|
+|3045|Melissa, Marcus, Liberty, Elio e Ishaya secuestrados. Ex-agentes mueren|*“Dos casos con misterios”*|
 |3045|Akiko naturaleza - Ayame|Saga **Elesterlios: segundo eclipse** - *“El florecer del árbol”*|
+|3045|Akiko viaja, problemas en el multiverso|*“Multiversos”*|
 |3045-46|Adam y compañía viajan a Sombrarix|*“Expedición Sombrarix: renacer”*|
 |3045|Juno, James y Willow llegan de la tierra a Seikatsu para salvarlos de la rebelión|*“El viaje al más allá”*|
 |3045-46|Teatro destruido en New Sydney, Yindee escapa, Jadyn entra al sector 1|*“El cadáver de la mariposa perdida”*|
