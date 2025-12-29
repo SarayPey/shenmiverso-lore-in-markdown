@@ -4,7 +4,7 @@
 |?|Shénmì|Mochu y Seikatsu nacen|✗|
 |??? A.C|Tierra|Se crea la tierra|✗|
 |???|Tierra y Shénmì|Terrícolas hacen que habitantes de mundos de Shénmì sean odiados|✗|
-|1545|Tierra, Mochu|Mairead Petridis secuestrada|✗|
+|1545|Tierra y Mochu|Mairead Petridis secuestrada|✗|
 |1847|Mochu|Zhao nace|✗|
 |1848|Mochu|Elvira nace|✗|
 |1848|Mochu|Idrila nace|✗|
@@ -12,42 +12,60 @@
 |1853|Mochu|Elestria nace|✗|
 |1867-74|Mochu|Primera tiranía (mago Hélder), Kiara salva y corona a Idrila como reina|✗|
 |1884-90|Mochu|Segunda tiranía (Lord Fragmadon), Idrila asesinada, Kiara salva y corona a Elestria como reina|✗|
-|1900|Mochu, Aftemsko|Kiara traicionada por Harkan. Kiara es decapitada|✗|
-|1900|Mochu|Harkan difunde que Kiara traicionó a Elestria|✗|
+|1900|Mochu y Aftemsko|Kiara traicionada por Harkan. Kiara es decapitada|✗|
+|1910|Mochu|Harkan difunde que Kiara traicionó a Elestria, se ensucia su nombre y Elvira trata de limpiarlo|✗|
 |1956|Mochu|Hasikari nace|✗|
 |1958|Tierra|Nelson Araneda nace|✗|
+|1963|Tierra|Manuel Hurtado nace|✗|
 |1966|Tierra|Valeria Yáñez nace|✗|
 |1969|Tierra|Victor Adams nace|✗|
 |1970|Tierra|María Watts nace|✗|
+|1971|Tierra|Cecilia Muñoz nace|✗|
 |1972|Tierra|Fransisco Watts nace|✗|
 |1971|Mochu|Elestria muere|✗|
 |1972|Mochu|Coronación de Hasikari|✗|
 |1973|Tierra|Victor mandado a internado|✗|
-|1975|Tierra|Lawrence Kusche "desmiente" el Triángulo de las Bermudas, un portal directo a Mochu|✗ (Pero pasó en la vida real)|
+|1976|Tierra|Cecilia mandada a internado|✗|
 |1986|Tierra|Kai Watts nace|✗|
 |1986|Tierra|Padre de Kai muere|✗|
 |1987|Tierra|María Watts es asesinada|✗|
 |1988|Tierra|Lisa Araneda nace, su madre muere|✗|
 |1988|Tierra|Fransisco Watts es asesinado|✓ - Comic *“(Sin título por ahora)”*|
-|2005|Tierra, Mochu|Kai, Cole y Shayla secuestrados|✓ - Comic *“(Sin título por ahora)”*|
+|2001|Tierra|Valentina Castillo nace|✗|
+|2005|Tierra y Mochu|Kai, Cole y Shayla secuestrados|✓ - Comic *“(Sin título por ahora)”*|
+|2007|Tierra|Juno y James Rosales nacen|✗|
+|2007|Tierra|Willow Lane nace|✗|
 |2007|Tierra|Ricardo Ulloa nace|✗|
+|2008|Tierra|Marcus Fischer nace|✗|
 |2008|Tierra|Érika Valdés nace|✗|
 |2008|Tierra|Thiago Barros nace|✗|
 |2008|Tierra|Vanessa Rivas nace|✗|
+|2008|Tierra|Susana Pérez nace|✗|
 |2008|Tierra|Bianca Araya nace|✗|
 |2009|Tierra|Julián Riquelme nace|✗|
 |2009|Tierra|Eirene Castillo nace|✗|
+|2011|Tierra|Matías Sandoval nace|✗|
 |2012|Mochu|Cercilya nace|✗|
-|2014|Tierra, Mochu|Jacob Sanders secuestrado|✗|
+|2012|Tierra|Cristina Sandoval nace|✗|
+|2014|Tierra y Mochu|Jacob Sanders secuestrado|✗|
+|2015|Tierra|Rubén Valdés nace|✗|
+|2015|Tierra y Mochu|Marcus secuestrado por la asociación. Famlia Rosales se muda|✗|
 |2015|Mochu|Independencia de Lonea y Acuarias|✗|
+|2015|Tierra|Martina Riquelme nace|✗|
+|2016|Tierra|Abuelo de Julián, Cristina, Matías y Martina fallece, hermanos (menos primogénito) desheredan madre de Julián|✗|
+|2016|Tierra|Padres de Cristina fallecen, familia de Julián la acogen|✗|
+|2017|Tierra|Hermanos sobrevivientes sabotean familia Riquelme Sandoval, padres de Julián pierden su trabajo|✗|
+|2017|Tierra|Gael Riquelme nace|✗|
+|2018|Tierra|Julián y su familia pierden su casa|✗|
 |2020|Mochu|Primer Neseca|✗|
+|2023|Tierra|James poseído|✗|
 |2025|Tierra|EcoClub se crea|✗|
 |2056|Mochu|Hasikari se retira, coronación a Cercilya|✗
 |2121|Mochu|Nox nace|✗|
 |2122|Mochu|Estela nace|✗|
 |2125|Mochu|Jennifer Lang nace|✗|
 |2139|Mochu|Se descubre la verdad sobre Kiara. Elesterlios y visterlios se crean|✓ - *“(Sin título por ahora)”*|
-|2140|Mochu|Cercylia se retira.  Coronación de Estela.|✓ - *“(Pensando en un título)”*|
+|2140|Mochu|Cercylia se retira. Coronación de Estela|✓ - *“(Pensando en un título)”*|
 |2300|Mochu|Revolución. Volcanash, Kerashitsu y Senlín se vuelven independientes|✗|
 |2611|Mochu|Escasez en Shinrín. Yíshù, Agensca y Munho se hacen independientes|✗|
 |2958|Mochu|Necesa catastrófico, Jeonsa e Indesca se hacen independientes|✗|
@@ -56,7 +74,7 @@
 |3016|Mochu|Adam Miller nace|✗|
 |3020|Mochu|Varoun nace|✗|
 |3022|Mochu, Sombrarix|Seldon se lleva a Maryam|✗|
-|3024|Zaire nace|✗|
+|3024|Mochu|Zaire nace|✗|
 |3025|Mochu|Elesterlios segunda era primera generación|✓ - Saga **Elesterlios: segundo eclipse** (*“Elesterlios: nuevo alba”*)|
 |3025|Mochu|Willow Faynsashi guardiana - Memory Violet|✓ - *“El secreto del recuerdo”*|
 |3025|Mochu|Sara mentora - Minerva Saffi|✓ - *“El origen del mentor”*|
@@ -103,11 +121,11 @@
 |3045 & 3046|Mochu|Daniel, Connor, Joseph dejan de ser amigos|✓ - *“Una traición y tres corazones resentidos”*|
 |3045|Mochu|Melissa, Marcus, Liberty, Elio e Ishaya secuestrados. Ex-agentes mueren|✓ - *“Dos casos con misterios”*|
 |3045|Mochu|Akiko viaja, problemas en el multiverso|✓ - *“Multiversos”*|
-|3045-46|Mochu, Sombrarix|Adam y compañía viajan a Sombrarix|✓ - *“Expedición Sombrarix: renacer”*|
+|3045-46|Mochu y Sombrarix|Adam y compañía viajan a Sombrarix|✓ - *“Expedición Sombrarix: renacer”*|
 |3045|Seikatsu|James, Willow y Juno viajan entre Mochu y Seikatsu en busca de Marcus|✓ - *“El viaje al más allá: búsqueda en Shénmì”*|
 |3045|Mochu|Onceava generación de prototipos en la asociación (Kai, Cole, Shayla)|✗|
 |3045-46|Mochu|Teatro destruido en New Sydney, Yindee escapa, Jadyn entra al sector 1|✓ - *“El cadáver de la mariposa perdida”*|
 |3045-46|Mochu|Explosión al sur del distrito de Agensca, conocemos a "Delia"|✓ - *“El secreto de Delia”*|
-|3046|Tierra, Mochu|Victor rescata a onceava generación de la asociación|✓ - Comic *“(Sin título por ahora)”*|
+|3046|Tierra y Mochu|Victor rescata a onceava generación de la asociación|✓ - Comic *“(Sin título por ahora)”*|
 |3046|Stalaris|Polaris recibe cartas|✓ - *“Estrellas apagadas”*|
 |3046/2025|Todos|Presente canon|No hay pero está en mi cabeza|
