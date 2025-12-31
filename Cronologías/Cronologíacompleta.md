@@ -1,21 +1,26 @@
-|Año|Mundos|Hecho|¿Historia?|
+# CRONOLOGÍA COMPLETA (SIN AUs)
+
+|Año|Mundos|Hecho|¿Narrado?|
 |-|-|-|-|
 |?|Todo|Se crea el universo|✗|
 |?|Shénmì|Mochu y Seikatsu nacen|✗|
 |??? A.C|Tierra|Se crea la tierra|✗|
 |???|Tierra y Shénmì|Terrícolas hacen que habitantes de mundos de Shénmì sean odiados|✗|
 |1545|Tierra y Mochu|Mairead Petridis secuestrada|✗|
+|1828|Mochu|Idrila nace|✗|
+|1838|Mochu|Harkan Fragmadon nace|✗|
 |1847|Mochu|Zhao nace|✗|
 |1848|Mochu|Elvira nace|✗|
-|1848|Mochu|Idrila nace|✗|
 |1850|Mochu|Kiara nace|✗|
 |1853|Mochu|Elestria nace|✗|
-|1867-74|Mochu|Primera tiranía (mago Hélder), Kiara salva y corona a Idrila como reina|✗|
-|1884-90|Mochu|Segunda tiranía (Lord Fragmadon), Idrila asesinada, Kiara salva y corona a Elestria como reina|✗|
+|1867-74|Mochu|Primera tiranía (mago Hélder), Kiara salva Shinrín y corona a Idrila como reina|✗|
+|1884-90|Mochu|Segunda tiranía (Lord Fragmadon), Idrila asesinada, Kiara salva Shinrín y corona a Elestria como reina|✗|
+|1890|Mochu|Kiara jura lealtad al linaje real|✗|
 |1900|Mochu y Aftemsko|Kiara traicionada por Harkan. Kiara es decapitada|✗|
 |1910|Mochu|Harkan difunde que Kiara traicionó a Elestria, se ensucia su nombre y Elvira trata de limpiarlo|✗|
 |1956|Mochu|Hasikari nace|✗|
 |1958|Tierra|Nelson Araneda nace|✗|
+|1959|Mochu|Harkan descubre juventud y longevidad|✗|
 |1963|Tierra|Manuel Hurtado nace|✗|
 |1966|Tierra|Valeria Yáñez nace|✗|
 |1969|Tierra|Victor Adams nace|✗|
@@ -63,17 +68,19 @@
 |2056|Mochu|Hasikari se retira, coronación a Cercilya|✗
 |2121|Mochu|Nox nace|✗|
 |2122|Mochu|Estela nace|✗|
+|2123|Mochu|Hasikari fallece|✗|
 |2125|Mochu|Jennifer Lang nace|✗|
 |2139|Mochu|Se descubre la verdad sobre Kiara. Elesterlios y visterlios se crean|✓ - *“(Sin título por ahora)”*|
 |2140|Mochu|Cercylia se retira. Coronación de Estela|✓ - *“(Pensando en un título)”*|
 |2300|Mochu|Revolución. Volcanash, Kerashitsu y Senlín se vuelven independientes|✗|
 |2611|Mochu|Escasez en Shinrín. Yíshù, Agensca y Munho se hacen independientes|✗|
 |2958|Mochu|Necesa catastrófico, Jeonsa e Indesca se hacen independientes|✗|
+|3005|Mochu|Maryam Cox nace|✗|
 |3010|Mochu|Willow Faynsashi nace|✗|
 |3011|Mochu|Brayan Orellana nace|✗|
 |3016|Mochu|Adam Miller nace|✗|
 |3020|Mochu|Varoun nace|✗|
-|3022|Mochu, Sombrarix|Seldon se lleva a Maryam|✗|
+|3022|Mochu, Sombrarix|Seldon secuestra a Maryam|✗|
 |3024|Mochu|Zaire nace|✗|
 |3025|Mochu|Elesterlios segunda era primera generación|✓ - Saga **Elesterlios: segundo eclipse** (*“Elesterlios: nuevo alba”*)|
 |3025|Mochu|Willow Faynsashi guardiana - Memory Violet|✓ - *“El secreto del recuerdo”*|
@@ -100,29 +107,29 @@
 |3042|Mochu, Seikatsu, AUs|Ataque de Shosutske|✗|
 |3042|Mochu|Sector 970 reactivado|✗|
 |3043|Mochu|Darya, Andrés, Alejandro y Akiko forman el grupo de los 20|✓ - *“(Sin título por ahora)”*|
-|3044|Mochu|Décima generación escapa|✗|
+|3044|Mochu|Décima generación de la asociación escapa|✗|
 |3044|Mochu|Elesterlios segunda era segunda generación|✓ - Saga **Elesterlios: segundo eclipse** (*“Elesterlios: noche blanca”*)|
 |3044|Mochu|Melissa mensajera - Armida Idara|✓ - Saga **Elesterlios: segundo eclipse** (*“El receptor del mensajero”*)|
 |3044|Mochu|Darya agua - Irvette|✓ - Saga **Elesterlios: segundo eclipse** (*“El flujo del agua”*)|
 |3044|Mochu|Sector 1 reactivado|✗|
 |3044|Mochu|Andrés fuego - Mishan|✓ - Saga **Elesterlios: segundo eclipse** (*“El calor del fuego”*)|
 |3044|Mochu|Ayla 5.0 conoce a Akiko|✓ - *“Ayla 5.0”*|
-|3044|Mochu|???|✓ - *“La vida en blanco y negro”*|
+|3044|Mochu|Robos mágicos, algún problema con Laura|✓ - *“La vida en blanco y negro”*|
 |3044|Mochu|Laura viento - Breeze|✓ - Saga **Elesterlios: segundo eclipse** (*“El rastro del viento”*)|
 |3044|Mochu|Andrés y Darya se hacen pareja|✓ - *“Una gorra con misterios”*|
 |Navidad|Mochu|Santa no aparece, Melissa va a buscar respuestas|✓ - *“El secreto de Santa Claus”*|
 |Año nuevo|Mochu|Laura prioriza salud mental|✓ - *“Un nuevo comienzo”*|
 |3045|Mochu|Alejandro luz - Elián|✓ - Saga **Elesterlios: segundo eclipse** (*“El brillo del sol”*)|
-|3045|Seikatsu|Juno, James y Willow llegan de la tierra a Seikatsu para salvarlos|✓ - *“El viaje al más allá: rescate en Seikatsu”*|
+|3045|Seikatsu|Juno, James y Willow llegan de la tierra a Seikatsu para salvarlos|✓ - Película *“El viaje al más allá: rescate en Seikatsu”*|
 |3045|Mochu|Eliza tiempo - Aisha|✓ - Saga **Elesterlios: segundo eclipse** (*“El paso del tiempo”*)|
 |3045|Mochu|Sector 42 reactivado|✗|
-|3045|Mochu|Willow, Juno y James llegan de la tierra a Mochu por un llamado|✓ - *“El viaje al más allá: confusión en Mochu”*|
+|3045|Mochu|Willow, Juno y James llegan de la tierra a Mochu por un llamado|✓ - Película *“El viaje al más allá: confusión en Mochu”*|
 |3045|Mochu|Akiko naturaleza - Ayame|✓ - Saga **Elesterlios: segundo eclipse** (*“El florecer del árbol”*)|
 |3045 & 3046|Mochu|Daniel, Connor, Joseph dejan de ser amigos|✓ - *“Una traición y tres corazones resentidos”*|
 |3045|Mochu|Melissa, Marcus, Liberty, Elio e Ishaya secuestrados. Ex-agentes mueren|✓ - *“Dos casos con misterios”*|
 |3045|Mochu|Akiko viaja, problemas en el multiverso|✓ - *“Multiversos”*|
 |3045-46|Mochu y Sombrarix|Adam y compañía viajan a Sombrarix|✓ - *“Expedición Sombrarix: renacer”*|
-|3045|Seikatsu|James, Willow y Juno viajan entre Mochu y Seikatsu en busca de Marcus|✓ - *“El viaje al más allá: búsqueda en Shénmì”*|
+|3045|Seikatsu|James, Willow y Juno viajan entre Mochu y Seikatsu en busca de Marcus|✓ - Película *“El viaje al más allá: búsqueda en Shénmì”*|
 |3045|Mochu|Onceava generación de prototipos en la asociación (Kai, Cole, Shayla)|✗|
 |3045-46|Mochu|Teatro destruido en New Sydney, Yindee escapa, Jadyn entra al sector 1|✓ - *“El cadáver de la mariposa perdida”*|
 |3045-46|Mochu|Explosión al sur del distrito de Agensca, conocemos a "Delia"|✓ - *“El secreto de Delia”*|
