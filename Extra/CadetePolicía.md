@@ -1,7 +1,7 @@
-1. Wisteria Samdihar
+1. Wisteria Samdirhar
 2. Lynn Cateressa
 3. Teresa Voffkarister
-4. Ianthe Pariksha
+4. Ianthe Redigis
 5. Kyria Hoorosa
 6. Cletis Karcamel
 7. Ravya Fabellia
