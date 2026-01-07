@@ -4,7 +4,7 @@
 |🟨|Uso de forma especial|
 |🟥|Inactivo|
 
-|№|ELESTERLIO|¿Uso?|VISTERLIO|¿Uso?|
+|№|ELESTERLIO|Uso|VISTERLIO|Uso|
 |-|-|-|-|-|
 |1|Memoria|🟩|Olvido|🟩|
 |2|Naturaleza|🟩|Trampa|🟩|
