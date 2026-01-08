@@ -32,17 +32,20 @@
 28. Cap 28: Reckoning
 29. Cap 29: Aviones de un solitario.
 30. Cap 30: Navidad, dulce Navidad, hoy los RKIM atacarán (Especial de Navidad/final de temporada 1)
-31. Cap 31: El fuerte, la astuta y el gato cambiaformas:origen (Especial de Navidad/final de temporada 2)
+31. Cap 31: El fuerte, la astuta y el gato cambiaformas: origen (Especial de Navidad/final de temporada 2)
 
 ***
 
 # TEMPORADA 2 🌹
 
-1. Cap 1: El día que no es para aprender
-2. Cap 2: Deskari Equilibria
-3. Cap 3: Viaje en Solerdia
-4. Cap 4: Dubishka
-5. Cap 5: Encuentro casual en el Shénmoha
-6. Cap 6: ElesVister: ataque a la Investigación
+1. Cap 1: Deskari Equilibria
+2. Cap 2: El día que no es para aprender
+3. Cap 3: Engaño cambiaformas
+4. Cap 4: Viaje en Solerdia
+5. Cap 5: Dubishka
+6. Cap 6: Encuentro casual en el Shénmoha
+7. Cap 7: ElesVister: ataque a la Investigación
 
-# Temporada 3 🌼
+***
+
+# TEMPORADA 3 🌼
