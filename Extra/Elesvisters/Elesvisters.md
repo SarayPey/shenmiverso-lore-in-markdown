@@ -1,10 +1,10 @@
 |Símbolo|Significado|
 |-|-|
 |🟩|Uso común|
-|🟨|Usado de forma especial|
+|🟨|Uso de forma especial|
 |🟥|Inactivo|
 
-|№|ELESTERLIO|En uso|VISTERLIO|En uso|
+|№|ELESTERLIO|Uso|VISTERLIO|Uso|
 |-|-|-|-|-|
 |1|Memoria|🟩|Olvido|🟩|
 |2|Naturaleza|🟩|Trampa|🟩|
