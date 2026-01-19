@@ -7,7 +7,7 @@
 |??? A.C|Tierra|Se crea la tierra|✗|
 |???|Tierra y Shénmì|Terrícolas hacen que habitantes de mundos de Shénmì sean odiados|✗|
 |1545|Tierra y Mochu|Mairead Petridis secuestrada|✗|
-|1828|Mochu|Idrila nace|✗|
+|1825|Mochu|Idrila nace|✗|
 |1838|Mochu|Harkan Fragmadon nace|✗|
 |1847|Mochu|Zhao nace|✗|
 |1848|Mochu|Elvira nace|✗|
@@ -64,7 +64,7 @@
 |2018|Tierra|Julián y su familia pierden su casa|✗|
 |2020|Mochu|Primer Neseca|✗|
 |2023|Tierra|James poseído|✗|
-|2025|Tierra|EcoClub se crea|✗|
+|2025|Tierra|EcoClub se crea con los miembros que se conocen hoy en día|✗|
 |2056|Mochu|Hasikari se retira, coronación a Cercilya|✗
 |2121|Mochu|Nox nace|✗|
 |2122|Mochu|Estela nace|✗|
