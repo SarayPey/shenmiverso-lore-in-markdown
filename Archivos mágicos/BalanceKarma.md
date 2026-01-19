@@ -15,5 +15,6 @@ Aquellos que poseen una de estas habilidades pueden controlar lo que pasa a su a
 ## Mochu
 
 |Qatirisuko|Sukotiriqa|Año|
+|-|-|-|
 |Salva Alyster|Dorian Alyster|3020-Presente|
 |Kiyoshi (RIP)|Wyatt Rivera (RIP)|2???-2???|
