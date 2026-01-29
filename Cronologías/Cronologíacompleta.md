@@ -65,6 +65,7 @@
 |2020|Mochu|Primer Neseca|✗|
 |2023|Tierra|James poseído|✗|
 |2025|Tierra|EcoClub se crea con los miembros que se conocen hoy en día|✗|
+|2025|Tierra|ArtClub se crea con los miembros que se conocen hoy en día|✗|
 |2056|Mochu|Hasikari se retira, coronación a Cercilya|✗
 |2121|Mochu|Nox nace|✗|
 |2122|Mochu|Estela nace|✗|

@@ -7,8 +7,7 @@
 *¡Y tú puedes ser parte! Desde dar ideas de aventuras hasta votar por el mejor personaje de la semana. ¡Siempre psuedes definir el siguiente viajes de estos personajes llenos de amor que dar y (quizás) recibir.*  
 
 **Géneros:** Reality, comedia, RPG, musical, acción, drama, ciencia ficción, fantasía, aventura, TRAUMAS.  
-**Duración:** Lo que yo quiera.  
-**Temporada:** Lo que me alcance.  
+**Temporada:** Lo que me alcance. (28-33 capítulos cada una)  
 **Producción:** 2025.  
 **Idea original:** SarayPey (yo).  
 **Público:** 15+ (Contiene temas sensibles).
