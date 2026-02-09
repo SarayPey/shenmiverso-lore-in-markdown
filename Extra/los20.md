@@ -333,7 +333,7 @@ Salió bien, pero esta IA robótica era usada para enseñar a militares, por lo 
 **En el presente:** Michael es uno de lo más efectivos en lo que respecta a reparar cosas, tanto por su habilidad de nacimiento como por sus integraciones robóticas.  
 **Cinco datos:**  
   1. Hay piezas que no se pintaron, que están al descubierto. Sus alas robóticas son parte de los agregados para mantenerlo estable.  
-  2. Por la enfermedad, no siente dolor en sus partes humanas, por lo que no siente cuando se enferma. Además, no es capaz de ponerse límites en algo que le guste y es fácil que se obsesione o se vuelva adicto a algo para complacer al resto y especialmente a Pari, pues sus emociones son inestables (por un tiempo fue adicto a los tecnoquímicos porque Pari le dijo que era bueno probar su propio invento).
+  2. Por la enfermedad, no siente dolor en sus partes humanas, por lo que no siente cuando se enferma. Además, no es capaz de ponerse límites en algo que le guste y es fácil que se obsesione o se vuelva adicto a algo para complacer al resto y especialmente a Pari, pues sus emociones son inestables (por un tiempo fue adicto a los tecnoquímicos porque Pari le dijo que era bueno probar su propio invento).  
   3. Uno de sus ojos fue reemplazado totalmente con uno robótico, por ahí es cómo saben cuándo Pari habla y tiene señales sobre su estado.  
   4. Tiene cierto interés por Melissa, pero trata de mantenerlo oculto porque su IA podría delatarlo.  
   5. Le gusta inventar cosas como compensación por lo fallado que quedo su hemisferio creativo, incluso usa sus propias piezas robóticas para sus inventos. De hecho, inventó unas medicinas y suplementos médicos para robots, que se le denomina como tecnoquímicos.  

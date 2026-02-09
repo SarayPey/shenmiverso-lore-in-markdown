@@ -10,16 +10,16 @@
 **Temporada:** Lo que me alcance. (28-33 capítulos cada una)  
 **Producción:** 2025.  
 **Idea original:** SarayPey (yo).  
-**Público:** 15+ (Contiene temas sensibles).
+**Público:** 15+ (Contiene temas sensibles).  
 
 
 ## Formatos usados en la producción:
 
-(Acción).
+(Acción).  
 
-**Personaje:** Texto.
+**Personaje:** Texto.  
 
-*(Pensamientos)*.
+*(Pensamientos)*.  
 
 *~Cantando~*
 
@@ -40,7 +40,7 @@ Cuando hay nuevo personaje:
 ### ☄ NUEVO PERSONAJE
 
 [Nombre] [Apellido] (♂️♀️) - X años  
-[Descripción].
+[Descripción].  
 
 *—[Diálogo de presentación].*  
 ★☆★☆★

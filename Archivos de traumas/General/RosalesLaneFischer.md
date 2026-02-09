@@ -100,7 +100,7 @@ Para pasar su tiempo libre, James buscaba cualquier cosa sobre el paradero de Ma
 
 Su actitud bromista y arriesgada era la mejor manera de sobrellevar el trauma mientras buscaba la forma de revertir errores y problemas que no eran su culpa, sino de la irresponsabilidad de sus padres por no vigilar a los chicos y, en su lugar, lanzar su remordimiento a él.
 
-Juno hizo nuevos amigos, tanto James como Willow vieron que no eran la mejor opción para ella, pues no eran muy leales o buenos.
+Juno hizo nuevos amigos, tanto James como Willow vieron que no eran la mejor opción para ella, pues no eran muy leales o buenos.  
 En ese tiempo, James empezó a salir en secreto a caminar por un bosque cercano a la ciudad, era más pequeño que el de su hogar, pero se sentía seguro ahí, sin embargo, sus padres lo empezaron a regañar cada vez que descubrían sus escapes secretos, lo que hacía que la relación familiar fuera cada vez más tensa.
 
 Juno escuchó una de tantas discusiones, y algo de eso se le quedó grabado.
@@ -247,7 +247,7 @@ El cielo se torna oscuro a su alrededor, las linternas se apagan y James sintió
 
 Después de unos segundos, los cultistas se fueron y James se quedó un segundo contemplando el lugar antes de correr hasta su cuarto.
 
-Cuando llegó, se sentía abrumado, todo era extraño a su alrededor, incluso su propio reflejo le parecía fuera de lugar, como si los del culto le hubieran hecho algo, o la misma "diosa".
+Cuando llegó, se sentía abrumado, todo era extraño a su alrededor, incluso su propio reflejo le parecía fuera de lugar, como si los del culto le hubieran hecho algo, o la misma "diosa".  
 Entonces escuchó una suave voz en su cabeza, unas risas bastante simpáticas.
 
 —¿Hola? ¿Quién está ahí?
@@ -371,7 +371,7 @@ Ambas se miraron confundidas ante sus palabras.
 
 —Somos mellizos.
 
-—Ya veo, el caso es que su amigo necesita de ustedes en este momento.
+—Ya veo, el caso es que su amigo necesita de ustedes en este momento.  
 —¿Por qué o para qué?
 
 Wisteria hizo una señal, mostrando unos dibujos de la cueva.

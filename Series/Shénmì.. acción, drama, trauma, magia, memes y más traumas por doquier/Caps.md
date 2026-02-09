@@ -30,7 +30,7 @@
 26. Cap 26: Humanidad metalizada
 27. Cap 27: Ojos de terror
 28. Cap 28: Reckoning
-29. Cap 29: Aviones de un solitario.
+29. Cap 29: Aviones de un solitario.  
 30. Cap 30: Navidad, dulce Navidad, hoy los RKIM atacarán (Especial de Navidad/final de temporada 1)
 31. Cap 31: El fuerte, la astuta y el gato cambiaformas: origen (Especial de Navidad/final de temporada 2)
 

@@ -502,7 +502,7 @@ Arma:
 Magia: Carmesí (Crimson)
 Arma: Cortadora de almas carmesí  
 - El daño que haga su espada puede trascender otros planos, siendo capaz de destruir almas y hacer daño a espíritus, muertos o espectros.  
-- Puede concentrar sus ataques mágicos en la punta de la espada y atacar con presión, como si de un francotirador se tratase.
+- Puede concentrar sus ataques mágicos en la punta de la espada y atacar con presión, como si de un francotirador se tratase.  
 10-02: Naira Athumani - Tanzania (China) ♀️  
 Magia: Azur (Azure)
 Arma: Guja del [] Azur

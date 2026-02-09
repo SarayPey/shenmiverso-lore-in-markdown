@@ -10,4 +10,4 @@
 **Temporada:** Lo que me alcance.  
 **Producción:** 2025.  
 **Idea original:** SarayPey (yo).  
-**Público:** 15+ (Contiene temas sensibles).
+**Público:** 15+ (Contiene temas sensibles).  

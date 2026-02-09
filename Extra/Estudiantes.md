@@ -2,7 +2,7 @@
 
 ## Generalizadas
 
-### Escuela
+### Escuela Zetosku
 
 1. Akiko Rosales
 2. Jade Hiryysa

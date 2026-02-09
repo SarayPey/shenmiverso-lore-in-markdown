@@ -2,13 +2,13 @@
 
 ⇢✮✮✮⋯⋯⋯✶✷✵✷✶⋯⋯⋯✮✮✮⇠
 
-En el Shénmìverso, el tiempo pasa diferente que en nuestro mundo, Seikatsu y Mochu orbitan alrededor del sol de su galaxia de forma diferente.
+En el Shénmìverso, el tiempo pasa diferente que en nuestro mundo, Seikatsu y Mochu orbitan alrededor del sol de su galaxia de forma diferente.  
 
 ⇢✮✮✮⋯⋯⋯✶✷✵✷✶⋯⋯⋯✮✮✮⇠
 
 「 Mochu 」
 
-- Actualmente están en el 3046, los años duran 15 meses, cada uno entre 30 y 33 días, los cuales duran 30 horas, con 15 horas de luz y 15 de oscuridad.
+- Actualmente están en el 3046, los años duran 15 meses, cada uno entre 30 y 33 días, los cuales duran 30 horas, con 15 horas de luz y 15 de oscuridad.  
 Meses:
 |N°|Mochibria|Inglés|Español|Días mochibrias|Días terrícolas|
 |-|-|-|-|-|-|
@@ -34,7 +34,7 @@ Meses:
 
 「 Seikatsu 」
 
-- Están en el 3046, los años duran 15 meses y cada uno entre 29 y 32 días de 33 horas, con 16,5 horas de luz y 16,5 de oscuridad.
+- Están en el 3046, los años duran 15 meses y cada uno entre 29 y 32 días de 33 horas, con 16,5 horas de luz y 16,5 de oscuridad.  
 
 ``Extra: es más grande que la tierra y un poco más pequeño que su planeta hermano, Mochu. Además que su forma es esférica con anillos, los cuales, en vez de ser cadáveres de estrellas, son como islas que forman un "syrelat arpiliage" (archipiélago estelar), que resulta en el reino más grande de Seikatsu: Syrealage.``
 ``Entre las diferentes islas hay polvo de estrellas y rocío de agua, que causa una especie de "mar estelar.``
@@ -49,16 +49,16 @@ Meses:
 
 「 Rebel AU 」
 
-- A diferencia del universo original, en Rebel AU es un año de diferencia, estando en el 3047.
+- A diferencia del universo original, en Rebel AU es un año de diferencia, estando en el 3047.  
 
 「 Fairytail AU 」
 
-- En Fairytail AU es difícil de calcular, ya que son diferentes historias de diferentes épocas pasando al mismo tiempo.
+- En Fairytail AU es difícil de calcular, ya que son diferentes historias de diferentes épocas pasando al mismo tiempo.  
 
 「 Villain AU 」
 
-- En este universo pasaron 2 años desde los hechos del presente, estando en el 3048.
+- En este universo pasaron 2 años desde los hechos del presente, estando en el 3048.  
 
 「 VillainRedemption AU  」
 
-- Aquí pasó un año más que en Villain AU, por lo que esta variante está ubicada en el año 3049.
+- Aquí pasó un año más que en Villain AU, por lo que esta variante está ubicada en el año 3049.  
