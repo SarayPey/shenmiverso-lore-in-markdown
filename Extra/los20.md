@@ -42,7 +42,7 @@
 
 3. Akiko Rosales  
 **Nombre completo o apodos:** Akiko Sahori Rosales Kuusuko (Apodos: Aki, Saho, Kuukiko, Akirisako —la mezcla de su nombre completo—, "Plantita del bien").  
-**Edad:** 14 años (20/Agosto/3031).  
+**Edad:** 14 años (20/Agosto/3032).  
 **Habilidad de nacimiento:** Curación (Okimantis: Eterno, Curación. Serfanías: Ver el futuro inmediato —y cambiarlo a veces).  
 **Cuishiga:** Darya Collins (Akiko: Ookamimi —tiene orejas de lobo).  
 **Gema de unión:** Pulsera.  
@@ -142,7 +142,7 @@
 
 8. Diana Ramirez  
 **Nombre completo o apodos:** Diana Jarasy Ramirez Tilkira (Apodos: Di, Dj-Diana).  
-**Edad:** 22 años (03/Marzo/3034).  
+**Edad:** 22 años (03/Marzo/3024).  
 **Habilidad de nacimiento:** Control mental con música.  
 **Anish:** Daniel Clark.  
 **Gema de unión:** Arete que usa como argollas en su gorra.  
@@ -162,7 +162,7 @@
 
 9. Daniel Clark  
 **Nombre completo o apodos:** Daniel Jesús Clark Shajari (Apodos: Dani, Dan).  
-**Edad:** 16 años (08/Mayo/3030).  
+**Edad:** 16 años (08/Mayo/3029).  
 **Habilidad de nacimiento:** Hablar con los animales. 
 **Cuishiga:** Diana Ramirez (Daniel: Inumimi —tiene orejas de perro).  
 **Gema de unión:** Arete que usa como argollas en su gorra.  
