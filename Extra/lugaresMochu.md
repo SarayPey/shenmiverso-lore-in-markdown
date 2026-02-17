@@ -63,7 +63,7 @@
 ## Yíshù
 
 - Yíshù (🍀)
-- Kimerua (🌎)
+- Kimerua (✨)
 
 ## Ñore
 

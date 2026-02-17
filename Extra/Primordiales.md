@@ -45,6 +45,6 @@
 4. Kaelor, Forjador de estrellas (Tynshas, El primer mensajero / Dannica Star, la guía de las estrellas)
 5. Riley, semi-primordial del talento (Leynstial, La lady del destino)
 6. Ela, semi-primordial del perdón (Ienstal, El lord de la realidad)
-7. Kiraesty (Rystella, La gran artista)
+7. Ichieri (Rystella, La gran artista)
 8. Naftagari, semi-primordial del origami y la educación (Rystella, La gran artista)
 9. Dubishka, semi-primordial de la compasión (Farquin, primordial de la diversión)

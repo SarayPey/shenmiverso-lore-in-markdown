@@ -83,7 +83,7 @@ INTERNACIONAL
 NINJAS (Yìshù)
 - Toshiro [] ♂️
 - Keanu [] ♂️
-- [] [] ♀️
+- Ichieri [] ♀️
 
 GUERREROS (Volcanash)
 - Faye [] ♀️ (investigadora)
@@ -106,3 +106,8 @@ CAZADORES (Kerashitsu)
 - Duncan [] ♂️
 - Hilary [] ♀️
 - Alexei [] ♂️
+
+MUNDIAL
+
+GUARDIANES
+- [] []
