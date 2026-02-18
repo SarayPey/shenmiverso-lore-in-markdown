@@ -16,7 +16,7 @@
   3. Fue cuishiga simbólica de Laura antes de que Melissa llegara.  
   4. Es una de las que siempre es mandada a resolver anomalías (digamos que, por alguna razón, el grupo debe resolver anomalías de su mundo que se filtran a otros mundos, o simplemente investigar mundos mágicos).  
   5. Es la que tiene mejor relación con todo el grupo (además de Akiko y James).  
-
+ 
 **Un secreto:** Es una elesterlia, la elesterlia del agua, exactamente, se hace llamar Irvette en honor a su entrenadora de gimnasia en la **infancia:** Irvette Ortega.  
 
 
