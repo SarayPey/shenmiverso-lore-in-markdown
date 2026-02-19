@@ -18,9 +18,9 @@ Alexa
 Diana
 22 años, DJ del grupo, cuishiga de Daniel, es cantante y guitarrista en la banda de rock Magistic, sabe danza y artes marciales, puede controlar mentes con su música, relajada, inmune a sobornos.
 Daniel
-16 años, El que habla con los animales, anish de Diana, orejas y cola de perro, perfeccionista, exigente consimo mismo, siempre pelea con Joseph y Connor, parece mujer a simple vista, animalista.
+16 años, El que habla con los animales, anish de Diana, orejas y cola de perro, perfeccionista, exigente consigo mismo, siempre pelea con Joseph y Connor, parece mujer a simple vista, animalista.
 Alec
-20 años, Fotógrafo, pareja de Violeta, cuishigo de Christian, primo lejano de Andrés, puede ver secretos y espíritus con su cámara, vivió la perdida de sus padres y hermano mayor, tímido, silencioso.
+20 años, Fotógrafo, pareja de Violeta, cuishigo de Christian, primo lejano de Andrés, puede ver secretos y espíritus con su cámara, vivió la pérdida a sus padres y hermano mayor, tímido, silencioso.
 Christian
 15 años, Chef de la cabaña, anish de Alec, orejas y cola de gato, es un chef profesional, no conoce a sus padres biológicos y fue adoptado por una pareja de abuelos amorosos, perfeccionista.
 Violeta
@@ -30,7 +30,7 @@ Emma
 James
 17 años, El paranóico que sabe que no existe, interés amoroso de Eliza, cuishigo de Joseph, ama leer y escribir, rompe la cuarta pared, tímido, relajado, curioso, puede ver a través de superficies.
 Joseph
-15 años, El caos del grupo, pareja de Alexa, anish de James, orejas y cola de conejo, hace bromas de mal gusto, molesta y golpea a Daniel, ama los videojuegos, puede encontras objetos y personas.
+15 años, El caos del grupo, pareja de Alexa, anish de James, orejas y cola de conejo, hace bromas de mal gusto, molesta y golpea a Daniel, ama los videojuegos, puede encontrar objetos y personas.
 Michael
 25 años, El ingeniero del grupo, interés amoroso de Melissa, cuishigo de Connor, es un cyborg, tiene una IA que regula su cuerpo (Jampariskarti.AI.original, o Pari), ama la mecánica y la tecnología.
 Connor
