@@ -1,4 +1,5 @@
-Adam Carter
+Adam Carter  
+
 **Nombre completo o apodos:** Adam Carter Miller (Apodos: Pichón embajador, Carter, Avecita, Ave caída).  
 **Edad:** 28-29 años (16/Julio/3016).  
 **Habilidad de nacimiento:** Memoria fotográfica (**Habilidades rama aprendidas:** Ver breves recuerdos de objetos o seres con contacto físico).  
