@@ -5,10 +5,10 @@ Adam Carter
 **Altura:** 190cm.  
 **Peso:** 57,75kg.  
 **Piel:** X.  
-**Ojos:** X.  
-**Cabello:** X.  
+**Ojos:** X.  
+**Cabello:** X.  
 **Detalles relevantes:** Ojeras y un par de cicatrices.  
-**Lore rápido:** Cuando era un niño, decidió ser detective por Maryam, por lo que fue a la escuela de criminalística a los 9 años (era el más joven de su clase), pero otros estudiantes le hicieron bullying (lo empezó Brayan, por cierto) por ocho años porque su habilidad de nacimiento no era para ser policía, siempre estaba solo porque lo aislaron sistemáticamente.  
+**Lore rápido:** Cuando era un niño, decidió ser detective por Maryam, por lo que fue a la escuela de criminalística a los 9 años (era el más joven de su clase), pero otros estudiantes le hicieron bullying (lo empezó Brayan, por cierto) por ocho años porque su habilidad de nacimiento no era para ser policía, siempre estaba solo porque lo aislaron sistemáticamente.  
 **En el presente:** Actualmente es líder y detective principal del sector 970 de la zona de Investigación de la policía.  
 **Diez datos:**  
   1. Antes de lograr ser detective, trabajó de psicólogo por unos años, así consiguió su casa.  
