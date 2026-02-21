@@ -12,7 +12,7 @@ Taylor Daniels
 **Detalles relevantes:** X.  
 **Lore rápido:** Siendo la segunda hija de los Daniels, la habilidad de Taylor se descontrola con facilidad, incluso viendo recuerdos de desconocidos, por lo que salió de casa en busca de alguien que le ayude a controlar sus habilidades.  
 **En el presente:** Es aprendiz de Saiko, una maga digna de respeto, la cual tiene a variados jóvenes en su tutela. Taylor, a pesar de no poder controlar sus habilidades todavía, tiene mejores formas de sobrellevar los recuerdos, además de haber aprendido otras magias como la magia de los cristales azules.  
-**Diez datos:**. 
+**Diez datos:**  
   1. Taylor ha ayudado a Melissa en muchas ocasiones, puesto a que ella tiene contacto con Saiko.  
   2. Normalmente Taylor oculta sus cuernos y cola de chirula.  
   3. Cómo te habrás imaginado, los desconocidos normalmente creen que es hombre, pero es mujer, aunque ya está acostumbrada.  
