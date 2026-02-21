@@ -5,8 +5,8 @@
 **Altura:** 199cm.  
 **Peso:** 45,67kg.  
 **Piel:** X.  
-**Ojos:** X.  
-**Cabello:** X.  
+**Ojos:** X.  
+**Cabello:** X.  
 **Detalles relevantes:** X.  
 **Lore rápido:** X.  
 **En el presente:** X.  
