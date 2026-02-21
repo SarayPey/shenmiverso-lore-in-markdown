@@ -1,6 +1,6 @@
 [Nombre] [Apellido]  
 **Nombre completo o apodos:** [] [] [] (**Apodos:** []).  
-**Edad:** [] años (DD/MES/AAAA).  
+**Edad:** [] años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** X (**Serfanías:** X. **Okimantis** X. **Gamkinas:** X.).  
 **Altura:** 199cm.  
 **Peso:** 45,67kg.  
