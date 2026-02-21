@@ -1,5 +1,5 @@
 [Nombre] [Apellido]  
-**Nombre completo o apodos:** [] [] [] (**Apodos:** []).  
+**Nombre completo o apodos:** [] [] [] (**Apodos:** []).  
 **Edad:** [] años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** X (**Serfanías:** X. **Okimantis** X. **Gamkinas:** X.).  
 **Altura:** 199cm.  
