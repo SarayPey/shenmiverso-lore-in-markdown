@@ -1,14 +1,13 @@
 Adam Carter  
-
 **Nombre completo o apodos:** Adam Carter Miller (Apodos: Pichón embajador, Carter, Avecita, Ave caída).  
 **Edad:** 28-29 años (16/Julio/3016).  
 **Habilidad de nacimiento:** Memoria fotográfica (**Habilidades rama aprendidas:** Ver breves recuerdos de objetos o seres con contacto físico).  
 **Especie:** Mochibria.  
 **Altura:** 190cm.  
 **Peso:** 57,75kg.  
-**Piel:** X.  
-**Ojos:** X.  
-**Cabello:** X.  
+**Piel:** Cálida.  
+**Ojos:** Azules.  
+**Cabello:** Rojo, media chasquilla pálida, un mechón fontral y uno lateral dorados y un mechon rojo muy pálido.  
 **Detalles relevantes:** Ojeras y un par de cicatrices.  
 **Lore rápido:** Cuando era un niño, decidió ser detective por Maryam, por lo que fue a la escuela de criminalística a los 9 años (era el más joven de su clase), pero otros estudiantes le hicieron bullying (lo empezó Brayan, por cierto) por ocho años porque su habilidad de nacimiento no era para ser policía, siempre estaba solo porque lo aislaron sistemáticamente.  
 **En el presente:** Actualmente es líder y detective principal del sector 970 de la zona de Investigación de la policía.  

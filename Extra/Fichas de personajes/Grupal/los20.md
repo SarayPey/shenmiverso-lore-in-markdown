@@ -1,13 +1,20 @@
 (⚠️ TW: AD1CCI0N, MU3RT3, SU¡C1D1O, GU3RR4, T0R7UR4 ⚠️)
 
 1. Darya Collins  
-**Nombre completo o apodos:** Darya Lía Collins Suárez (Apodos: Lía, Lirya)  
+**Nombre completo o apodos:** Darya Lía Collins Suárez (**Apodos:** Lía, Lirya)  
 **Edad:** 20 años (18/Marzo/3026)  
 **Habilidad de nacimiento:** Detectar mentiras y verdades.  
+**Especie:** Mochibria.  
+**Altura:** 198cm.  
+**Peso:** 77,94kg.  
+**Piel:** Cálida.  
+**Ojos:** Azules.  
+**Cabello:** Negro con puntas naranjas y un mechón naranjo.  
+**Detalles relevantes:** N/A.  
 **Anish:** Akiko Rosales  
 **Gema de unión:** Pulsera  
 **Rol en el grupo:** Fundadora, madre del grupo.  
-**Lore rápido:** No tiene un lore traumático, pero descubrió que era cuishiga de Akiko cuando tenía 16 años y desde entonces la cuidó (lo que explica que ambas se traten como hermanas). Recientemente, su madre se había enfermado y Akiko la ayudó a salvarla.  
+**Lore rápido:** No tiene un lore traumático, pero descubrió que era cuishiga de Akiko cuando tenía 16 años y desde entonces la cuidó (lo que explica que ambas se traten como hermanas). Recientemente, su madre se había enfermado y Akiko la ayudó a salvarla.  
 **Cómo llegó al grupo:** Un día cualquiera a sus 17 años, Andrés (que era un compañero suyo en la escuela) se encontraron para charlar y entre ambos pensaron en un grupito pequeño de cuishigos y sus anishes donde pudieran enfrentar sus temores y ser aceptados, por lo que ambos son fundadores.  
 **En el presente:** Actualmente es la líder, aunque no lo parezca, pareja de Andrés y mejor amiga de Akiko.  
 **Cinco datos:**  
@@ -16,14 +23,21 @@
   3. Fue cuishiga simbólica de Laura antes de que Melissa llegara.  
   4. Es una de las que siempre es mandada a resolver anomalías (digamos que, por alguna razón, el grupo debe resolver anomalías de su mundo que se filtran a otros mundos, o simplemente investigar mundos mágicos).  
   5. Es la que tiene mejor relación con todo el grupo (además de Akiko y James).  
- 
-**Un secreto:** Es una elesterlia, la elesterlia del agua, exactamente, se hace llamar Irvette en honor a su entrenadora de gimnasia en la **infancia:** Irvette Ortega.  
+
+**Un secreto:** Es una elesterlia, la elesterlia del agua, exactamente, se hace llamar Irvette en honor a su entrenadora de gimnasia en la infancia: Irvette Ortega.  
 
 
 2. Andrés Johnson  
-**Nombre completo o apodos:** Andrés Camilo Johnson Rojas (Apodos: Andre, "Picantito").  
+**Nombre completo o apodos:** Andrés Camilo Johnson Rojas (**Apodos:** Andre, "Picantito").  
 **Edad:** 20 años (14/Febrero/3026).  
 **Habilidad de nacimiento:** Telekinesis.  
+**Especie:** Mochibria.  
+**Altura:** 198cm.  
+**Peso:** 84,96kg.  
+**Piel:** Cálida.  
+**Ojos:** Azules.  
+**Cabello:** Naranjo oscuro con puntas naranjas y un mechón naranjo.  
+**Detalles relevantes:** N/A.  
 **Anish:** Alejandro Rivera.  
 **Gema de unión:** Pulsera  
 **Rol en el grupo:** Fundador, casamentero del grupo.  
@@ -41,14 +55,21 @@
 
 
 3. Akiko Rosales  
-**Nombre completo o apodos:** Akiko Sahori Rosales Kuusuko (Apodos: Aki, Saho, Kuukiko, Akirisako —la mezcla de su nombre completo—, "Plantita del bien").  
+**Nombre completo o apodos:** Akiko Sahori Rosales Kuusuko (**Apodos:** Aki, Saho, Kuukiko, Akirisako —la mezcla de su nombre completo—, "Plantita del bien").  
 **Edad:** 14 años (20/Agosto/3032).  
-**Habilidad de nacimiento:** Curación (Okimantis: Eterno, Curación. Serfanías: Ver el futuro inmediato —y cambiarlo a veces).  
+**Habilidad de nacimiento:** Curación (**Okimantis:** Eterno, Curación. **Serfanías:** Ver el futuro inmediato —y cambiarlo a veces).  
+**Especie:** Mochibria.  
+**Altura:** 135cm.  
+**Peso:** 45kg.  
+**Piel:** Rojiza.  
+**Ojos:** Heterocromía, uno griz y otro dorado.  
+**Cabello:** Dorado, con una mecha amarilla.  
+**Detalles relevantes:** Siempre tiene algo de sonrojo natural, una mancha amarila en la zona de su ojo dorado.  
 **Cuishiga:** Darya Collins (Akiko: Ookamimi —tiene orejas de lobo).  
 **Gema de unión:** Pulsera.  
 **Rol en el grupo:** Peluche abrazable.  
 **Lore rápido:** Es la hija del medio de una familia pobre, nació con inmortalidad, a los 3 años recibió su Serfanía de visión del futuro inmediato. A los 6 empezó a trabajar en un mercado para conseguir los medicamentos para su madre enferma. A los 9 casi 10 años adquirió orejas y cola de lobo por una vacuna errónea, por lo tuvo que ir a Senlín a encontrarse con su cuishiga.  
-**Cómo llegó al grupo:** Al ser anish de una fundadora de los 20 (Darya), automáticamente entró al grupo.  
+**Cómo llegó al grupo:** Al ser anish de una fundadora de los 20 (Darya), automáticamente entró al grupo cuando se fundó.  
 **En el presente:** Es la más querida y protegida del grupo. Mejor amiga de Darya y muy confiable.  
 **Cinco datos:**  
   1. Adora los dulces, pero es alérgica al maní.  
@@ -60,15 +81,22 @@
 **Un secreto:** Tiene el elesterlio de la naturaleza, se hace llamar Ayame porque le pareció bonito el nombre. La flor que le dió a Adam es una que inventó con ese poder, crece y se multiplica con buenas acciones, pero se marchita con malas acciones (todo debe ser del corazón).  
 
 
-4. Alejandro Rivera
-**Nombre completo o apodos:** Alejandro Fain Sheryon Rivera Doameria (Apodos: Alej, Faryon, Fain, Sher).  
+4. Alejandro Rivera  
+**Nombre completo o apodos:** Alejandro Fain Sheryon Rivera Doameria (**Apodos:** Alej, Faryon, Fain, Sher).  
 **Edad:** 15 años (11/Octubre/3031).  
-**Habilidad de nacimiento:** Manipular las emociones del resto y las suyas (Okimantis: Maldición, Malcursikas: Hechizo de la inversa —Léase ***Lore rápido***).  
+**Habilidad de nacimiento:** Manipular las emociones del resto y las suyas (**Okimantis:** Maldición. **Malcursikas:** Hechizo de la inversa —Léase ***Lore rápido***).  
+**Especie:** Mochibria.  
+**Altura:** 165cm.  
+**Peso:** 58,63kg.  
+**Piel:** Pálida.  
+**Ojos:** Negro, con uno gris.  
+**Cabello:** Dorado con puntas más pálidas, un mechon dorado con amarillo.  
+**Detalles relevantes:** Cicatri en el ojo  gris.  
 **Cuishigo:** Andrés Johnson (Alejandro:  Ookamimi —tiene orejas de lobo).  
 **Gema de unión:** Pulsera.  
 **Rol en el grupo:** El que calma las discusiones.  
 **Lore rápido:** Por una maldición que le lanzaron a Wyatt Rivera por algo imperdonable que hizo, Alejandro nació con el hechizo de la inversa, lo que causó que, a diferencia de su abuelo paterno, tuviera mala suerte y las personas desconfíen en él y se olviden de él inmediatamente a menos de recibir un regalo, no ser humanos o tener memoria fotográfica. Su familia desapareció y Andrés lo encontró llorando en un parque, como vió que era su anish (automáticamente eso es un regalo), se lo llevó con él.  
-**Cómo llegó al grupo:** Al ser el anish de un fundador (Andrés), entró automáticamente cuando se hizo el grupo.  
+**Cómo llegó al grupo:** Al ser el anish de un fundador (Andrés), entró automáticamente cuando se fundó el grupo.  
 **En el presente:** Mejor amigo de Andrés y Akiko, trata de pasar desapercibido para evitar que miren mal al grupo por su maldición.  
 **Cinco datos:**  
   1. La cicatriz en su ojo izquierdo es por un cuchillo que le pasaron cuando unos terrícolas entraron a robar a su casa una vez.  
@@ -81,9 +109,16 @@
 
 
 5. Laura Flores  
-**Nombre completo o apodos:** Laura Rosalee Kaili Flores Belyesa (Apodos: Lau, Rosy).  
+**Nombre completo o apodos:** Laura Rosalee Kaili Flores Belyesa (**Apodos:** Lau, Rosy).  
 **Edad:** 16 años (07/Agosto/3030).  
 **Habilidad de nacimiento:** Puede aprender todos los idiomas posibles.  
+**Especie:** Mochibria.  
+**Altura:** 158cm.  
+**Peso:** 47kg.  
+**Piel:** Morena.  
+**Ojos:** Verdes.  
+**Cabello:** Marrón.  
+**Detalles relevantes:** Alas blancas, un moño verde en la cola.  
 **Cuishiga:** Melissa Torres (Laura: Nekomimi —tiene orejas y cola de gato).  
 **Gema de unión:** Reloj.  
 **Rol en el grupo:** A la que hay que proteger de su madre que la quiere llevar a casa.  
@@ -101,9 +136,16 @@
 
 
 6. Eliza Evans  
-**Nombre completo o apodos:** Eliza Evans Sarfila (Apodos: Eli).  
+**Nombre completo o apodos:** Eliza Evans Sarfila (**Apodos:** Eli).  
 **Edad:** 17 años (25/Noviembre/3028).  
-**Habilidad de nacimiento:** Poder entrar a los libros. 
+**Habilidad de nacimiento:** Poder entrar a los libros.  
+**Especie:** Mochibria.  
+**Altura:** 162cm.  
+**Peso:** 68.1kg.  
+**Piel:** Cálida.  
+**Ojos:** Heterocromía, uno verde lima y otro verde agua.  
+**Cabello:** Negro con puntas más grises, normalmente sobre uno de sus hombros.  
+**Detalles relevantes:** N/A.  
 **Anish:** Alexa Miller.  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** Pacificadora.  
@@ -121,9 +163,16 @@
 
 
 7. Alexa Miller  
-**Nombre completo o apodos:** Alexa Yilya Miller Dermisa (Apodos: Alexya, Lexi, Yiyi).  
+**Nombre completo o apodos:** Alexa Yilya Miller Dermisa (**Apodos:** Alexya, Lexi, Yiyi).  
 **Edad:** 17 años (05/Enero/3029).  
 **Habilidad de nacimiento:** Superfuerza.  
+**Especie:** Mochibria.  
+**Altura:** 177cm.  
+**Peso:** 86.72kg (Y parte importante de eso es en musculatura).  
+**Piel:** Pálida.  
+**Ojos:** Verdes.  
+**Cabello:** Rojo con mechones más pálidos.  
+**Detalles relevantes:** Una de sus orejas de conejo tiene pelaje más pálido, tiene musculatura.  
 **Cuishiga:** Eliza Evans (Alexa: Usagimimi —tiene orejas de conejo).  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** Desde llevar cosas hasta ser la más resistente físicamente del grupo ante una catástrofe.  
@@ -141,9 +190,16 @@
 
 
 8. Diana Ramirez  
-**Nombre completo o apodos:** Diana Jarasy Ramirez Tilkira (Apodos: Di, Dj-Diana).  
+**Nombre completo o apodos:** Diana Jarasy Ramirez Tilkira (**Apodos:** Di, Dj-Diana).  
 **Edad:** 22 años (03/Marzo/3024).  
 **Habilidad de nacimiento:** Control mental con música.  
+**Especie:** Mochibria.  
+**Altura:** 191cm.  
+**Peso:** 85kg.  
+**Piel:** Morena.  
+**Ojos:** Marrones.  
+**Cabello:** Negro con mechones azules.  
+**Detalles relevantes:** N/A.  
 **Anish:** Daniel Clark.  
 **Gema de unión:** Arete que usa como argollas en su gorra.  
 **Rol en el grupo:** Es la que tiene entradas gratis por trabajar como guitarrista y vocalista en Magistic, además de la que enseña artes marciales en el grupo.  
@@ -161,9 +217,16 @@
 
 
 9. Daniel Clark  
-**Nombre completo o apodos:** Daniel Jesús Clark Shajari (Apodos: Dani, Dan).  
+**Nombre completo o apodos:** Daniel Jesús Clark Shajari (**Apodos:** Dani, Dan).  
 **Edad:** 16 años (08/Mayo/3029).  
 **Habilidad de nacimiento:** Hablar con los animales. 
+**Especie:** Mochibria.  
+**Altura:** 166cm.  
+**Peso:** 40kg.  
+**Piel:** Oliva pálido.  
+**Ojos:** Rosas.  
+**Cabello:**Castaño, con un mechón naranjo.  
+**Detalles relevantes:** Cicatricez de golpes y cortes, una cicatríz desde su hombro derecho hasta su espalda, anatomía levemente afeminada.  
 **Cuishiga:** Diana Ramirez (Daniel: Inumimi —tiene orejas de perro).  
 **Gema de unión:** Arete que usa como argollas en su gorra.  
 **Rol en el grupo:** Naturalista (Porque habla con los animales).  
@@ -181,9 +244,16 @@
 
 
 10. Alec Holland  
-**Nombre completo o apodos:** Alec Fyztar Holland Herselka (Apodos: Al, fotógrafo, mini-Alan).  
+**Nombre completo o apodos:** Alec Fyztar Holland Herselka (**Apodos:** Al, fotógrafo, mini-Alan).  
 **Edad:** 20 años (19/Agosto/3026).  
 **Habilidad de nacimiento:** Ver los secretos y espíritus de otros tras las cámaras.  
+**Especie:** Mochibria.  
+**Altura:** 185cm.  
+**Peso:** 76,84kg.  
+**Piel:** Bronceada.  
+**Ojos:** Marrones.  
+**Cabello:** Naranjo oscuro.  
+**Detalles relevantes:** Gafas ovaladas de marco naranjo, marca de diamante en su mejilla, siempre con su cámara.  
 **Anish:** Christian Garten.  
 **Gema de unión:** Broche.  
 **Rol en el grupo:** Fotógrafo sensible que todos aman.  
@@ -201,9 +271,16 @@
 
 
 11. Violeta Anderson  
-**Nombre completo o apodos:** Violeta Julieta Anderson Pardo (Apodos: Vi, Violeta, Vivi).  
+**Nombre completo o apodos:** Violeta Julieta Anderson Pardo (**Apodos:** Vi, Violeta, Vivi).  
 **Edad:** 20 años (28/Mayo/2000).  
 **Habilidad de "nacimiento":** Velocidad, diseños hermosos.  
+**Especie:** Terrícola.  
+**Altura:** 183cm.  
+**Peso:** 84,29kg.  
+**Piel:** Morena.  
+**Ojos:** Celeste, uno se hizo violeta cuando llegó a Mochu.  
+**Cabello:** Rojo ondulado, con un mechón violeta.  
+**Detalles relevantes:** una marca de rayo en la zona de su ojo violeta.  
 **Anish:** Emma Park.  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** Diseñadora textil, sobornadora y la más divertida.  
@@ -221,9 +298,16 @@
 
 
 12. Emma Park  
-**Nombre completo o apodos:** Emma Solsy Park Doremi (Apodos: Emy, Notita dorada).  
+**Nombre completo o apodos:** Emma Solsy Park Doremi (**Apodos:** Emy, Notita dorada).  
 **Edad:** 16 años (25/Agosto/3030).  
 **Habilidad de nacimiento:** Telekinesis cantante.  
+**Especie:** Mochibria.  
+**Altura:** 160cm.  
+**Peso:** 61.4kg.  
+**Piel:** Morena.  
+**Ojos:** Celestes.  
+**Cabello:** Rubio oscuro.  
+**Detalles relevantes:** Gafas ovaladas de marco azul, diadema morada con rosas moradas.  
 **Cuishiga:** Violeta Anderson (Emma: Nekomimi —tiene orejas de gato).  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** Contención emocional.  
@@ -241,13 +325,20 @@
 
 
 13. Christian Garten  
-**Nombre completo o apodos:** Cristian Clement Garten Moretti (Apodos: Chris).  
+**Nombre completo o apodos:** Cristian Clement Garten Moretti (**Apodos:** Chris).  
 **Edad:** 15 años (28/Diciembre/3030).  
 **Habilidad de nacimiento:** Cocina magistral.  
+**Especie:** Mochibria.  
+**Altura:** 159cm.  
+**Peso:** 46.7kg.  
+**Piel:** Morena.  
+**Ojos:** Dorados.  
+**Cabello:** Naranjo oscuro, con puntas más claras.  
+**Detalles relevantes:** Cicatrices de maltrato, suele usar guantes de cocina y su delantal.  
 **Cuishigo:** Alec Holland (Christian: Nekomimi —tiene orejas de gato).  
 **Gema de unión:** Broche.  
 **Rol en el grupo:** Chef del grupo.  
-**Lore rápido:** Fue adoptado por una pareja de ancianos que lo encontraron en la puerta de su casa (su madre lo dejó ahí para salvarlo de posibles peligros), estos lo cuidaron y le ayudaron a usar su habilidad culinaria para animar a las personas, sin embargo, cuando ellos murieron, Christian fue enviado a un orfanato terrícola donde lo golpearon por ser un mochibria hasta logró escapar.  
+**Lore rápido:** Fue adoptado por una pareja de ancianos que lo encontraron en la puerta de su casa (su madre lo dejó ahí para salvarlo de posibles peligros), estos lo cuidaron y le ayudaron a usar su habilidad culinaria para animar a las personas, sin embargo, cuando ellos murieron, Christian fue enviado a un orfanato terrícola donde lo golpearon por ser un mochibria hasta que una noche logró escapar.  
 **Cómo llegó al grupo:** Llegó empapado y hambriento a la puerta de la cabaña en una noche de lluvia, suplicando hasta las lágrimas por un escondite de los terrícolas que lo perseguían (Estuvo corriendo desde el distrito de Lonea hasta el de Senlín, muy lejos), Alec lo recibió y lo ayudó a esconderse.  
 **En el presente:** Es cocinero de la casa (a menos que esté estudiando, pues logró retomar sus estudios) y es el encargado de los banquetes, aunque Alec lo cuida para que no descompense.  
 **Cinco datos:**  
@@ -261,9 +352,16 @@
 
 
 14. James Larson  
-**Nombre completo o apodos:** James Clerick Larson (Apodos: Librero emo, Jamie).  
+**Nombre completo o apodos:** James Clerick Larson (**Apodos:** Librero emo, Jamie).  
 **Edad:** 17 años (21/Junio/3029).  
-**Habilidad de nacimiento:** Ver a través de las paredes (gamkina: Soreiyahomagia).  
+**Habilidad de nacimiento:** Ver a través de las paredes (**Gamkina:** Soreiyahomagia).  
+**Especie:** Mochibria.  
+**Altura:** 163cm.  
+**Peso:** 49,14kg.  
+**Piel:** Morena.  
+**Ojos:** Naranjos.  
+**Cabello:** Negro con puntas grises.  
+**Detalles relevantes:** Broches verdes en su cabello, Cicatrices sanadas en sus muñecas, abdomen y cuello, una margarita viva en el cabello (No, no es regalo de Akiko, esta tiene una historia distinta).  
 **Anish:** Joseph Walker.  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** Paranoico.  
@@ -281,9 +379,16 @@
 
 
 15. Joseph Walker  
-**Nombre completo o apodos:** Joseph Bartil Walker Disastirk (Apodos: Josh).  
+**Nombre completo o apodos:** Joseph Bartil Walker Disastirk (**Apodos:** Josh).  
 **Edad:** 16 años (18/Abril/3030).  
 **Habilidad de nacimiento:** Detectar cosas perdidas.  
+**Especie:** Mochibria.  
+**Altura:** 170cm.  
+**Peso:** 63.6kg.  
+**Piel:** Bronceada.  
+**Ojos:** Rojos.  
+**Cabello:** Marrón.  
+**Detalles relevantes:** Tiene un arete en una de sus orejas.  
 **Cuishigo:** James Larson (Joseph: Usagimimi —Tiene orejas de conejo).  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** Provocador, el que peor cae del grupo, el de las bromas pesadas.  
@@ -301,9 +406,16 @@
 
 
 16. Connor Scott  
-**Nombre completo o apodos:** Connor Kartyn Scott Zeryl (Apodos: Cono, Kart).  
+**Nombre completo o apodos:** Connor Kartyn Scott Zeryl (**Apodos:** Cono, Kart).  
 **Edad:** 15 años (05/Julio/3030).  
 **Habilidad de nacimiento:** Duplicación.  
+**Especie:** Mochibria.  
+**Altura:** 155cm.  
+**Peso:** 57,3kg.  
+**Piel:** Morena.  
+**Ojos:** Verdes.  
+**Cabello:** Marrón.  
+**Detalles relevantes:** Una de sus alas tiene plumas rojas, mientras la otra tiene plumas verdes.  
 **Cuishigo:** Michael Sky (Connor: Hanemimi —Tiene alas, de loro, específicamente).  
 **Gema de unión:** Brocha de cabello.  
 **Rol en el grupo:** Generador de suministros, observador aéreo.  
@@ -321,9 +433,16 @@
 
 
 17. Michael Sky  
-**Nombre completo o apodos:** Michael Elcaryn Sky Clyrk (Apodos: Mike, Sky-el).  
+**Nombre completo o apodos:** Michael Elcaryn Sky Clyrk (**Apodos:** Mike, Sky-el).  
 **Edad:** 25 años (20/Noviembre/3031).  
 **Habilidad de nacimiento:** Conocimiento y habilidad mecánica y/o tecnológica.  
+**Especie:** Mochibria/Cyborg.  
+**Altura:** 204cm.  
+**Peso:** 83.22kg.  
+**Piel:** Morena, con algunas piezas robóticas azules.  
+**Ojos:** Naturalmente naranjo, pero tiene uno robótico de color azul porque dicho ojo fue afectado por la enfermedad.  
+**Cabello:** Marrón.  
+**Detalles relevantes:** Alas robóticas, gafas de marco negro, marcas de inyecciones en sus brazos y cuello, audífonos azules, su mano sana usa un guante oscuro con una placa robotica.  
 **Anish:** Connor Scott.  
 **Gema de unión:** Brocha de cabello.  
 **Rol en el grupo:** Servicio técnico.  
@@ -342,9 +461,16 @@ Salió bien, pero esta IA robótica era usada para enseñar a militares, por lo 
 
 
 18. Cara Narvaez  
-**Nombre completo o apodos:** Cara Camila Amelia Narvaez Sosa (Apodos: "10-08").  
+**Nombre completo o apodos:** Cara Camila Amelia Narvaez Sosa (**Apodos:** "10-08").  
 **Edad:** 16 años (22/Mayo/2008).  
 **Habilidad de "nacimiento":** Volver realidad lo que pinta (controlable).  
+**Especie:** Terrícola/Prototipo.  
+**Altura:** 167cm.  
+**Peso:** 70,6kg.  
+**Piel:** Pálida, albina.  
+**Ojos:** Uno gris y otro naranjo por los experimentos.  
+**Cabello:** Blanco.  
+**Detalles relevantes:** N/A.  
 **Cuishigo:** Jacob Sanders (Cara: Nekomimi —tiene orejas de gato).  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** Dibujante.  
@@ -362,13 +488,20 @@ Salió bien, pero esta IA robótica era usada para enseñar a militares, por lo 
 
 
 19. Jacob Sanders  
-**Nombre completo o apodos:** Jacob Alex Sanders Alvarado (Apodos: "10-01").  
+**Nombre completo o apodos:** Jacob Alex Sanders Alvarado (**Apodos:** "10-01").  
 **Edad:** 17 años (28/Julio/2005).  
 **Habilidad de "nacimiento":** Volverse un fantasma.  
+**Especie:** Terrícola/Prototipo.  
+**Altura:** 173cm.  
+**Peso:** 53,5kg.  
+**Piel:** Piel oscura, tiene vitiligo.  
+**Ojos:** Naturalmente ámbar, uno de estos es celeste por uno de los experimentos.  
+**Cabello:** Rojo oscuro, los experimentos le dieron ese tono característico, uno de sus mechones es más naranjo.  
+**Detalles relevantes:** Tiene alas grandes, una con plumas más oscuras que la otra (a simple vista se ven más pequeñas, pero cuando se extienden son bastnte grandes), cicatrices en el cuerpo y rostro, hombreras con detalles en rojo y dorado, vendas en los brazos, placas con pinchos internos en las costillas.  
 **Anish:** Cara Narvaez.  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** Integrante misterioso, recurso de emergencia.  
-**Lore rápido:** Era un ecuatoriano normal, vivía con sus padres y su hermana menor Charlotte, hasta que la asociación, el día de su cumpleaños, decidió llevárselo, acabando con su hogar, sus padres y su hermana ante sus ojos, fue usado como experimento sin piedad, obligado a pasar por procesos dolorosos para tener sus alas poderes por años, una vez estaba a punto de escapar con el resto, uno de sus compañeros los traicionó, causando que Jacob despierte su segunda forma por primera vez.  
+**Lore rápido:** Era un ecuatoriano normal, vivía con sus padres y su hermana menor Charlotte, hasta que la asociación, el día de su cumpleaños, decidió llevárselo, acabando con su hogar, sus padres y su hermana ante sus ojos, fue usado como experimento sin piedad, obligado a pasar por procesos dolorosos para tener sus alas poderes por años, una vez estaba a punto de escapar con el resto, uno de sus compañeros ("10-03") los traicionó, causando que Jacob despierte su segunda forma por primera vez.  
 **Cómo llegó al grupo:** Tras el escape casi exitoso, los de la cabaña los encontraron a él y a Cara, por lo que los llevaron con ellos.  
 **En el presente:** Trata de mantenerse bajo perfil para que aquella que lo traicionó no amenace a los de la cabaña.  
 **Cinco datos:**  
@@ -382,9 +515,16 @@ Salió bien, pero esta IA robótica era usada para enseñar a militares, por lo 
 
 
 20. Melissa Torres  
-**Nombre completo o apodos:** Melissa Isidora Torres Carson (Apodos: Meli).  
+**Nombre completo o apodos:** Melissa Isidora Torres Carson (**Apodos:** Meli).  
 **Edad:** 25 años (03/Enero/3021).  
 **Habilidad de nacimiento:** Inteligencia lógica brillante, una habilidad donde puede ver las posibilidades infinitas del entorno y los seres a su alrededor.  
+**Especie:** Mochibria.  
+**Altura:** 210cm.  
+**Peso:** 95,5kg.  
+**Piel:** Morena.  
+**Ojos:** Verdes, se vuelven morados cuando usa su habilidad.  
+**Cabello:** Negro con puntas moradas, normalmente en una trenza larga.  
+**Detalles relevantes:** Gafas ovaladas de marco negro.  
 **Anish:** Laura Flores.  
 **Gema de unión:** Reloj.  
 **Rol en el grupo:** "Líder", protectora.  
