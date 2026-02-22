@@ -91,7 +91,7 @@
 **Piel:** Pálida.  
 **Ojos:** Negro, con uno gris.  
 **Cabello:** Dorado con puntas más pálidas, un mechon dorado con amarillo.  
-**Detalles relevantes:** Cicatri en el ojo  gris.  
+**Detalles relevantes:** Cicatri en el ojo gris.  
 **Cuishigo:** Andrés Johnson (Alejandro:  Ookamimi —tiene orejas de lobo).  
 **Gema de unión:** Pulsera.  
 **Rol en el grupo:** El que calma las discusiones.  

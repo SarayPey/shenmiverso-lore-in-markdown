@@ -1,17 +1,17 @@
-|Color|Sol|Luna|Estrella|Cristal|
-|-|-|-|-|-|
-|Rojo|Zared|Akane|Ivette Ortega|James Larson|
-|Naranjo|Inayah|Farrah|James Rosales|Kaney|
-|Dorado|Polaris Lintang|Adam Carter|Elio|Diamona Dyamblor|
-|Verde|Nero|Julián Riquelme|Salva Alyster|Jake|
-|Celeste|Willow Lane|Safiya|Hasani Acoarzya|Calixta|
-|Azul|Wisteria Samdihar|Dorian Alyster|Kiyoshi|Taylor Daniels|
-|Morado|Melissa Torres|Yunus|Emma Park|Sycorax|
-|Rosa|Aarav|Juno Rosales|Ozara|Érika Valdés|
-|Blanco|Elidi|Laoise|Zuri|Zelik|
-|Plata|Huldr|Zylvia|Koaka|Rurik|
-|Negro|Daleth|Kalonice|Fairfax|Novax|
-|Sombrío|Seldon|Amarisa|Varoun|Wyatt Rivera|
+|Color|Sol|Luna|Estrella|Cristal|Escudero|
+|-|-|-|-|-|-|
+|Rojo|Zared|Akane|Ivette Ortega|James Larson|???|
+|Naranjo|Inayah|Farrah|James Rosales|Kaney|???|
+|Dorado|Polaris Lintang|Adam Carter|Elio|Diamona Dyamblor|???|
+|Verde|Nero|Julián Riquelme|Salva Alyster|Jake|???|
+|Celeste|Willow Lane|Safiya|Hasani Acoarzya|Calixta|???|
+|Azul|Wisteria Samdihar|Dorian Alyster|Kiyoshi|Taylor Daniels|???|
+|Morado|Melissa Torres|Yunus|Emma Park|Sycorax|???|
+|Rosa|Aarav|Juno Rosales|Ozara|Érika Valdés|???|
+|Blanco|Elidi|Laoise|Zuri|Zelik|???|
+|Plata|Huldr|Zylvia|Koaka|Rurik|???|
+|Negro|Daleth|Kalonice|Fairfax|Novax|???|
+|Sombrío|Seldon|Amarisa|Varoun|Wyatt Rivera|???|
 
 # SIMBOLISMOS/CARACTERÍSTICAS
 
@@ -23,6 +23,7 @@
 |Luna|Ser con mayor conexión mágica, subestimado por los soles|
 |Estrella|Ser independiente, fuerte por su cuenta, normalmente subestimado|
 |Cristal|Misterioso, el observador astuto, relacionado a veces con los ojos de diamante|
+|Escudero|Defensor, un personaje que protege a los suyos|
 
 ## Colores
 
