@@ -7,7 +7,7 @@
 |Celeste|Willow Lane|Safiya|Hasani Acoarzya|Calixta|???|
 |Azul|Wisteria Samdihar|Dorian Alyster|Kiyoshi|Taylor Daniels|???|
 |Morado|Melissa Torres|Yunus|Emma Park|Sycorax|???|
-|Rosa|Aarav|Juno Rosales|Ozara|Érika Valdés|???|
+|Rosa|Aarav|Juno Rosales|Ozara|Érika Valdés|Kyria|
 |Blanco|Elidi|Laoise|Zuri|Zelik|???|
 |Plata|Huldr|Zylvia|Koaka|Rurik|???|
 |Negro|Daleth|Kalonice|Fairfax|Novax|???|
@@ -20,7 +20,7 @@
 |Rol|Significado|
 |-|-|
 |Sol|Ser de mayor poder o conocimiento, eclipsa a la luna|
-|Luna|Ser con mayor conexión mágica, subestimado por los soles|
+|Luna|Ser con mayor conexión mágica, ecipsado por los soles y subestimado en general|
 |Estrella|Ser independiente, fuerte por su cuenta, normalmente subestimado|
 |Cristal|Misterioso, el observador astuto, relacionado a veces con los ojos de diamante|
 |Escudero|Defensor, un personaje que protege a los suyos|
@@ -30,7 +30,7 @@
 |Color|Significado|
 |-|-|
 |Rojo|Conocimiento, el que ve más de lo evidente|
-|Naranjo|Volatilidad, el que puede actuar de forma inesperada|
+|Naranjo|Volatilidad, el actúa de forma inesperada pero efectiva|
 |Dorado|Fragilidad, ser optimista que mantiene (o finge) su brillo a pesar de la adversidad|
 |Verde|Madurez, tener roles maduros antes de tiempo|
 |Celeste|Comprensión, seres pacíficos o tolerantes|
@@ -44,8 +44,10 @@
 
 # Profecías
 
-*«Para que finalmente los sombrios caigan en su egoísmo, el sol morado tomar soberanía, y la luna dorada deberá ser sacrificada por aquella misión».*
+*«El cristal sombrío deberá caer, para que la estrella azul regrese a lo que alguna vez fue».*
 
 *«El cristal verde y la luna azul separados debieron ser, porque al reunirlos otra vez, la luna sombría deberá caer».*
 
-*«El cristal sombrío deberá caer, para que la estrella azul regrese a lo que alguna vez fue».*
+*«Para que la luna dorada inicie su nuevo destino y brille por su cuenta, el sol morado deberá atardecer».*
+
+*«Para que finalmente los sombrios caigan en su egoísmo, el sol morado deberá soberanía tener, y la luna dorada deberá  por aquella misión deberá caer.*
