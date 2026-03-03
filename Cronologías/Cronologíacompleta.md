@@ -27,8 +27,6 @@
 |1970|Tierra|María Watts nace|✗|
 |1971|Tierra|Cecilia Muñoz nace|✗|
 |1972|Tierra|Fransisco Watts nace|✗|
-|1971|Mochu|Elestria muere|✗|
-|1972|Mochu|Coronación de Hasikari|✗|
 |1973|Tierra|Victor mandado a internado|✗|
 |1976|Tierra|Cecilia mandada a internado|✗|
 |1986|Tierra|Kai Watts nace|✗|
@@ -55,7 +53,9 @@
 |2014|Tierra y Mochu|Jacob Sanders secuestrado|✗|
 |2015|Tierra|Rubén Valdés nace|✗|
 |2015|Tierra y Mochu|Marcus secuestrado por la asociación. Famlia Rosales se muda|✗|
-|2015|Mochu|Independencia de Lonea y Acuarias|✗|
+|2015|Mochu|Intento de independencia de Lonea|✗|
+|2016|Mochu|Elestria muere|✗|
+|2016|Mochu|Coronación de Hasikari|✗|
 |2015|Tierra|Martina Riquelme nace|✗|
 |2016|Tierra|Abuelo de Julián, Cristina, Matías y Martina fallece, hermanos (menos primogénito) desheredan madre de Julián|✗|
 |2016|Tierra|Padres de Cristina fallecen, familia de Julián la acogen|✗|
@@ -73,9 +73,11 @@
 |2125|Mochu|Jennifer Lang nace|✗|
 |2139|Mochu|Se descubre la verdad sobre Kiara. Elesterlios y visterlios se crean|✓ - *“(Sin título por ahora)”*|
 |2140|Mochu|Cercylia se retira. Coronación de Estela|✓ - *“(Pensando en un título)”*|
+|2113|Mochu|Independencia de Lonea y Acuarias|✗|
 |2300|Mochu|Revolución. Volcanash, Kerashitsu y Senlín se vuelven independientes|✗|
 |2611|Mochu|Escasez en Shinrín. Yíshù, Agensca y Munho se hacen independientes|✗|
-|2958|Mochu|Necesa catastrófico, Jeonsa e Indesca se hacen independientes|✗|
+|2958|Mochu|Necesa catastrófico|✗|
+|2959|Mochu|Jeonsa e Indesca se hacen independientes|✗|
 |3005|Mochu|Maryam Cox nace|✗|
 |3010|Mochu|Willow Faynsashi nace|✗|
 |3011|Mochu|Brayan Orellana nace|✗|
