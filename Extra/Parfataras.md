@@ -2,6 +2,7 @@
 |-|-|
 |🌻|Mochu|
 |🪐|Seikatsu|
+|🍀|Fayns-Shia|
 |🌠|Stalaris|
 |🤍|Luxeria|
 |🖤|Sombrarix|
@@ -15,11 +16,11 @@
 |Rojo|Zared 🪐|Akane 🌻|Ivette Ortega 🌻|James Larson 🌻|Brisa Fowler 🌻|
 |Naranjo|Inayah 🌻|Farrah 🌻|James Rosales 🌎|Kaney 🌻|Elysia Valfyre 🌻|
 |Dorado|Polaris Lintang 🌠|Adam Carter 🌻|Elio 🪐|Diamona Dyamblor 🌻👻|Everly Boyer 🌻👻|
-|Verde|Nero |Julián Riquelme 🌎|Salva Alyster 🌻☯|Jake 🪐|Sundara 🌻|
+|Verde|Nero 🌻|Julián Riquelme 🌎|Salva Alyster 🌻☯|Jake 🪐|Sundara 🌻|
 |Celeste|Willow Lane 🌎|Safiya 🌻|Hasani Acoarzya 🌻|Calixta 🌻|Zaire Arqazyva 🌻|
 |Azul|Wisteria Samdihar 🌻|Dorian Alyster 🌻☯|Kiyoshi 🌻|Taylor Daniels 🌻|Rayco 🌻|
-|Morado|Melissa Torres 🌻|Yunus 🌻|Emma Park 🌻|Sycorax |Kiara 🌻👻|
-|Rosa|Aarav |Juno Rosales 🌎|Ozara 🪐|Érika Valdés 🌎|Kyria 🌻|
+|Morado|Melissa Torres 🌻|Yunus 🌻|Emma Park 🌻|Sycorax 🪐|Kiara 🌻👻|
+|Rosa|Aarav 🍀|Juno Rosales 🌎|Ozara 🪐|Érika Valdés 🌎|Kyria 🌻|
 |Blanco|Elidi 🤍|Laoise 🌻|Zuri 🌻|Zelik 🪐|Dyciel 🌻|
 |Plata|Huldr 🌻|Zylvia 🌻|Koaka, La verdad desconocida 🔲|Rurik 🪐|Nael, Sirviente de la paz 🔲|
 |Negro|Daleth 🌻|Kalonice 🖤|Fairfax 🌻|Novax 🌻|Skyla Ross 🔲|
@@ -60,7 +61,7 @@
 
 *«El cristal sombrío deberá caer, para que la estrella azul regrese a lo que alguna vez fue».*
 
-*«El cristal verde y la luna azul separados debieron ser, porque al reunirlos otra vez, la luna sombría deberá caer».*
+*«La estrella verde y la luna azul separados debieron ser, porque al reunirlos otra vez, la luna sombría deberá caer».*
 
 *«La luna sombría nacerá, y devastación llevará a su hogar».*
 
