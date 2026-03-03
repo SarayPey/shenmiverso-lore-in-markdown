@@ -29,14 +29,6 @@
 27. Sun, primordial del sol
 28. Moon, primordial de la luna
 
-# Corte espacial
-
-1. Akane (Representante de la luna roja / Moon, Pyrstall, Kaeloris)
-2. Nero (Represente del cielo / Raykin, Mae, Euken, Galen, Zorvyn)
-3. Kiyoshi (Represente de las estrellas / Tynshas, Dannica)
-4. Inayah (Represente del sol / Sun)
-5. Yunus (Represente de los cometas / Ferista, Rystella)
-
 # Aprendices/semi-primordiales
 
 1. Osuke (Hadriel)
@@ -48,3 +40,11 @@
 7. Ichieri (Rystella, La gran artista)
 8. Naftagari, semi-primordial del origami y la educación (Rystella, La gran artista)
 9. Dubishka, semi-primordial de la compasión (Farquin, primordial de la diversión)
+
+# Corte espacial
+
+1. Akane (Representante de la luna roja / Moon, Pyrstall, Kaeloris)
+2. Nero (Represente del cielo / Raykin, Mae, Euken, Galen, Zorvyn)
+3. Kiyoshi (Represente de las estrellas / Tynshas, Dannica)
+4. Inayah (Represente del sol / Sun)
+5. Yunus (Represente de los cometas / Ferista, Rystella)
