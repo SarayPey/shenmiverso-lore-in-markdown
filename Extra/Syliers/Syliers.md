@@ -1,14 +1,14 @@
 |Símbolo|Significado|
 |-|-|
 |🟩|Uso común|
-|🟨|Uso de forma especial|
+|🟨|Usado de forma especial en la generación y era sctual|
 |🟥|Inactivo|
 
 |№|ELESTERLIO|Uso|VISTERLIO|Uso|
 |-|-|-|-|-|
 |1|Memoria|🟩|Olvido|🟩|
 |2|Naturaleza|🟩|Trampa|🟩|
-|3|Fuego|🟩|Bombas/silencio|🟩|
+|3|Fuego|🟩|Bombas/silencio*|🟩|
 |4|Agua|🟩|Fantasmal|🟩|
 |5|Viento|🟩|Eclipse|🟩|
 |6|Luz|🟩|Poder|🟩|
@@ -23,3 +23,5 @@
 |15|Prisma|🟥|Vacío|🟥|
 |16|Piedra|🟥|Ilusión|🟩|
 |17|Frecuencia|🟥|Miedo|🟥|
+
+*: Estoy tratando de nombrar apropiadamente esto para que englobe sus poderes en una palabra.
