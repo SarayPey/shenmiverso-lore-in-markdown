@@ -8,7 +8,8 @@ Taylor Daniels
 **Piel:** Rojiza.  
 **Ojos:** Rojos, de pupilas puntiagudas.  
 **Cabello:** Corto y desordenado de color azul.  
-**Detalles relevantes:** Aretes negros, un collar azul.  
+**Detalles relevantes:** Aretes negros, un collar azul, apariencia levemente masculinizada.  
+**Arma insignia:** Pasado del cristal azul (Espada).
 **Lore rápido:** Siendo la segunda hija de los Daniels, la habilidad de Taylor se descontrola con facilidad, incluso viendo recuerdos de desconocidos, por lo que salió de casa en busca de alguien que le ayude a controlar sus habilidades.  
 **En el presente:** Es aprendiz de Saiko, una maga digna de respeto, la cual tiene a variados jóvenes en su tutela. Taylor, a pesar de no poder controlar sus habilidades todavía, tiene mejores formas de sobrellevar los recuerdos, además de haber aprendido otras magias como la magia de los cristales azules.  
 **Diez datos:**  
