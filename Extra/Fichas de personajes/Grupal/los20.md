@@ -634,7 +634,7 @@
 	5. Melissa apuntó a Adam para que Jacob sintiera que él no era un peligro; si no había escudo, había confianza; además, era notorio que no disfrutaba de hacerle daño a su mejor amigo (Aunque el espíritu aprovechó esa circunstancia para incitar a Jacob para que atacara a Adam).  
 	6. Le encanta el café amargo.  
 	7. Odia que la consideren la líder del grupo, puesto a que los líderes son Darya y Andrés.  
-	8. X.  
+	8. Si sonríe, o está bastante feliz, o está a punto de ejecutarse un plan dramático que tendrá consecuencias de bien.  
 	9. X.  
 	10. X.  
 
