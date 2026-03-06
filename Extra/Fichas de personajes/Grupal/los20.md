@@ -567,7 +567,7 @@
 	2. Conoce el brainrot y desearía no haberlo hecho.  
 	3. Era amiga de Joseph, pero cuando empezó a meterse con los traumas y el pasado de Jacob (que ELLA le dijo en confianza), se alejó de él.  
 	4. En su vida como terrícola, era hija única y mimada, no se acostumbra a tener que compartir cuarto.  
-	5. Odia que se metan en su vida, pero le gusta que la protejan, es algo inestable, si me preguntas.  
+	5. Odia que se metan en su vida, pero le gusta que la protejan, es algo complicada, si me preguntas.  
 	6. X.  
 	7. X.  
 	8. X.  
@@ -635,7 +635,7 @@
 	6. Le encanta el café amargo.  
 	7. Odia que la consideren la líder del grupo, puesto a que los líderes son Darya y Andrés.  
 	8. Si sonríe, o está bastante feliz, o está a punto de ejecutarse un plan dramático que tendrá consecuencias de bien.  
-	9. X.  
+	9. Prefiere que todo sea planeado y anticipado, no es amante de las improvisaciones.  
 	10. X.  
 
 **Un secreto:** (OH NO) por razones que ni siquiera ella sabe, es la mensajera de la guardiana elesterlia, osea, le toca entregar los elesterlios a los elegidos para mantener a la guardiana a salvo.
