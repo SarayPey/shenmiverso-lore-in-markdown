@@ -248,9 +248,9 @@
 	3. Por su control mental con la música, pudo hacer que los terrícolas no descubrieran que es una mochibria, pero en un punto dejó de ser rentable.  
 	4. A diferencia de lo que parece, su habilidad es controlable, ella maneja si quiere o no usarla al hacer música.  
 	5. Es muy buena enseñando, perfectamente podría ser profesora.  
-	6. X.  
-	7. X.  
-	8. X.  
+	6. Hablando de Diana profesora, ella refuerza la materia de la escuela a los estudiantes, ella ayudó a Darya a preparar a Akiko para reingresar a la escuela.  
+	7. Constantemente vigila que Daniel se alimente bien y tome su medicina (dos veces al día y una cuando está en crisis).  
+	8. Su control mental musical no funciona con robots, pero como Michael es un cyborg, le afecta igual, a Pari no le afecta porque es una IA (solo observaría desde dentro y analizaría los efectos de la habilidad de Diana).  
 	9. X.  
 	10. X.  
 
@@ -308,13 +308,13 @@
 **En el presente:** Es el cuishigo más tranquilo de la cabaña, nunca empieza pleitos y trata de controlarlos, además de sacar las fotos del grupo.  
 **Diez datos:**
 	1. Se empezó a enamorar de Violeta porque ella le dió un beso en la mejilla cuando ella llegó con Emma, se sonrojó bonito sin disimular ni notarlo.  
-	2. Es primo lejano de Andrés.  
+	2. Es primo muy lejano de Andrés.  
 	3. Cuando Christian llegó y lo identificó como su anish, no lo soltó por unos días.  
 	4. Normalmente no saca fotos de edificios porque le recuerda a Alan, si saca fotos de un edificio, algo malo está pensando.  
 	5. Extraña su hogar, a veces tiene pesadillas con Alan y cómo era tan joven para poder evitar su final.  
 	6. Violeta lo sonroja con facilidad, en general, es bastante expresivo aunque no lo demuestre de forma normal.  
-	7. X.  
-	8. X.  
+	7. Me lo imagino teniendo un lente de cámara junto a él que puede usar para ver las cosas sin tener que levantar su cámara.  
+	8. Cuando van a resolver anomalías, normalmente él ayuda en la logística y análisis de datos.  
 	9. X.  
 	10. X.  
 
