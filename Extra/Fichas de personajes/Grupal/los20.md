@@ -33,7 +33,7 @@
 **Un secreto:** Es una elesterlia, la elesterlia del agua, exactamente, se hace llamar Irvette en honor a su entrenadora de gimnasia en la infancia: Irvette Ortega.  
 
 2. Andrés Johnson  
-**Nombre completo o apodos:** Andrés Camilo Johnson Rojas (**Apodos:** Andre, "Picantito").  
+**Nombre completo o apodos:** Andrés Camilo Johnson Rojas (**Apodos:** Andre, "Picantito", "Cupido de la cabaña").  
 **Edad:** 20 años (14/Febrero/3026).  
 **Habilidad de nacimiento:** Telekinesis (**Okimantis:** Lealtad).  
 **Especie:** Mochibria.  
@@ -65,7 +65,7 @@
 **Un secreto:** Es un elesterlio, el del fuego exactamente, se hace llamar Mishan en honor a Ezer McMishan, su personaje favorito de la infancia (que era interpretado por Ángel Mishan —Por eso en su presentación del capítulo 3 Ángel aclaraba que no era el héroe).  
 
 3. Akiko Rosales  
-**Nombre completo o apodos:** Akiko Sahori Rosales Kuusuko (**Apodos:** Aki, Saho, Kuukiko, Akirisako —la mezcla de su nombre completo—, "Plantita del bien").  
+**Nombre completo o apodos:** Akiko Sahori Rosales Kuusuko (**Apodos:** Aki, Sahori Akiko, Saho, Kuukiko, Akirisako —la mezcla de su nombre completo—, "Plantita del bien", "Enana").  
 **Edad:** 14 años (20/Agosto/3032).  
 **Habilidad de nacimiento:** Curación (**Okimantis:** Lealtad, Eterno, Curación. **Serfanías:** Ver el futuro inmediato —y cambiarlo a veces).  
 **Especie:** Mochibria.  
@@ -97,7 +97,7 @@
 **Un secreto:** Tiene el elesterlio de la naturaleza, se hace llamar Ayame porque le pareció bonito el nombre. La flor que le dió a Adam es una que inventó con ese poder, crece y se multiplica con buenas acciones, pero se marchita con malas acciones (todo debe ser del corazón).  
 
 4. Alejandro Rivera  
-**Nombre completo o apodos:** Alejandro Fain Sheryon Rivera Doameria (**Apodos:** Alej, Faryon, Fain, Sher).  
+**Nombre completo o apodos:** Alejandro Fain Sheryon Rivera Doameria (**Apodos:** Ale, Alej, Faryon, Fain, Sher).  
 **Edad:** 15 años (11/Octubre/3031).  
 **Habilidad de nacimiento:** Manipular las emociones del resto y las suyas (**Okimantis:** Lealtad, Maldición. **Malcursikas:** Hechizo de la inversa —Léase ***Lore rápido***).  
 **Especie:** Mochibria.  
@@ -129,7 +129,7 @@
 **Un secreto:** Es el elesterlio de la luz, se hace llamar Élian porque siente que representa la luz que podría ser si no estuviera atado a los malos actos de Wyatt.  
 
 5. Laura Flores  
-**Nombre completo o apodos:** Laura Rosalee Kaili Flores Belyesa (**Apodos:** Lau, Rosy).  
+**Nombre completo o apodos:** Laura Rosalee Kaili Flores Belyesa (**Apodos:** Lau, Lu, Rosy).  
 **Edad:** 16 años (07/Agosto/3030).  
 **Habilidad de nacimiento:** Puede aprender todos los idiomas posibles (**Okimantis:** Lealtad).  
 **Especie:** Mochibria.  
@@ -193,7 +193,7 @@
 **Un secreto:** Tiene el elesterlio del tiempo, se hace llamar Aisha por la protagonista de uno de sus libros favoritos.  
 
 7. Alexa Miller  
-**Nombre completo o apodos:** Alexa Yilya Miller Dermisa (**Apodos:** Alexya, Lexi, Yiyi).  
+**Nombre completo o apodos:** Alexa Yilya Miller Dermisa (**Apodos:** Lexi, Alex, Lex, Alexya, Lexi, Yiyi).  
 **Edad:** 17 años (05/Enero/3029).  
 **Habilidad de nacimiento:** Superfuerza (**Okimantis:** Lealtad).  
 **Especie:** Mochibria.  
@@ -289,7 +289,7 @@
 **Un secreto:** Le gusta la danza y el color rosa, no lo dice porque en Alaska Oriental aprendió que era algo de mujeres. Quiere hacer las paces con Connor.  
 
 10. Alec Holland  
-**Nombre completo o apodos:** Alec Fyztar Holland Herselka (**Apodos:** Al, fotógrafo, mini-Alan).  
+**Nombre completo o apodos:** Alec Fyztar Holland Herselka (**Apodos:** Al, fotógrafo, "mini-Alan", "Fotógrafo tomate", "Tomatito").  
 **Edad:** 20 años (19/Agosto/3026).  
 **Habilidad de nacimiento:** Ver los secretos y espíritus de otros tras las cámaras (**Okimantis:** Lealtad).  
 **Especie:** Mochibria.  
@@ -353,7 +353,7 @@
 **Un secreto:** Tiene una tía chilena.  
 
 12. Emma Park  
-**Nombre completo o apodos:** Emma Solsy Park Doremi (**Apodos:** Emy, Notita dorada).  
+**Nombre completo o apodos:** Emma Solsy Park Doremi (**Apodos:** Emy, "Notita dorada").  
 **Edad:** 16 años (25/Agosto/3030).  
 **Habilidad de nacimiento:** Telekinesis cantante (**Okimantis:** Lealtad).  
 **Especie:** Mochibria.  
@@ -385,7 +385,7 @@
 **Un secreto:** No tiene nada que esconder.  
 
 13. Christian Garten  
-**Nombre completo o apodos:** Cristian Clement Garten Moretti (**Apodos:** Chris).  
+**Nombre completo o apodos:** Cristian Clement Garten Moretti (**Apodos:** Chris, "Chef").  
 **Edad:** 15 años (28/Diciembre/3030).  
 **Habilidad de nacimiento:** Cocina magistral (**Okimantis:** Lealtad).  
 **Especie:** Mochibria.  
@@ -417,7 +417,7 @@
 **Un secreto:** En la mejilla tiene una marca que puede empezar a acabar su vida cuando siente un fuerte dolor emocional.  
 
 14. James Larson  
-**Nombre completo o apodos:** James Clerick Larson (**Apodos:** Librero emo, Jamie).  
+**Nombre completo o apodos:** James Clerick Larson (**Apodos:** "Librero emo", Jamie).  
 **Edad:** 17 años (21/Junio/3029).  
 **Habilidad de nacimiento:** Ver a través de las paredes (**Okimantis:** Lealtad. **Gamkina:** Soreiyahomagia).  
 **Especie:** Mochibria.  
@@ -545,7 +545,7 @@
 **Un secreto:** No le ha dicho a nadie qué tan peligrosa puede ser la IA, en especial si lo controla. Además, nadie sabe que antes fue adicto a sus tecnoquímicos ni que Pari antes lo trataba mal.  
 
 18. Cara Narvaez  
-**Nombre completo o apodos:** Cara Camila Amelia Narvaez Sosa (**Apodos:** "10-08").  
+**Nombre completo o apodos:** Cara Camila Amelia Narvaez Sosa (**Apodos:** Cary, Camy, Ame "10-08").  
 **Edad:** 16 años (22/Mayo/2008).  
 **Habilidad de "nacimiento":** Volver realidad lo que pinta (controlable) (**Okimantis:** Lealtad).  
 **Especie:** Terrícola/Prototipo.  
@@ -577,7 +577,7 @@
 **Un secreto:** Le gusta Jacob.  
 
 19. Jacob Sanders  
-**Nombre completo o apodos:** Jacob Alex Sanders Alvarado (**Apodos:** "10-01").  
+**Nombre completo o apodos:** Jacob Alex Sanders Alvarado (**Apodos:** "Emo mágico poseído", "10-01).  
 **Edad:** 17 años (28/Julio/2005).  
 **Habilidad de "nacimiento":** Volverse un fantasma (**Okimantis:** Lealtad).  
 **Especie:** Terrícola/Prototipo.  
@@ -609,7 +609,7 @@
 **Un secreto:** Además de su pasado, el espíritu que todos ven es la punta del iceberg de todo lo que está en su interior (Es un recipiente de espíritus humano). Más profundo está su segunda forma (a.k.a, las garras que le salieron en el capítulo 6).  
 
 20. Melissa Torres  
-**Nombre completo o apodos:** Melissa Isidora Torres Carson (**Apodos:** Meli).  
+**Nombre completo o apodos:** Melissa Isidora Torres Carson (**Apodos:** Meli, Mel).  
 **Edad:** 25 años (03/Enero/3021).  
 **Habilidad de nacimiento:** Inteligencia lógica brillante, una habilidad donde ve las posibilidades del entorno y los seres a su alrededor (**Okimantis:** Lealtad).  
 **Especie:** Mochibria.  
