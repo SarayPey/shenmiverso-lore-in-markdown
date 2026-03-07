@@ -185,8 +185,8 @@
 	4. Le gusta leer en la biblioteca central de Senlín con James.  
 	5. Es callada, pero su presencia no pasa desapercibida.  
 	6. El arma de Eliza puede cambiar de una katana a un conjunto de shurikens que regresan a ella.  
-	7. X.  
-	8. X.  
+	7. Es raro verla con el pelo en la espalda en vez del hombro.  
+	8. Le gustan los cisnes.  
 	9. X.  
 	10. X.  
 
@@ -216,9 +216,9 @@
 	3. Su arma insignia es más grande que ella misma y la toma con una mano como si nada.  
 	4. No la dejan entrar a la cocina porque podría frustrarse y romper algo.  
 	5. Quiere mucho a Adam, a Erin y a Milada.  
-	6. X.  
-	7. X.  
-	8. X.  
+	6. Joseph se porta bien con ella porque es su pareja y es Alexa.  
+	7. Cuando está impaciente, su cola de conejo se mueve rápido y sus orejas tiemblan un poco.  
+	8. No le gusta que ser interrumpida mientras hace algo (dormir, siesta, ejercicio, comer, baño, entre otros).  
 	9. X.  
 	10. X.  
 
