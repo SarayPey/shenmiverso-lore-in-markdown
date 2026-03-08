@@ -9,7 +9,7 @@
 **Ojos:** X.  
 **Cabello:** X.  
 **Detalles relevantes:** X.  
-**Arma insignia:** X (X).
+**Arma insignia:** X (X).  
 **Lore rápido:** X.  
 **En el presente:** X.  
 **Diez datos:**  
