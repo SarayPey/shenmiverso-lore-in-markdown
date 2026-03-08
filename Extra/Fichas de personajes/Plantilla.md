@@ -1,4 +1,4 @@
-[Nombre] [Apellido]  
+***[Nombre] [Apellido]***  
 
 **Nombre completo o apodos:** [] [] [] (**Apodos:** []).  
 **Edad:** [] años (DD/MES/AAAA).  
