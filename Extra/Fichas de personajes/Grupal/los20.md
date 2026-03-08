@@ -60,7 +60,7 @@
 	7. Él hizo los columpios que hay en el patio trasero de la cabaña.  
 	8. Le gusta su ballesta, porque además de que de esa forma el cuarteto Darya-Andrés-Akiko-Alejandro es infalibre y todos cubren puntos débiles, se siente como un cupido de la cabaña.  
 	9. Sigue intentado avances con Elimes (Eliza-James), Michalissa (Michael-Melissa) y Jacora (Jacob-Cara), todavía no logra avances pero al menos son amigos, eso es algo. Además les tiene fe porque ya lo logró con Violec (Violeta-Alec) y Alexeph (Alexa-Joseph).  
-	10. X.  
+	10. Tiene muchos conocidos, de hecho, ella conoce a Elena (la hermana mayor de Gonzalo) desde que es niña.  
 
 **Un secreto:** Es un elesterlio, el del fuego exactamente, se hace llamar Mishan en honor a Ezer McMishan, su personaje favorito de la infancia (que era interpretado por Ángel Mishan —Por eso en su presentación del capítulo 3 Ángel aclaraba que no era el héroe).  
 
@@ -84,9 +84,9 @@
 **En el presente:** Es la más querida y protegida del grupo. Mejor amiga de Darya y muy confiable.  
 **Diez datos:**
 	1. Adora los dulces, pero es alérgica al maní.  
-	2. Le cuesta nadar.  
-	3. Es la más joven y bajita.  
-	4. Su piel es rojita de nacimiento, si se sonroja, se vuelve un tomatito pequeño. Tiene una marca de nacimiento:** una manchita amarilla alrededor del ojo izquierdo (que es dorado).  
+	2. Le cuesta nadar, se hunde rápido.  
+	3. Es la más joven y bajita, eso es genética porque era pequeña cuando nació.  
+	4. Su piel es más sonrisada de nacimiento, si se sonroja, se vuelve un tomatito pequeño.  
 	5. El primer regalo de cumpleaños que tuvo en toda su vida fue un peluche que Darya le regaló cuando Akiko cumplió 10 años. Lloró de felicidad cuando lo recibió.  
 	6. Sus dulces favoritos son los EnergyCandy, unos masticables dulces que dan energía.  
 	7. Si come dulces en exceso se pone más hiperactiva de lo normal. 
@@ -155,7 +155,7 @@
 	6. Aunque es una nekomimi, le complica ser sigilosa, es tan fácil ver cuando miente que Darya no tiene que usar su habilidad de nacimiento.  
 	7. Su arco es bastante cómodo en el aire y de forma terrestre, además le permite practicar sigilo.  
 	8. Le gustan los juegos de vestir y los de creatividad, le gusta armar cosas con bloques y ver a Violeta hacer ropa.  
-	9. X.  
+	9. A veces les pide a los personajes extranjeros (Akiko, Andrés, Alec, Christian, Cara, Jacob, Violeta, Melissa, Diana, Daniel) conversar con ellos en su idioma natal para mantener la costumbre de hablar en otros idiomas.  
 	10. X.  
 
 **Un secreto:** Tiene el elesterlio del viento, se hace llamar Breeze por la brisa.  
@@ -219,7 +219,7 @@
 	6. Joseph se porta bien con ella porque es su pareja y es Alexa.  
 	7. Cuando está impaciente, su cola de conejo se mueve rápido y sus orejas tiemblan un poco.  
 	8. No le gusta que ser interrumpida mientras hace algo (dormir, siesta, ejercicio, comer, baño, entre otros).  
-	9. X.  
+	9. No se acuerda del Jeonsanes (lenguaje nativo de Jeonsa), así que a veces le dice a Adam que le hable en Jeonsanes para aprenderlo.  
 	10. X.  
 
 **Un secreto:** Trata de investigar por su cuenta para hacer a su primo y su tío orgullosos, aunque Adam y Erin también andan investigando por su lado.  
@@ -250,7 +250,7 @@
 	5. Es muy buena enseñando, perfectamente podría ser profesora.  
 	6. Hablando de Diana profesora, ella refuerza la materia de la escuela a los estudiantes, ella ayudó a Darya a preparar a Akiko para reingresar a la escuela.  
 	7. Constantemente vigila que Daniel se alimente bien y tome su medicina (dos veces al día y una cuando está en crisis).  
-	8. Su control mental musical no funciona con robots, pero como Michael es un cyborg, le afecta igual, a Pari no le afecta porque es una IA (solo observaría desde dentro y analizaría los efectos de la habilidad de Diana).  
+	8. Su control mental musical no funciona con robots, pero como Michael es un cyborg y todavía conserva su humanidad, le afecta igual, a Pari no le afecta porque es una IA, solo observaría desde dentro y analizaría los efectos de la habilidad de Diana, además de charlar entre ambas.  
 	9. X.  
 	10. X.  
 
