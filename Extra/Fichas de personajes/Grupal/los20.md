@@ -92,7 +92,7 @@
 	7. Si come dulces en exceso se pone más hiperactiva de lo normal. 
 	8. Al haber trabajado en su infancia, terminó saliendo de la escuela porque en ninguno de los dos lados estaba dando el 100%.  
 	9. Actualmente está estudiando y trabaja en la casa de los Morales (donde vive Gonzalo) como asistente de limpieza de medio tiempo y ayudante para Ayla 5.0.  
-	10. X.  
+	10. A veces hablar a Yíshùense (el lenguaje nativo de Yíshù, que para los terrícolas es similar al japonés).  
 
 **Un secreto:** Tiene el elesterlio de la naturaleza, se hace llamar Ayame porque le pareció bonito el nombre. La flor que le dió a Adam es una que inventó con ese poder, crece y se multiplica con buenas acciones, pero se marchita con malas acciones (todo debe ser del corazón).  
 
@@ -124,7 +124,7 @@
 	7. Como Andrés lo llevaba constantemente con él cuando se reunía con Darya y Akiko, a Alejandro no le tomó mucho tiempo encariñarse con las dos y poder hacerles unos regalitos.  
 	8. Le gusta hacer manualidades y le encantan los broches.  
 	9. Mientras hacía los regalos para cada persona de la cabaña, normalmente pensaban que era un ladrón o algo así y los que sí se acordaban le recordaban al resto que Alejandro es de la cabaña.  
-	10. X.  
+	10. Le toma entre dos horas y tres semanas hacer un regalo apropiado (algo hecho a mano, un objeto comprado, un evento), pero normalmente necesita un tiempo para conocer a la persona y sentir cariño por ella.  
 
 **Un secreto:** Es el elesterlio de la luz, se hace llamar Élian porque siente que representa la luz que podría ser si no estuviera atado a los malos actos de Wyatt.  
 
@@ -179,7 +179,7 @@
 **Cómo llegó al grupo:** Encontró la cabaña cuando estaba jugando a las escondidas con Alexa, cuando notó anishes y cuishigos juntos, le dió la propuesta a Alexa de considerarlo su nuevo hogar.  
 **En el presente:** Mejor amiga de Alexa y confidente de Melissa, Eliza es la que calma las aguas con su mera presencia.  
 **Diez datos:**
-	1. Le encanta el origami y las manualidades..  
+	1. Le encanta el origami y las manualidades.  
 	2. Sabe que James tiene cierto interés en ella, pero prefiere que él se lo diga directamente.  
 	3. Aunque es tímida e introvertida, en las historias que ha entrado es capaz de mostrar su faceta más valiente.  
 	4. Le gusta leer en la biblioteca central de Senlín con James.  
