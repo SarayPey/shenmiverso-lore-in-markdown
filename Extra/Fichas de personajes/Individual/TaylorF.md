@@ -1,4 +1,5 @@
-Taylor Daniels  
+***Taylor Daniels***  
+
 **Nombre completo o apodos:** Taylor Daniels Qirkari (Apodos: Ty).  
 **Edad:** 19 años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** Ver recuerdos de seres vivos e inertes (normalmente de forma accidental porque no puede controlar su habilidad) (**Okimantis:** Lealtad).  
