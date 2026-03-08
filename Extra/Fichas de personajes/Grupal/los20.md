@@ -335,11 +335,11 @@
 **Anish:** Emma Park.  
 **Gema de unión:** Collar.  
 **Rol en el grupo:** Diseñadora textil, sobornadora y la más divertida.  
-**Lore rápido:** Era una chica argentina-canadiense normal, hasta que, a sus 9 años, algo misterioso la llevó a Mochu, entonces conoció a la familia de Emma, la cual la acogió mientras la ayudaban a aprender el lenguaje mochibria y ella ayudaba a cuidar a una Emma bastante pequeña.  
+**Lore rápido:** Era una chica argentina-canadiense normal, hasta que, a sus 9 años, algo misterioso la llevó a un portal hacia Mochu, caminaba perdida por un  entonces conoció a la familia de Emma, la cual la acogió mientras la ayudaban a aprender el lenguaje mochibria y ella ayudaba a cuidar a una Emma bastante pequeña.  
 **Cómo llegó al grupo:** Un día estaba aburrida con Emma, estaban corriendo por Senlín hasta que Violeta chocó con la puerta, cuando Darya abrió, le dijo en español "che, ¿acá venden alfajores?". A Darya le pareció divertida así que la incluyó con Emma.  
 **En el presente:** Es la que hace la ropa de todos, además de tener su propia tienda de diseño, pareja de Alec y mejor amiga de Diana y Emma.  
 **Diez datos:**
-	1. Se pone a incursionar en el internet terrícola, por eso conoce canciones de Doja Cat, Beyonce, Lady Gaga y demás.  
+	1. Se pone a incursionar en el internet terrícola para ver los cambios de su mundo, por eso conoce canciones de Doja Cat, Beyonce, Lady Gaga, Britney Spears y demás. Igual escucha música más antigua y a algunos artistas argentinos.  
 	2. Su objetivo es sobornar a Melissa para que la ayude a hacer un TikTok de la cabaña para que los terrícolas vean que los mochibrias son como ellos. De paso, quiere hacer un asado.  
 	3. Sus habilidades de nacimiento surgieron por una bendición de una semi-primordial que la vio llegar.  
 	4. Trata de que Alec salga más y conviva para ayudarlo con lo que pasó en su infancia.  
