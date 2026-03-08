@@ -16,7 +16,7 @@
 **Gema de unión:** Pulsera  
 **Rol en el grupo:** Fundadora, chef cuando Christian no puede, líder y madre del grupo.  
 **Lore rápido:** No tiene una historia traumática, pero descubrió que era cuishiga de Akiko cuando tenía 16 años y desde entonces la cuida (lo que explica que ambas se traten como hermanas). Hace un par de, su madre se había enfermado y Akiko la ayudó a salvarla.  
-**Cómo llegó al grupo:** Un día cualquiera a sus 17 años, Andrés (que era un compañero suyo en la escuela) se encontraron para charlar y entre ambos pensaron en un grupito pequeño de cuishigos y sus anishes donde pudieran enfrentar sus temores y ser aceptados, por lo que ambos son fundadores.  
+**Cómo llegó al grupo:** Un día cualquiera a sus 17 años, Andrés (que era un compañero suyo en la escuela) se encontraron para charlar y entre ambos pensaron en un grupo pequeño de cuishigos y sus anishes donde pudieran enfrentar sus temores y ser aceptados, por lo que ambos son fundadores.  
 **En el presente:** Actualmente es la líder, aunque no lo parezca. Pareja de Andrés y mejor amiga de Akiko.  
 **Diez datos:**
 	1. Es atleta.  
@@ -28,7 +28,7 @@
 	7. Además de atleta, es nadadora y surfista, es bastante ágil nadando.  
 	8. Está constantemente regulando que todos se alimenten bien (y que no le den tantos dulces a Akiko), especialmente Christian (porque al cocinar se le puede ir el apetito).  
 	9. Su velocidad de reacción es rápida, incluso reacciona más rápido que Melissa, Michael y Jacob.  
-	10. X.  
+	10. Tal y como es esperado, es la más ágil y flexible del grupo.  
 
 **Un secreto:** Es una elesterlia, la elesterlia del agua, exactamente, se hace llamar Irvette en honor a su entrenadora de gimnasia en la infancia: Irvette Ortega.  
 
@@ -59,7 +59,7 @@
 	6. Está aprendiendo a hacer hamacas que no se queman, efectivamente no se queman, pero todavía debe mejorar en los diseños.  
 	7. Él hizo los columpios que hay en el patio trasero de la cabaña.  
 	8. Le gusta su ballesta, porque además de que de esa forma el cuarteto Darya-Andrés-Akiko-Alejandro es infalibre y todos cubren puntos débiles, se siente como un cupido de la cabaña.  
-	9. Sigue intentado avances con Elies (Eliza-James), Miclissa (Michael-Melissa) y Jacora (Jacob-Cara), todavía no logra avances pero al menos son amigos, eso es algo. Además tiene fe porque ya lo logró con Vioalec (Violeta-Alec) y Alexeph (Alexa-Joseph).  
+	9. Sigue intentado avances con Elimes (Eliza-James), Michalissa (Michael-Melissa) y Jacora (Jacob-Cara), todavía no logra avances pero al menos son amigos, eso es algo. Además les tiene fe porque ya lo logró con Violec (Violeta-Alec) y Alexeph (Alexa-Joseph).  
 	10. X.  
 
 **Un secreto:** Es un elesterlio, el del fuego exactamente, se hace llamar Mishan en honor a Ezer McMishan, su personaje favorito de la infancia (que era interpretado por Ángel Mishan —Por eso en su presentación del capítulo 3 Ángel aclaraba que no era el héroe).  
