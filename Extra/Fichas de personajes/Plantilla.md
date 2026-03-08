@@ -1,4 +1,5 @@
 [Nombre] [Apellido]  
+
 **Nombre completo o apodos:** [] [] [] (**Apodos:** []).  
 **Edad:** [] años (DD/MES/AAAA).  
 **Habilidad de nacimiento:** X (**Okimantis:** Lealtad, X. **Serfanías:** X. **Gamkinas:** X. **Habilidad rama aprendidas:** X).  
