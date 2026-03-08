@@ -1,7 +1,7 @@
 Taylor Daniels  
 **Nombre completo o apodos:** Taylor Daniels Qirkari (Apodos: Ty).  
 **Edad:** 19 años (DD/MES/AAAA).  
-**Habilidad de nacimiento:** Ver los recuerdos de seres vivos e inertes (a veces de forma accidental).  
+**Habilidad de nacimiento:** Ver los recuerdos de seres vivos e inertes (a veces de forma accidental) (**Okimantis:** Lealtad).  
 **Especie:** Chirula (sus cuernos y cola son azul cielo).  
 **Altura:** 174cm.  
 **Peso:** 45,67kg.  
