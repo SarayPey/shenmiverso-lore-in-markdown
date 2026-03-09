@@ -15,16 +15,16 @@
 |-|-|-|-|-|-|
 |Rojo|Zared 🪐|Akane 🌻|Ivette Ortega 🌻|James Larson 🌻|Brisa Fowler 🌻|
 |Naranjo|Inayah 🌻|Farrah 🌻|James Rosales 🌎|Kaney 🌻|Elysia Valfyre 🌻|
-|Dorado|Polaris Lintang 🌠|Adam Carter 🌻|Elio 🪐|Diamona Dyamblor 🌻👻|Everly Boyer 🌻👻|
+|Dorado|Polaris Lintang 🌠|Adam Carter 🌻|Elio 🪐|Diamona Dyamblor 🌻💀👻|Everly Boyer 🌻💀👻|
 |Verde|Nero 🌻|Julián Riquelme 🌎|Salva Alyster 🌻☯|Jake 🪐|Sundara 🌻|
 |Celeste|Willow Lane 🌎|Safiya 🌻|Hasani Acoarzya 🌻|Calixta 🌻|Zaire Arqazyva 🌻|
-|Azul|Wisteria Samdihar 🌻|Dorian Alyster 🌻☯|Kiyoshi 🌻|Taylor Daniels 🌻|Rayco 🌻|
-|Morado|Melissa Torres 🌻|Yunus 🌻|Emma Park 🌻|Sycorax 🪐|Kiara 🌻👻|
+|Azul|Wisteria Samdihar 🌻|Dorian Alyster 🌻☯|Kiyoshi 🌻💀👻|Taylor Daniels 🌻|Rayco 🌻|
+|Morado|Melissa Torres 🌻|Yunus 🌻|Emma Park 🌻|Sycorax 🪐|Kiara 🌻💀👻|
 |Rosa|Aarav 🍀|Juno Rosales 🌎|Ozara 🪐|Érika Valdés 🌎|Kyria 🌻|
 |Blanco|Elidi 🤍|Laoise 🌻|Zuri 🌻|Zelik 🪐|Dyciel 🌻|
 |Plata|Huldr 🌻|Zylvia 🌻|Koaka, La verdad desconocida 🔲|Rurik 🪐|Nael, Sirviente de la paz 🔲|
 |Negro|Daleth 🌻|Kalonice 🖤|Fairfax 🌻|Novax 🌻|Skyla Ross 🔲|
-|Sombrío|Seldon 🖤|Amarisa 🌻|Varoun Arqazyva 🌻|Wyatt Rivera 🌻|Fallyn Olssen 🌻|
+|Sombrío|Seldon 🖤|Amarisa 🌻|Varoun Arqazyva 🌻|Wyatt Rivera 🌻💀|Fallyn Olssen 🌻|
 
 # SIMBOLISMOS/CARACTERÍSTICAS
 
@@ -68,6 +68,8 @@
 *«Para que la luna dorada inicie su nuevo destino y brille por su cuenta, el sol morado deberá atardecer».*
 
 *«El día que la luna dorada acepte su valor y se enfrente al sol sombrío, el futuro estará a su favor, pues la marca de quien aprende del sabio ante él se mostrará».*
+
+*«Cuando la estrella sombría sea liberada de sus cadenas oscuras, con los sombríos vivos se reunirá, y una catástrofe causarán».*
 
 *«Para que finalmente los sombrios caigan en su egoísmo, el sol morado deberá soberanía tener, y la luna dorada por aquella misión deberá caer.*
 

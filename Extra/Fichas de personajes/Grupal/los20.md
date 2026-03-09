@@ -29,7 +29,7 @@
 	8. Está constantemente regulando que todos se alimenten bien (y que no le den tantos dulces a Akiko), especialmente Christian (porque al cocinar se le puede ir el apetito).  
 	9. Su velocidad de reacción es rápida, incluso reacciona más rápido que Melissa, Michael y Jacob.  
 	10. Tal y como es esperado, es la más ágil y flexible del grupo.  
-
+	
 **Un secreto:** Es una elesterlia, la elesterlia del agua, exactamente, se hace llamar Irvette en honor a su entrenadora de gimnasia en la infancia: Irvette Ortega.  
 
 2. ***Andrés Johnson***  
@@ -156,7 +156,7 @@
 	7. Su arco es bastante cómodo en el aire y de forma terrestre, además le permite practicar sigilo.  
 	8. Le gustan los juegos de vestir y los de creatividad, le gusta armar cosas con bloques y ver a Violeta hacer ropa.  
 	9. A veces les pide a los personajes extranjeros (Akiko, Andrés, Alec, Christian, Cara, Jacob, Violeta, Melissa, Diana, Daniel) conversar con ellos en su idioma natal para mantener la costumbre de hablar en otros idiomas.  
-	10. X.  
+	10. Jacob sospecha que tiene algo relacionado con algún espíritu o fantasma, no sabe por qué exactamente, pero siente que algo en ella es espectral.  
 
 **Un secreto:** Tiene el elesterlio del viento, se hace llamar Breeze por la brisa.  
 
@@ -188,7 +188,7 @@
 	7. Es raro verla con el pelo en la espalda en vez del hombro.  
 	8. Le gustan los cisnes, le parecen elegantes y muchas veces son personajes interesantes en las historias.  
 	9. Se puede dormir con facilidad si está en un lugar cómodo y no está haciendo leyendo o haciendo manualidades.  
-	10. X.  
+	10. Le gusta el té de manzanilla, lo considera relajante.  
 
 **Un secreto:** Tiene el elesterlio del tiempo, se hace llamar Aisha por la protagonista de uno de sus libros favoritos.  
 
@@ -220,7 +220,7 @@
 	7. Cuando está impaciente, su cola de conejo se mueve rápido y sus orejas tiemblan un poco.  
 	8. No le gusta que ser interrumpida mientras hace algo (dormir, siesta, ejercicio, comer, baño, entre otros).  
 	9. No se acuerda del Jeonsanes (lenguaje nativo de Jeonsa), así que a veces le dice a Adam que le hable en Jeonsanes para aprenderlo.  
-	10. X.  
+	10. Todavía le cuesta medir su fuerza, pero ha logrado mantenerla controlada para no romper cosas (o huesos) en el día.  
 
 **Un secreto:** Trata de investigar por su cuenta para hacer a su primo y su tío orgullosos, aunque Adam y Erin también andan investigando por su lado.  
 
@@ -251,8 +251,8 @@
 	6. Hablando de Diana profesora, ella refuerza la materia de la escuela a los estudiantes, ella ayudó a Darya a preparar a Akiko para reingresar a la escuela, además enseña a los anishes y menores de edad de la cabaña.  
 	7. Constantemente vigila que Daniel se alimente bien y tome su medicina (dos veces al día y una cuando está en crisis).  
 	8. Su control mental musical no funciona con robots, pero como Michael es un cyborg y todavía conserva su humanidad, le afecta igual, a Pari no le afecta porque es una IA, solo observaría desde dentro y analizaría los efectos de la habilidad de Diana.  
-	9. X.  
-	10. X.  
+	9. Aunque es buena enseñando, tiene un carácter fuerte y es honesta con lo que piensa, por lo que no es raro que los estudiantes se asusten un poco con ella, aunque eso no les impide aprender.  
+	10. Tiene un gran sentido de la justicia, además no le gusta que le mientan en cosas que son muy importantes.  
 
 **Un secreto:** No tiene secretos, es bastante franca al hablar de sus orígenes y opinión.  
 
@@ -284,7 +284,7 @@
 	7. ODIA que lo confundan con una mujer, su madre lo golpeaba cuando hacía algo femenino y le recordaba que su apariencia no era adecuada.  
 	8. Cuando niño, uno de los castigos que tenía si se comportaba mal era dormir en el patio de la casa con el torso descubierto y en medio de la lluvia, Daniel se armó una pequeña casucha para esconderse a llorar.  
 	9. Aunque Daniel no lo sepa, tiene acento Munhonita (herencia de su padre aunque no lo conozca), de parte de su madre sabe Inglés.  
-	10. X.  
+	10. Cuando sale, normalmente los animales de los alrededores lo siguen.  
 
 **Un secreto:** Le gusta la danza y el color rosa, no lo dice porque en Alaska Oriental aprendió que era algo de mujeres. Quiere hacer las paces con Connor.  
 
@@ -310,18 +310,18 @@
 	1. Se empezó a enamorar de Violeta porque ella le dió un beso en la mejilla cuando ella llegó con Emma, se sonrojó bonito sin disimular ni notarlo.  
 	2. Es primo muy lejano de Andrés.  
 	3. Cuando Christian llegó y lo identificó como su anish, no lo soltó por unos días.  
-	4. Normalmente no saca fotos de edificios porque le recuerda a Alan, si saca fotos de un edificio, algo malo está pensando.  
+	4. Normalmente no saca fotos de edificios porque le recuerdan a Alan y a todo lo que pasó ese día, si saca fotos de un edificio, algo malo está pensando.  
 	5. Extraña su hogar, a veces tiene pesadillas con Alan y cómo era tan joven para poder evitar su final.  
 	6. Violeta lo sonroja con facilidad, en general, es bastante expresivo aunque no lo demuestre de forma normal.  
 	7. Me lo imagino teniendo un lente de cámara junto a él que puede usar para ver las cosas sin tener que levantar su cámara.  
 	8. Cuando los otros van a resolver anomalías, normalmente él se queda en la cabaña y ayuda en la logística y análisis de datos. Solo sale si es una situación usgente o no hay personas disponibles para dicha anomalía.  
 	9. Es muy bueno jugando al escondite, no solo porque a veces los espíritus lo ayudan, sino porque jugaba todos los días con Alan.  
-	10. X.  
+	10. Si Zadok llega a caer, Alec seguiría en la cabaña, porque ahí tiene todo lo que desea.  
 
 **Un secreto:** Ha visto a la muerte en algunas fotos del grupo, lo suficientemente lejos como para saber que son muertes del pasado pero lo suficientemente cerca como para saber que sigue doliendo a pesar de ello, además de conocer los secretos de todos por los espíritus que cargan.  
 
 11. ***Violeta Anderson***  
-**Nombre completo o apodos:** Violeta Julieta Anderson Pardo (**Apodos:** Vi, Violeta, Vivi).  
+**Nombre completo o apodos:** Violeta Julieta Anderson Pardo (**Apodos:** Vi, Violet, Vivi).  
 **Edad:** 20 años (28/Mayo/2000).  
 **Habilidad de "nacimiento":** Velocidad, diseños hermosos (**Okimantis:** Lealtad).  
 **Especie:** Terrícola.  
@@ -339,16 +339,16 @@
 **Cómo llegó al grupo:** Un día estaba aburrida con Emma, estaban corriendo por Senlín hasta que Violeta chocó con la puerta, cuando Darya abrió, le dijo en español "che, ¿acá venden alfajores?". A Darya le pareció divertida así que la incluyó con Emma.  
 **En el presente:** Es la que hace la ropa de todos, además de tener su propia tienda de diseño, pareja de Alec y mejor amiga de Diana y Emma.  
 **Diez datos:**
-	1. Se pone a incursionar en el internet terrícola para ver los cambios de su mundo, por eso conoce canciones de Doja Cat, Beyonce, Lady Gaga, Britney Spears y demás. Igual escucha música más antigua y a algunos artistas argentinos.  
+	1. Se pone a incursionar en el internet terrícola para ver los cambios de su mundo, por eso conoce un par de canciones de Doja Cat, Beyonce, Lady Gaga, Britney Spears y demás. Igual escucha música más antigua y a algunos artistas argentinos.  
 	2. Su objetivo es sobornar a Melissa para que la ayude a hacer un TikTok de la cabaña para que los terrícolas vean que los mochibrias son como ellos. De paso, quiere hacer un asado.  
 	3. Sus habilidades de nacimiento surgieron por una bendición de una semi-primordial que la vio llegar.  
 	4. Trata de que Alec salga más y conviva para ayudarlo con lo que pasó en su infancia.  
 	5. Es MUY buena leyendo a las personas, identificó al instante que Jacob y Cara eran terrícolas.  
 	6. Su relación con Alec es bonita, además de tratarlo con mucho amor y llevarlo a todos lados, se acurrucan juntos en el sofá, sus trabajos se complementan y Violeta frecuentemente le da besos porque le gusta cuando se sonroja (le saca fotos con su celular).  
 	7. Le gusta usar ropa cómoda y bonita, confecciona ropa que sea flexible y cómoda para distintos gustos.  
-	8. Se pone a juzgar las telenovelas mexicanas y las telenovelas turcas que se encuentra en el internet terrícola, en sus propias palabras, "Les falta sentido común, amo".  
+	8. Se pone a juzgar las telenovelas y los k-dramas que se encuentra en el internet terrícola, en sus propias palabras, "Les falta sentido común, pero me encantan".  
 	9. Normalmente le sugiere a Christian nuevas recetas, especialmente aquellas que combinan sabores de la Tierra con ingredientes de Mochu.  
-	10. X.  
+	10. Investigó algo de historia mochibria para encontrar el origen del odio de los terrícolas a los mochibrias, pero todavía no entiende los motivos.  
 
 **Un secreto:** Tiene una tía chilena.  
 
@@ -380,7 +380,7 @@
 	7. Tiene prioridad con Violeta para que le diseñe ropa o accesorios, ellas dos se llevan bastante bien.  
 	8. Cuando Violeta empieza a hablar en español o mete cosas de jerga argentina, Emma traduce para el resto lo que dice en resumen.  
 	9. A veces se pone a cantar para ayudar a los demás a relajarse o para animar el ambiente.  
-	10. X.  
+	10. Aunque en Magistic suele ser voz de apoyo, ha demostrado que su voz es bastante potente, teniendo su toque propio al igual que la de Ángel, Diana y Ethan (sí, Ethan también canta).  
 
 **Un secreto:** No tiene nada que esconder.  
 
@@ -412,7 +412,7 @@
 	7. Violeta lo puede sobornar fácil porque todavía tiene pesos argentinos en su poder, además de otras monedas.  
 	8. Cuando no puede estar en la cocina (estudios, tarea, colapso o simplemente no está disponible por motivos de fuerza mayor), solo deja que Darya, Alec, Violeta, Michael, Melissa Diana y/o Adam (si justo aparece en la cabaña) estén en la cocina, el resto no sabe cocinar o es un desastre (Andrés y Alexa, por ejemplo).  
 	9. Es un poco obsesivo con la limpieza, no le gusta que dejen cosas sucias en la cocina o que se ensucien las cosas sin limpiarlas después.  
-	10. X.  
+	10. Aunque no lo diga, apoya la idea de Violeta de hacer un asado siempre y cuando ella limpie la loza (limpia rápido por su habilidad de nacimiento) y deje todo ordenado.  
 
 **Un secreto:** En la mejilla tiene una marca que puede empezar a acabar su vida cuando siente un fuerte dolor emocional.  
 
@@ -426,7 +426,7 @@
 **Piel:** Morena.  
 **Ojos:** Naranjos.  
 **Cabello:** Negro con puntas grises.  
-**Detalles relevantes:** Broches verdes en su cabello, Cicatrices sanadas en sus muñecas, abdomen y cuello, una margarita viva en el cabello (No, no es regalo de Akiko, esta tiene una historia distinta).  
+**Detalles relevantes:** Broches verdes en su cabello, Cicatrices sanadas en sus muñecas, abdomen y cuello, una margarita viva en el cabello (No, no es regalo de Akiko, esta tiene una historia distinta y principalmente es un crossover con personajes de otros creadora siendo un arco secundario de la trama —dicho arco no tuvo un final feliz).  
 **Arma insignia:** Mirada del espectador (Sable).  
 **Anish:** Joseph Walker.  
 **Gema de unión:** Collar.  
@@ -444,7 +444,7 @@
 	7. Su madre lo tuvo a los 18 años, actualmente tiene 36 años y mucho orgullo de James.  
 	8. En un punto de su vida, los espectadores y los ojos rojos fueron sus únicos amigos.  
 	9. De tanto romper la cuarta pared James aprendió español e inglés.  
-	10. X.  
+	10. De vez en cuando piensa en el lugar donde está actualmente, las personas que conoció, los amigos que perdió (relacionado con la margarita) y las cosas que aprendió, y a veces lo dice si lo vemos.  
 
 **Un secreto:** Es capaz de controlar a los ojos rojos ahora, si quisiera, podría hacer que todo el mundo se vuelva loco.  
 
@@ -464,24 +464,24 @@
 **Gema de unión:** Collar.  
 **Rol en el grupo:** Provocador, el que peor cae del grupo, el de las bromas pesadas.  
 **Lore rápido:** Su madre lo dejó con su padre, el cual lo crió como un niño de bien y con modales, pero una vez su madre se lo llevó un par de meses, lo regresó siendo un niño totalmente diferente, siendo un niño travieso y problemático.  
-**Cómo llegó al grupo:** James lo llevó a la cabaña, a pesar de que Joseph lo consideraba "un lugar de parias fracasados", no tardó en ir allá con James porque estaba aburrido.  
-**En el presente:** Es el ente del mal, el caos que Darya, Andrés y Melissa tratan de reformar. Un clásico chico problemático que hiere al resto por gusto propio. Pareja de Alexa.  
+**Cómo llegó al grupo:** James lo llevó a la cabaña, a pesar de que Joseph lo consideraba "un lugar de parias fracasados", no tardó en ir allá con James porque estaba aburrido y no iba a dejar a James solo con el resto.  
+**En el presente:** Es el ente del mal, el caos que Darya, Andrés y Melissa tratan de reformar. Un clásico chico problemático que hiere al resto por gusto propio. Pareja de Alexa y bajista de Magistic (no sabe cantar, por cierto).  
 **Diez datos:**
 	1. Es un usagimimi de nacimiento por herencia de su padre.  
 	2. A pesar de que lo abandonó, Joseph prefiere a su madre porque no le dió reglas aunque su padre le haya dado cariño y apoyo.  
 	3. Suele hacer bromas y chistes muy crueles.  
-	4. Antes de Connor, era mejor amigo de Cara, hasta que ella se alejó de él por considerar que se estaba pasando con Jacob.  
+	4. Antes de Connor, Daniel y Christian, era mejor amigo de Cara, hasta que ella se alejó de él por considerar que se estaba pasando con Jacob.  
 	5. Es muy bueno con la pelota y los videojuegos.  
 	6. Si Joseph se preocupa por ti, sabes que estás mal, aunque no lo demuestre (Joseph tiene su reputación, en ese sentido es medio tsundere).  
 	7. Aunque se sabe que Joseph es bastante cruel en la cabaña, es un caos controlado, no ha lastimado a nadie gravemente (en términos físicos, psicológicamente no tanto), esto es causa a su madre y a malas compañía que tuvo mientras crecía.  
 	8. No le gusta que le digan que es un conejo, pero le gusta la zanahória.  
 	9. A pesar de que se sabe que es un chico problemático, es bastante inteligente y astuto, aunque no lo demuestre.  
-	10. X.  
+	10. De vez en cuando Joseph aprovecha algunos detalles de su habilidad (como pensar en buscar "cosas perdidas de personas que conozco" o "algo secreto de personas que conozco", entre otros) para encontrar alguna cosa de algún conocido para usarlo en su contra.  
 
 **Un secreto:** Tiene un punto débil con James y Alexa.  
 
 16. ***Connor Scott***  
-**Nombre completo o apodos:** Connor Kartyn Scott Zeryl (**Apodos:** Cono, Kart).  
+**Nombre completo o apodos:** Connor Kartyn Scott Zeryl (**Apodos:** Con, Cono, Kart).  
 **Edad:** 15 años (05/Julio/3030).  
 **Habilidad de nacimiento:** Duplicación (**Okimantis:** Lealtad).  
 **Especie:** Mochibria.  
@@ -508,7 +508,7 @@
 	7. Le gusta el fútbol y los videojuegos.  
 	8. Además de duplicar objetos, también puede duplicar personas, se puede duplicar a sí mismo, no olvidemos que también puede fusionar las cosas duplicadas o dejarlas así por siempre.  
 	9. Aunque es un buen amigo de Joseph, no es tan cercano a él como lo era con Daniel.  
-	10. X.  
+	10. A pesar de que su habilidad es bastante útil, es difícil de controlar, por lo que a veces se le va de las manos y termina duplicando cosas que no quería.  
 
 **Un secreto:** Su inestabilidad se basa en el espíritu que habita en su cuerpo, es su aura la que causaba la muerte de las mascotas de Connor.  
 

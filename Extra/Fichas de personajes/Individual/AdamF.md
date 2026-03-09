@@ -6,10 +6,10 @@
 **Especie:** Mochibria.  
 **Altura:** 190cm.  
 **Peso:** 57,75kg.  
-**Piel:** Cálida.  
+**Piel:** Medio-pálida.  
 **Ojos:** Azules.  
 **Cabello:** Rojo, media chasquilla pálida, un mechón frontal y uno lateral dorados y un mechon rojo muy pálido.  
-**Detalles relevantes:** Ojeras y un par de cicatrices.  
+**Detalles relevantes:** Ojeras (incluso si duerme bien) y un par de cicatrices.  
 **Arma insignia:** Renacer del destino desafiado (Cetro).  
 **Lore rápido:** Siendo hijo de Erin Miller y Milada Carter, es originario de Jeonsa que se mudó a Senlín cuando era muy pequeño por el trabajo de su padre, cuando era un niño, decidió ser detective por inspiración de Maryam, por lo que fue a la escuela de criminalística a los 9 años (era el más joven de su clase), pero otros estudiantes le hicieron bullying (lo empezó Brayan, por cierto) por ocho años porque su habilidad de nacimiento no era para ser policía, siempre estaba solo porque lo aislaron sistemáticamente, al punto de que, una vez en la escuela (en sus primeros días) hicieron que se cayera cuando iba a dejar unos libros, entonces le sacaron tantas fotos con flash (conseguidas con terrícolas) que sus ojos son algo sensibles a las luces parpadeantes. Después de salir, y antes de lograr ser detective, trabajó de psicólogo por unos años, consiguiendo su casa en las afueras del norte de Senlín, postuló al trabajo cada que podía hasta finalmente ser elegido como detective y lider principal del sector 970, por lo que propuso a sí mismo seguir y mantener el legado de Maryam, aunque no todo fue tan fácil al principio, pues Brayan también estaba en dicho trabajo. Su intolerancia al café es de su primer día como líder del sector 970, entre otros desastres (mini incendio, puerta pegajosa, dibujos ofensivos y los libros que se le cayeron en la infancia), Brayan le dió café envenenado y en mal estado, quedó inconsciente una semana y cuando Melissa apareció en su puerta para regañarle por no asistir, Adam apenas logró abrirle la puerta antes de desmayarse.  
 **En el presente:** Actualmente es líder y detective principal del sector 970 de la zona de Investigación de la policía, a pesar de la adversidad, ha logrado consolidar su propio legado, además de empezar a hacer su propio legado desde la empatía y el compañerismo.  
