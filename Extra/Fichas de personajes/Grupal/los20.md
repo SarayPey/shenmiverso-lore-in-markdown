@@ -1,6 +1,6 @@
 (⚠️ TW: AD1CCI0N, S3CUE5TR0, T0R7UR4, VI0L3NC!A, GU3RR4, MU3RT3, SU1CID!O ⚠️)
 
-1. Darya Collins  
+1. ***Darya Collins***  
 **Nombre completo o apodos:** Darya Lía Collins Suárez (**Apodos:** Lía, Lirya).  
 **Edad:** 20 años (18/Marzo/3026).  
 **Habilidad de nacimiento:** Detectar mentiras y verdades (**Okimantis:** Lealtad).  
@@ -15,7 +15,7 @@
 **Anish:** Akiko Rosales  
 **Gema de unión:** Pulsera  
 **Rol en el grupo:** Fundadora, chef cuando Christian no puede, líder y madre del grupo.  
-**Lore rápido:** No tiene una historia traumática, pero descubrió que era cuishiga de Akiko cuando tenía 16 años y desde entonces la cuida (lo que explica que ambas se traten como hermanas). Hace un par de, su madre se había enfermado y Akiko la ayudó a salvarla.  
+**Lore rápido:** No tiene una historia traumática, pero descubrió que era cuishiga de Akiko cuando tenía 16 años y desde entonces la cuida (lo que explica que ambas se traten como hermanas). Hace un par de años, su madre se había enfermado y Akiko la ayudó a salvarla.  
 **Cómo llegó al grupo:** Un día cualquiera a sus 17 años, Andrés (que era un compañero suyo en la escuela) se encontraron para charlar y entre ambos pensaron en un grupo pequeño de cuishigos y sus anishes donde pudieran enfrentar sus temores y ser aceptados, por lo que ambos son fundadores.  
 **En el presente:** Actualmente es la líder, aunque no lo parezca. Pareja de Andrés y mejor amiga de Akiko.  
 **Diez datos:**
@@ -32,7 +32,7 @@
 
 **Un secreto:** Es una elesterlia, la elesterlia del agua, exactamente, se hace llamar Irvette en honor a su entrenadora de gimnasia en la infancia: Irvette Ortega.  
 
-2. Andrés Johnson  
+2. ***Andrés Johnson***  
 **Nombre completo o apodos:** Andrés Camilo Johnson Rojas (**Apodos:** Andre, "Picantito", "Cupido de la cabaña").  
 **Edad:** 20 años (14/Febrero/3026).  
 **Habilidad de nacimiento:** Telekinesis (**Okimantis:** Lealtad).  
@@ -64,7 +64,7 @@
 
 **Un secreto:** Es un elesterlio, el del fuego exactamente, se hace llamar Mishan en honor a Ezer McMishan, su personaje favorito de la infancia (que era interpretado por Ángel Mishan —Por eso en su presentación del capítulo 3 Ángel aclaraba que no era el héroe).  
 
-3. Akiko Rosales  
+3. ***Akiko Rosales***  
 **Nombre completo o apodos:** Akiko Sahori Rosales Kuusuko (**Apodos:** Aki, Sahori Akiko, Saho, Kuukiko, Akirisako —la mezcla de su nombre completo—, "Plantita del bien", "Enana").  
 **Edad:** 14 años (20/Agosto/3032).  
 **Habilidad de nacimiento:** Curación (**Okimantis:** Lealtad, Eterno, Curación. **Serfanías:** Ver el futuro inmediato —y cambiarlo a veces).  
@@ -96,7 +96,7 @@
 
 **Un secreto:** Tiene el elesterlio de la naturaleza, se hace llamar Ayame porque le pareció bonito el nombre. La flor que le dió a Adam es una que inventó con ese poder, crece y se multiplica con buenas acciones, pero se marchita con malas acciones (todo debe ser del corazón).  
 
-4. Alejandro Rivera  
+4. ***Alejandro Rivera***  
 **Nombre completo o apodos:** Alejandro Fain Sheryon Rivera Doameria (**Apodos:** Ale, Alej, Faryon, Fain, Sher).  
 **Edad:** 15 años (11/Octubre/3031).  
 **Habilidad de nacimiento:** Manipular las emociones del resto y las suyas (**Okimantis:** Lealtad, Maldición. **Malcursikas:** Hechizo de la inversa —Léase ***Lore rápido***).  
@@ -128,7 +128,7 @@
 
 **Un secreto:** Es el elesterlio de la luz, se hace llamar Élian porque siente que representa la luz que podría ser si no estuviera atado a los malos actos de Wyatt.  
 
-5. Laura Flores  
+5. ***Laura Flores***  
 **Nombre completo o apodos:** Laura Rosalee Kaili Flores Belyesa (**Apodos:** Lau, Lu, Rosy).  
 **Edad:** 16 años (07/Agosto/3030).  
 **Habilidad de nacimiento:** Puede aprender todos los idiomas posibles (**Okimantis:** Lealtad).  
@@ -160,7 +160,7 @@
 
 **Un secreto:** Tiene el elesterlio del viento, se hace llamar Breeze por la brisa.  
 
-6. Eliza Evans  
+6. ***Eliza Evans***  
 **Nombre completo o apodos:** Eliza Evans Sarfila (**Apodos:** Eli).  
 **Edad:** 17 años (25/Noviembre/3028).  
 **Habilidad de nacimiento:** Poder entrar a los libros (**Okimantis:** Lealtad).  
@@ -186,13 +186,13 @@
 	5. Es callada, pero su presencia no pasa desapercibida.  
 	6. El arma de Eliza puede cambiar de una katana a un conjunto de shurikens que regresan a ella.  
 	7. Es raro verla con el pelo en la espalda en vez del hombro.  
-	8. Le gustan los cisnes.  
-	9. X.  
+	8. Le gustan los cisnes, le parecen elegantes y muchas veces son personajes interesantes en las historias.  
+	9. Se puede dormir con facilidad si está en un lugar cómodo y no está haciendo leyendo o haciendo manualidades.  
 	10. X.  
 
 **Un secreto:** Tiene el elesterlio del tiempo, se hace llamar Aisha por la protagonista de uno de sus libros favoritos.  
 
-7. Alexa Miller  
+7. ***Alexa Miller***  
 **Nombre completo o apodos:** Alexa Yilya Miller Dermisa (**Apodos:** Lexi, Alex, Lex, Alexya, Lexi, Yiyi).  
 **Edad:** 17 años (05/Enero/3029).  
 **Habilidad de nacimiento:** Superfuerza (**Okimantis:** Lealtad).  
@@ -224,7 +224,7 @@
 
 **Un secreto:** Trata de investigar por su cuenta para hacer a su primo y su tío orgullosos, aunque Adam y Erin también andan investigando por su lado.  
 
-8. Diana Ramirez  
+8. ***Diana Ramirez***  
 **Nombre completo o apodos:** Diana Jarasy Ramirez Tilkira (**Apodos:** Di, Dj-Diana).  
 **Edad:** 22 años (03/Marzo/3024).  
 **Habilidad de nacimiento:** Control mental con música (**Okimantis:** Lealtad).  
@@ -248,15 +248,15 @@
 	3. Por su control mental con la música, pudo hacer que los terrícolas no descubrieran que es una mochibria, pero en un punto dejó de ser rentable.  
 	4. A diferencia de lo que parece, su habilidad es controlable, ella maneja si quiere o no usarla al hacer música.  
 	5. Es muy buena enseñando, perfectamente podría ser profesora.  
-	6. Hablando de Diana profesora, ella refuerza la materia de la escuela a los estudiantes, ella ayudó a Darya a preparar a Akiko para reingresar a la escuela.  
+	6. Hablando de Diana profesora, ella refuerza la materia de la escuela a los estudiantes, ella ayudó a Darya a preparar a Akiko para reingresar a la escuela, además enseña a los anishes y menores de edad de la cabaña.  
 	7. Constantemente vigila que Daniel se alimente bien y tome su medicina (dos veces al día y una cuando está en crisis).  
-	8. Su control mental musical no funciona con robots, pero como Michael es un cyborg y todavía conserva su humanidad, le afecta igual, a Pari no le afecta porque es una IA, solo observaría desde dentro y analizaría los efectos de la habilidad de Diana, además de charlar entre ambas.  
+	8. Su control mental musical no funciona con robots, pero como Michael es un cyborg y todavía conserva su humanidad, le afecta igual, a Pari no le afecta porque es una IA, solo observaría desde dentro y analizaría los efectos de la habilidad de Diana.  
 	9. X.  
 	10. X.  
 
 **Un secreto:** No tiene secretos, es bastante franca al hablar de sus orígenes y opinión.  
 
-9. Daniel Clark  
+9. ***Daniel Clark***  
 **Nombre completo o apodos:** Daniel Jesús Clark Shajari (**Apodos:** Dani, Dan).  
 **Edad:** 16 años (08/Mayo/3029).  
 **Habilidad de nacimiento:** Hablar con los animales (**Okimantis:** Lealtad).  
@@ -271,7 +271,7 @@
 **Cuishiga:** Diana Ramirez (Daniel: Inumimi —tiene orejas de perro).  
 **Gema de unión:** Aretes que usa como argollas en su gorra.  
 **Rol en el grupo:** Naturalista (Porque habla con los animales).  
-**Lore rápido:** Su padre es mochibria y su madre era terrícola, cuando nació, su madre lo alejó inmediatamente de su padre por haber nacido mochibria (la genética mochibria prima sobre la terrícola), por años su madre lo maltrató física y psicológicamente y obligó a buscar metas imposibles, lo que Daniel tomó como cariño, sin embargo, cuando tenía 13 años, su madre fue a una terapia para pensar en mejores formas de exigirle a Daniel la perfección, pero terminó teniendo redención con él hasta que murió un año después.  
+**Lore rápido:** Su padre es mochibria y su madre era terrícola (estadounidense), cuando nació, su madre lo alejó inmediatamente de su padre por haber nacido mochibria (la genética mochibria prima sobre la terrícola), por años su madre lo maltrató física y psicológicamente y obligó a buscar metas imposibles, lo que Daniel tomó como cariño, sin embargo, cuando tenía 13 años, su madre fue a una terapia para pensar en mejores formas de exigirle a Daniel la perfección, pero terminó teniendo redención con él hasta que murió un año después.  
 **Cómo llegó al grupo:** Diana (que le enseñó defensa personal para que pudiera protegerse de su madre) ideó el escape de Alaska Oriental hacia Senlín, ahí encontraron la cabaña y se hicieron parte de ella.  
 **En el presente:** Es el blanco fácil de Joseph, pero es uno de los integrantes más complejos de entender.  
 **Diez datos:**
@@ -283,12 +283,12 @@
 	6. En términos emocionales, Daniel está bastante mal (considerando lo flaco que está, tiene sentido), es bastante sensible y puede recaer en comportamientos autodestructivos.  
 	7. ODIA que lo confundan con una mujer, su madre lo golpeaba cuando hacía algo femenino y le recordaba que su apariencia no era adecuada.  
 	8. Cuando niño, uno de los castigos que tenía si se comportaba mal era dormir en el patio de la casa con el torso descubierto y en medio de la lluvia, Daniel se armó una pequeña casucha para esconderse a llorar.  
-	9. X.  
+	9. Aunque Daniel no lo sepa, tiene acento Munhonita (herencia de su padre aunque no lo conozca), de parte de su madre sabe Inglés.  
 	10. X.  
 
 **Un secreto:** Le gusta la danza y el color rosa, no lo dice porque en Alaska Oriental aprendió que era algo de mujeres. Quiere hacer las paces con Connor.  
 
-10. Alec Holland  
+10. ***Alec Holland***  
 **Nombre completo o apodos:** Alec Fyztar Holland Herselka (**Apodos:** Al, fotógrafo, "mini-Alan", "Fotógrafo tomate", "Tomatito").  
 **Edad:** 20 años (19/Agosto/3026).  
 **Habilidad de nacimiento:** Ver los secretos y espíritus de otros tras las cámaras (**Okimantis:** Lealtad).  
@@ -314,13 +314,13 @@
 	5. Extraña su hogar, a veces tiene pesadillas con Alan y cómo era tan joven para poder evitar su final.  
 	6. Violeta lo sonroja con facilidad, en general, es bastante expresivo aunque no lo demuestre de forma normal.  
 	7. Me lo imagino teniendo un lente de cámara junto a él que puede usar para ver las cosas sin tener que levantar su cámara.  
-	8. Cuando van a resolver anomalías, normalmente él ayuda en la logística y análisis de datos.  
-	9. X.  
+	8. Cuando los otros van a resolver anomalías, normalmente él se queda en la cabaña y ayuda en la logística y análisis de datos. Solo sale si es una situación usgente o no hay personas disponibles para dicha anomalía.  
+	9. Es muy bueno jugando al escondite, no solo porque a veces los espíritus lo ayudan, sino porque jugaba todos los días con Alan.  
 	10. X.  
 
 **Un secreto:** Ha visto a la muerte en algunas fotos del grupo, lo suficientemente lejos como para saber que son muertes del pasado pero lo suficientemente cerca como para saber que sigue doliendo a pesar de ello, además de conocer los secretos de todos por los espíritus que cargan.  
 
-11. Violeta Anderson  
+11. ***Violeta Anderson***  
 **Nombre completo o apodos:** Violeta Julieta Anderson Pardo (**Apodos:** Vi, Violeta, Vivi).  
 **Edad:** 20 años (28/Mayo/2000).  
 **Habilidad de "nacimiento":** Velocidad, diseños hermosos (**Okimantis:** Lealtad).  
@@ -345,14 +345,14 @@
 	4. Trata de que Alec salga más y conviva para ayudarlo con lo que pasó en su infancia.  
 	5. Es MUY buena leyendo a las personas, identificó al instante que Jacob y Cara eran terrícolas.  
 	6. Su relación con Alec es bonita, además de tratarlo con mucho amor y llevarlo a todos lados, se acurrucan juntos en el sofá, sus trabajos se complementan y Violeta frecuentemente le da besos porque le gusta cuando se sonroja (le saca fotos con su celular).  
-	7. X.  
-	8. X.  
-	9. X.  
+	7. Le gusta usar ropa cómoda y bonita, confecciona ropa que sea flexible y cómoda para distintos gustos.  
+	8. Se pone a juzgar las telenovelas mexicanas y las telenovelas turcas que se encuentra en el internet terrícola, en sus propias palabras, "Les falta sentido común, amo".  
+	9. Normalmente le sugiere a Christian nuevas recetas, especialmente aquellas que combinan sabores de la Tierra con ingredientes de Mochu.  
 	10. X.  
 
 **Un secreto:** Tiene una tía chilena.  
 
-12. Emma Park  
+12. ***Emma Park***  
 **Nombre completo o apodos:** Emma Solsy Park Doremi (**Apodos:** Emy, "Notita dorada").  
 **Edad:** 16 años (25/Agosto/3030).  
 **Habilidad de nacimiento:** Telekinesis cantante (**Okimantis:** Lealtad).  
@@ -379,12 +379,12 @@
 	6. Emma adora su arma insignia, se ve bonita y cuando la usa en combate combina con la ropa que use en el momento.  
 	7. Tiene prioridad con Violeta para que le diseñe ropa o accesorios, ellas dos se llevan bastante bien.  
 	8. Cuando Violeta empieza a hablar en español o mete cosas de jerga argentina, Emma traduce para el resto lo que dice en resumen.  
-	9. X.  
+	9. A veces se pone a cantar para ayudar a los demás a relajarse o para animar el ambiente.  
 	10. X.  
 
 **Un secreto:** No tiene nada que esconder.  
 
-13. Christian Garten  
+13. ***Christian Garten***  
 **Nombre completo o apodos:** Cristian Clement Garten Moretti (**Apodos:** Chris, "Chef").  
 **Edad:** 15 años (28/Diciembre/3030).  
 **Habilidad de nacimiento:** Cocina magistral (**Okimantis:** Lealtad).  
@@ -411,12 +411,12 @@
 	6. No le gusta que le cambien el orden de sus cosas sin permiso (monedas, utensilios, ollas, ingredientes, entre otros), se descompensa.  
 	7. Violeta lo puede sobornar fácil porque todavía tiene pesos argentinos en su poder, además de otras monedas.  
 	8. Cuando no puede estar en la cocina (estudios, tarea, colapso o simplemente no está disponible por motivos de fuerza mayor), solo deja que Darya, Alec, Violeta, Michael, Melissa Diana y/o Adam (si justo aparece en la cabaña) estén en la cocina, el resto no sabe cocinar o es un desastre (Andrés y Alexa, por ejemplo).  
-	9. X.  
+	9. Es un poco obsesivo con la limpieza, no le gusta que dejen cosas sucias en la cocina o que se ensucien las cosas sin limpiarlas después.  
 	10. X.  
 
 **Un secreto:** En la mejilla tiene una marca que puede empezar a acabar su vida cuando siente un fuerte dolor emocional.  
 
-14. James Larson  
+14. ***James Larson***  
 **Nombre completo o apodos:** James Clerick Larson (**Apodos:** "Librero emo", Jamie).  
 **Edad:** 17 años (21/Junio/3029).  
 **Habilidad de nacimiento:** Ver a través de las paredes (**Okimantis:** Lealtad. **Gamkina:** Soreiyahomagia).  
@@ -443,12 +443,12 @@
 	6. Es tímido, y algo vergonzoso.  
 	7. Su madre lo tuvo a los 18 años, actualmente tiene 36 años y mucho orgullo de James.  
 	8. En un punto de su vida, los espectadores y los ojos rojos fueron sus únicos amigos.  
-	9. X.  
+	9. De tanto romper la cuarta pared James aprendió español e inglés.  
 	10. X.  
 
 **Un secreto:** Es capaz de controlar a los ojos rojos ahora, si quisiera, podría hacer que todo el mundo se vuelva loco.  
 
-15. Joseph Walker  
+15. ***Joseph Walker***  
 **Nombre completo o apodos:** Joseph Bartil Walker Disastirk (**Apodos:** Josh).  
 **Edad:** 16 años (18/Abril/3030).  
 **Habilidad de nacimiento:** Detectar la ubicación de objetos y personas que decida buscar (**Okimantis:** Lealtad).  
@@ -465,7 +465,7 @@
 **Rol en el grupo:** Provocador, el que peor cae del grupo, el de las bromas pesadas.  
 **Lore rápido:** Su madre lo dejó con su padre, el cual lo crió como un niño de bien y con modales, pero una vez su madre se lo llevó un par de meses, lo regresó siendo un niño totalmente diferente, siendo un niño travieso y problemático.  
 **Cómo llegó al grupo:** James lo llevó a la cabaña, a pesar de que Joseph lo consideraba "un lugar de parias fracasados", no tardó en ir allá con James porque estaba aburrido.  
-**En el presente:** Es el ente del mal, el caos que Darya, Andrés y Melissa tratan de reformar. Un clásico chico problemático que hiere al resto por gusto propio.  
+**En el presente:** Es el ente del mal, el caos que Darya, Andrés y Melissa tratan de reformar. Un clásico chico problemático que hiere al resto por gusto propio. Pareja de Alexa.  
 **Diez datos:**
 	1. Es un usagimimi de nacimiento por herencia de su padre.  
 	2. A pesar de que lo abandonó, Joseph prefiere a su madre porque no le dió reglas aunque su padre le haya dado cariño y apoyo.  
@@ -475,12 +475,12 @@
 	6. Si Joseph se preocupa por ti, sabes que estás mal, aunque no lo demuestre (Joseph tiene su reputación, en ese sentido es medio tsundere).  
 	7. Aunque se sabe que Joseph es bastante cruel en la cabaña, es un caos controlado, no ha lastimado a nadie gravemente (en términos físicos, psicológicamente no tanto), esto es causa a su madre y a malas compañía que tuvo mientras crecía.  
 	8. No le gusta que le digan que es un conejo, pero le gusta la zanahória.  
-	9. X.  
+	9. A pesar de que se sabe que es un chico problemático, es bastante inteligente y astuto, aunque no lo demuestre.  
 	10. X.  
 
 **Un secreto:** Tiene un punto débil con James y Alexa.  
 
-16. Connor Scott  
+16. ***Connor Scott***  
 **Nombre completo o apodos:** Connor Kartyn Scott Zeryl (**Apodos:** Cono, Kart).  
 **Edad:** 15 años (05/Julio/3030).  
 **Habilidad de nacimiento:** Duplicación (**Okimantis:** Lealtad).  
@@ -507,12 +507,12 @@
 	6. Connor varía mucho el uso de su ballesta cuando está en el aire, a veces está al revés, a veces la deja en vertical y a veces está en diagonal.  
 	7. Le gusta el fútbol y los videojuegos.  
 	8. Además de duplicar objetos, también puede duplicar personas, se puede duplicar a sí mismo, no olvidemos que también puede fusionar las cosas duplicadas o dejarlas así por siempre.  
-	9. X.  
+	9. Aunque es un buen amigo de Joseph, no es tan cercano a él como lo era con Daniel.  
 	10. X.  
 
 **Un secreto:** Su inestabilidad se basa en el espíritu que habita en su cuerpo, es su aura la que causaba la muerte de las mascotas de Connor.  
 
-17. Michael Sky  
+17. ***Michael Sky***  
 **Nombre completo o apodos:** Michael Elcaryn Sky Clyrk (**Apodos:** Mike, Sky-el).  
 **Edad:** 25 años (20/Noviembre/3031).  
 **Habilidad de nacimiento:** Conocimiento y habilidad mecánica y/o tecnológica (**Okimantis:** Lealtad).  
@@ -544,7 +544,7 @@
 
 **Un secreto:** No le ha dicho a nadie qué tan peligrosa puede ser la IA, en especial si lo controla. Además, nadie sabe que antes fue adicto a sus tecnoquímicos ni que Pari antes lo trataba mal.  
 
-18. Cara Narvaez  
+18. ***Cara Narvaez***  
 **Nombre completo o apodos:** Cara Camila Amelia Narvaez Sosa (**Apodos:** Cary, Camy, Ame "10-08").  
 **Edad:** 16 años (22/Mayo/2008).  
 **Habilidad de "nacimiento":** Volver realidad lo que pinta (controlable) (**Okimantis:** Lealtad).  
@@ -571,12 +571,12 @@
 	6. Cuando era una niña normal de la tierra, la tenían bastante mimada y consentida porque era de clase media-alta.  
 	7. Es bastante cariñosa con Jacob.  
 	8. Adora la ropa que hace Violeta, la ropa que ella le hizo le recuerda mucho a lo que usaba cuando era una terrícola normal.  
-	9. X.  
-	10. X.  
+	9. Algo que olvidé mencionar es que en el tiempo donde era amiga de Joseph, se estaba alejando más de Jacob (el cual estaba quedando más solo y vulnerable a la oscuridad y la búsqueda de poder) y se empezó a comportar parecida a él.  
+	10. Es la única persona que puede controlar a Jacob con su simple presencia, pues ella lo calma y lo hace sentir seguro.  
 
 **Un secreto:** Le gusta Jacob.  
 
-19. Jacob Sanders  
+19. ***Jacob Sanders***  
 **Nombre completo o apodos:** Jacob Alex Sanders Alvarado (**Apodos:** "Emo mágico poseído", "10-01).  
 **Edad:** 17 años (28/Julio/2005).  
 **Habilidad de "nacimiento":** Volverse un fantasma (**Okimantis:** Lealtad).  
@@ -608,7 +608,7 @@
 
 **Un secreto:** Además de su pasado, el espíritu que todos ven es la punta del iceberg de todo lo que está en su interior (Es un recipiente de espíritus humano). Más profundo está su segunda forma (a.k.a, las garras que le salieron en el capítulo 6).  
 
-20. Melissa Torres  
+20. ***Melissa Torres***  
 **Nombre completo o apodos:** Melissa Isidora Torres Carson (**Apodos:** Meli, Mel).  
 **Edad:** 25 años (03/Enero/3021).  
 **Habilidad de nacimiento:** Inteligencia lógica brillante, una habilidad donde ve las posibilidades del entorno y los seres a su alrededor (**Okimantis:** Lealtad).  
