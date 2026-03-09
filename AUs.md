@@ -6,7 +6,7 @@
 |004|Genderbend AU|
 |005|Happy AU|
 |006|Vilain AU|
-|007|Redemption AU|
+|007|Redemption AU|Rama(Villain)|
 |008|NotFreedom AU|
 |009|Cabsule AU|Rama(NotFreedom)|
 |010|FurryKiller AU|

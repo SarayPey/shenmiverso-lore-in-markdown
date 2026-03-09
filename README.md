@@ -17,9 +17,7 @@
 
 ***
 
-# Shénmìverso-lore-in-markdown
-
-⚠ ADVERTENCIA DE CONTENIDO ⚠
+# ⚠ ADVERTENCIA DE CONTENIDO ⚠
 
 Estas historias pueden ser no aptas para todo público, el 40% de estas pueden contener lo siguiente:
 - Viol3nc14
