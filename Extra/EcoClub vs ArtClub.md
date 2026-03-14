@@ -29,6 +29,7 @@
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
 |Personaje favorito en común|Kirby|Zelda|
+|Lugar de junta|Banca del kiosco|Banca cerca del comedor|
 |Arte en común|✓|✓|
 
 ***
@@ -46,8 +47,10 @@
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
-|Familia liberal|Érika|Nora|
+|Familia liberal|Érika, Ricardo|Nora, Caleb|
 |Familia conservadora|Eirene|Milán|
+|Familia disfuncional|N/A|Nayeli|
+|Familia compleja|Ricardo (padre trabajando, madastra compleja, madre lejos, padastro desconocido)|Salomé (muchos hermanos, padre al sur de Chile, madre y padastro trabajando)|
 
 ## Orígenes
 
@@ -74,8 +77,8 @@
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
 |Vive con ambos padres|Érika, Eirene, Julián, Bianca|Milán, Peyton|
-|Vive solo con su padre|Thiago|Nayeli|
-|Vive solo con su madre|N/A|Noah, Nora (+ padastro)|
+|Vive **solo** con su padre|Thiago|Nayeli|
+|Vive **solo** con su madre|N/A|Noah, Nora (+ padastro)|
 |Tutela compartida|Ricardo (padre como tutor principal), Vanessa (madre como tutora principal)|Salomé (madre como tutor principal)|
 |Vive con un tutor (tío, abuelo, padre adoptivo, orfanato)|N/A|Caleb (Abuelos paternos, tíos)|
 
@@ -83,10 +86,10 @@
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
-|Hermano menor|Eirene *(1 hermana)*|Peyton *(2 hermanos)*|
-|Hermano mediano|Vanessa *(1 hermano + 1 hermanastra)*|Salomé *(1 hermana, 1 hermano, 5 hermanastras y 4 hermanastros)** , Nora *(2 hermanos + 1 hermana + 2 hermanastras + 1 hermanastro)*|
-|Hermano mayor|Érika *(1 hermano)*, Julián *(1 hermana + 1 hermano)*, Bianca *(2 hermanas)*|Noah *(3 hermanas + 2 hermanos)*|
 |Hijo único|Ricardo, Thiago,|Caleb, Nayeli, Milán|
+|Hermano mayor|Érika *(1 hermano)*, Julián *(1 hermana + 1 hermano)*, Bianca *(2 hermanas)*|Noah *(3 hermanas + 2 hermanos)*|
+|Hermano mediano|Vanessa *(1 hermano + 1 hermanastra)*|Salomé *(1 hermana, 1 hermano, 5 hermanastras y 4 hermanastros)** , Nora *(2 hermanos + 1 hermana + 2 hermanastras + 1 hermanastro)*|
+|Hermano menor|Eirene *(1 hermana)*|Peyton *(2 hermanos)*|
 
 *: *(De forma exacta los hermanos de Salomé son: 1 hermano + 2 hermanastras —padastro— + 3 hermanastras —madastra— + 2 hermanastros —padastro— + 2 hermanastros —madastra— + 1 hermana)*
 
@@ -108,33 +111,36 @@
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
-|Vive cerca, llega tarde|Thiago|Salomé|
-|Punto medio|Érika, Eirene, Ricardo, Julián, Vanessa|Noah, Caleb, Nayeli, Peyton, Milán|
-|Vive lejos, llega temprano|Bianca|Nora|
+|Vive cerca|Julián, Thiago|Salomé, Nayeli|
+|Punto medio|Érika, Eirene, Ricardo|Caleb, Milán|
+|Vive lejos|Bianca, Vanessa|Noah, Peyton, Nora|
 
 ## Medio de transporte
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
 |Pie|Julián, Thiago|Salomé, Nayeli|
-|Micro|Bianca|Nora|
+|Bici|Ricardo|Caleb|
+|Micro|Eirene|Nora|
 |Metro|Vanessa|Caleb|
+|Auto|Érika|Noah|
+|+2|Bianca (Tren-Micro)|Milán (Metro-Micro)|
 
 ## Llegada
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
-|Llega temprano|Julián, Bianca, Vanessa|Peyton, Milán, Nora|
-|Llega justo|Érika, Eirene|Noah, Caleb, Nayeli|
-|Llega tarde|Ricardo, Thiago|Salomé|
+|Llega temprano|Julián, Bianca, Vanessa|Noah, Peyton, Milán, Nora|
+|Llega justo|Érika, Eirene|Nayeli|
+|Llega tarde|Ricardo, Thiago|Caleb, Salomé|
 
 ## Notas
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
 |Buenas notas|Julián|Nayeli|
-|Malas notas|Ricardo|Nora|
-|Sobreviviente de matemáticas|Thiago|Salomé|
+|Malas notas|Ricardo (Matemáticas lo salva)|Nora|
+|Sobreviviente de matemáticas|Thiago|Salomé (Nadie sabe cómo le va mal en matemáticas CON MANUEL)|
 
 ## Profesores y estudiantes
 
