@@ -5,7 +5,7 @@
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
 |Integrante 1|Érika|Noah|
-|Integrante 2|Eirene|Caleb|
+|Integrante 2|Eirene|Kaleb|
 |Integrante 3|Ricardo|Salomé|
 |Integrante 4|Julián|Nayeli|
 |Integrante 5|Bianca|Peyton|
@@ -17,7 +17,7 @@
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
 |Líder|Érika/Yaretzi/Alex/Alexis|Noah/Kurt|
-|Mediador|Vanessa|Caleb|
+|Mediador|Vanessa|Kaleb|
 |Cerebro|Julián|Nayeli|
 |Iniciador de debates|Ricardo/"Regguei"|Nora|
 |El de los mil apodos|Érika|Noah|
@@ -41,13 +41,13 @@
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
 |Clase alta|Bianca|Noah/Kurt, Peyton|
-|Clase media-alta|Ricardo, Vanessa|Caleb, Nora|
+|Clase media-alta|Ricardo, Vanessa|Kaleb, Nora|
 |Clase media|Érika, Eirene, Thiago|Salomé, Milán|
 |Clase baja|Julián|Nayeli|
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
-|Familia liberal|Érika, Ricardo|Nora, Caleb|
+|Familia liberal|Érika, Ricardo|Nora, Kaleb|
 |Familia conservadora|Eirene|Milán|
 |Familia disfuncional|N/A|Nayeli|
 |Familia compleja|Ricardo (padre trabajando, madastra compleja, madre lejos, padastro desconocido)|Salomé (muchos hermanos, padre al sur de Chile, madre y padastro trabajando)|
@@ -57,7 +57,7 @@
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
 |Chilenos|Érika, Eirene, Ricardo, Julián, Bianca|Nayeli, Nora|
-|Inmigrantes|Thiago (Colombia), Vanessa (República Dominicana)|Noah (Estados Unidos), Peyton (Estados Unidos), Salomé (Puerto Rico), Milán (Puerto Rico), Caleb (Colombia)|
+|Inmigrantes|Thiago (Colombia), Vanessa (República Dominicana)|Noah (Estados Unidos), Peyton (Estados Unidos), Salomé (Puerto Rico), Milán (Puerto Rico), Kaleb (Colombia)|
 
 ## Familia
 
@@ -66,11 +66,11 @@
 |Padres casados|Érika, Eirene, Julián, Bianca|Milán, Peyton|
 |Padres divorciados|Ricardo, Vanessa|Noah, Salomé, Nayeli|
 |Padre viudo|Thiago|Nora|
-|Tutor|N/A|Caleb|
-|Tutores presentes|Érika, Eirene, Julián, Bianca, Thiago, Vanessa|Noah, Caleb, Salomé, Peyton, Milán, Nora|
+|Tutor|N/A|Kaleb|
+|Tutores presentes|Érika, Eirene, Julián, Bianca, Thiago, Vanessa|Noah, Kaleb, Salomé, Peyton, Milán, Nora|
 |Tutores ausentes|Ricardo|Nayeli|
 |Padastros/madastras|Ricardo (Madastra y padastro), Vanessa (Padastro)|Salomé (Padastro y madastra), Nora (Padastro)|
-|Vive con familia extentida|Julián (Prima)|Caleb (Abuelos + 5 tíos + 3 primos)|
+|Vive con familia extentida|Julián (Prima)|Kaleb (Abuelos + 5 tíos + 3 primos)|
 
 ## Vive con
 
@@ -80,13 +80,13 @@
 |Vive **solo** con su padre|Thiago|Nayeli|
 |Vive **solo** con su madre|N/A|Noah, Nora (+ padastro)|
 |Tutela compartida|Ricardo (padre como tutor principal), Vanessa (madre como tutora principal)|Salomé (madre como tutor principal)|
-|Vive con un tutor (tío, abuelo, padre adoptivo, orfanato)|N/A|Caleb (Abuelos paternos, tíos)|
+|Vive con un tutor (tío, abuelo, padre adoptivo, orfanato)|N/A|Kaleb (Abuelos paternos, tíos)|
 
 ## Hermanos
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
-|Hijo único|Ricardo, Thiago,|Caleb, Nayeli, Milán|
+|Hijo único|Ricardo, Thiago,|Kaleb, Nayeli, Milán|
 |Hermano mayor|Érika *(1 hermano)*, Julián *(1 hermana + 1 hermano)*, Bianca *(2 hermanas)*|Noah *(3 hermanas + 2 hermanos)*|
 |Hermano mediano|Vanessa *(1 hermano + 1 hermanastra)*|Salomé *(1 hermana, 1 hermano, 5 hermanastras y 4 hermanastros)** , Nora *(2 hermanos + 1 hermana + 2 hermanastras + 1 hermanastro)*|
 |Hermano menor|Eirene *(1 hermana)*|Peyton *(2 hermanos)*|
@@ -112,7 +112,7 @@
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
 |Vive cerca|Julián, Thiago|Salomé, Nayeli|
-|Punto medio|Érika, Eirene, Ricardo|Caleb, Milán|
+|Punto medio|Érika, Eirene, Ricardo|Kaleb, Milán|
 |Vive lejos|Bianca, Vanessa|Noah, Peyton, Nora|
 
 ## Medio de transporte
@@ -120,9 +120,9 @@
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
 |Pie|Julián, Thiago|Salomé, Nayeli|
-|Bici|Ricardo|Caleb|
+|Bici|Ricardo|Peyton|
 |Micro|Eirene|Nora|
-|Metro|Vanessa|Caleb|
+|Metro|Vanessa|Kaleb|
 |Auto|Érika|Noah|
 |+2|Bianca (Tren-Micro)|Milán (Metro-Micro)|
 
@@ -132,7 +132,7 @@
 |-|-|-|
 |Llega temprano|Julián, Bianca, Vanessa|Noah, Peyton, Milán, Nora|
 |Llega justo|Érika, Eirene|Nayeli|
-|Llega tarde|Ricardo, Thiago|Caleb, Salomé|
+|Llega tarde|Ricardo, Thiago|Kaleb, Salomé|
 
 ## Notas
 
@@ -146,7 +146,7 @@
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
-|Presidente de curso|Érika|Caleb|
+|Presidente de curso|Érika|Kaleb|
 |Bully|Susana|Maite|
 |Profe jefe|???|???|
 |Matemática|Cecilia|Manuel|
