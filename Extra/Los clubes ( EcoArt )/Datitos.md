@@ -1,5 +1,7 @@
-ECOCLUB - datos
 # Algunos datitos del EcoClub
+
+# TANDA 1
+
 1. Su grupo se hace llamar "EcoClub" porque juntos hacen conciencia sobre el medioambiente y otras cosas que sus profes les den de tarea.  
 
 2. Por alguna razón, a todos les gusta Kirby, pero a Érika le sale mejor dibujarlo; es irónico porque casi ni hace círculos en sus dibujos. Todos lo adoran y lo tienen en sus compus de forma distinta y personalizada.  💖✨
@@ -231,9 +233,9 @@ ECOCLUB - datos
 92. Encontré imágenes muy antiguas de personajes del 2020 que iba a usar para un cortometraje antibullying; eran ocho personajes: la protagonista (una chica rubia que es pobre), la bully, un gringo, su amiga gringa, dos amigos del gringo y dos amantes de la música electrónica —especialmente de Alan Walker. Ahora que los encontré, voy a darles desarrollo y serán parte de la historia de EcoClub como… estudiantes del tercero B; todos (menos la bully) siendo como el EcoClub del 3ro B (pero se llaman ArtClub). Los nombres oficiales (y breves descripciones) del grupo son:  
 - Noah Oliver Smith (17 años): Líder del grupo y estadounidense millonario. No le gusta su nombre porque es muy común, prefiere algo más interesante como Kurt (así como Érika permite que le digan Yaretzi, Alexis o Alex).  
 
-- Caleb Miles Aguilar Herrera (17 años): Mejor amigo de Noah, es colombiano y lleva en el cabello unos lentes de sol con forma de estrellas, es el mediador del grupo.  
+- Kaleb Miles Aguilar Herrera (17 años): Mejor amigo de Noah, es colombiano y lleva en el cabello unos lentes de sol con forma de estrellas, es el mediador del grupo.  
 
-- Salomé Arleth Zúñiga Molina (18 años): Puertorriqueña, le gustan los chismes; Thiago y ella se funan entre sí cuando pelean en redes sociales (Noah le tiene control parental por petición de Caleb).  
+- Salomé Arleth Zúñiga Molina (18 años): Puertorriqueña, le gustan los chismes; Thiago y ella se funan entre sí cuando pelean en redes sociales (Noah le tiene control parental por petición de Kaleb).  
 
 - Nayeli Leire Medina Allen (16 años): Joven pobre con ascendencia mexicana y estadounidense, es pobre porque su padre no trabaja (es un vago y gasta la plata que consigue) y la trata mal.  
 
@@ -268,7 +270,7 @@ ECOCLUB - datos
 
 103. Peyton y Noah hablan en inglés cuando están solo ellos; con el resto hablan español, pero a veces se les asoma el acento estadounidense (así como a Thiago se le asoma su acento mixto colombiano-venezolano).  
 
-104. Algo que el ArtClub tiene en común es que les gusta dibujar (Como el EcoClub), además de que a todos les gustan los juegos de Zelda (Caleb prefería Tomb Raider, pero igual le gusta The Legend of Zelda, así que no hay discusión).  
+104. Algo que el ArtClub tiene en común es que les gusta dibujar (Como el EcoClub), además de que a todos les gustan los juegos de Zelda (Kaleb prefería Tomb Raider, pero igual le gusta The Legend of Zelda, así que no hay discusión).  
 
 105. Al igual que el EcoClub, el ArtClub tiene su punto común en unas mesas cerca del comedor de la escuela, que está cerca del kiosco donde el EcoClub tiene su punto de reunión.  
 

@@ -12,21 +12,21 @@ En el Shénmìverso, el tiempo pasa diferente que en nuestro mundo, Seikatsu y M
 Meses:
 |N°|Mochibria|Inglés|Español|Días mochibrias|Días terrícolas|
 |-|-|-|-|-|-|
-|01|Janish|January|Enero|33|30|
+|01|Janish|January|Enero|33|31|
 |02|Februish|February|Febrero|30|28/29|
-|03|Martisk|March|Marzo|33|30|
+|03|Martisk|March|Marzo|33|31|
 |04|Aprilia|April|Abril|32|30|
-|05|Meirish|May|Mayo|33|30|
+|05|Meirish|May|Mayo|33|31|
 |06|Junser|June|Junio|32|30|
-|07|Jyulosh|July|Julio|33|30|
-|08|Ausketish|August|Agosto|33|30|
+|07|Jyulosh|July|Julio|33|31|
+|08|Ausketish|August|Agosto|33|31|
 |09|Siptimbrask|September|Septiembre|32|30|
-|10|Octibrask|October|Octubre|33|30|
+|10|Octibrask|October|Octubre|33|31|
 |11|Navimbrask|November|Noviembre|32|30|
-|12|Decimbrask|December|Diciembre|33|30|
-|13|Mochibria|Inglés|Español|32|30|
+|12|Decimbrask|December|Diciembre|33|31|
+|13|Mochibria|Inglés|Español|32|31|
 |14|Mochibria|Inglés|Español|31|30|
-|15|Eusterlish|Steller|Esterlio|33|30|
+|15|Eusterlish|Steller|Esterlio|33|31|
 
 ``Extra: es una esfera más grande que la tierra pero más pequeña que Jupiter``
 
@@ -35,6 +35,25 @@ Meses:
 「 Seikatsu 」
 
 - Están en el 3046, los años duran 15 meses y cada uno entre 29 y 32 días de 33 horas, con 16,5 horas de luz y 16,5 de oscuridad.  
+
+Meses:
+|N°|Seikatsibrias|Inglés|Español|Días seikatsibrias|Días terrícolas|
+|-|-|-|-|-|-|
+|01|Seikatsibria|January|Enero|33|31|
+|02|Seikatsibria|February|Febrero|30|28/29|
+|03|Seikatsibria|March|Marzo|33|31|
+|04|Seikatsibria|April|Abril|32|30|
+|05|Seikatsibria|May|Mayo|33|31|
+|06|Seikatsibria|June|Junio|32|30|
+|07|Seikatsibria|July|Julio|33|31|
+|08|Seikatsibria|August|Agosto|33|31|
+|09|Seikatsibria|September|Septiembre|32|30|
+|10|Seikatsibria|October|Octubre|33|31|
+|11|Seikatsibria|November|Noviembre|32|30|
+|12|Seikatsibria|December|Diciembre|33|31|
+|13|Seikatsibria|Inglés|Español|32|31|
+|14|Seikatsibria|Inglés|Español|31|30|
+|15|Seikatsibria|Inglés|Español|33|31|
 
 ``Extra: es más grande que la tierra y un poco más pequeño que su planeta hermano, Mochu. Además que su forma es esférica con anillos, los cuales, en vez de ser cadáveres de estrellas, son como islas que forman un "syrelat arpiliage" (archipiélago estelar), que resulta en el reino más grande de Seikatsu: Syrealage.``
 ``Entre las diferentes islas hay polvo de estrellas y rocío de agua, que causa una especie de "mar estelar.``

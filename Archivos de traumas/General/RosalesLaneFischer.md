@@ -51,7 +51,7 @@ Pasó un rato antes de que los adultos encontraran a James mirando el lugar en s
 —Ese hombre se lo llevó por mi culpa…
 
 
-Por lo ocurrido, y al no encontrar rastro de Marcus, los padres de James y Juno se terminaron por mudarse a otro país con los niños y perdiendo el contacto con la familia de Marcus, volviéndose vecinos de Willow con la esperanza de que sus hijos no volvieran a pasar esa experiencia de nuevo.
+Por lo ocurrido, y al no encontrar rastro de Marcus, los padres de James y Juno se terminaron por mudarse a Chile con los niños y perdiendo el contacto con la familia de Marcus, volviéndose vecinos de Willow con la esperanza de que sus hijos no volvieran a pasar esa experiencia de nuevo.
 
 <small>Por si sale la pregunta, Marcus fue llevado a Mochu, a una base en las zonas escondidas del bosque sur de Yìshù. A ***La asociación***.</small>  
 <small>(De hecho, Marcus estuvo en la misma generación de Jacob y Cara, por eso se conectan las historias).</small>
@@ -70,7 +70,7 @@ Por lo ocurrido, y al no encontrar rastro de Marcus, los padres de James y Juno 
 
 ### 2.1. *Encierro*
 
-La familia Rosales se había mudado a un pueblo perdido en los mapas, cuya arquitectura y geografía recordaban a la de la Alemania clásica. Un pueblo bastante amigable pero lleno de secretos y leyendas relacionadas con el cristianismo, la época colonial y supuestas posesiones, tanto benignas como malignas.
+La familia Rosales se había mudado a un pueblo cercano a Frutillar, al sur de Chile (también podría ser cerca de la ciudad de Valdivia), cuya arquitectura y geografía recordaban a la de la Alemania clásica. Un pueblo bastante amigable pero lleno de secretos y leyendas relacionadas con el cristianismo, la época colonial y supuestas posesiones, tanto benignas como malignas.
 
 Tras lo ocurrido, sus padres tenían a James más alejado del mundo; no podía salir de casa sin que Juno tuviera que querer ir con él.
 
