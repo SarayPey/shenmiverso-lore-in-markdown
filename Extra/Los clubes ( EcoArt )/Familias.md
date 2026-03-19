@@ -1,97 +1,126 @@
-# EcoClub
+***
+# EcoClub  
+***
 
-## Érika
-**Padres:** [] Valdés & [] Salazar
-**Hermanos:** Rubén Valdés
+## Érika Yaretzi Aurora Valdés Salazar  
 
-## Eirene
-**Padres:**
-**Hermanos:** Valentina Castillo
+**Padres:** Lorenzo Valdés & Romina Salazar  
+**Hermanos:** Rubén Valdés  
 
-## Ricardo
-**Padres:**
-**Padrastros:**
+## Eirene Paz Castillo Soto  
 
-## Julián
-**Padres:**
+**Padres:** Gabriel Castillo & Mariana Soto  
+**Hermanos:** Valentina Castillo  
+
+## Ricardo Alfredo Ulloa Castro  
+
+**Padres:** Juan Ulloa & Úrsula Castro  
+**Padrastros:** [] [] & [] []  
+
+## Julián Mateo Santiago Riquelme Sandoval  
+
+**Padres:** Leonardo Riquelme & Paloma Sandoval  
 **Tíos:**
+	- Caleb Sandoval (†)  
+	- Mirella Acevedo (†)  
+	- Adrián Sandoval  
+	- Constanza Soto  
+	- Marco Sandoval  
+	- Evelina Sanchez  
+	- Ignacio Sandoval  
+	- Rebeca Ortega  
 **Abuelos:**
-**Primos:**
-	- Bruno Sandoval
-	- Marisol Sandoval
-	- Cristina Sandoval
-	- Matías Sandoval
-	- Victoria Sandoval
-	- Aitana Sandoval
-	- Agustin Sandoval
-**Hermanos:**
-	- Martina Riquelme
-	- Gael Riquelme
-**Otros:** "Ernesto Villa" (Padrino de su madre)
+	- Pedro Sandoval (†)
+	- Alba Silveira (†)
+	- José Riquelme (†)
+	- Mercedes Elder (†)
+**Primos:**  
+	- Bruno Sandoval  
+	- Marisol Sandoval  
+	- Cristina Sandoval  
+	- Matías Sandoval  
+	- Victoria Sandoval  
+	- Aitana Sandoval  
+	- Agustin Sandoval  
+**Hermanos:** Martina Riquelme & Gael Riquelme  
+**Otros:**  
+	- "Ernesto Villa"/John Adams (Padrino de su madre)  
+	- "Víctor" Adams (hermano del padrino de su madre)  
 
-## Bianca
-**Padres:**
-**Hermanos:**
+## Bianca Alba Araya Tapia  
 
-## Thiago
-**Padres:**
+**Padres:** Martín Araya & Isabel Tapia  
+**Hermanos:** Matilde Araya & Inés Araya  
 
-## Vanessa
-**Padres:**
-**Padastros:**
-**Hermanos:**
-**Hermanastros:**
+## Thiago Mathias Barros Muñóz  
 
+**Padres:** [] Barros & [] Muñóz (†)  
 
-# ArtClub
+## Vanessa Raquel Rivas de Carrera  
 
-## Noah
-**Padres:**
-**Hermanos:**
-	- Chloe Smith
-	- Mason Smith
-	- Ava Smith
-	- Cody Smith
-	- Emily Smith
+**Padres:** [] Rivas & [] de Carrera  
+**Padastros:** [] [] & [] []  
+**Hermanos:** [] Rivas  
+**Hermanastros:** [] []  
 
-## Kaleb
-**Tutores:**
-**Tíos:**
-**Abuelos:**
-**Primos:**
+***  
 
-## Salomé
-**Padres:**
-**Padrastros:**
-	- [] []
-	- Katherine Lane
-**Hermanos:**
-**Hermanastros:**
-	- [] []
-	- [] []
-	- [] []
-	- [] []
-	- Willow Lane
-	- Cassia Lane
-	- Asher Lane
-	- Hazel Lane
-	- Oakley Lane
+# ArtClub  
 
-## Nayeli
-**Padres:** [] Medina
+***
 
-## Peyton
-**Padres:**
-**Hermanos:**
-	- Sawyer Wilson
-	- Lincoln Wilson
+## Noah Oliver Smith  
 
-## Milán
-**Padres:**
+**Padres:** Edward Smith & Beatrice Smith  
+**Hermanos:**  
+	- Chloe Smith  
+	- Mason Smith  
+	- Ava Smith  
+	- Cody Smith  
+	- Emily Smith  
 
-## Nora
-**Padres:**
-**Padrastros:**
-**Hermanos:**
-**Hermanastros:**
+## Kaleb Miles Aguilar Herrera  
 
+**Padres:** [] Aguilar (?) & [] Herrera (?)  
+**Tutores:** [] Aguilar & [] []   
+**Tíos:** [] Aguilar, [] Herrera & [] []  
+**Abuelos:** Jerónimo Aguilar & Jacinta []  
+**Primos:** Daphne Herrera, [] Herrera & [] Aguilar  
+
+## Salomé Arleth Zúñiga Molina  
+
+**Padres:** [] Zúñiga & [] Molina  
+**Padrastros:** Klaus [] & Katherine Lane  
+**Hermanos:** Mikaela Zúñiga & Nicolás Zúñiga  
+**Hermanastros:**  
+	- Josefina []  
+	- Teresa []  
+	- Emilio []  
+	- Vicente []  
+	- Willow Lane  
+	- Cassia Lane  
+	- Asher Lane  
+	- Hazel Lane  
+	- Oakley Lane  
+
+## Nayeli Leire Medina Allen  
+
+**Padres:** [] Medina & [] Allen (???)  
+
+## Peyton Wilson  
+
+**Padres:** George Wilson & Lindsay Wilson  
+**Hermanos:**  
+	- Sawyer Wilson  
+	- Lincoln Wilson  
+
+## Milán Arturo Jiménez Vargas  
+
+**Padres:** [] Jiménez & [] Vargas  
+
+## Nora Mia Luna Castro Vera  
+
+**Padres:** [] Castro (†) & [] Vera  
+**Padrastros:** [] []  
+**Hermanos:** [] Castro, [] Castro & [] Castro  
+**Hermanastros:** [] [], [] [] & [] []  
