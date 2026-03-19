@@ -15,7 +15,7 @@
 ## Ricardo Alfredo Ulloa Castro  
 
 **Padres:** Juan Ulloa & Úrsula Castro  
-**Padrastros:** [] [] & [] []  
+**Padrastros:** Armando [] & Yesenia []  
 
 ## Julián Mateo Santiago Riquelme Sandoval  
 
@@ -54,14 +54,14 @@
 
 ## Thiago Mathias Barros Muñóz  
 
-**Padres:** [] Barros & [] Muñóz (†)  
+**Padres:** Carlos Barros & Esmeralda Muñóz (†)  
 
 ## Vanessa Raquel Rivas de Carrera  
 
-**Padres:** [] Rivas & [] de Carrera  
-**Padastros:** [] [] & [] []  
-**Hermanos:** [] Rivas  
-**Hermanastros:** [] []  
+**Padres:** Jesús Rivas & Celeste de Carrera  
+**Padastros:** Hector [] & Carolina []  
+**Hermanos:** Maximiliano Rivas  
+**Hermanastros:** Joy []  
 
 ***  
 
@@ -81,15 +81,15 @@
 
 ## Kaleb Miles Aguilar Herrera  
 
-**Padres:** [] Aguilar (?) & [] Herrera (?)  
-**Tutores:** [] Aguilar & [] []   
-**Tíos:** [] Aguilar, [] Herrera & [] []  
+**Padres:** Mauricio Aguilar (?) & Miranda Herrera (?)  
+**Tutores:** Gaspar Aguilar & Fabiola []   
+**Tíos:** Rafaella Aguilar, Emilio Herrera & Amparo []  
 **Abuelos:** Jerónimo Aguilar & Jacinta []  
-**Primos:** Daphne Herrera, [] Herrera & [] Aguilar  
+**Primos:** Daphne Herrera, Liam Herrera & Dante Aguilar  
 
 ## Salomé Arleth Zúñiga Molina  
 
-**Padres:** [] Zúñiga & [] Molina  
+**Padres:** Diego Zúñiga & Renata Molina  
 **Padrastros:** Klaus [] & Katherine Lane  
 **Hermanos:** Mikaela Zúñiga & Nicolás Zúñiga  
 **Hermanastros:**  
@@ -105,7 +105,7 @@
 
 ## Nayeli Leire Medina Allen  
 
-**Padres:** [] Medina & [] Allen (???)  
+**Padres:** Fabio Medina & Daliah Allen (???)  
 
 ## Peyton Wilson  
 
@@ -116,11 +116,11 @@
 
 ## Milán Arturo Jiménez Vargas  
 
-**Padres:** [] Jiménez & [] Vargas  
+**Padres:** Deborah Jiménez & Simón Vargas  
 
 ## Nora Mia Luna Castro Vera  
 
-**Padres:** [] Castro (†) & [] Vera  
-**Padrastros:** [] []  
-**Hermanos:** [] Castro, [] Castro & [] Castro  
-**Hermanastros:** [] [], [] [] & [] []  
+**Padres:** Leandro Castro (†) & Leonor Vera  
+**Padrastros:** Gustavo []  
+**Hermanos:** Ángela Castro, César Castro & Rafael Castro  
+**Hermanastros:** Santiago [], Trinidad [] & Florencia []  
