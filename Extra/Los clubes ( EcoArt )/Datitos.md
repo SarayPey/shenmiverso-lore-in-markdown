@@ -123,6 +123,7 @@
 55. Julián trata de no llorar frente a sus seres queridos, se aguanta hasta estar de noche, programando en un ordenador de escritorio con Windows 7 o acostado en su cama, cuando todos duermen, cuando siente que está solo, es cuando se desahoga llorando en silencio.  
 
 56. Hablando de juegos, Regguei/Ricardo juega Overwatch, Call Of Duty, Fortnite o juegos de ese estilo, Thiago juega Pokémon Go, Vanessa juega Hollow Knight y está empezando con Silksong (ambos juegos se los regaló Bianca), Bianca juega Roblox, BUD, Cat Quest, Los Sims o juegos de ese estilo, Érika juega Minecraft, Eirene a veces juega Minecraft y Roblox con Érika, Bianca y Valentina, Julián no juega videojuegos por qué su computadora de escritorio con Windows 7 no le permite jugar, además de que se dedica a estudiar y tratar de hacer juegos propios (aunque eso se le complica más porque no puede descargar casi nada en su computadora).  
+
 57. Vanessa y Eirene se duermen temprano, Ricardo se queda hasta la madrugada jugando y Julián en las noches estudia, programa o llora en secreto.  
 
 58. Thiago se mete a pelear con gente en Reddit, Twitter e Instagram, de alguna forma Vanessa le puso control parental y no le permite comentar de 5AM a 12AM (de 1AM a 5AM está jugando Free Fire con Thiago y Érika).  

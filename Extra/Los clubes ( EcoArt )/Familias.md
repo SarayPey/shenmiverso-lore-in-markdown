@@ -15,7 +15,7 @@
 ## Ricardo Alfredo Ulloa Castro  
 
 **Padres:** Juan Ulloa & Úrsula Castro  
-**Padrastros:** Armando [] & Yesenia []  
+**Padrastros:** Armando Reyes & Yesenia Olivares  
 
 ## Julián Mateo Santiago Riquelme Sandoval  
 
@@ -59,9 +59,9 @@
 ## Vanessa Raquel Rivas de Carrera  
 
 **Padres:** Jesús Rivas & Celeste de Carrera  
-**Padastros:** Hector [] & Carolina []  
+**Padastros:** Hector Garrido  
 **Hermanos:** Maximiliano Rivas  
-**Hermanastros:** Joy []  
+**Hermanastros:** Joy Garrido  
 
 ***  
 
@@ -71,32 +71,32 @@
 
 ## Noah Oliver Smith  
 
-**Padres:** Edward Smith & Beatrice Smith  
+**Padres:** Edward White & Beatrice Smith  
 **Hermanos:**  
-	- Chloe Smith  
-	- Mason Smith  
+	- Chloe White  
+	- Mason White  
 	- Ava Smith  
 	- Cody Smith  
-	- Emily Smith  
+	- Emily White  
 
 ## Kaleb Miles Aguilar Herrera  
 
 **Padres:** Mauricio Aguilar (?) & Miranda Herrera (?)  
-**Tutores:** Gaspar Aguilar & Fabiola []   
-**Tíos:** Rafaella Aguilar, Emilio Herrera & Amparo []  
-**Abuelos:** Jerónimo Aguilar & Jacinta []  
-**Primos:** Daphne Herrera, Liam Herrera & Dante Aguilar  
+**Tutores:** Gaspar Aguilar & Fabiola Lagos   
+**Abuelos:** Jerónimo Herrera & Carolina Farias  
+**Tíos:** Rafaella Aguilar, Emilio Herrera & Amparo Bustamante  
+**Primos:** Daphne Aguilar, Karolina Herrera & Dante Herrera  
 
 ## Salomé Arleth Zúñiga Molina  
 
 **Padres:** Diego Zúñiga & Renata Molina  
-**Padrastros:** Klaus [] & Katherine Lane  
+**Padrastros:** Klaus Sepúlveda & Katherine Lane  
 **Hermanos:** Mikaela Zúñiga & Nicolás Zúñiga  
 **Hermanastros:**  
-	- Josefina []  
-	- Teresa []  
-	- Emilio []  
-	- Vicente []  
+	- Josefina Sepúlveda  
+	- Teresa Sepúlveda  
+	- Emilio Sepúlveda  
+	- Vicente Sepúlveda  
 	- Willow Lane  
 	- Cassia Lane  
 	- Asher Lane  
@@ -116,11 +116,11 @@
 
 ## Milán Arturo Jiménez Vargas  
 
-**Padres:** Deborah Jiménez & Simón Vargas  
+**Padres:** Simón Jiménez & Deborah Vargas  
 
 ## Nora Mia Luna Castro Vera  
 
 **Padres:** Leandro Castro (†) & Leonor Vera  
-**Padrastros:** Gustavo []  
+**Padrastros:** Gustavo Fuentes  
 **Hermanos:** Ángela Castro, César Castro & Rafael Castro  
-**Hermanastros:** Santiago [], Trinidad [] & Florencia []  
+**Hermanastros:** Santiago Fuentes, Trinidad Fuentes & Florencia Fuentes  
