@@ -2,6 +2,26 @@
 
 |Fecha|Evento|
 |-|-|
+|1963|Manuel Hurtado nace|
+|1971|Cecilia Muñoz nace|
+|2007|Ricardo Ulloa nace|
+|2008|Érika Valdés nace|
+|2008|Thiago Barros nace|
+|2008|Vanessa Rivas nace|
+|2008|Susana Pérez nace|
+|2008|Bianca Araya nace|
+|2009|Julián Riquelme nace|
+|2009|Eirene Castillo nace|
+|2011|Matías Sandoval nace|
+|2012|Cristina Sandoval nace|
+|2015|Rubén Valdés nace|
+|2011|Bruno Sandoval nace|
+|2012|Cristina Sandoval nace|
+|2012|Agustín Sandoval nace|
+|2013|Victoria Sandoval nace|
+|2015|Martina Riquelme nace|
+|2015|Aitana Sandoval nace|
+|2017|Gael Riquelme nace|
 |Mar.2023|Primer día de clases (1ro medio)|
 |Abr. 2023|Se forma EcoClub|
 |Jul. 2023|Se forma ArtClub|
