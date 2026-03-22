@@ -85,7 +85,7 @@
 **Tutores:** Gaspar Aguilar & Fabiola Lagos   
 **Abuelos:** Jerónimo Herrera & Carolina Farias  
 **Tíos:** Rafaella Aguilar, Emilio Herrera & Amparo Bustamante  
-**Primos:** Daphne Aguilar, Karolina Herrera & Dante Herrera  
+**Primos:** Daphne Aguilar, Giselle Herrera & Dante Herrera  
 
 ## Salomé Arleth Zúñiga Molina  
 
@@ -123,4 +123,5 @@
 **Padres:** Leandro Castro (†) & Leonor Vera  
 **Padrastros:** Gustavo Fuentes  
 **Hermanos:** Ángela Castro, César Castro & Rafael Castro  
-**Hermanastros:** Santiago Fuentes, Trinidad Fuentes & Florencia Fuentes  
+**Hermanastros:** Trinidad Fuentes & Florencia Fuentes  
+**Medio hermano:** Santiago Fuentes  

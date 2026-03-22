@@ -12,13 +12,13 @@
 |2008|Bianca Araya nace|
 |2009|Julián Riquelme nace|
 |2009|Eirene Castillo nace|
+|2010|Marisol Sandoval nace|
 |2011|Matías Sandoval nace|
-|2012|Cristina Sandoval nace|
-|2015|Rubén Valdés nace|
 |2011|Bruno Sandoval nace|
 |2012|Cristina Sandoval nace|
 |2012|Agustín Sandoval nace|
 |2013|Victoria Sandoval nace|
+|2015|Rubén Valdés nace|
 |2015|Martina Riquelme nace|
 |2015|Aitana Sandoval nace|
 |2017|Gael Riquelme nace|

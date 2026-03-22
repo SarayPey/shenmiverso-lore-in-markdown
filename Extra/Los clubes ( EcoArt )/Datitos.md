@@ -236,7 +236,7 @@
 
 - Kaleb Miles Aguilar Herrera (17 años): Mejor amigo de Noah, es colombiano y lleva en el cabello unos lentes de sol con forma de estrellas, es el mediador del grupo.  
 
-- Salomé Arleth Zúñiga Molina (18 años): Puertorriqueña, le gustan los chismes; Thiago y ella se funan entre sí cuando pelean en redes sociales (Noah le tiene control parental por petición de Kaleb).  
+- Salomé Arleth Zúñiga Molina (17 años): Puertorriqueña, le gustan los chismes; Thiago y ella se funan entre sí cuando pelean en redes sociales (Noah le tiene control parental por petición de Kaleb).  
 
 - Nayeli Leire Medina Allen (16 años): Joven pobre con ascendencia mexicana y estadounidense, es pobre porque su padre no trabaja (es un vago y gasta la plata que consigue) y la trata mal.  
 
@@ -244,7 +244,7 @@
 
 - Milán Arturo Jiménez Vargas (17 años): Puertorriqueño y fan de la música electrónica y de Alan Walker, pero sus padres no lo saben porque lo aceptarían; esconde muchos de sus gustos a su familia porque son conservadores.  
 
-- Nora Mia Luna Castro Vera (16 años): Amiga de la infancia de Milán, también es fan de la música electrónica y de Alan Walker, pero tiene la libertad para decirlo. Aunque no lo parezca, ella inicia los debates.  
+- Nora Mia Luna Castro Vera (18 años): Amiga de la infancia de Milán, también es fan de la música electrónica y de Alan Walker, pero tiene la libertad para decirlo. Aunque no lo parezca, ella inicia los debates.  
 
 - Y la bully de Nayeli se llama Maite Isabella Cárdenas Godoy, tiene 17 años.  
 
