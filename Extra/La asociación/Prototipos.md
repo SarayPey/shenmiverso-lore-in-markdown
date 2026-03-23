@@ -151,20 +151,20 @@
 | 11-03 | Categoría | Shayla | Ford | ♀️ | Estados Unidos | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
   
 Decidiendo su generación:  
-"Xanthe" (Nyota Kariuki) - Kenia ♂️  
+**"Xanthe" (Nyota Kariuki)** - Kenia ♂️  
 Magia: Cerceta (Teal)
 
 Shafir Vaknin - Israel ♂️  
 
 Soraia Ferraz - Brasil ♀️  
 
-Mia Wilson - Australia ♀️  
+**Mia Wilson** - Australia ♀️  
 
 Tara Prasad - Fiyi ♀️  
 
 Rini Oshima - Japón ♀️  
 
-Gale Cameron - Escocia ♂️  
+**Gale Cameron** - Escocia ♂️  
 Magia: Ámbar (Amber) 
 
 Ramzi Iqbal - Arabia Saudita ♂️  
@@ -175,7 +175,7 @@ Daivik Kumari - India ♂️
 
 Orkhan Xalilov - Azerbaiyán ♂️  
 
-Fenuku Ayad - Egipto ♂️  
+**Fenuku Ayad** - Egipto ♂️  
 
 Tavaris Pereira - Portugal ♂️  
 
@@ -201,13 +201,13 @@ Ilaria De Luca - Italia ♀️
 
 Yesenia Suarez - Colombia ♀️  
 
-Hania Kubiak - Polonia ♀️  
+**Hania Kubiak** - Polonia ♀️  
 
 Cyanea Salazar - México ♀️  
 
 Iana Morin - Canadá ♀️  
 
-Esmeray Yildiz - Turquía ♀️   
+**Esmeray Yildiz** - Turquía ♀️   
 
 
 ??-??: Nombre Apellido - P-Nacimiento (otro) ♀️/♂️  

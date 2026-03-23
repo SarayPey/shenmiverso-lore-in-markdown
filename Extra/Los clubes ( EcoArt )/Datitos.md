@@ -136,34 +136,24 @@
 # TANDA 5
 
 
-61. HABEMUS NOMBRES COMPLETOS DE PERSONAJES ✨
-- La bully de Eirene se llama Susana Antonella Pérez Díaz.  
+61. La razón por que Cristina vive con la familia de Julián es porque sus padres (El hermano mayor de la madre de Julián, junto a su esposa) fallecieron en un accidente automovilístico que lentamente causó que Cristina estuviera en silla de ruedas. Los otros hermanos no quisieron la custodia y en ese tiempo la niña estuvo en un centro de menores hasta que finalmente los padres de Julián consiguieron la custodia de Cristina.  
 
-- La profesora de matemáticas se llama Cecilia Sonia Muñoz Valenzuela.  
+62. La familia de Julián es pobre por culpa de los hermanos de su madre (la cual era la menor y única mujer), pues antes tenían una vida normal, pero todos sus hermanos (menos el mayor) se encargaron de dejarla sin la herencia de sus padres, además de causa que despidieran a los padres de Julián y alojarán a la familia de su casa.  
 
-- El profesor de matemáticas bueno se llama Manuel Salvador Hurtado Garrido.  
+63. La redención de la maestra Cecilia es posible, de hecho, su interacción con Julián es clave (de forma negativa o positiva).  
 
-- La hermana menor de Julián se llama Martina Ximena Riquelme Sandoval.  
+64. El padre de Julián hace pedidos de trabajos de fontanero, mientras su madre organiza el dinero y hace algunos trabajos de carpintería.  
 
-- El hermano menor de Julián se llama Gael Agustín Riquelme Sandoval.  
+65. Es posible que los padres de Eirene puedan aprender a aceptar a sus hijas y diferencias, la clave es no sentir la presión de sus hermanos y otros familiares.  
 
-- Y la prima de Julián, Martina y Gael se llama Cristina Julia Sandoval Acevedo.  
+66. Cristina, a pesar de ser menor que Julián (tiene 13 años), tiene una persona algo dura y confrontacional, tiene que regular sus palabras para no hacer sentir mal a otros (en especial a Julián, que sabemos que es bastante frágil).  
 
-62. La razón por que Martina vive con la familia de Julián es porque sus padres (El hermano mayor de la madre de Julián, junto a su esposa) fallecieron en un accidente automovilístico que lentamente causó que Cristina estuviera en silla de ruedas. Los otros hermanos no quisieron la custodia y en ese tiempo la niña estuvo en un centro de menores hasta que finalmente los padres de Julián consiguieron la custodia de Cristina.  
+67. Julián tiene unas gafas de mentira en su mochila que le regaló Ricardo para que hiciera el meme del "de hecho 🤓☝️".  
 
-63. La familia de Julián es pobre por culpa de los hermanos de su madre (la cual era la menor y única mujer), pues antes tenían una vida normal, pero todos sus hermanos (menos el mayor) se encargaron de dejarla sin la herencia de sus padres, además de causa que despidieran a los padres de Julián y alojarán a la familia de su casa.  
+68. Ricardo se pone a hacer música y remixes de vez en cuando (Julián también hace música, pero ninguno lo sabe)
 
-64. La redención de la maestra Cecilia es posible, de hecho, su interacción con Julián es clave (de forma negativa o positiva).  
+69. Los primos maternos de Julián, Cristina, Martina y Gael fueron manipulados por sus padres para que estos se lleven mal con los mencionados, cuando aparecen es para molestarlos por ser pobres.  
 
-65. El padre de Julián hace pedidos de trabajos de fontanero, mientras su madre organiza el dinero y hace algunos trabajos de carpintería.  
-
-66. Es posible que los padres de Eirene puedan aprender a aceptar a sus hijas y diferencias, la clave es no sentir la presión de sus hermanos y otros familiares.  
-
-67. Cristina, a pesar de ser menor que Julián (tiene 13 años), tiene una persona algo dura y confrontacional, tiene que regular sus palabras para no hacer sentir mal a otros (en especial a Julián, que sabemos que es bastante frágil).  
-
-68. Julián tiene unas gafas de mentira en su mochila que le regaló Ricardo para que hiciera el meme del "de hecho 🤓☝️".  
-
-69. Ricardo se pone a hacer música y remixes de vez en cuando (Julián también hace música, pero ninguno lo sabe)
 70. A Thiago le gustan los murciélagos, sabe bastantes datos sobre murciélagos.  
 
 71. Érika tiene un tatuaje de ojos en el brazo, lo que lo hace más interesante es que parpadea en la oscuridad, incluso brilla cuando está cerca de alguien de la galaxia de Shénmì.  
@@ -180,41 +170,25 @@
 # TANDA 6
 
 
-76. Los primos maternos de Julián, Cristina, Martina y Gael fueron manipulados por sus padres para que estos se lleven mal con los mencionados, cuando aparecen es para molestarlos por ser pobres.  
+76. Hay un primo que se lleva bien con Julián y el resto, su nombre completo es Matías Jeremías Sandoval Sánchez, es mudo y el único no manipulado por su padre (gracias a su madre).  
 
-77. Hay un primo que se lleva bien con Julián y el resto, su nombre completo es Matías Jeremías Sandoval Sánchez, es mudo y el único no manipulado por su padre (gracias a su madre).  
+77. Por cierto, Julián es el mayor de sus primos.  
 
-78. Por cierto, Julián es el mayor de sus primos.  
+78. Hablando del Shénmìverso y sus conexiones, mi versión de la Tierra también tendría universos alternativos, lo que aumenta las posibilidades de encontrar algo interesante ahí (Se me ocurrió porque cuando me puse a escuchar "Your Idol" de la película *K-Pop demon hunters* se me ocurrió una idea de AU dónde Julián tiene su arco de villano/venganza).  
 
-79. Edades oficiales (de menor a mayor):
-- Gael tiene 7 años
-- Martina tiene 9 años
-- Rubén tiene 9 años
-- Cristina tiene 13 años
-- Matías tiene 14 años
-- Eirene tiene 16 años
-- Julián tiene 16 años
-- Bianca tiene 17 años
-- Susana tiene 17 años
-- Vanessa tiene 17 años
-- Thiago tiene 17 años
-- Érika tiene 17 años
-- Ricardo tiene 18 años
-- Valentina tiene 24 años
-- Cecilia tiene 53 años
-- Y Manuel tiene 62 años
+79. Así como todo el tercero A (sí, hasta Susana) pueden trabajar juntos para sabotear al tercero B, ambos terceros pueden trabajar juntos para hacer un cambio que conviene a ambos O para sabotear a algún profesor que vean que sea malo irremediable. Ninguno de los dos cursos ha saboteado a Cecilia porque en ambos cursos entra como "profe mala posiblemente remediable" con etiqueta especial "(Investiguen si hay traumas porfa)".  
 
-80. Hablando del Shénmìverso y sus conexiones, mi versión de la Tierra también tendría universos alternativos, lo que aumenta las posibilidades de encontrar algo interesante ahí (Se me ocurrió porque cuando me puse a escuchar "Your Idol" de la película *K-Pop demon hunters* se me ocurrió una idea de AU dónde Julián tiene su arco de villano/venganza).  
+80. En términos de época, estamos actualmente en 2025.  
 
-81. Así como todo el tercero A (sí, hasta Susana) pueden trabajar juntos para sabotear al tercero B, ambos terceros pueden trabajar juntos para hacer un cambio que conviene a ambos O para sabotear a algún profesor que vean que sea malo irremediable. Ninguno de los dos cursos ha saboteado a Cecilia porque en ambos cursos entra como "profe mala posiblemente remediable" con etiqueta especial "(Investiguen si hay traumas porfa)".  
+81. Hablando de la relación de tercero A y tercero B, su rivalidad tiene límites como no involucrar cosas personales o causar problemas fuera de clases, solo es competencia de "quien es mejor en x cosa", por lo que pueden ser equipo.  
 
-82. Hablando de la relación de tercero A y tercero B, su rivalidad tiene límites como no involucrar cosas personales o causar problemas fuera de clases, solo es competencia de "quien es mejor en x cosa", por lo que pueden ser equipo.  
+82. Los niños de la trama de EcoClub (Rubén, Martina y Gael) no usan celulares ni dispositivos moviles, principalmente por decisión parental (si ignoramos problemas económicos, los padres de Julián harían lo mismo con Martina y Gael), así que no conocen el brainrot.  
 
-83. Los niños de la trama de EcoClub (Rubén, Martina y Gael) no usan celulares ni dispositivos moviles, principalmente por decisión parental (si ignoramos problemas económicos, los padres de Julián harían lo mismo con Martina y Gael), así que no conocen el brainrot.  
+83. Manuel le hace clases al 3ro B; se portan bien con él, así que el 3ro A trata de evitar que Cecilia los regañe en clases para hacer competencia con ellos.  
 
 84. Valentina se compró una moto con su propio dinero, Eirene la llama "Motito rebelde de la independencia" y a veces le pinta con sus plumones acrílicos de calidad (luego le toca lavarlo por órdenes de Valentina y de sus padres. Un momento de buena crianza).  
 
-85. Hablando de Valentina, ella tuvo una amiga online de Arabia Saudí cuando tenía la edad de Eirene, pero desde que salió de cuarto medio no supo más de ella (si recuerdas *Shénmì: acción, drama, trauma, magia, memes y más traumas por doquier*, te diré que dicha amiga online era nada más y nada menos de Rajiya Al-Hashim —la yihadista del capítulo 7—).  
+85. Hablando de Valentina, ella tuvo una amiga online de Arabia Saudí cuando tenía la edad de Eirene, pero desde que salió de cuarto medio no supo más de ella (para los que recuerdan *Shénmì: acción, drama, trauma, magia, memes y más traumas por doquier*, dicha amiga online era nada más y nada menos que Rajiya Al-Hashim).  
 
 86. Ya que nos pusimos a hablar de hermanos, Rubén es bastante ordenado, pero también tiene bastante energía, además de que tiene muchas ideas en su cabeza, así que Érika y sus padres tienen que mantenerlo entretenido y fomentar su creatividad para que él mismo pueda hacer su propia diversión.  
 
@@ -231,49 +205,34 @@
 
 
 91. Julián, Cristina, Martina y Gael comparten cuarto y solo tienen dos camas ahí; Cristina duerme en una porque no puede dormir con los otros por problemas lumbares tras el accidente y, en teoría, Julián, Martina y Gael duermen juntos, pero Julián normalmente duerme en el suelo o en su silla improvisada (solo son unas cajas, al igual que su escritorio).   
-92. Encontré imágenes muy antiguas de personajes del 2020 que iba a usar para un cortometraje antibullying; eran ocho personajes: la protagonista (una chica rubia que es pobre), la bully, un gringo, su amiga gringa, dos amigos del gringo y dos amantes de la música electrónica —especialmente de Alan Walker. Ahora que los encontré, voy a darles desarrollo y serán parte de la historia de EcoClub como… estudiantes del tercero B; todos (menos la bully) siendo como el EcoClub del 3ro B (pero se llaman ArtClub). Los nombres oficiales (y breves descripciones) del grupo son:  
-- Noah Oliver Smith (17 años): Líder del grupo y estadounidense millonario. No le gusta su nombre porque es muy común, prefiere algo más interesante como Kurt (así como Érika permite que le digan Yaretzi, Alexis o Alex).  
 
-- Kaleb Miles Aguilar Herrera (17 años): Mejor amigo de Noah, es colombiano y lleva en el cabello unos lentes de sol con forma de estrellas, es el mediador del grupo.  
+92. Julián y Nayeli son vecinos, se han ayudado sin que sus respectivos cursos lo sepan, tienen una amistad de respeto y apoyo en sus problemas personales que no revelan a sus amigos (literalmente, Julián ha salvado a Nayeli de su padre a veces, mientras que Nayeli ayuda a Julián y Cristina a cuidar de Gael y Martina cuando los padres de Julián salen a buscar trabajo).  
 
-- Salomé Arleth Zúñiga Molina (17 años): Puertorriqueña, le gustan los chismes; Thiago y ella se funan entre sí cuando pelean en redes sociales (Noah le tiene control parental por petición de Kaleb).  
+93. En cierto término, Nayeli tiene problemáticas similares a Julián; es la más inteligente de su grupo, es muy pobre, es más delgada de lo que debería, tiene problemas familiares (su madre la abandonó y su padre la golpea porque nació mujer y él quería que fuera un varón), es tímida, tiene ansiedad; a veces se termina lastimando a sí misma por los nervios, le hacen bullying (aunque en su caso es Maite, no una profesora), no sigue lo que se considera “femenino” y no se siente parte de su grupo.  
 
-- Nayeli Leire Medina Allen (16 años): Joven pobre con ascendencia mexicana y estadounidense, es pobre porque su padre no trabaja (es un vago y gasta la plata que consigue) y la trata mal.  
+94. Milán es un reflejo más extremo de Eirene, pues él no tiene hermanos que lo acepten; está solo en su casa ante sus padres que quieren que sea el mejor.  
 
-- Peyton Wilson (17 años): Amiga de la infancia de Noah, estadounidense y millonaria.  
-
-- Milán Arturo Jiménez Vargas (17 años): Puertorriqueño y fan de la música electrónica y de Alan Walker, pero sus padres no lo saben porque lo aceptarían; esconde muchos de sus gustos a su familia porque son conservadores.  
-
-- Nora Mia Luna Castro Vera (18 años): Amiga de la infancia de Milán, también es fan de la música electrónica y de Alan Walker, pero tiene la libertad para decirlo. Aunque no lo parezca, ella inicia los debates.  
-
-- Y la bully de Nayeli se llama Maite Isabella Cárdenas Godoy, tiene 17 años.  
-
-
-93. Julián y Nayeli son vecinos, se han ayudado sin que sus respectivos cursos lo sepan, tienen una amistad de respeto y apoyo en sus problemas personales que no revelan a sus amigos (literalmente, Julián ha salvado a Nayeli de su padre a veces, mientras que Nayeli ayuda a Julián y Cristina a cuidar de Gael y Martina cuando los padres de Julián salen a buscar trabajo).  
-
-94. En cierto término, Nayeli tiene problemáticas similares a Julián; es la más inteligente de su grupo, es muy pobre, es más delgada de lo que debería, tiene problemas familiares (su madre la abandonó y su padre la golpea porque nació mujer y él quería que fuera un varón), es tímida, tiene ansiedad; a veces se termina lastimando a sí misma por los nervios, le hacen bullying (aunque en su caso es Maite, no una profesora), no sigue lo que se considera “femenino” y no se siente parte de su grupo.  
-
-95. Manuel le hace clases al 3ro B; se portan bien con él, así que el 3ro A trata de evitar que Cecilia los regañe en clases para hacer competencia con ellos.  
+95. En términos de gustos y personalidad, a Nayeli le gusta dibujar, cantar y hacer música; a veces va a la casa de Julián a estudiar y ayudarlo con los gráficos de sus juegos. Ambos se entienden perfectamente, tratan de aprender más y no entienden por qué hay rivalidad entre sus cursos.  
 
 96. Si la trama avanza, podríamos ver que el EcoClub y el ArtClub podrían ser el puente para que el 3ro A y el 3ro B se lleven bien y hagan una alianza. Julián y Nayeli son la clave para unificar los cursos, son amigos en secreto, esconden sus problemas de los amigos del otro y evitan meterse en los problemas de los cursos.  
 
-97. En términos de gustos y personalidad, a Nayeli le gusta dibujar, cantar y hacer música; a veces va a la casa de Julián a estudiar y ayudarlo con los gráficos de sus juegos. Ambos se entienden perfectamente, tratan de aprender más y no entienden por qué hay rivalidad entre sus cursos.  
+97. Noah prefiere que le digan Kurt porque es fan de Nirvana (por Kurt Cobain).  
 
-98. Milán es un reflejo más extremo de Eirene, pues él no tiene hermanos que lo acepten; está solo en su casa ante sus padres que quieren que sea el mejor.  
+98. Salomé se llama así porque su madre se lo puso por Chayanne (porque tiene una canción muy popular llamada “Salomé”, así que Salomé puede usar eso a su favor).  
 
-99. En términos de época, la Tierra del EcoClub (y otros personajes terícolas) está actualmente en 2025.  
+99. Originalmente, Érika iba a ser Aurora Érika Yaretzi, pero a su padre se le olvidó el orden y al registrarlo quedó como Érika Yaretzi Aurora. Así que a veces de broma su padre le dice Aurora Érika.  
 
 100. DATO GRANDE (por ser el 100); esta trama, aunque no parece especial en el Shénmìverso, se conecta con las otras, ya sea por Érika (dato 71) o por otro grupo de personajes chilenos (un par de ellos estuvieron en el mismo internado que Cecilia y tuvieron vínculos con el Shénmìverso), o porque un personaje de la trama mayor podría aparecer ante ellos.  
 
-101. En temas de orígenes de nombres, Noah prefiere que le digan Kurt porque es fan de Nirvana (por Kurt Cobain); Salomé se llama así porque su madre se lo puso por Chayanne (porque tiene una canción muy popular llamada “Salomé”, así que Salomé puede usar eso a su favor); originalmente, Érika iba a ser Aurora Érika Yaretzi, pero a su padre se le olvidó el orden y al registrarlo quedó como Érika Yaretzi Aurora. Así que a veces de broma su padre le dice Aurora Érika.  
+101. Nayeli tiene bastantes cicatrices porque le cuesta tratar sus heridas, además de que siempre hay nuevas; de hecho, en su ojo derecho tiene un moretón cicatrizando. Julián intenta tratar sus heridas cada que puede.  
 
-102. Nayeli tiene bastantes cicatrices porque le cuesta tratar sus heridas, además de que siempre hay nuevas; de hecho, en su ojo derecho tiene un moretón cicatrizando. Julián intenta tratar sus heridas cada que puede.  
+102. Peyton y Noah hablan en inglés cuando están solo ellos; con el resto hablan español, pero a veces se les asoma el acento estadounidense (así como a Thiago se le asoma su acento mixto colombiano-venezolano).  
 
-103. Peyton y Noah hablan en inglés cuando están solo ellos; con el resto hablan español, pero a veces se les asoma el acento estadounidense (así como a Thiago se le asoma su acento mixto colombiano-venezolano).  
+103. Algo que el ArtClub tiene en común es que les gusta dibujar (Como el EcoClub), además de que a todos les gustan los juegos de Zelda (Kaleb prefería Tomb Raider, pero igual le gusta The Legend of Zelda, así que no hay discusión).  
 
-104. Algo que el ArtClub tiene en común es que les gusta dibujar (Como el EcoClub), además de que a todos les gustan los juegos de Zelda (Kaleb prefería Tomb Raider, pero igual le gusta The Legend of Zelda, así que no hay discusión).  
+104. Al igual que el EcoClub, el ArtClub tiene su punto común en unas mesas cerca del comedor de la escuela, que está cerca del kiosco donde el EcoClub tiene su punto de reunión.  
 
-105. Al igual que el EcoClub, el ArtClub tiene su punto común en unas mesas cerca del comedor de la escuela, que está cerca del kiosco donde el EcoClub tiene su punto de reunión.  
+105. [].  
 
 # TANDA 8
 
