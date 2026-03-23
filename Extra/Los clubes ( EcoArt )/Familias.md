@@ -94,7 +94,7 @@
 **Hermanos:** Mikaela Zúñiga & Nicolás Zúñiga  
 **Hermanastros:**  
 	- Josefina Sepúlveda  
-	- Teresa Sepúlveda  
+	- Iris Sepúlveda  
 	- Emilio Sepúlveda  
 	- Vicente Sepúlveda  
 	- Willow Lane  

@@ -112,7 +112,7 @@
 |107|2015|MES|DD|Rubén Valdés|
 |108|2015|MES|DD|Martina Riquelme|
 |109|2015|MES|DD|Aitana Sandoval|
-|110|2015|MES|DD|Teresa Sepúlveda|
+|110|2015|MES|DD|Iris Sepúlveda|
 |111|2016|MES|DD|César Castro|
 |112|2017|MES|DD|Gael Riquelme|
 |113|2018|MES|DD|Inés Araya|

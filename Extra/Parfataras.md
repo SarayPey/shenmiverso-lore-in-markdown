@@ -11,20 +11,20 @@
 |👻|Fantasma/Aftemsko|
 |☯|Representante del karma actual|
 
-|Color|Sol|Luna|Estrella|Cristal|Escudero|
-|-|-|-|-|-|-|
-|Rojo|Zared 🪐|Akane 🌻|Ivette Ortega 🌻|James Larson 🌻|Brisa Fowler 🌻|
-|Naranjo|Inayah 🌻|Farrah 🌻|James Rosales 🌎|Kaney 🌻|Elysia Valfyre 🌻|
-|Dorado|Polaris Lintang 🌠|Adam Carter 🌻|Elio 🪐|Diamona Dyamblor 🌻💀👻|Everly Boyer 🌻💀👻|
-|Verde|Nero 🌻|Julián Riquelme 🌎|Salva Alyster 🌻☯|Jake 🪐|Sundara 🌻|
-|Celeste|Willow Lane 🌎|Safiya 🌻|Hasani Acoarzya 🌻|Calixta 🌻|Zaire Arqazyva 🌻|
-|Azul|Wisteria Samdihar 🌻|Dorian Alyster 🌻☯|Kiyoshi 🌻💀👻|Taylor Daniels 🌻|Rayco 🌻|
-|Morado|Melissa Torres 🌻|Yunus 🌻|Emma Park 🌻|Sycorax 🪐|Kiara 🌻💀👻|
-|Rosa|Aarav 🍀|Juno Rosales 🌎|Ozara 🪐|Érika Valdés 🌎|Kyria 🌻|
-|Blanco|Elidi 🤍|Laoise 🌻|Zuri 🌻|Zelik 🪐|Dyciel 🌻|
-|Plata|Huldr 🌻|Zylvia 🌻|Koaka, La verdad desconocida 🔲|Rurik 🪐|Nael, Sirviente de la paz 🔲|
-|Negro|Daleth 🌻|Kalonice 🖤|Fairfax 🌻|Novax 🌻|Skyla Ross 🔲|
-|Sombrío|Seldon 🖤|Amarisa 🌻|Varoun Arqazyva 🌻|Wyatt Rivera 🌻💀|Fallyn Olssen 🌻|
+|Color|Sol|Luna|Estrella|Cristal|Escudero|-|
+|-|-|-|-|-|-|-|
+|Rojo|Zared 🪐|Akane 🌻|Ivette Ortega 🌻|James Larson 🌻|Brisa Fowler 🌻|-|
+|Naranjo|Inayah 🌻|Farrah 🌻|James Rosales 🌎|Kaney 🌻|Elysia Valfyre 🌻|-|
+|Dorado|Polaris Lintang 🌠|Adam Carter 🌻|Elio 🪐|Diamona Dyamblor 🌻💀👻|Everly Boyer 🌻💀👻|-|
+|Verde|Nero 🌻|Julián Riquelme 🌎|Salva Alyster 🌻☯|Jake 🪐|Sundara 🌻|-|
+|Celeste|Willow Lane 🌎|Safiya 🌻|Hasani Acoarzya 🌻|Calixta 🌻|Zaire Arqazyva 🌻|-|
+|Azul|Wisteria Samdihar 🌻|Dorian Alyster 🌻☯|Kiyoshi 🌻💀👻|Taylor Daniels 🌻|Rayco 🌻|-|
+|Morado|Melissa Torres 🌻|Yunus 🌻|Emma Park 🌻|Sycorax 🪐|Kiara 🌻💀👻|-|
+|Rosa|Aarav 🍀|Juno Rosales 🌎|Ozara 🪐|Érika Valdés 🌎|Kyria 🌻|-|
+|Blanco|Elidi 🤍|Laoise 🌻|Zuri 🌻|Zelik 🪐|Dyciel 🌻|-|
+|Plata|Huldr 🌻|Zylvia 🌻|Koaka, La verdad desconocida 🔲|Rurik 🪐|Nael, Sirviente de la paz 🔲|-|
+|Negro|Daleth 🌻|Kalonice 🖤|Fairfax 🌻|Novax 🌻|Skyla Ross 🔲|-|
+|Sombrío|Seldon 🖤|Amarisa 🌻|Varoun Arqazyva 🌻|Wyatt Rivera 🌻💀|Fallyn Olssen 🌻|-|
 
 # SIMBOLISMOS/CARACTERÍSTICAS
 
