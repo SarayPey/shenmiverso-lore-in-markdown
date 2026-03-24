@@ -18,7 +18,7 @@
 |Dorado|Polaris Lintang 🌠|Adam Carter 🌻|Elio 🪐|Diamona Dyamblor 🌻💀👻|Everly Boyer 🌻💀👻|-|
 |Verde|Nero 🌻|Julián Riquelme 🌎|Salva Alyster 🌻☯|Jake 🪐|Sundara 🌻|-|
 |Celeste|Willow Lane 🌎|Safiya 🌻|Hasani Acoarzya 🌻|Calixta 🌻|Zaire Arqazyva 🌻|-|
-|Azul|Wisteria Samdihar 🌻|Dorian Alyster 🌻☯|Kiyoshi 🌻💀👻|Taylor Daniels 🌻|Rayco 🌻|-|
+|Azul|Wisteria Samdirhar 🌻|Dorian Alyster 🌻☯|Kiyoshi 🌻💀👻|Taylor Daniels 🌻|Rayco 🌻|-|
 |Morado|Melissa Torres 🌻|Yunus 🌻|Emma Park 🌻|Sycorax 🪐|Kiara 🌻💀👻|-|
 |Rosa|Aarav 🍀|Juno Rosales 🌎|Ozara 🪐|Érika Valdés 🌎|Kyria 🌻|-|
 |Blanco|Elidi 🤍|Laoise 🌻|Zuri 🌻|Zelik 🪐|Dyciel 🌻|-|
