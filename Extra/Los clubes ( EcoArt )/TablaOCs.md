@@ -44,3 +44,6 @@ Encontré imágenes muy antiguas de personajes del 2020 que iba a usar para un c
 - Nora Mia Luna Castro Vera (18 años): Amiga de la infancia de Milán, también es fan de la música electrónica y de Alan Walker, pero tiene la libertad para decirlo. Aunque no lo parezca, ella inicia los debates.  
 
 - Y la bully de Nayeli se llama Maite Isabella Cárdenas Godoy, tiene 17 años.  
+
+|N°|Nombre|Apodos|Edad|Nacimiento|Género|Mundo|Especie|Altura|Peso|Habilidad/propiedad de nacimiento|Habilidades rama aprendidas|Okimantis|Gamkinas|Serfánias|Arma insignia|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
