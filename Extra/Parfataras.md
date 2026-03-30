@@ -8,6 +8,7 @@
 |🖤|Sombrarix|
 |🔲|Sombrarix - Monocromático|
 |🌎|Tierra|
+|💀|Muerto|
 |👻|Fantasma/Aftemsko|
 |☯|Representante del karma actual|
 
@@ -17,7 +18,7 @@
 |Naranjo|Inayah 🌻|Farrah 🌻|James Rosales 🌎|Kaney 🌻|Elysia Valfyre 🌻|-|
 |Dorado|Polaris Lintang 🌠|Adam Carter 🌻|Elio 🪐|Diamona Dyamblor 🌻💀👻|Everly Boyer 🌻💀👻|-|
 |Verde|Nero 🌻|Julián Riquelme 🌎|Salva Alyster 🌻☯|Jake 🪐|Sundara 🌻|-|
-|Celeste|Willow Lane 🌎|Safiya 🌻|Hasani Acoarzya 🌻|Calixta 🌻|Zaire Arqazyva 🌻|-|
+|Celeste|Willow Lane 🌎|Safiya 🌻|Hasani Acoarzya 🌻|Calixta 🌻|Zaire Arqazyva 🌻|Víctor Adams|
 |Azul|Wisteria Samdirhar 🌻|Dorian Alyster 🌻☯|Kiyoshi 🌻💀👻|Taylor Daniels 🌻|Rayco 🌻|-|
 |Morado|Melissa Torres 🌻|Yunus 🌻|Emma Park 🌻|Sycorax 🪐|Kiara 🌻💀👻|-|
 |Rosa|Aarav 🍀|Juno Rosales 🌎|Ozara 🪐|Érika Valdés 🌎|Kyria 🌻|-|
