@@ -12,20 +12,20 @@
 |👻|Fantasma/Aftemsko|
 |☯|Representante del karma actual|
 
-|Color|Sol|Luna|Estrella|Cristal|Escudero|-|
-|-|-|-|-|-|-|-|
-|Rojo|Zared 🪐|Akane 🌻|Ivette Ortega 🌻|James Larson 🌻|Brisa Fowler 🌻|Noah Smith 🌎|
-|Naranjo|Inayah 🌻|Farrah 🌻|James Rosales 🌎|Kaney 🌻|Elysia Valfyre 🌻|Kelsey 🌻|
-|Dorado|Polaris Lintang 🌠|Adam Carter 🌻|Elio 🪐|Diamona Dyamblor 🌻💀👻|Everly Boyer 🌻💀👻|Piper Dellacruz 🌻|
-|Verde|Nero 🌻|Julián Riquelme 🌎|Salva Alyster 🌻☯|Jake 🪐|Sundara 🌻|Wesa 🪐|
-|Celeste|Willow Lane 🌎|Safiya 🌻|Hasani Acoarzya 🌻|Calixta 🌻|Zaire Arqazyva 🌻|Víctor Adams|
-|Azul|Wisteria Samdirhar 🌻|Dorian Alyster 🌻☯|Kiyoshi 🌻💀👻|Taylor Daniels 🌻|Rayco 🌻|Carel Boyer 🌻|
-|Morado|Melissa Torres 🌻|Yunus 🌻|Emma Park 🌻|Sycorax 🪐|Kiara 🌻💀👻|Peyton Wilson 🌎|
-|Rosa|Aarav 🍀|Juno Rosales 🌎|Ozara 🪐|Érika Valdés 🌎|Kyria 🌻|Paige 🌻|
-|Blanco|Elidi 🤍|Laoise 🌻|Zuri 🌻|Zelik 🪐|Dyciel 🌻|Zarathia 🌻|
-|Plata|Huldr 🤍|Zylvia 🌻|Koaka, La verdad desconocida 🔲|Rurik 🪐|Nael, Sirviente de la paz 🔲|Idali 🖤|
-|Negro|Daleth 🌻|Kalonice 🖤|Fairfax 🌻|Novax 🌻|Skyla Ross 🔲|Eivor Garza 🌻|
-|Sombrío|Seldon 🖤|Amarisa 🌻|Varoun Arqazyva 🌻|Wyatt Rivera 🌻💀|Fallyn Olssen 🌻|Zadok Durand 🌎|
+|Color|Sol|Luna|Estrella|Cristal|Escudero|Forastero|Gota|
+|-|-|-|-|-|-|-|-|
+|Rojo|Zared 🪐|Akane 🌻|Ivette Ortega 🌻|James Larson 🌻|Brisa Fowler 🌻|Noah Smith 🌎|-|
+|Naranjo|Inayah 🌻|Farrah 🌻|James Rosales 🌎|Kaney 🌻|Elysia Valfyre 🌻|Kelsey 🌻|-|
+|Dorado|Polaris Lintang 🌠|Adam Carter 🌻|Elio 🪐|Diamona Dyamblor 🌻💀👻|Everly Boyer 🌻💀👻|Piper Dellacruz 🌻|-|
+|Verde|Nero 🌻|Julián Riquelme 🌎|Salva Alyster 🌻☯|Jake 🪐|Sundara 🌻|Wesa 🪐|Zannie 🍀|
+|Celeste|Willow Lane 🌎|Safiya 🌻|Hasani Acoarzya 🌻|Calixta 🌻|Zaire Arqazyva 🌻|Víctor Adams 🌎|-|
+|Azul|Wisteria Samdirhar 🌻|Dorian Alyster 🌻☯|Kiyoshi 🌻💀👻|Taylor Daniels 🌻|Rayco 🌻|Carel Boyer 🌻|Michael Sky 🌻|
+|Morado|Melissa Torres 🌻|Yunus 🌻|Emma Park 🌻|Sycorax 🪐|Kiara 🌻💀👻|Peyton Wilson 🌎|-|
+|Rosa|Aarav 🍀|Juno Rosales 🌎|Ozara 🪐|Érika Valdés 🌎|Kyria 🌻|Paige 🌻|-|
+|Blanco|Elidi 🤍|Laoise 🌻|Zuri 🌻|Zelik 🪐|Dyciel 🌻|Zarathia 🌻|-|
+|Plata|Huldr 🤍|Zylvia 🌻|Koaka, La verdad desconocida 🔲|Rurik 🪐|Nael, Sirviente de la paz 🔲|Idali 🖤|-|
+|Negro|Daleth 🌻|Kalonice 🖤|Fairfax 🌻|Novax 🌻|Skyla Ross 🔲|Eivor Garza 🌻|-|
+|Sombrío|Seldon 🖤|Amarisa 🌻|Varoun Arqazyva 🌻|Wyatt Rivera 🌻💀|Fallyn Olssen 🌻|Zadok Durand 🌎|-|
 
 # SIMBOLISMOS/CARACTERÍSTICAS
 
@@ -33,12 +33,13 @@
 
 |Rol|Significado|
 |-|-|
-|Sol|Ser de mayor poder o conocimiento, eclipsa a la luna|
-|Luna|Ser con mayor conexión mágica, ecipsado por los soles y subestimado en general|
+|Sol|Poder, ser de mayor poder o conocimiento, eclipsa a la luna|
+|Luna|Sensibiliddad, ser con mayor conexión mágica, ecipsado por los soles y subestimado en general|
 |Estrella|Ser independiente, fuerte por su cuenta, normalmente subestimado|
 |Cristal|Misterioso, el observador astuto, relacionado a veces con los ojos de diamante|
 |Escudero|Defensor, un personaje que protege a los suyos|
-|-|-|
+|Forastero|Extranjero, aquel que no está donde pertenece|
+|Gota|-|
 
 ## Colores
 
