@@ -85,7 +85,7 @@
 **Tutores:** Gaspar Aguilar & Fabiola Lagos   
 **Abuelos:** Jerónimo Herrera & Carolina Farias  
 **Tíos:** Rafaella Aguilar, Emilio Herrera & Amparo Bustamante  
-**Primos:** Daphne Aguilar, Giselle Herrera & Dante Herrera  
+**Primos:** Daphne Aguilar, Marlén Herrera & Dante Herrera  
 
 ## Salomé Arleth Zúñiga Molina  
 

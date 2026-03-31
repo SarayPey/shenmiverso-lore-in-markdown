@@ -65,10 +65,10 @@
 |060|2003|MES|DD|Daphne Aguilar|
 |061|2004|MES|DD|Sawyer Wilson|
 |062|2004|MES|DD|Ángela Castro|
-|063|2004|MES|DD|Nicolás Zúñiga|
+|104|2004|MES|DD|Mikaela Zúñiga|
 |064|2004|MES|DD|Lincoln Wilson|
 |065|2004|MES|DD|Cassia Lane|
-|066|2005|MES|DD|Giselle Herrera|
+|066|2005|MES|DD|Marlén Herrera|
 |067|2005|MES|DD|Raphael Castro|
 |068|2005|MES|DD|Maximiliano Rivas|
 |069|2006|MES|DD|Dante Herrera|
@@ -106,7 +106,7 @@
 |101|2013|MES|DD|Hazel Lane|
 |102|2013|MES|DD|Victoria Sandoval|
 |103|2013|MES|DD|Chloe White|
-|104|2014|MES|DD|Mikaela Zúñiga|
+|063|2014|MES|DD|Nicolás Zúñiga|
 |105|2014|MES|DD|Vicente Sepúlveda|
 |106|2014|MES|DD|Florencia Fuentes|
 |107|2015|MES|DD|Rubén Valdés|
