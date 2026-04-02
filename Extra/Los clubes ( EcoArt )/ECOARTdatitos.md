@@ -32,13 +32,13 @@
 
 16. Hablando de Ricardo (o Regguei —se pronuncia "Reyi"), básicamente adoptó a Lego Bravo cuando él tenía diez años y sus padres siguen juntos, se lo encontró abandonado en una caja (era el único que quedaba de una camada de cachorros) y logró adoptarlo. Su nombre no es al azar, se llama Lego bravo porque tenía una mancha que parecía una pieza de lego (sí, a Ricardo le encantaban los legos en ese entonces).  
 
-17. Peyton es hermana mayor, es la mano derecha de Noah en lo que respecta a liderar el ArtClub.  
+17. Peyton es hermana mayor, y al tener una madurez al ayudar en su crianza, es la mano derecha de Noah en lo que respecta a liderar el ArtClub.  
 
-18. [].  
+18. Ricardo tiene un setup gamer envidiable, tiene una silla gamer, una PC buenísima para juegos y un mouse con luces, esto porque es de clase media-alta (no, eso no cura nada).  
 
-19. [].  
+19. A Thiago le gustan los murciélagos, sabe bastantes datos sobre murciélagos.  
 
-20. [].  
+20. Por cierto, Julián es el mayor de su generación (fue el primer nieto de Alba y Pedro).  
 
 21. [].  
 
