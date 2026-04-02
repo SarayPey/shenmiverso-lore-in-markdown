@@ -4,7 +4,8 @@
 
 1. Su grupo se hace llamar "EcoClub" porque juntos hacen conciencia sobre el medioambiente y otras cosas que sus profes les den de tarea.  
 
-2. Por alguna razón, a todos les gusta Kirby, pero a Érika le sale mejor dibujarlo; es irónico porque casi ni hace círculos en sus dibujos. Todos lo adoran y lo tienen en sus compus de forma distinta y personalizada.  💖✨
+2. Por alguna razón, a todos les gusta Kirby, pero a Érika le sale mejor dibujarlo; es irónico porque casi ni hace círculos en sus dibujos. Todos lo adoran y lo tienen en sus compus de forma distinta y personalizada.  
+
 3. Eirene solo se deja pintar las uñas con Érika, que SOLO POR ELLA tiene esmalte de colores brillantes o pastel para pintarle las uñas.  
 
 4. Érika cambia de estilo como si de respirar se tratase, siempre prueba maquillaje o ropa nueva (aunque siempre en su estilo gótico o similar —grunge, e-girl, emo), tiene mucha ropa y cosas de su estilo en su armario.  
@@ -126,7 +127,7 @@
 
 57. Vanessa y Eirene se duermen temprano, Ricardo se queda hasta la madrugada jugando y Julián en las noches estudia, programa o llora en secreto.  
 
-58. Thiago se mete a pelear con gente en Reddit, Twitter e Instagram, de alguna forma Vanessa le puso control parental y no le permite comentar de 5AM a 12AM (de 1AM a 5AM está jugando Free Fire con Thiago y Érika).  
+58. Thiago se mete a pelear con gente en Reddit, Twitter e Instagram, de alguna forma Vanessa le puso control parental y no le permite comentar de 5AM a 12AM (de 1AM a 5AM Thiago está jugando Free Fire con Ricardo y Érika).  
 
 59. Eirene no puede ver películas de terror, Julián reflexiona y busca el simbolismo de las escenas para no mostrar que le dan miedo, Bianca no la ve y se pone a dibujar con Eirene, y el resto lo disfruta y molesta entre ellos. Lo que disfrutan todos es humor, fantasía y drama, además de ver películas cringe para burlarse de ellas.  
 
@@ -214,7 +215,7 @@
 
 95. En términos de gustos y personalidad, a Nayeli le gusta dibujar, cantar y hacer música; a veces va a la casa de Julián a estudiar y ayudarlo con los gráficos de sus juegos. Ambos se entienden perfectamente, tratan de aprender más y no entienden por qué hay rivalidad entre sus cursos.  
 
-96. Si la trama avanza, podríamos ver que el EcoClub y el ArtClub podrían ser el puente para que el 3ro A y el 3ro B se lleven bien y hagan una alianza. Julián y Nayeli son la clave para unificar los cursos, son amigos en secreto, esconden sus problemas de los amigos del otro y evitan meterse en los problemas de los cursos.  
+96. Si la trama avanza, podríamos ver que el EcoClub y el ArtClub podrían ser el puente para que el 3ro A y el 3ro B se lleven bien y hagan una alianza.  
 
 97. Noah prefiere que le digan Kurt porque es fan de Nirvana (por Kurt Cobain).  
 
@@ -232,26 +233,27 @@
 
 104. Al igual que el EcoClub, el ArtClub tiene su punto común en unas mesas cerca del comedor de la escuela, que está cerca del kiosco donde el EcoClub tiene su punto de reunión.  
 
-105. [].  
+105. Julián y Nayeli son la clave para unificar los cursos, son amigos en secreto, esconden sus problemas de los amigos del otro y evitan meterse en los problemas de los cursos.  
+
 
 # TANDA 8
 
 
-106. [].  
+106. La madre de Nayeli se llama Daliah Allen, y digamos que Nayeli fue producto de una infidelidad de su padre, Fabio Medida, el cual estaba casado pero fue le infiel a su ex-esposa con Daliah, de esto nace Nayeli, la ex de Fabio se divorcia y Daliah cuando se enteró de esto se fue de Santiago porque no podía soportar saber que su hija causó tantos problemas. Esto no justifica a Fabio por su comportamiento ni a Daliah por su reacción, pero nos sirve para entender.  
 
-107. [].  
+107. La personalidad de Ricardo es fruto de ser hijo de padres divorciados (Juan Ulloa y Úrsula Castro) y viendo a sus padres casarse con otras personas (Juan se casó con Yesenia Olivares, y Úrsula actualmente está con Armando Reyes), considerando que vive con su padre que trabaja mucho y nunca tuvo tiempo para él, además de que le cuesta llevarse bien con su madastra, pues Yesenia es bastante estructurada al haber estado en las fuerzas armadas y tampoco tiene tiempo para él porque trabaja de forma remota (actualmente ni ella ni Juan le dan atención porque Ricardo es adulto), prefería vivir con Úrsula (porque era más atenta) pero no puede porque ella vive en San Antonio con su padastro y no quiere alejarse del EcoClub (aunque de vez en cuando debe ir allá por tutela compartida), así que él mismo aprendió a conseguir sus cosas, además de que se siente querido en el EcoClub.  
 
-108. [].  
+108. Salomé es la que tiene más hermanos (contando hermanastros) entre ambos clubes, teniendo dos hermanos y nueve hermanastros, puesto a que sus padastros (Klaus Sepúlveda y Katherine Lane) ya tenían familias antes de volver a casarse (Klaus con la madre de Salomé —Renata Molina— y Katherine con su padre —Diego Zúñiga).  
 
-109. [].  
+109. Nora tiene un medio hermano, Santiago Fuentes, esto es porque su padre (Leandro Castro) actualmente está fallecido por leucémia, y su madre (Leonor Vera) actualmente está comprometida con Gustado Fuentes (digamos que él y Leandro eran amigos y cuando estaba empeorando le dijo casi de broma a Gustavo que podía casarse con Leonor —tampoco tan broma porque en su juventud hubo rivalidad porque a ambos les gustaba Leonor).  
 
-110. [].  
+110. Por suerte Ricardo es hijo único, no tiene hermanastros ni medio hermanos (le gusta bromear de que no tiene competencia por la atención y cariño de sus padres y padastros), aunque esto significa que básicamente está solo en casa.  
 
-111. [].  
+111. Hablando de Ricardo, básicamente adoptó a Lego Bravo cuando él tenía diez años y sus padres siguen juntos, se lo encontró abandonado en una caja (era el único que quedaba de una camada de cachorros) y logró adoptarlo. Su nombre no es al azar, se llama Lego bravo porque tenía una mancha que parecía una pieza de lego (sí, a Ricardo le encantaban los legos en ese entonces).  
 
-112. [].  
+112. Noah adora la música rock y metal.  
 
-113. [].  
+113. Peyton es hermana mayor, es la mano derecha de Noah en lo que respecta a liderar el ArtClub.  
 
 114. [].  
 

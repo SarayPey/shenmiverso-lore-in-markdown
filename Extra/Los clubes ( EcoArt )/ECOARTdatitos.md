@@ -1,38 +1,38 @@
 # TANDA 1
 
-1. [].  
+1. Dato importante, esta historia es la conexión entre dos tramas que también pasan en Chile: *El viaje al más allá* y *Ruegos y una fantasía*. Aunque tenga las conexiones más débiles con la trama mayor de lo que es Shénmì en general, de todas maneras los personajes tienen relevancia allí.  
 
-2. [].  
+2. Tanto el EcoClub como el ArtClub tienen lugares comunes de junta en el liceo, el EcoClub tiene una banca cerca del kiosco, con partes iguales de sol y sombra, tiene su marca y todo. Por otro lado, el ArtClub tiene su punto cerca del comedor del liceo, donde tienen acceso rápido a los baños, el comedor y la sala de artes.  
 
-3. [].  
+3. Vanessa sabe Español, Inglés y Francés, aunque también está aprendiendo Portugués e Italiano.  
 
-4. [].  
+4. Érika quiere tener un cisne, un cocodrilo o un erizo de mascota, le encantan esos animales.  
 
-5. [].  
+5. Noah adora la música rock y metal, por algo es fan de Nirvana (que su apodo favorito sea Kurt es por Kurt Cobain).  
 
-6. [].  
+6. Los integrantes tanto del EcoClub como del ArtClub dibujan, cada uno con sus estilos distintos.  
 
-7. [].  
+7. El personaje representativo de EcoClub es Kirby (Ricardo prefería a Homero de Los simpsons, pero se resignó), el de ArtClub es Zelda (Kaleb prefería a Tara Croft de Tomb Raider, pero se resignó).  
 
-8. [].  
+8. Eirene solo se deja pintar las uñas con Érika, que SOLO POR ELLA tiene esmalte de colores brillantes o pastel para pintarle las uñas.  
 
-9. [].  
+9. Peyton y Noah hablan en inglés cuando están solo ellos; con el resto hablan español, pero a veces se les asoma el acento estadounidense (también le pasa a otros personajes que vivieron en el exterior como Salomé, Kaleb, Thiago y Vanessa).  
 
-10. [].  
+10. La madre de Nayeli se llama Daliah Allen, y digamos que Nayeli fue producto de una infidelidad de su padre, Fabio Medida, el cual estaba casado pero fue le infiel a su ex-esposa con Daliah, de esto nace Nayeli, la ex de Fabio se divorcia y Daliah cuando se enteró de esto se fue de Santiago porque no podía soportar saber que su hija causó tantos problemas. Esto no justifica a Fabio por su comportamiento ni a Daliah por su reacción, pero nos sirve para entender (algo parecido veremos cuando veamos la historia de Cecilia).  
 
-11. [].  
+11. La personalidad de Ricardo es fruto de ser hijo de padres divorciados (Juan Ulloa y Úrsula Castro) y viendo a sus padres casarse con otras personas (Juan se casó con Yesenia Olivares, y Úrsula actualmente está con Armando Reyes), considerando que vive con su padre que trabaja mucho y nunca tuvo tiempo para él, además de que le cuesta llevarse bien con su madastra, pues Yesenia es bastante estructurada al haber estado en las fuerzas armadas y tampoco tiene tiempo para él porque trabaja de forma remota (actualmente ni ella ni Juan le dan atención porque Ricardo es adulto), prefería vivir con Úrsula (porque era más atenta) pero no puede porque ella vive en San Antonio con su padastro y no quiere alejarse del EcoClub (aunque de vez en cuando debe ir allá por tutela compartida), así que él mismo aprendió a conseguir sus cosas, además de que se siente querido en el EcoClub.  
 
-12. [].  
+12. Ricardo tiene un doberman llamado "Lego bravo", lo lleva a pasear cada mañana antes de ir a clases.  
 
-13. [].  
+13. Salomé es la que tiene más hermanos (contando hermanastros) entre ambos clubes, teniendo dos hermanos y nueve hermanastros, puesto a que sus padastros (Klaus Sepúlveda y Katherine Lane) ya tenían familias antes de volver a casarse (Klaus con la madre de Salomé —Renata Molina— y Katherine con su padre —Diego Zúñiga).  
 
-14. [].  
+14. Nora tiene un medio hermano, Santiago Fuentes, esto es porque su padre (Leandro Castro) actualmente está fallecido por leucémia, y su madre (Leonor Vera) actualmente está comprometida con Gustado Fuentes (digamos que él y Leandro eran amigos y cuando estaba empeorando le dijo casi de broma a Gustavo que podía casarse con Leonor —tampoco tan broma porque en su juventud hubo rivalidad porque a ambos les gustaba Leonor).  
 
-15. [].  
+15. Por suerte Ricardo es hijo único, no tiene hermanastros ni medio hermanos (le gusta bromear de que no tiene competencia por la atención y cariño de sus padres y padastros), aunque esto significa que básicamente está solo en casa.  
 
-16. [].  
+16. Hablando de Ricardo (o Regguei —se pronuncia "Reyi"), básicamente adoptó a Lego Bravo cuando él tenía diez años y sus padres siguen juntos, se lo encontró abandonado en una caja (era el único que quedaba de una camada de cachorros) y logró adoptarlo. Su nombre no es al azar, se llama Lego bravo porque tenía una mancha que parecía una pieza de lego (sí, a Ricardo le encantaban los legos en ese entonces).  
 
-17. [].  
+17. Peyton es hermana mayor, es la mano derecha de Noah en lo que respecta a liderar el ArtClub.  
 
 18. [].  
 
