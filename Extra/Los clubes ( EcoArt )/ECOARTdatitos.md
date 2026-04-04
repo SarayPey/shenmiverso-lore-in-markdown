@@ -4,7 +4,7 @@
 
 2. Tanto el EcoClub como el ArtClub tienen lugares comunes de junta en el liceo, el EcoClub tiene una banca cerca del kiosco, con partes iguales de sol y sombra, tiene su marca y todo. Por otro lado, el ArtClub tiene su punto cerca del comedor del liceo, donde tienen acceso rápido a los baños, el comedor y la sala de artes.  
 
-3. Vanessa sabe Español, Inglés y Francés, aunque también está aprendiendo Portugués e Italiano.  
+3. Vanessa sabe Español, Inglés y Francés con fluidez, aunque también está aprendiendo Portugués e Italiano.  
 
 4. Érika quiere tener un cisne, un cocodrilo o un erizo de mascota, le encantan esos animales.  
 
@@ -40,17 +40,17 @@
 
 20. Por cierto, Julián es el mayor de su generación (fue el primer nieto de Alba y Pedro).  
 
-21. [].  
+21. Julián tiene las uñas por debajo de la piel porque se las arranca constantemente.  
 
-22. [].  
+22. Thiago es colombiano, pero nació en Venezuela, luego volvió a Colombia un par de años y finalmente llegó a Chile.  
 
-23. [].  
+23. Todos están en 3ro medio, algunos tienen más o menos edad por nacimiento.  
 
-24. [].  
-
-# TANDA 2
+24. Eirene tiene una bully en el curso, se llama Susana Antonella Pérez Díaz y sabe de boxeo y judo.  
 
 25. [].  
+
+# TANDA 2
 
 26. [].  
 
