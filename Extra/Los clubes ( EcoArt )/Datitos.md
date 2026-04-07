@@ -253,9 +253,9 @@
 
 112. Noah adora la música rock y metal.  
 
-113. Peyton es hermana mayor, es la mano derecha de Noah en lo que respecta a liderar el ArtClub.  
+113. Peyton es hermana mayor, y al tener una madurez al ayudar en su crianza, es la mano derecha de Noah en lo que respecta a liderar el ArtClub.  
 
-114. [].  
+114. La razón principal para el divorcio de Deborah y Juan fue que no podían ponerse de acuerdo en las cosas, especialmente en lo que respectaba a la crianza de Ricardo en ese entoncs (Juan siendo más estricto y represor mientras que Deborah siendo más permisiva y liberal), acuerdo que encontraron en sus parejas actuales.  
 
 115. [].  
 
