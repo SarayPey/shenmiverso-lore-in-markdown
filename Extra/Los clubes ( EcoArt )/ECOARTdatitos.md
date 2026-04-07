@@ -2,7 +2,7 @@
 
 1. Dato importante, esta historia es la conexión entre dos tramas que también pasan en Chile: *El viaje al más allá* y *Ruegos y una fantasía*. Aunque tenga las conexiones más débiles con la trama mayor de lo que es Shénmì en general, de todas maneras los personajes tienen relevancia allí.  
 
-2. Tanto el EcoClub como el ArtClub tienen lugares comunes de junta en el liceo, el EcoClub tiene una banca cerca del kiosco, con partes iguales de sol y sombra, tiene su marca y todo. Por otro lado, el ArtClub tiene su punto cerca del comedor del liceo, donde tienen acceso rápido a los baños, el comedor y la sala de artes.  
+2. Tanto el EcoClub como el ArtClub tienen lugares comunes de junta en el liceo, el EcoClub tiene una banca cerca del kiosco, con partes iguales de sol y sombra, tiene su marca y todo. Por otro lado, el ArtClub tiene su punto cerca del comedor del liceo, donde tienen acceso rápido a los baños, el comedor y la sala de artes, ambos grupos estando a metros de distancia.  
 
 3. Vanessa sabe Español, Inglés y Francés con fluidez, aunque también está aprendiendo Portugués e Italiano.  
 
