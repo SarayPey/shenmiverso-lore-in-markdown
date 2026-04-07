@@ -14,7 +14,7 @@
 - Ricardo Alfredo Ulloa Castro: Reguetonero que le gusta Gorillaz, inicia los debates y de alguna forma pasa de curso. (Sus padres están divorciados).  
 - Julián Mateo Santiago Riquelme Sandoval: El inteligente del grupo, tímido, ansioso y experto en comunicación. Carga algo pesado.  
 - Bianca Alba Araya Tapia: Vive en Melipilla, pero viene a Santiago a estudiar para tener una mejor educación, es la millonaria del grupo.  
-- Thiago Mathias Barros Muñóz: Colombiano inmigrante, siempre lo funan en internet cuando debate y Vanessa le puso control parental. Su padre falleció en un accidente en bote cuando era niño.  
+- Thiago Mathias Barros Muñóz: Colombiano inmigrante, siempre lo funan en internet cuando debate y Vanessa le puso control parental. Su madre falleció en un accidente en bote cuando era niño.  
 - Vanessa Raquel Rivas de Carrera: Dominicana inmigrante, quiere ser periodista, sabe español, inglés y francés y está aprendiendo portugués e italiano, adora los girasoles, sus padres están divorciados.
 
 # ArtClub

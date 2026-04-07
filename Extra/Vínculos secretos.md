@@ -34,5 +34,5 @@
 # *Ruegos y una fantasía* (Víctor, Valeria, Nelson, Lisa) × *Parfataras*
 
 - *Los clubes* y *El viaje al más alla* tienen parfataras (Julián, Érika, Juno, James y Willow).
-- Ustedes dirán "Pero Víctor y Ryuf en general ha hecho MÁS por Shénmì que *Los clubes*, que no los conocen, ¿no debería al menos Víctor ser parte de los Parfataras?"
-- ¿Quién dice que no estará? El sistema de profecías sigue en desarrollo, vienen cosas. 👀
+- Pero Víctor y Ryuf en general ha hecho MÁS por Shénmì que *Los clubes*, que no los conocen, ¿no debería al menos Víctor ser parte de los Parfataras?
+- Mira de nuevo. 👀
