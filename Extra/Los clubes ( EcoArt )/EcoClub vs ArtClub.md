@@ -150,5 +150,4 @@
 |-|-|-|
 |Presidente de curso|Érika|Kaleb|
 |Bully|Susana|Maite|
-|Profe jefe|???|???|
 |Matemática|Cecilia|Manuel|
