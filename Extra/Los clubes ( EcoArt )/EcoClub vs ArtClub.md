@@ -1,3 +1,5 @@
+# ECOCLUB vs ARTCLUB
+
 # Roles
 
 ## Integrantes
@@ -111,9 +113,9 @@
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
-|Vive cerca|Julián, Thiago|Salomé, Nayeli|
-|Punto medio|Érika, Eirene, Ricardo|Kaleb, Milán|
-|Vive lejos|Bianca, Vanessa|Noah, Peyton, Nora|
+|Vive cerca|Ricardo, Thiago|Salomé, Nora|
+|Punto medio|Érika, Eirene, Julián|Kaleb, Nayeli, Milán|
+|Vive lejos|Bianca, Vanessa|Noah, Peyton|
 
 ## Medio de transporte
 
