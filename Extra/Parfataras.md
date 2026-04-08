@@ -22,7 +22,7 @@
 |Azul|Wisteria Samdirhar 🌻|Dorian Alyster 🌻☯|Kiyoshi 🌻💀👻|Taylor Daniels 🌻|Rayco 🌻|Carel Boyer 🌻|Michael Sky 🌻|
 |Morado|Melissa Torres 🌻|Yunus 🌻|Emma Park 🌻|Sycorax 🪐|Kiara 🌻💀👻|Peyton Wilson 🌎|-|
 |Rosa|Aarav 🍀|Juno Rosales 🌎|Ozara 🪐|Érika Valdés 🌎|Kyria 🌻|Paige 🌻|-|
-|Blanco|Elidi 🤍|Laoise 🌻|Zuri 🌻|Zelik 🪐|Dyciel 🌻|Zarathia 🌻|-|
+|Blanco|Elidi 🤍|Laoise 🌻|Zuri 🤍|Zelik 🪐|Dyciel 🌻|Zarathia 🌻|-|
 |Plata|Huldr 🤍|Zylvia 🌻|Koaka, La verdad desconocida 🔲|Rurik 🪐|Nael, Sirviente de la paz 🔲|Idali 🖤|-|
 |Negro|Daleth 🌻|Kalonice 🖤|Fairfax 🌻|Novax 🌻|Skyla Ross 🔲|Eivor Garza 🌻|-|
 |Sombrío|Seldon 🖤|Amarisa 🌻|Varoun Arqazyva 🌻|Wyatt Rivera 🌻💀|Fallyn Olssen 🌻|Zadok Durand 🌎|-|
