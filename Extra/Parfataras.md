@@ -12,20 +12,20 @@
 |👻|Fantasma/Aftemsko|
 |☯|Representante del karma actual|
 
-|Color|Sol|Luna|Estrella|Cristal|Escudero|Forastero|Gota|
-|-|-|-|-|-|-|-|-|
-|Rojo|Zared 🪐|Akane 🌻|Ivette Ortega 🌻|James Larson 🌻|Brisa Fowler 🌻|Noah Smith 🌎|-|
-|Naranjo|Inayah 🌻|Farrah 🌻|James Rosales 🌎|Kaney 🌻|Elysia Valfyre 🌻|Kelsey 🌻|-|
-|Dorado|Polaris Lintang 🌠|Adam Carter 🌻|Elio 🪐|Diamona Dyamblor 🌻💀👻|Everly Boyer 🌻💀👻|Piper Dellacruz 🌻|-|
-|Verde|Nero 🌻|Julián Riquelme 🌎|Salva Alyster 🌻☯|Jake 🪐|Sundara 🌻|Wesa 🪐|Zannie 🍀|
-|Celeste|Willow Lane 🌎|Safiya 🌻|Hasani Acoarzya 🌻|Calixta 🌻|Zaire Arqazyva 🌻|Víctor Adams 🌎|-|
-|Azul|Wisteria Samdirhar 🌻|Dorian Alyster 🌻☯|Kiyoshi 🌻💀👻|Taylor Daniels 🌻|Rayco 🌻|Carel Boyer 🌻|Michael Sky 🌻|
-|Morado|Melissa Torres 🌻|Yunus 🌻|Emma Park 🌻|Sycorax 🪐|Kiara 🌻💀👻|Peyton Wilson 🌎|-|
-|Rosa|Aarav 🍀|Juno Rosales 🌎|Ozara 🪐|Érika Valdés 🌎|Kyria 🌻|Paige 🌻|-|
-|Blanco|Elidi 🤍|Laoise 🌻|Zuri 🤍|Zelik 🪐|Dyciel 🌻|Zarathia 🌻|-|
-|Plata|Huldr 🤍|Zylvia 🌻|Koaka, La verdad desconocida 🔲|Rurik 🪐|Nael, Sirviente de la paz 🔲|Idali 🖤|-|
-|Negro|Daleth 🌻|Kalonice 🖤|Fairfax 🌻|Novax 🌻|Skyla Ross 🔲|Eivor Garza 🌻|-|
-|Sombrío|Seldon 🖤|Amarisa 🌻|Varoun Arqazyva 🌻|Wyatt Rivera 🌻💀|Fallyn Olssen 🌻|Zadok Durand 🌎|-|
+|Color|Sol|Luna|Estrella|Cristal|Escudero|Forastero|Gota|Árbol|
+|-|-|-|-|-|-|-|-|-|
+|Rojo|Zared 🪐|Akane 🌻|Ivette Ortega 🌻|James Larson 🌻|Brisa Fowler 🌻|Noah Smith 🌎|Teo 🪐|Sándara 🌻|
+|Naranjo|Inayah 🌻|Farrah 🌻|James Rosales 🌎|Kaney 🌻|Elysia Valfyre 🌻|Kelsey 🌻|-|-|
+|Dorado|Polaris Lintang 🌠|Adam Carter 🌻|Elio 🪐|Diamona Dyamblor 🌻💀👻|Everly Boyer 🌻💀👻|Piper Dellacruz 🌻|Harsha 🪐|Dorald 🌻|
+|Verde|Nero 🌻|Julián Riquelme 🌎|Salva Alyster 🌻☯|Jake 🪐|Sundara 🌻|Wesa 🪐|Zannie 🍀|Jadyn Palmer 🌻|
+|Celeste|Willow Lane 🌎|Safiya 🌻|Hasani Acoarzya 🌻|Calixta 🌻|Zaire Arqazyva 🌻|Víctor Adams 🌎|Darren 🌻|-|
+|Azul|Wisteria Samdirhar 🌻|Dorian Alyster 🌻☯|Kiyoshi 🌻💀👻|Taylor Daniels 🌻|Rayco 🌻|Carel Boyer 🌻|Michael Sky 🌻|Yindee Farflysa 🌻|
+|Morado|Melissa Torres 🌻|Yunus 🌻|Emma Park 🌻|Sycorax 🪐|Kiara 🌻💀👻|Peyton Wilson 🌎|Feredith 🌻|-|
+|Rosa|Aarav 🍀|Juno Rosales 🌎|Ozara 🪐|Érika Valdés 🌎|Kyria 🌻|Paige 🌻|-|-|
+|Blanco|Elidi 🤍|Laoise 🌻|Zuri 🤍|Zelik 🪐|Dyciel 🌻|Zarathia 🌻|-|-|
+|Plata|Huldr 🤍|Zylvia 🌻|Koaka, La verdad desconocida 🔲|Rurik 🪐|Nael, Sirviente de la paz 🔲|Idali 🖤|-|-|
+|Negro|Daleth 🌻|Kalonice 🖤|Fairfax 🌻|Novax 🌻|Skyla Ross 🔲|Eivor Garza 🌻|Xavion Vespirfkar 🌻|Nefer 🌻|
+|Sombrío|Seldon 🖤|Amarisa 🌻|Varoun Arqazyva 🌻|Wyatt Rivera 🌻💀|Fallyn Olssen 🌻|Zadok Durand 🌎|Logan 🪐|Ivy 🪐|
 
 # SIMBOLISMOS/CARACTERÍSTICAS
 
@@ -38,8 +38,9 @@
 |Estrella|Ser independiente, fuerte por su cuenta, normalmente subestimado|
 |Cristal|Misterioso, el observador astuto, relacionado a veces con los ojos de diamante|
 |Escudero|Defensor, un personaje que protege a los suyos|
-|Forastero|Extranjero, aquel que no está donde pertenece|
+|Forastero|Extranjero, aquel que no está donde pertenece, o bien, quien no tiene lo que de verdad merece|
 |Gota|-|
+|Árbol|-|
 
 ## Colores
 
@@ -55,7 +56,7 @@
 |Rosa|Rebelión, seres que desafían las normas por el bien mayor|
 |Blanco|Ser claro y moral, balance, el lado amable del mundo|
 |Plata|Ser misterioso o ambiguo, punto medio de luz y sombra|
-|Negro|Ser de poca moral o érita, balance, el lado oculto del mundo|
+|Negro|Ser de poca moral o ética, balance, el lado oculto del mundo|
 |Sombrío|Ser malvado, normalmente busca su propio beneficio|
 
 # Profecías
