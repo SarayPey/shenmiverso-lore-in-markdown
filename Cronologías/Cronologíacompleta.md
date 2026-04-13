@@ -23,11 +23,11 @@
 |1959|Mochu|Harkan descubre juventud y longevidad|✗|
 |1963|Tierra|Manuel Hurtado nace|✗|
 |1966|Tierra|Valeria Yáñez nace|✗|
-|1969|Tierra|Victor Adams nace|✗|
+|1969|Tierra|Víctor Adams nace|✗|
 |1970|Tierra|María Watts nace|✗|
 |1971|Tierra|Cecilia Muñoz nace|✗|
 |1972|Tierra|Fransisco Watts nace|✗|
-|1973|Tierra|Victor mandado a internado|✗|
+|1973|Tierra|Víctor mandado a internado|✗|
 |1976|Tierra|Cecilia mandada a internado|✗|
 |1986|Tierra|Kai Watts nace|✗|
 |1986|Tierra|Padre de Kai muere|✗|
@@ -136,6 +136,6 @@
 |3045-46|Mochu|Teatro destruido en New Sydney, Yindee escapa, Jadyn entra al sector 1|✓ - *“El cadáver de la mariposa perdida”*|
 |3044 & 3046|Mochu|Daniel, Connor, Joseph dejan de ser amigos|✓ - *“Una traición y tres corazones resentidos”*|
 |3045-46|Mochu|Explosión al sur del distrito de Agensca, conocemos a "Delia"|✓ - *“El secreto de Delia”*|
-|3046|Tierra y Mochu|Victor rescata a onceava generación de la asociación|✓ - Comic *“(Ruegos y una fantasía 2)”*|
+|3046|Tierra y Mochu|Víctor rescata a onceava generación de la asociación|✓ - Comic *“(Ruegos y una fantasía 2)”*|
 |3046|Stalaris|Polaris recibe cartas|✓ - *“Estrellas apagadas”*|
 |Agosto 3046/2026|Todos|Presente canon|No hay pero está en mi cabeza|
