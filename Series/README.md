@@ -12,5 +12,5 @@
 - Maryam Cox: 970 origins
 - Shénmì: Gengiska
 - El escuadrón Tierra
-- EcoClub
+- Los clubes: EcoArt
 - AnomalCyx: ¡Tierra y más allá!
