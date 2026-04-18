@@ -12,19 +12,19 @@
 |👻|Fantasma/Aftemsko|
 |☯|Representante del karma actual|
 
-|Color|Sol|Luna|Estrella|Cristal|Escudero|Forastero|Gota|Árbol|
+|Color|Sol|Luna|Estrella|Cristal|Escudero|Forastero|Roca|Árbol|
 |-|-|-|-|-|-|-|-|-|
 |Rojo|Zared 🪐|Akane 🌻|Ivette Ortega 🌻|James Larson 🌻|Brisa Fowler 🌻|Noah Smith 🌎|Teo 🪐|Sándara 🌻|
-|Naranjo|Inayah 🌻|Farrah 🌻|James Rosales 🌎|Kaney 🌻|Elysia Valfyre 🌻|Kelsey 🌻|-|-|
-|Dorado|Polaris Lintang 🌠|Adam Carter 🌻|Elio 🪐|Diamona Dyamblor 🌻💀👻|Everly Boyer 🌻💀👻|Piper Dellacruz 🌻|Harsha 🪐|Dorald 🌻|
+|Naranjo|Inayah 🌻|Farrah 🌻|James Rosales 🌎|Kaney 🌻🌠|Elysia Valfyre 🌻|Kelsey 🌻|Karma 🌻|Íker 🍀|
+|Dorado|Polaris Lintang 🌠|Adam Carter 🌻|Elio 🪐|Diamona Dyamblor 🌻👻|Everly Boyer 🌻👻|Piper Dellacruz 🌻|Harsha 🪐|Dorald 🌻|
 |Verde|Nero 🌻|Julián Riquelme 🌎|Salva Alyster 🌻☯|Jake 🪐|Sundara 🌻|Wesa 🪐|Zannie 🍀|Jadyn Palmer 🌻|
-|Celeste|Willow Lane 🌎|Safiya 🌻|Hasani Acoarzya 🌻|Calixta 🌻|Zaire Arqazyva 🌻|Víctor Adams 🌎|Darren 🌻|-|
-|Azul|Wisteria Samdirhar 🌻|Dorian Alyster 🌻☯|Kiyoshi 🌻💀👻|Taylor Daniels 🌻|Rayco 🌻|Carel Boyer 🌻|Michael Sky 🌻|Yindee Farflysa 🌻|
-|Morado|Melissa Torres 🌻|Yunus 🌻|Emma Park 🌻|Sycorax 🪐|Kiara 🌻💀👻|Peyton Wilson 🌎|Feredith 🌻|-|
-|Rosa|Aarav 🍀|Juno Rosales 🌎|Ozara 🪐|Érika Valdés 🌎|Kyria 🌻|Paige 🌻|-|-|
-|Blanco|Elidi 🤍|Laoise 🌻|Zuri 🤍|Zelik 🪐|Dyciel 🌻|Zarathia 🌻|-|-|
-|Plata|Huldr 🤍|Zylvia 🌻|Koaka, La verdad desconocida 🔲|Rurik 🪐|Nael, Sirviente de la paz 🔲|Idali 🖤|-|-|
-|Negro|Daleth 🌻|Kalonice 🖤|Fairfax 🌻|Novax 🌻|Skyla Ross 🔲|Eivor Garza 🌻|Xavion Vespirfkar 🌻|Nefer 🌻|
+|Celeste|Willow Lane 🌎|Safiya 🌻|Hasani Acoarzya 🌻|Calixta 🌻|Zaire Arqazyva 🌻|Víctor Adams 🌎|Darren 🌻|Malek 🪐|
+|Azul|Wisteria Samdirhar 🌻|Dorian Alyster 🌻☯|Kiyoshi 🌻👻|Taylor Daniels 🌻|Rayco 🌻|Carel Boyer 🌻|Michael Sky 🌻|Yindee Farflysa 🌻|
+|Morado|Melissa Torres 🌻|Yunus 🌻|Emma Park 🌻|Sycorax 🪐|Kiara 🌻👻|Peyton Wilson 🌎|Feredith 🌻|Saiko 🌻|
+|Rosa|Aarav 🍀|Juno Rosales 🌎|Ozara 🪐|Érika Valdés 🌎|Kyria 🌻|Paige 🌻|Zaria 🌻|Zelie Sakrihura 🌻|
+|Blanco|Elidi 🤍|Laoise 🌻|Zuri 🤍|Zelik 🪐|Dyciel 🌻|Zarathia 🌻|Náyade 🍀|Kizumi Qysamisare 🌻|
+|Plata|Huldr 🤍|Zylvia 🌻|Koaka, La verdad desconocida 🔲|Rurik 🪐|Nael, Sirviente de la paz 🔲|Idali 🖤|Xavion Vespirfkar 🌻|Ruskin 🌻|
+|Negro|Daleth 🌻|Kalonice 🖤|Fairfax 🌻|Novax 🌻|Skyla Ross 🔲|Eivor Garza 🌻|Rexana Huai 🪐|Nefer 🌻|
 |Sombrío|Seldon 🖤|Amarisa 🌻|Varoun Arqazyva 🌻|Wyatt Rivera 🌻💀|Fallyn Olssen 🌻|Zadok Durand 🌎|Logan 🪐|Ivy 🪐|
 
 # SIMBOLISMOS/CARACTERÍSTICAS
@@ -35,12 +35,12 @@
 |-|-|
 |Sol|Poder, ser de mayor poder o conocimiento, eclipsa a la luna|
 |Luna|Sensibiliddad, ser con mayor conexión mágica, ecipsado por los soles y subestimado en general|
-|Estrella|Ser independiente, fuerte por su cuenta, normalmente subestimado|
+|Estrella|Independiente, ser fuerte por su cuenta, normalmente subestimado|
 |Cristal|Misterioso, el observador astuto, relacionado a veces con los ojos de diamante|
 |Escudero|Defensor, un personaje que protege a los suyos|
 |Forastero|Extranjero, aquel que no está donde pertenece, o bien, quien no tiene lo que de verdad merece|
-|Gota|-|
-|Árbol|-|
+|Roca|Personas con fuertes convicciones y que han hecho cosas destacables|
+|Árbol|Peculiar, personajes con conexiones únicas, una mezcla de inocencia, temor, valentía y madurez|
 
 ## Colores
 
