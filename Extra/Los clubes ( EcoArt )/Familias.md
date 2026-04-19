@@ -45,7 +45,7 @@
 **Hermanos:** Martina Riquelme & Gael Riquelme  
 **Otros:**  
 	- "Ernesto Villa"/John Adams (Padrino de su madre)  
-	- "Víctor" Adams (hermano del padrino de su madre)  
+	- Steven/"Víctor" Adams (hermano del padrino de su madre)  
 
 ## Bianca Alba Araya Tapia  
 

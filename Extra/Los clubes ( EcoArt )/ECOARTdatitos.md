@@ -1,519 +1,519 @@
 # TANDA 1
 
-1. Dato importante, esta historia es la conexión entre dos tramas que también pasan en Chile: *El viaje al más allá* y *Ruegos y una fantasía*. Aunque tenga las conexiones más débiles con la trama mayor de lo que es Shénmì en general, de todas maneras los personajes tienen relevancia allí.  
+1. Dato importante, esta historia es la conexión entre dos tramas que también pasan en Chile: *El viaje al más allá* y *Ruegos y una fantasía*. Aunque tenga las conexiones más débiles con la trama mayor de lo que es Shénmì en general, de todas maneras los personajes tienen relevancia allí.
 
-2. Tanto el EcoClub como el ArtClub tienen lugares comunes de junta en el liceo, el EcoClub tiene una banca cerca del kiosco, con partes iguales de sol y sombra, tiene su marca y todo. Por otro lado, el ArtClub tiene su punto cerca del comedor del liceo, donde tienen acceso rápido a los baños, el comedor y la sala de artes, ambos grupos estando a metros de distancia.  
+2. Tanto el EcoClub como el ArtClub tienen lugares comunes de junta en el liceo, el EcoClub tiene una banca cerca del kiosco, con partes iguales de sol y sombra, tiene su marca y todo. Por otro lado, el ArtClub tiene su punto cerca del comedor del liceo, donde tienen acceso rápido a los baños, el comedor y la sala de artes, ambos grupos estando a metros de distancia.
 
-3. Vanessa sabe Español, Inglés y Francés con fluidez, aunque también está aprendiendo Portugués e Italiano.  
+3. Vanessa sabe Español, Inglés y Francés con fluidez, aunque también está aprendiendo Portugués e Italiano.
 
-4. Érika quiere tener un cisne, un cocodrilo o un erizo de mascota, le encantan esos animales.  
+4. Érika quiere tener un cisne, un cocodrilo o un erizo de mascota, le encantan esos animales.
 
-5. Noah adora la música rock y metal, por algo es fan de Nirvana (que su apodo favorito sea Kurt es por Kurt Cobain).  
+5. Noah adora la música rock y metal, por algo es fan de Nirvana (que su apodo favorito sea Kurt es por Kurt Cobain).
 
-6. Los integrantes tanto del EcoClub como del ArtClub dibujan, cada uno con sus estilos distintos.  
+6. Los integrantes tanto del EcoClub como del ArtClub dibujan, cada uno con sus estilos distintos.
 
-7. El personaje representativo de EcoClub es Kirby (Ricardo prefería a Homero de Los simpsons, pero se resignó), el de ArtClub es Zelda (Kaleb prefería a Tara Croft de Tomb Raider, pero se resignó).  
+7. El personaje representativo de EcoClub es Kirby (Ricardo prefería a Homero de Los simpsons, pero se resignó), el de ArtClub es Zelda (Kaleb prefería a Tara Croft de Tomb Raider, pero se resignó).
 
-8. Eirene solo se deja pintar las uñas con Érika, que SOLO POR ELLA tiene esmalte de colores brillantes o pastel para pintarle las uñas.  
+8. Eirene solo se deja pintar las uñas con Érika, que SOLO POR ELLA tiene esmalte de colores brillantes o pastel para pintarle las uñas.
 
-9. Peyton y Noah hablan en inglés cuando están solo ellos; con el resto hablan español, pero a veces se les asoma el acento estadounidense (también le pasa a otros personajes que vivieron en el exterior como Salomé, Kaleb, Thiago y Vanessa).  
+9. Peyton y Noah hablan en inglés cuando están solo ellos; con el resto hablan español, pero a veces se les asoma el acento estadounidense (también le pasa a otros personajes que vivieron en el exterior como Salomé, Kaleb, Thiago y Vanessa).
 
-10. La madre de Nayeli se llama Daliah Allen, y digamos que Nayeli fue producto de una infidelidad de su padre, Fabio Medida, el cual estaba casado pero fue le infiel a su ex-esposa con Daliah, de esto nace Nayeli, la ex de Fabio se divorcia y Daliah cuando se enteró de esto se fue de Santiago porque no podía soportar saber que su hija causó tantos problemas. Esto no justifica a Fabio por su comportamiento ni a Daliah por su reacción, pero nos sirve para entender (algo parecido veremos cuando veamos la historia de Cecilia).  
+10. La madre de Nayeli se llama Daliah Allen, y digamos que Nayeli fue producto de una infidelidad de su padre, Fabio Medida, el cual estaba casado pero fue le infiel a su ex-esposa con Daliah, de esto nace Nayeli, la ex de Fabio se divorcia y Daliah cuando se enteró de esto se fue de Santiago porque no podía soportar saber que su hija causó tantos problemas. Esto no justifica a Fabio por su comportamiento ni a Daliah por su reacción, pero nos sirve para entender (algo parecido veremos cuando veamos la historia de Cecilia).
 
-11. La personalidad de Ricardo es fruto de ser hijo de padres divorciados (Juan Ulloa y Úrsula Castro) y viendo a sus padres casarse con otras personas (Juan se casó con Yesenia Olivares, y Úrsula actualmente está con Armando Reyes), considerando que vive con su padre que trabaja mucho y nunca tuvo tiempo para él, además de que le cuesta llevarse bien con su madastra, pues Yesenia es bastante estructurada al haber estado en las fuerzas armadas y tampoco tiene tiempo para él porque trabaja de forma remota (actualmente ni ella ni Juan le dan atención porque Ricardo es adulto), prefería vivir con Úrsula (porque era más atenta) pero no puede porque ella vive en San Antonio con su padastro y no quiere alejarse del EcoClub (aunque de vez en cuando debe ir allá por tutela compartida), así que él mismo aprendió a conseguir sus cosas, además de que se siente querido en el EcoClub.  
+11. La personalidad de Ricardo es fruto de ser hijo de padres divorciados (Juan Ulloa y Úrsula Castro) y viendo a sus padres casarse con otras personas (Juan se casó con Yesenia Olivares, y Úrsula actualmente está con Armando Reyes), considerando que vive con su padre que trabaja mucho y nunca tuvo tiempo para él, además de que le cuesta llevarse bien con su madastra, pues Yesenia es bastante estructurada al haber estado en las fuerzas armadas y tampoco tiene tiempo para él porque trabaja de forma remota (actualmente ni ella ni Juan le dan atención porque Ricardo es adulto), prefería vivir con Úrsula (porque era más atenta) pero no puede porque ella vive en San Antonio con su padastro y no quiere alejarse del EcoClub (aunque de vez en cuando debe ir allá por tutela compartida), así que él mismo aprendió a conseguir sus cosas, además de que se siente querido en el EcoClub.
 
-12. Ricardo tiene un doberman llamado "Lego bravo", lo lleva a pasear cada mañana antes de ir a clases.  
+12. Ricardo tiene un doberman llamado "Lego bravo", lo lleva a pasear cada mañana antes de ir a clases.
 
-13. Salomé es la que tiene más hermanos (contando hermanastros) entre ambos clubes, teniendo dos hermanos y nueve hermanastros, puesto a que sus padastros (Klaus Sepúlveda y Katherine Lane) ya tenían familias antes de volver a casarse (Klaus con la madre de Salomé —Renata Molina— y Katherine con su padre —Diego Zúñiga).  
+13. Salomé es la que tiene más hermanos (contando hermanastros) entre ambos clubes, teniendo dos hermanos y nueve hermanastros, puesto a que sus padastros (Klaus Sepúlveda y Katherine Lane) ya tenían familias antes de volver a casarse (Klaus con la madre de Salomé —Renata Molina— y Katherine con su padre —Diego Zúñiga).
 
-14. Nora tiene un medio hermano, Santiago Fuentes, esto es porque su padre (Leandro Castro) actualmente está fallecido por leucémia, y su madre (Leonor Vera) actualmente está comprometida con Gustado Fuentes (digamos que él y Leandro eran amigos y cuando estaba empeorando le dijo casi de broma a Gustavo que podía casarse con Leonor —tampoco tan broma porque en su juventud hubo rivalidad porque a ambos les gustaba Leonor).  
+14. Nora tiene un medio hermano, Santiago Fuentes, esto es porque su padre (Leandro Castro) actualmente está fallecido por leucémia, y su madre (Leonor Vera) actualmente está comprometida con Gustado Fuentes (digamos que él y Leandro eran amigos y cuando estaba empeorando le dijo casi de broma a Gustavo que podía casarse con Leonor —tampoco tan broma porque en su juventud hubo rivalidad porque a ambos les gustaba Leonor).
 
-15. Por suerte Ricardo es hijo único, no tiene hermanastros ni medio hermanos (le gusta bromear de que no tiene competencia por la atención y cariño de sus padres y padastros), aunque esto significa que básicamente está solo en casa.  
+15. Por suerte Ricardo es hijo único, no tiene hermanastros ni medio hermanos (le gusta bromear de que no tiene competencia por la atención y cariño de sus padres y padastros), aunque esto significa que básicamente está solo en casa.
 
-16. Hablando de Ricardo (o Regguei —se pronuncia "Reyi"), básicamente adoptó a Lego Bravo cuando él tenía siete años y sus padres siguen juntos, se lo encontró abandonado en una caja (era el único que quedaba de una camada de cachorros) y logró adoptarlo. Su nombre no es al azar, se llama Lego bravo porque tenía una mancha que parecía una pieza de lego (sí, a Ricardo le encantaban los legos en ese entonces).  
+16. Hablando de Ricardo (o Regguei —se pronuncia "Reyi"), básicamente adoptó a Lego Bravo cuando él tenía siete años y sus padres siguen juntos, se lo encontró abandonado en una caja (era el único que quedaba de una camada de cachorros) y logró adoptarlo. Su nombre no es al azar, se llama Lego bravo porque tenía una mancha que parecía una pieza de lego (sí, a Ricardo le encantaban los legos en ese entonces).
 
-17. Peyton es hermana mayor, y al tener una madurez al ayudar en su crianza, es la mano derecha de Noah en lo que respecta a liderar el ArtClub.  
+17. Peyton es hermana mayor, y al tener una madurez al ayudar en su crianza, es la mano derecha de Noah en lo que respecta a liderar el ArtClub.
 
-18. Ricardo tiene un setup gamer envidiable, tiene una silla gamer, una PC buenísima para juegos y un mouse con luces, esto porque es de clase media-alta gracias a los sueldos de su padre y madastra y a la pensión alimenticia de su madre.  
+18. Ricardo tiene un setup gamer envidiable, tiene una silla gamer, una PC buenísima para juegos y un mouse con luces, esto porque es de clase media-alta gracias a los sueldos de su padre y madastra y a la pensión alimenticia de su madre.
 
-19. A Thiago le gustan los murciélagos, sabe bastantes datos sobre murciélagos.  
+19. A Thiago le gustan los murciélagos, sabe bastantes datos sobre murciélagos.
 
-20. Por cierto, Julián es el mayor de su generación (fue el primer nieto de Alba y Pedro).  
+20. Érika cambia de estilo como si de respirar se tratase, siempre prueba maquillaje o ropa nueva (aunque siempre en su estilo gótico o similar —grunge, e-girl, emo), tiene mucha ropa y cosas de su estilo en su armario.
 
-21. Julián tiene las uñas por debajo de la piel porque se las arranca constantemente.  
+21. Julián tiene las uñas por debajo de la piel porque se las arranca constantemente.
 
-22. Thiago es colombiano, pero nació en Venezuela, luego volvió a Colombia un par de años y finalmente llegó a Chile.  
+22. Thiago es colombiano, pero nació en Venezuela, luego volvió a Colombia un par de años y finalmente llegó a Chile.
 
-23. Todos están en 3ro medio, algunos tienen más o menos edad por nacimiento.  
+23. Todos están en 3ro medio, algunos tienen más o menos edad por nacimiento.
 
-24. Eirene tiene una bully en el curso, se llama Susana Antonella Pérez Díaz y sabe de boxeo y judo.  
+24. Eirene tiene una bully en el curso, se llama Susana Antonella Pérez Díaz y sabe de boxeo y judo.
 
-25. La razón principal para el divorcio de Deborah y Juan fue que no podían ponerse de acuerdo en las cosas, especialmente en lo que respectaba a la crianza de Ricardo en ese entonces (Juan siendo más estricto y represor mientras que Deborah siendo más permisiva y liberal), acuerdo que encontraron en sus parejas actuales.  
+25. La razón principal para el divorcio de Deborah y Juan fue que no podían ponerse de acuerdo en las cosas, especialmente en lo que respectaba a la crianza de Ricardo en ese entonces (Juan siendo más estricto y represor mientras que Deborah siendo más permisiva y liberal), acuerdo que encontraron en sus parejas actuales.
 
 # TANDA 2
 
-26. [].  
+26. Julián tiene las uñas por debajo de la piel porque se las arranca constantemente por ansiedad.
 
-27. [].  
+27. [].
 
-28. [].  
+28. [].
 
-29. [].  
+29. [].
 
-30. [].  
+30. Por cierto, Julián es el mayor de su generación (fue el primer nieto de Alba y Pedro, el primer hijo de sus padres —Paloma Sandoval y Leonardo Riquelme—).
 
-31. [].  
+31. [].
 
-32. [].  
+32. [].
 
-33. [].  
+33. [].
 
-34. [].  
+34. [].
 
-35. [].  
+35. [].
 
-36. [].  
+36. [].
 
-37. [].  
+37. [].
 
-38. [].  
+38. [].
 
-39. [].  
+39. [].
 
-40. [].  
+40. [].
 
-41. [].  
+41. [].
 
-42. [].  
+42. [].
 
-43. [].  
+43. [].
 
-44. [].  
+44. [].
 
-45. [].  
+45. [].
 
-46. [].  
+46. [].
 
-47. [].  
+47. [].
 
-48. [].  
+48. [].
 
-49. [].  
+49. [].
 
-50. [].  
+50. [].
 
 # TANDA 3
 
-51. [].  
+51. [].
 
-52. [].  
+52. [].
 
-53. [].  
+53. [].
 
-54. [].  
+54. [].
 
-55. [].  
+55. [].
 
-56. [].  
+56. [].
 
-57. [].  
+57. [].
 
-58. [].  
+58. [].
 
-59. [].  
+59. [].
 
-60. [].  
+60. [].
 
-61. [].  
+61. [].
 
-62. [].  
+62. [].
 
-63. [].  
+63. [].
 
-64. [].  
+64. [].
 
-65. [].  
+65. [].
 
-66. [].  
+66. [].
 
-67. [].  
+67. [].
 
-68. [].  
+68. [].
 
-69. [].  
+69. [].
 
-70. [].  
+70. [].
 
-71. [].  
+71. [].
 
-72. [].  
+72. [].
 
-73. [].  
+73. [].
 
-74. [].  
+74. [].
 
-75. [].  
+75. [].
 
 # TANDA 4
 
-76. [].  
+76. [].
 
-77. [].  
+77. [].
 
-78. [].  
+78. [].
 
-79. [].  
+79. [].
 
-80. [].  
+80. [].
 
-81. [].  
+81. [].
 
-82. [].  
+82. [].
 
-83. [].  
+83. [].
 
-84. [].  
+84. [].
 
-85. [].  
+85. [].
 
-86. [].  
+86. [].
 
-87. [].  
+87. [].
 
-88. [].  
+88. [].
 
-89. [].  
+89. [].
 
-90. [].  
+90. [].
 
-91. [].  
+91. [].
 
-92. [].  
+92. [].
 
-93. [].  
+93. [].
 
-94. [].  
+94. [].
 
-95. [].  
+95. [].
 
-96. [].  
+96. [].
 
-97. [].  
+97. [].
 
-98. [].  
+98. [].
 
-99. [].  
+99. [].
 
-100. [].  
+100. [].
 
 # TANDA 5
 
-101. [].  
+101. [].
 
-102. [].  
+102. [].
 
-103. [].  
+103. [].
 
-104. [].  
+104. [].
 
-105. [].  
+105. [].
 
-106. [].  
+106. [].
 
-107. [].  
+107. [].
 
-108. [].  
+108. [].
 
-109. [].  
+109. [].
 
-110. [].  
+110. [].
 
-111. [].  
+111. [].
 
-112. [].  
+112. [].
 
-113. [].  
+113. [].
 
-114. [].  
+114. [].
 
-115. [].  
+115. [].
 
-116. [].  
+116. [].
 
-117. [].  
+117. [].
 
-118. [].  
+118. [].
 
-119. [].  
+119. [].
 
-120. [].  
+120. [].
 
-121. [].  
+121. [].
 
-122. [].  
+122. [].
 
-123. [].  
+123. [].
 
-124. [].  
+124. [].
 
-125. [].  
+125. [].
 
 # TANDA 6
 
-126. [].  
+126. [].
 
-127. [].  
+127. [].
 
-128. [].  
+128. [].
 
-129. [].  
+129. [].
 
-130. [].  
+130. [].
 
-131. [].  
+131. [].
 
-132. [].  
+132. [].
 
-133. [].  
+133. [].
 
-134. [].  
+134. [].
 
-135. [].  
+135. [].
 
-136. [].  
+136. [].
 
-137. [].  
+137. [].
 
-138. [].  
+138. [].
 
-139. [].  
+139. [].
 
-140. [].  
+140. [].
 
-141. [].  
+141. [].
 
-142. [].  
+142. [].
 
-143. [].  
+143. [].
 
-144. [].  
+144. [].
 
-145. [].  
+145. [].
 
-146. [].  
+146. [].
 
-147. [].  
+147. [].
 
-148. [].  
+148. [].
 
-149. [].  
+149. [].
 
-150. [].  
+150. [].
 
 # TANDA 7
 
-151. [].  
+151. [].
 
-152. [].  
+152. [].
 
-153. [].  
+153. [].
 
-154. [].  
+154. [].
 
-155. [].  
+155. [].
 
-156. [].  
+156. [].
 
-157. [].  
+157. [].
 
-158. [].  
+158. [].
 
-159. [].  
+159. [].
 
-160. [].  
+160. [].
 
-161. [].  
+161. [].
 
-162. [].  
+162. [].
 
-163. [].  
+163. [].
 
-164. [].  
+164. [].
 
-165. [].  
+165. [].
 
-166. [].  
+166. [].
 
-167. [].  
+167. [].
 
-168. [].  
+168. [].
 
-169. [].  
+169. [].
 
-170. [].  
+170. [].
 
-171. [].  
+171. [].
 
-172. [].  
+172. [].
 
-173. [].  
+173. [].
 
-174. [].  
+174. [].
 
-175. [].  
+175. [].
 
 # TANDA 8
 
-176. [].  
+176. [].
 
-177. [].  
+177. [].
 
-178. [].  
+178. [].
 
-179. [].  
+179. [].
 
-180. [].  
+180. [].
 
-181. [].  
+181. [].
 
-182. [].  
+182. [].
 
-183. [].  
+183. [].
 
-184. [].  
+184. [].
 
-185. [].  
+185. [].
 
-186. [].  
+186. [].
 
-187. [].  
+187. [].
 
-188. [].  
+188. [].
 
-189. [].  
+189. [].
 
-190. [].  
+190. [].
 
-191. [].  
+191. [].
 
-192. [].  
+192. [].
 
-193. [].  
+193. [].
 
-194. [].  
+194. [].
 
-195. [].  
+195. [].
 
-196. [].  
+196. [].
 
-197. [].  
+197. [].
 
-198. [].  
+198. [].
 
-199. [].  
+199. [].
 
-200. [].  
+200. [].
 
 # TANDA 9
 
-201. [].  
+201. [].
 
-202. [].  
+202. [].
 
-203. [].  
+203. [].
 
-204. [].  
+204. [].
 
-205. [].  
+205. [].
 
-206. [].  
+206. [].
 
-207. [].  
+207. [].
 
-208. [].  
+208. [].
 
-209. [].  
+209. [].
 
-210. [].  
+210. [].
 
-211. [].  
+211. [].
 
-212. [].  
+212. [].
 
-213. [].  
+213. [].
 
-214. [].  
+214. [].
 
-215. [].  
+215. [].
 
-216. [].  
+216. [].
 
-217. [].  
+217. [].
 
-218. [].  
+218. [].
 
-219. [].  
+219. [].
 
-220. [].  
+220. [].
 
-221. [].  
+221. [].
 
-222. [].  
+222. [].
 
-223. [].  
+223. [].
 
-224. [].  
+224. [].
 
-225. [].  
+225. [].
 
 # TANDA 10
 
-226. [].  
+226. [].
 
-227. [].  
+227. [].
 
-228. [].  
+228. [].
 
-229. [].  
+229. [].
 
-230. [].  
+230. [].
 
-231. [].  
+231. [].
 
-232. [].  
+232. [].
 
-233. [].  
+233. [].
 
-234. [].  
+234. [].
 
-235. [].  
+235. [].
 
-236. [].  
+236. [].
 
-237. [].  
+237. [].
 
-238. [].  
+238. [].
 
-239. [].  
+239. [].
 
-240. [].  
+240. [].
 
-241. [].  
+241. [].
 
-242. [].  
+242. [].
 
-243. [].  
+243. [].
 
-244. [].  
+244. [].
 
-245. [].  
+245. [].
 
-246. [].  
+246. [].
 
-247. [].  
+247. [].
 
-248. [].  
+248. [].
 
-249. [].  
+249. [].
 
-250. [].  
+250. [].
