@@ -23,7 +23,7 @@
 |Morado|Melissa Torres 🌻|Yunus 🍀|Emma Park 🌻|Sycorax 🪐|Kiara 🌻👻|Peyton Wilson 🌎|Feredith 🌻|Saiko 🌻|
 |Rosa|Aarav 🍀|Juno Rosales 🌎|Ozara 🪐|Érika Valdés 🌎|Kyria 🌻|Paige 🌻|Zaria 🪐|Zelie Sakrihura 🌻|
 |Blanco|Elidi 🤍|Laoise 🌻|Zuri 🤍|Zelik 🪐|Dyciel 🌻|Zarathia 🌻|Náyade 🍀|Kizumi Qysamisare 🌻|
-|Plata|Huldr 🤍|Zylvia 🌻|Koaka, La verdad desconocida 🔲|Rurik 🪐|Nael, Sirviente de la paz 🔲|Idali 🖤|Xavion Vespirfkar 🌻|Ruskin 🌻|
+|Plata|Huldr 🤍|Zylvia 🍀|Koaka, La verdad desconocida 🔲|Rurik 🪐|Nael, Sirviente de la paz 🔲|Idali 🖤|Xavion Vespirfkar 🌻|Ruskin 🌻|
 |Negro|Daleth 🌻|Kalonice 🖤|Fairfax 🌻|Novax 🌻|Skyla Ross 🔲|Eivor Garza 🌻|Rexana Huai 🪐|Nefer 🌻|
 |Sombrío|Seldon 🖤|Amarisa 🌻|Varoun Arqazyva 🌻|Wyatt Rivera 🌻💀|Fallyn Olssen 🌻|Zadok Durand 🌎|Logan 🪐|Ivy 🪐|
 

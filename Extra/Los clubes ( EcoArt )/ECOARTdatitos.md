@@ -54,7 +54,7 @@
 
 26. Julián tiene las uñas por debajo de la piel porque se las arranca constantemente por ansiedad.
 
-27. [].
+27. Eirene tiene una hermana mayor, se llama Valentina Barbara Castillo Soto, tiene unos 24 años y es estudiante de diseño gráfico en la universidad, es la rebelde de la familia porque tiene un estilo alternativo (creen que Érika es su mejor amiga).
 
 28. [].
 
