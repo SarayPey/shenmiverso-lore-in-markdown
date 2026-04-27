@@ -11,4 +11,4 @@
 |Blanco|Elidi 🤍|Laoise 🌻|Zuri 🤍|Zelik 🪐|Dyciel 🌻|Zarathia 🌻|Náyade 🍀|Kizumi Qysamisare 🌻|
 |Plata|Huldr 🤍|Zylvia 🍀|Koaka, La verdad desconocida 🔲|Rurik 🪐|Nael, Sirviente de la paz 🔲|Idali 🖤|Xavion Vespirfkar 🌻|Ruskin 🌻|
 |Negro|Daleth 🌻|Kalonice 🖤|Fairfax 🌻|Novax 🌻|Skyla Ross 🖤|Eivor Garza 🌻|Rexana Huai 🪐|Nefer 🌻|
-|Sombrío|Seldon 🖤|Amarisa 🌻|Varoun Arqazyva 🌻|Wyatt Rivera 🌻💀|Fallyn Olssen 🌻|Zadok Durand 🌎|Logan 🪐|Ivy 🪐|
+|Sombrío|Seldon 🖤|Amarisa 🌻|Varoun Arqazyva 🌻|Wyatt Rivera 🌻💀|Fallyn Olssen 🌻|Zadok Durand 🌎|Logan Hujarima 🪐|Ivy Qisakeri 🪐|
