@@ -36,7 +36,7 @@
 ## Shinrín
 
 - Shinrín (🍀)
-- New Alaska (🌎)
+- Alaska Oriental (🌎)
 
 ## Volcanash 
 

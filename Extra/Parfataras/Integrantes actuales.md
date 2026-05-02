@@ -8,7 +8,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-2. **Nombre completo:** Akane X X X (**Apodos:** X).  
+2. **Nombre completo:** Akane X (**Apodos:** X).  
 	**Rol:** Luna Roja: Color y rol.  
 	**Edad:** ???.  
 	**Especie:** X.  

@@ -12,22 +12,39 @@ En el Shénmìverso, el tiempo pasa diferente que en nuestro mundo, Seikatsu y M
 Meses:
 |N°|Mochibria|Inglés|Español|Días mochibrias|Días terrícolas|
 |-|-|-|-|-|-|
-|01|Janish|January|Enero|33|31|
-|02|Februish|February|Febrero|30|28/29|
-|03|Martisk|March|Marzo|33|31|
-|04|Aprilia|April|Abril|32|30|
-|05|Meirish|May|Mayo|33|31|
-|06|Junser|June|Junio|32|30|
-|07|Jyulosh|July|Julio|33|31|
-|08|Ausketish|August|Agosto|33|31|
-|09|Siptimbrask|September|Septiembre|32|30|
-|10|Octibrask|October|Octubre|33|31|
-|11|Navimbrask|November|Noviembre|32|30|
-|12|Decimbrask|December|Diciembre|33|31|
-|13|Mochibria|Inglés|Español|32|31|
-|14|Mochibria|Inglés|Español|31|30|
-|15|Eusterlish|Steller|Esterlio|33|31|
+|01|Janisra|Janister/January|Jinestro/Enero|33|31|
+|02|Fellastrea|Felaster/February|Felastro/Febrero|30|28/29|
+|03|Malyya|Mayal/March|Mirya/Marzo|33|31|
+|04|Linyasert|Linsert/April|Lincero/Abril|32|30|
+|05|Meiryla|Meyril/May|Maril/Mayo|33|31|
+|06|Junsyer|Junyer/June|Juniare/Junio|32|30|
+|07|Qynryos|Qinryo/July|Quinrio/Julio|33|31|
+|08|Nyndia|Ninder/August|Ninder/Agosto|32|30|
+|09|Precyd|Precier/September|Precinda/Septiembre|33|31|
+|10|Ophyra|Ophelyr/October|Ofelial/Octubre|32|30|
+|11|Idrilio|Idrally/November|Idrilo/Noviembre|33|31|
+|12|Elistral|Elister/December|Elestra/Diciembre|33|31|
+|13|Hasikira|Hasikire|Hasiquer|32|31|
+|14|Cersylio|Cercelly|Cercilio|31|30|
+|15|Estelyst|Stellery|Elteslio|33|31|
 
+01. Janisya
+02. Fellacyst
+03. Maylya
+04. Linya
+05. Meiryl
+06. Jyuns
+07. Qynloy
+08. Nynd
+09. Pyxric
+10. Ophyls
+11. Idrila
+12. Elestria
+13. Hasikari
+14. Cercelya
+15. Estela
+
+``El orden de los meses en el calendario se basa en el orden de las reinas de la época antigua, pero si fuera literal, los meses de septiembre, octubre, noviembre y diciembre estarían en donde corresponde (7, 8, 9 y 10).``
 ``Extra: es una esfera más grande que la tierra pero más pequeña que Jupiter``
 
 ⇢✮✮✮⋯⋯⋯✶✷✵✷✶⋯⋯⋯✮✮✮⇠
