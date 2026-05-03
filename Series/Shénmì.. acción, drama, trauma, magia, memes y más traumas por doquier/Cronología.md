@@ -7,7 +7,7 @@
 |-|-|1|03 - *El ave rota y las 20 estrellas (parte 1)*|-|
 |-|-|1|04 - *El ave rota y las 20 estrellas (parte 2)*|-|
 |-|-|1|05 - *El ave rota y las 20 estrellas (parte 3)*|-|
-|-|-|1|06 - *-*|-|
+|-|-|1|06 - *El entrenamiento de la verdad*|-|
 |-|-|1|08 - *¿Shotsindescai en Senlín?*|-|
 |-|-|1|09 - *Los guías policiales*|-|
 |-|-|1|10 - *Preparación del vengador*|-|

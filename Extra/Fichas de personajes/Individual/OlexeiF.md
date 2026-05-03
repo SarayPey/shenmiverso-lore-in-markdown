@@ -2,7 +2,7 @@
 
 **Nombre completo o apodos:** Olexei Jonah (**Apodos:** Onyx).  
 **Edad:** 24 años (13/Agosto/3021).  
-**Habilidad de nacimiento:** Grito sónico (**Okimantis:** Lealtad. **Serfanías:** Invisibilidad. **Habilidad rama aprendidas:** Ondas de sonido).  
+**Habilidad de nacimiento:** Grito sónico (**Okimantis:** Lealtad. **Serfanías:** Invisibilidad. **Habilidad rama aprendidas:** Ondas de sonido, ondas eléctrosonoras —creo que no existe, pero básicamente puede transformar el sonido en electrisidad o rayos, se pueden manifestar como chispas en su cabello y cola—, resistencia a los rayos).  
 **Especie:** Nekomimi.  
 **Altura:** 166cm.  
 **Peso:** 67,8kg.  
@@ -25,4 +25,4 @@
 	9. Es un nekomimi de nacimiento, lo que le complicaba más sobrevivir.  
 	10. Vive solo en la casa donde solía estar con sus padres (no quiere irse porque está acostumbrado al aroma y a sentir que están ahí todavía), pero cuando está con la oficina se siente libre y especial.  
 
-**Un secreto:** No ha mencionado que su habilidad de nacimiento es el grito sónico porque le estresa explicar que molesta usarlo pero no le irrita la garganta porque lo ha perfeccionado y toma mucha leche, pero por eso prefiere decir que su habilidad de nacimiento es la invisibilidad.  
+**Un secreto:** No ha mencionado que su habilidad de nacimiento es el grito sónico porque le estresa explicar que molesta usarlo porque duele pero no le irrita la garganta porque lo ha perfeccionado y toma mucha leche, pero por eso prefiere decir que su habilidad de nacimiento es la invisibilidad.  
