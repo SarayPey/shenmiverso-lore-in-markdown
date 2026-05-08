@@ -1,6 +1,12 @@
-INVESTIGACIÓN
-Líder de investigación: Teniente Erin Miller ♂️
-SECTOR 970
+# SENLÍN
+
+## ZONA DE INVESTIGACIÓN
+
+Líder de zona: Teniente Erin Miller ♂️  
+
+***
+
+### SECTOR 970
 Líder: Adam Carter ♂️
 Equipo:
 - Melissa Torres ♀️
@@ -8,7 +14,7 @@ Equipo:
 - Luis Rojas ♂️
 - Evelyn Campbell ♀️
 
-SECTOR 1
+### SECTOR 1
 Líder: Orfeo Galloway ♂️
 Equipo: 
 - Eleanor Meyers ♀️
@@ -16,7 +22,7 @@ Equipo:
 - Gavya Meraki ♀️
 - Jadyn Palmer ♂️
 
-SECTOR 42
+### SECTOR 42
 Líder: Maryam Cox ♀️
 Equipo: 
 - Brisa Fowler ♀️
@@ -24,7 +30,9 @@ Equipo:
 - Serafín Adkins ♂️
 - Aiyana Leach ♀️
 
-SECTOR 970 (OG)
+**
+
+### SECTOR 970 (OG)
 Líder: Maryam Cox ♀️
 Equipo:
 - Erin Miller ♂️
@@ -32,8 +40,9 @@ Equipo:
 - Lara Ewing ♀️
 - Giselle Valentine ♀️
 
-EXTRAS
-SECTOR DE ABOGACÍA:
+***
+
+### SECTOR DE ABOGACÍA:
 Líder: Ina Cordova ♀️
 Equipo:
 - Carel Boyer ♂️
@@ -41,7 +50,7 @@ Equipo:
 - Jireh Tanner ♂️
 - Davet Yoder ♂️
 
-SECTOR DE MEDICINA:
+### SECTOR DE MEDICINA:
 Líder: [] [] 
 Equipo:
 - Gerald Sosa ♂️
@@ -49,7 +58,7 @@ Equipo:
 - Odess Ewing ♀️
 - [] []
 
-SECTOR DE INCENDIOS
+### SECTOR DE INCENDIOS
 Líder: [] [] 
 Equipo:
 - Yavei Anbyer ♂️
@@ -57,7 +66,7 @@ Equipo:
 - [] []
 - [] []
 
-SECTOR DE TECNOLOGÍA
+### SECTOR DE TECNOLOGÍA
 Líder: [] [] 
 Equipo:
 - Faolan Norton ♂️
@@ -65,7 +74,7 @@ Equipo:
 - [] [] 
 - [] [] 
 
-SECTOR JUDICIAL
+### SECTOR JUDICIAL
 Líder: Yana Allen ♀️
 Equipo:
 - Zadok Durand ♂️
@@ -73,26 +82,28 @@ Equipo:
 - [] [] 
 - [] []
 
-INTERNACIONAL
+***
+
+## INTERNACIONAL
 
 - Sloane [] ♀️ (Ñore)
 - Bahari [] ♂️ (Ñore)
 - Tuyen [] ♂️ (Ñore)
 - Evander [] ♂️ (Shinrin)
 
-NINJAS (Yìshù)
+### NINJAS (Yìshù)
 - Toshiro [] ♂️
 - Keanu [] ♂️
 - Ichieri [] ♀️
 
-GUERREROS (Volcanash)
+### GUERREROS (Volcanash)
 - Faye [] ♀️ (investigadora)
 - Karma [] ♀️
 - Taliyah [] ♀️
 - Nuriya [] ♂️
 - Elysia Valfyre ♀️
 
-CAZADORES (Kerashitsu)
+### CAZADORES (Kerashitsu)
 - Takeo Daniels ♂️
 - Zephyr [] ♂️
 - Silas [] ♂️
@@ -107,7 +118,7 @@ CAZADORES (Kerashitsu)
 - Hilary [] ♀️
 - Alexei [] ♂️
 
-MUNDIAL
+# MUNDIAL
 
-GUARDIANES
+## GUARDIANES
 - [] []
