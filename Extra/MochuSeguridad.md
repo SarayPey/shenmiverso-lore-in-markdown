@@ -2,29 +2,29 @@
 
 ## ZONA DE INVESTIGACIÓN
 
-Líder de zona: Teniente Erin Miller ♂️  
+Líder de zona: Teniente Erin Miller ♂️.  
 
 ***
 
 ### SECTOR 970
-Líder: Adam Carter ♂️
-Equipo:
+Líder: Adam Carter ♂️.  
+Equipo:  
 - Melissa Torres ♀️
 - Brayan Orellana ♂️
 - Luis Rojas ♂️
 - Evelyn Campbell ♀️
 
 ### SECTOR 1
-Líder: Orfeo Galloway ♂️
-Equipo: 
+Líder: Orfeo Galloway ♂️.  
+Equipo:  
 - Eleanor Meyers ♀️
 - Maria Dellacruz ♀️
 - Gavya Meraki ♀️
 - Jadyn Palmer ♂️
 
 ### SECTOR 42
-Líder: Maryam Cox ♀️
-Equipo: 
+Líder: Maryam Cox ♀️.  
+Equipo:  
 - Brisa Fowler ♀️
 - Olexei "Onyx" Jonah ♂️
 - Serafín Adkins ♂️
@@ -33,8 +33,8 @@ Equipo:
 **
 
 ### SECTOR 970 (OG)
-Líder: Maryam Cox ♀️
-Equipo:
+Líder: Maryam Cox ♀️.  
+Equipo:  
 - Erin Miller ♂️
 - Eugenio Figueroa ♂️
 - Lara Ewing ♀️
@@ -43,40 +43,40 @@ Equipo:
 ***
 
 ### SECTOR DE ABOGACÍA:
-Líder: Ina Cordova ♀️
-Equipo:
+Líder: Ina Cordova ♀️.  
+Equipo:  
 - Carel Boyer ♂️
 - Neyvi Anbyer ♂️
 - Jireh Tanner ♂️
 - Davet Yoder ♂️
 
 ### SECTOR DE MEDICINA:
-Líder: [] [] 
-Equipo:
+Líder: [] [].  
+Equipo:  
 - Gerald Sosa ♂️
 - Breixo Tanner ♂️
 - Odess Ewing ♀️
 - [] []
 
 ### SECTOR DE INCENDIOS
-Líder: [] [] 
-Equipo:
+Líder: [] [].  
+Equipo:  
 - Yavei Anbyer ♂️
 - [] []
 - [] []
 - [] []
 
 ### SECTOR DE TECNOLOGÍA
-Líder: [] [] 
-Equipo:
+Líder: [] [].  
+Equipo:  
 - Faolan Norton ♂️
 - Leroux [] ♂️
 - [] [] 
 - [] [] 
 
 ### SECTOR JUDICIAL
-Líder: Yana Allen ♀️
-Equipo:
+Líder: Yana Allen ♀️. 
+Equipo:  
 - Zadok Durand ♂️
 - Eneas Haynes ♂️
 - [] [] 
@@ -117,6 +117,8 @@ Equipo:
 - Duncan [] ♂️
 - Hilary [] ♀️
 - Alexei [] ♂️
+
+***
 
 # MUNDIAL
 
