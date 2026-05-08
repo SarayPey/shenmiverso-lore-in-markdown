@@ -10,6 +10,7 @@ En el Shénmìverso, el tiempo pasa diferente que en nuestro mundo, Seikatsu y M
 
 - Actualmente están en el 3046, los años duran 15 meses, cada uno entre 30 y 33 días, los cuales duran 30 horas, con 15 horas de luz y 15 de oscuridad.  
 Meses:
+
 |N°|Mochibria|Inglés|Español|Días mochibrias|Días terrícolas|
 |-|-|-|-|-|-|
 |01|Janisra|Janister/January|Jinestro/Enero|33|31|
@@ -54,6 +55,7 @@ Meses:
 - Están en el 3046, los años duran 15 meses y cada uno entre 29 y 32 días de 33 horas, con 16,5 horas de luz y 16,5 de oscuridad.  
 
 Meses:
+
 |N°|Seikatsibrias|Inglés|Español|Días seikatsibrias|Días terrícolas|
 |-|-|-|-|-|-|
 |01|Seikatsibria|January|Enero|33|31|
