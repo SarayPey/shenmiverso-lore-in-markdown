@@ -30,7 +30,7 @@ Equipo:
 - Serafín Adkins ♂️
 - Aiyana Leach ♀️
 
-**
+***
 
 ### SECTOR 970 (OG)
 Líder: Maryam Cox ♀️.  
@@ -75,7 +75,7 @@ Equipo:
 - [] [] 
 
 ### SECTOR JUDICIAL
-Líder: Yana Allen ♀️. 
+Líder: Yana Allen ♀️.  
 Equipo:  
 - Zadok Durand ♂️
 - Eneas Haynes ♂️
