@@ -1,7 +1,7 @@
-Simbología:
-🫪 = Completo
-😶‍🌫️ = En proceso
-🫥 = Conceptual
+Simbología:  
+🫪 = Completo. 
+😶‍🌫️ = En proceso. 
+🫥 = Conceptual. 
 
 ***
 
