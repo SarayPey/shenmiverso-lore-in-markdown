@@ -42,6 +42,20 @@ Equipo:
 
 ***
 
+## ZONA LEGAL
+
+Líder de zona: [] [].  
+
+***
+
+### SECTOR JUDICIAL
+Líder: Yana Allen ♀️.  
+Equipo:  
+- Zadok Durand ♂️
+- Eneas Haynes ♂️
+- [] [] 
+- [] []
+
 ### SECTOR DE ABOGACÍA:
 Líder: Ina Cordova ♀️.  
 Equipo:  
@@ -49,6 +63,14 @@ Equipo:
 - Neyvi Anbyer ♂️
 - Jireh Tanner ♂️
 - Davet Yoder ♂️
+
+***
+
+## ZONA GENERAL
+
+Líder de zona: [] [].  
+
+***
 
 ### SECTOR DE MEDICINA:
 Líder: [] [].  
@@ -73,14 +95,6 @@ Equipo:
 - Leroux [] ♂️
 - [] [] 
 - [] [] 
-
-### SECTOR JUDICIAL
-Líder: Yana Allen ♀️.  
-Equipo:  
-- Zadok Durand ♂️
-- Eneas Haynes ♂️
-- [] [] 
-- [] []
 
 ***
 

@@ -32,9 +32,11 @@
 |3045 & 3046|Daniel, Connor, Joseph dejan de ser amigos|*“Una traición y tres corazones resentidos”*|
 |3045|Melissa, Marcus, Liberty, Elio e Ishaya secuestrados. Ex-agentes mueren|*“Dos casos con misterios”*|
 |3045|Akiko viaja, problemas en el multiverso|*“Multiversos”*|
-|3045-46|Adam y compañía viajan a Sombrarix|*“Expedición Sombrarix: renacer”*|
+|3045|Adam y compañía viajan a Sombrarix|*“Expedición Sombrarix: renacer”*|
 |3045|Juno, James y Willow llegan de la tierra a Seikatsu para salvarlos de la rebelión|*“El viaje al más allá”*|
-|3045-46|Teatro destruido en New Sydney, Yindee escapa, Jadyn entra al sector 1|*“El cadáver de la mariposa perdida”*|
-|3045-46|Explosión al sur del distrito de Agensca, conocemos a "Delia"|*“El secreto de Delia”*|
+|3045|Teatro destruido en New Sydney, Yindee escapa, Jadyn entra al sector 1|*“El cadáver de la mariposa perdida”*|
+|3044 & 3046|Mochu|Daniel, Connor, Joseph dejan de ser amigos|✓ - *“Una traición y tres corazones resentidos”*|
+|3045|Mochu|Explosión al sur del distrito de Agensca, conocemos a "Delia"|✓ - *“El secreto de Delia”*|
+|3046|Tierra y Mochu|Víctor rescata a onceava generación de la asociación|✓ - Comic *“(Ruegos y una fantasía 2)”*|
 |3046|Polaris recibe cartas|*“Estrellas apagadas”*|
 |3046|Presente canon|No hay pero está en mi cabeza|

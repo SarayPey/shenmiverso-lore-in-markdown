@@ -5,7 +5,7 @@
 
 ## Conceptual
 
-- Elesvister: Segundo eclipse
+- Syliers: Segundo eclipse
 - Asociación G-11
 - Agentes de la investigación mochibria
 - El regreso del admadis caído

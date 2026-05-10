@@ -130,12 +130,12 @@
 |3045|Mochu|Akiko naturaleza - Ayame|✓ - Saga **Syliers: segundo eclipse** (*“El florecer del árbol”*)|
 |3045|Mochu|Melissa, Marcus, Liberty, Elio e Ishaya secuestrados. Ex-agentes mueren|✓ - *“Dos casos con misterios”*|
 |3045|Mochu|Akiko viaja, problemas en el multiverso|✓ - *“Multiversos”*|
-|3045-46|Mochu y Sombrarix|Adam y compañía viajan a Sombrarix|✓ - *“Expedición Sombrarix: renacer”*|
+|3045|Mochu y Sombrarix|Adam y compañía viajan a Sombrarix|✓ - *“Expedición Sombrarix: renacer”*|
 |3045|Seikatsu|James, Willow y Juno viajan entre Mochu y Seikatsu en busca de Marcus|✓ - Película *“El viaje al más allá: búsqueda en Shénmì”*|
 |3045|Mochu|Onceava generación de prototipos en la asociación (Kai, Cole, Shayla)|✗|
-|3045-46|Mochu|Teatro destruido en New Sydney, Yindee escapa, Jadyn entra al sector 1|✓ - *“El cadáver de la mariposa perdida”*|
+|3045|Mochu|Teatro destruido en New Sydney, Yindee escapa, Jadyn entra al sector 1|✓ - *“El cadáver de la mariposa perdida”*|
 |3044 & 3046|Mochu|Daniel, Connor, Joseph dejan de ser amigos|✓ - *“Una traición y tres corazones resentidos”*|
-|3045-46|Mochu|Explosión al sur del distrito de Agensca, conocemos a "Delia"|✓ - *“El secreto de Delia”*|
+|3045|Mochu|Explosión al sur del distrito de Agensca, conocemos a "Delia"|✓ - *“El secreto de Delia”*|
 |3046|Tierra y Mochu|Víctor rescata a onceava generación de la asociación|✓ - Comic *“(Ruegos y una fantasía 2)”*|
 |3046|Stalaris|Polaris recibe cartas|✓ - *“Estrellas apagadas”*|
 |Agosto 3046/2026|Todos|Presente canon|No hay pero está en mi cabeza|

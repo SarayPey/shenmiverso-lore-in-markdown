@@ -3,8 +3,9 @@
 - **Archivos de traumas:** Textos sobre los personajes, solo hay uno disponible por ahora.  
 - **Archivos mágicos:** Desde el libro de Kiara (que no tiene nada) hasta archivos sueltos de hechizos mágicos y prohibidos.  
 - **Canon:** Son canciones, juegos, cuentos, novelas y demás que existen en el universo, todavía no hay nada.  
-- **Cronologías:** Desde la cronología completa hasta historia completa de personajes en tablas (Consejo: deben entrar y salir un par de veces, la cronología completa es muy larga).  
-- **Extra:** Tiene un montón de detalles de lore, desde datos simples hasta fichas completas de personajes y detalles del universo, uno de los más poderosos.  
+- **Cronologías:** Desde la cronología completa hasta la historia completa de mis personajes en tablas (Consejo: deben entrar y salir un par de veces si están en GitHub movil, por alguna razón tira error).  
+- **Extra:** Tiene un montón de detalles de lore, desde datos simples hasta detalles del universo, uno de los más poderosos.  
+- **Fichas de personajes:** Plato poderoso, aquí tienes acceso a fichas que resumen la esencia de los personajes.  
 - **Series:** Otro plato fuerte, acá hay historias escritas en serie que quizás subiré a YouTube.  
 - ***AUs.md:*** Pues acá hay detalles de los universos alternativos, no hay mucho por ahora.  
 - ***Character.md:*** Como las plantillas, pero en un resumen de tablas.  

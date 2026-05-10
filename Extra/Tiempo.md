@@ -24,7 +24,7 @@ Meses:
 |09|Precyd|Precier/September|Precinda/Septiembre|33|31|
 |10|Ophyra|Ophelyr/October|Ofelial/Octubre|32|30|
 |11|Idrilio|Idrally/November|Idrilo/Noviembre|33|31|
-|12|Elistral|Elister/December|Elestra/Diciembre|33|31|
+|12|Elistrael|Elister/December|Elestra/Diciembre|33|31|
 |13|Hasikira|Hasikire|Hasiquer|32|31|
 |14|Cersylio|Cercelly|Cercilio|31|30|
 |15|Estelyst|Stellery|Elteslio|33|31|
