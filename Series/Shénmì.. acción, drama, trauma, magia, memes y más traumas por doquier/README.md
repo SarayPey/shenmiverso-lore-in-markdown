@@ -79,7 +79,7 @@ Presentación de los capítulos:
 8. Cap 07: El escuadrón de la pequeña chirula 🫪
 9. Cap 08: ¿Shotsindescai en Senlín? 🫪
 10. Cap 09: Los guías policiales 🫪
-11. Cap 10: Preparación del vengador 😶‍🌫️
+11. Cap 10: Preparación del vengador 🫪
 12. Cap 11: Tras los ojos celestes y la doctora 😶‍🌫️
 13. Cap 12: Acuarias: Bajo el océano y sobre la oscuridad 🫥
 14. Cap 13: Cuando un gusto se vuelve veneno 😶‍🌫️
