@@ -1,5 +1,7 @@
 # ✨ Shénmì: acción, drama, trauma, magia, memes y más traumas por doquier ✨
 
+[Versión escrita en Plumasy](https://plumasy.com/libreria/1700/shenmi-accion-drama-trauma-magia-memes-y-mas-traumas-por-doquier)
+
 ## Información básica:
 
 > **Sinopsis:**
