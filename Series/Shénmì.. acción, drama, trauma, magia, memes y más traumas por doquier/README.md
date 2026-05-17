@@ -82,8 +82,8 @@ Presentación de los capítulos:
 9. Cap 08: ¿Shotsindescai en Senlín? 🫪
 10. Cap 09: Los guías policiales 🫪
 11. Cap 10: Preparación del vengador 🫪
-12. Cap 11: Tras los ojos celestes y la doctora 😶‍🌫️
-13. Cap 12: Acuarias: Bajo el océano y sobre la oscuridad 🫥
+12. Cap 11: Tras los ojos celestes y la doctora 🫪
+13. Cap 12: Acuarias: Bajo el océano y sobre la oscuridad 😶‍🌫️
 14. Cap 13: Cuando un gusto se vuelve veneno 😶‍🌫️
 14. Cap 14: Tras la sombra del fotógrafo de espíritus 🫥
 16. Cap 15: Yìshù: Toques de ninjas y arte 🫥
