@@ -6,11 +6,11 @@
 ## Conceptual
 
 - Syliers: Segundo eclipse
-- Asociación G-11
+- Losix-Gen12
 - Agentes de la investigación mochibria
 - El regreso del admadis caído
-- Maryam Cox: 970 origins
+- Maryam Cox: 970 legacy
 - Shénmì: Gengiska
 - El escuadrón Tierra
 - Los clubes: EcoArt
-- AnomalCyx: ¡Tierra y más allá!
+- AtalyCyx: ¡Tierra y más allá!

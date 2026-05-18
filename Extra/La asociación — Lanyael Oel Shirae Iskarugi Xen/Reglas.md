@@ -1,3 +1,5 @@
+*Lanyael Oel Shirae Iskarugi Xen —o sus siglas Losix— nació para acabar con la amenaza terrícola*
+
 La asociación suele secuestrar jóvenes terrícolas de todo el mundo SIEMPRE que cumplan con los siguientes requisitos: 
 - Ser de 0 a 17 años, aunque si es de 2-12 es mejor al ser más manipulables y requerir menos cuidados.  
 - Su época debe ser desde el 0 D.C hasta el fin del mundo.  
