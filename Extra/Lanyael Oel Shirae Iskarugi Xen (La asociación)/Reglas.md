@@ -8,8 +8,9 @@ La asociación suele secuestrar jóvenes terrícolas de todo el mundo SIEMPRE qu
 - Salud perfecta, con pocas visitas al médico anuales.  
 - De preferencia, que tenga bastante resistencia física, la mental no es necesaria. 
 
-Métodos de tortura
+## Métodos de tortura
 
 
-Otros
+## Otros
+
 A todos los prototipos al entrar le inyectan un suero, el cual va a congelar su apariencia cuando tengan una edad determinada (que es aleatoria por prototipo), además de un suero que le da una segunda forma.
