@@ -10,6 +10,9 @@ La asociación suele secuestrar jóvenes terrícolas de todo el mundo SIEMPRE qu
 
 ## Métodos de tortura
 
+|Nombre|Propósito|Función|
+|-|-|-|
+|.|.|.|
 
 ## Otros
 
