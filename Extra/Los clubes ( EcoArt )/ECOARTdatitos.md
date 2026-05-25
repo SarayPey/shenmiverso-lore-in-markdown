@@ -44,7 +44,7 @@
 
 22. Thiago es colombiano, pero nació en Venezuela, luego volvió a Colombia un par de años y finalmente llegó a Chile.
 
-23. Todos están en 3ro medio, algunos tienen más o menos edad por nacimiento.
+23. Todos los de EcoClub y ArtClub están en 3ro medio, algunos tienen más o menos edad por nacimiento, sus hermanos u otros familiares más pequeños están en otros cursos obviamente.
 
 24. Eirene tiene una bully en el curso, se llama Susana Antonella Pérez Díaz y sabe de boxeo y judo.
 
@@ -54,13 +54,13 @@
 
 26. Julián tiene las uñas por debajo de la piel porque se las arranca constantemente por ansiedad.
 
-27. Eirene tiene una hermana mayor, se llama Valentina Barbara Castillo Soto, tiene unos 24 años y es estudiante de diseño gráfico en la universidad, es la rebelde de la familia porque tiene un estilo alternativo (creen que Érika es su mejor amiga).
+27. Eirene tiene una hermana mayor, se llama Valentina Barbara Castillo Soto, tiene unos 24 años y es estudiante de diseño de interiores en la universidad de Chile (antes de eso sacó el título de ingienería en mecánica automotriz en la universidad Federico Santa María), es la rebelde de la familia porque tiene un estilo alternativo (creen que Érika es su mejor amiga).
 
-28. [].
+28. Todavía no decido bien si la historia se va a desarrollar tomando de referencia en infraestructura al liceo polivalente B 133 o en el colegio Saint Orland N°2, pero sí o sí va a ser un liceo de la comuna de Lo Espejo que debería tener educación media científico humanista (que tenga TP es opcional).
 
 29. [].
 
-30. Por cierto, Julián es el mayor de su generación (fue el primer nieto de Alba y Pedro, el primer hijo de sus padres —Paloma Sandoval y Leonardo Riquelme—).
+30. Por cierto, Julián es el mayor de su generación (fue el primer nieto de Alba y Pedro y el primer hijo de sus padres —Paloma Sandoval y Leonardo Riquelme—).
 
 31. [].
 
