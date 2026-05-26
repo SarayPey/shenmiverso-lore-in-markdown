@@ -1,23 +1,23 @@
 ***
-# EcoClub  
+# 1. EcoClub  
 ***
 
-## Érika Yaretzi Aurora Valdés Salazar  
+## 1.1. Érika Yaretzi Aurora Valdés Salazar  
 
 **Padres:** Lorenzo Valdés & Romina Salazar  
 **Hermanos:** Rubén Valdés  
 
-## Eirene Paz Castillo Soto  
+## 1.2. Eirene Paz Castillo Soto  
 
 **Padres:** Gabriel Castillo & Mariana Soto  
 **Hermanos:** Valentina Castillo  
 
-## Ricardo Alfredo Ulloa Castro  
+## 1.3. Ricardo Alfredo Ulloa Castro  
 
 **Padres:** Juan Ulloa & Úrsula Castro  
 **Padrastros:** Armando Reyes & Yesenia Olivares  
 
-## Julián Mateo Santiago Riquelme Sandoval  
+## 1.4. Julián Mateo Santiago Riquelme Sandoval  
 
 **Padres:** Leonardo Riquelme & Paloma Sandoval  
 **Tíos:**
@@ -29,11 +29,11 @@
 	- Evelina Sanchez  
 	- Ignacio Sandoval  
 	- Rebeca Ortega  
-**Abuelos:**
-	- Pedro Sandoval (†)
-	- Alba Silveira (†)
-	- José Riquelme (†)
-	- Mercedes Elder (†)
+**Abuelos:**  
+	- Pedro Sandoval (†)  
+	- Alba Silveira (†)  
+	- José Riquelme (†)  
+	- Mercedes Elder (†)  
 **Primos:**  
 	- Bruno Sandoval  
 	- Marisol Sandoval  
@@ -47,16 +47,16 @@
 	- "Ernesto Villa"/John Adams (Padrino de su madre)  
 	- Steven/"Víctor" Adams (hermano del padrino de su madre)  
 
-## Bianca Alba Araya Tapia  
+## 1.5. Bianca Alba Araya Tapia  
 
 **Padres:** Martín Araya & Isabel Tapia  
 **Hermanos:** Matilde Araya & Inés Araya  
 
-## Thiago Mathias Barros Muñóz  
+## 1.6. Thiago Mathias Barros Muñóz  
 
 **Padres:** Carlos Barros & Esmeralda Muñóz (†)  
 
-## Vanessa Raquel Rivas de Carrera  
+## 1.7. Vanessa Raquel Rivas de Carrera  
 
 **Padres:** Jesús Rivas & Celeste de Carrera  
 **Padastros:** Hector Garrido  
@@ -65,11 +65,11 @@
 
 ***  
 
-# ArtClub  
+# 2. ArtClub  
 
 ***
 
-## Noah Oliver Smith  
+## 2.1. Noah Oliver Smith  
 
 **Padres:** Edward White & Beatrice Smith  
 **Hermanos:**  
@@ -79,7 +79,7 @@
 	- Cody Smith  
 	- Emily White  
 
-## Kaleb Miles Aguilar Herrera  
+## 2.2. Kaleb Miles Aguilar Herrera  
 
 **Padres:** Mauricio Aguilar (?) & Miranda Herrera (?)  
 **Tutores:** Gaspar Aguilar & Fabiola Lagos   
@@ -87,7 +87,7 @@
 **Tíos:** Rafaella Aguilar, Emilio Herrera & Amparo Bustamante  
 **Primos:** Daphne Aguilar, Marlén Herrera & Dante Herrera  
 
-## Salomé Arleth Zúñiga Molina  
+## 2.3. Salomé Arleth Zúñiga Molina  
 
 **Padres:** Diego Zúñiga & Renata Molina  
 **Padrastros:** Klaus Sepúlveda & Katherine Lane  
@@ -103,22 +103,22 @@
 	- Hazel Lane  
 	- Oakley Lane  
 
-## Nayeli Leire Medina Allen  
+## 2.4. Nayeli Leire Medina Allen  
 
 **Padres:** Fabio Medina & Daliah Allen (???)  
 
-## Peyton Wilson  
+## 2.5. Peyton Wilson  
 
 **Padres:** George Wilson & Lindsay Wilson  
 **Hermanos:**  
 	- Sawyer Wilson  
 	- Lincoln Wilson  
 
-## Milán Arturo Jiménez Vargas  
+## 2.6. Milán Arturo Jiménez Vargas  
 
 **Padres:** Simón Jiménez & Deborah Vargas  
 
-## Nora Mia Luna Castro Vera  
+## 2.7. Nora Mia Luna Castro Vera  
 
 **Padres:** Leandro Castro (†) & Leonor Vera  
 **Padrastros:** Gustavo Fuentes  
