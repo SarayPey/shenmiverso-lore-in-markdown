@@ -1,5 +1,5 @@
 |Fecha (calendario ikalibria)|Fecha (calendario gregoriano/terrícola)|Temporada|Capítulo|Resumen|
-|-|-|-|-|-|
+|:-:|:-:|:-:|:-:|:-:|
 |DD de MES, 3045|DD de MES, 3045|1|00 - *El que sea único, que lance su arma*|-|
 |DD de MES, 3045|DD de MES, 3045|1|01 - *Una charla normal donde los 20*|-|
 |DD de MES, 3045|DD de MES, 3045|1|02 - *¡Bienvenidos a Magistic!*|-|

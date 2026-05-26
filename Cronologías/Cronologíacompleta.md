@@ -1,7 +1,7 @@
 # CRONOLOGÍA COMPLETA (SIN AUs)
 
 |Año|Mundos|Hecho|¿Narrado?|
-|-|-|-|-|
+|:-:|:-:|:-:|:-:|
 |?|Todo|Se crea el universo|✗|
 |?|Shénmì|Mochu y Seikatsu nacen|✗|
 |??? A.C|Tierra|Se crea la tierra|✗|

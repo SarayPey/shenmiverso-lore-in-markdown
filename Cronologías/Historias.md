@@ -1,5 +1,5 @@
 |Año|Hecho|Historia|
-|-|-|-|
+|:-:|:-:|:-:|
 |2110|Elesterlios y visterlios se crean|*“(Pensando en un título)”*|
 |3026|Elesterlios segunda era primera generación|Saga **Elesterlios: segundo eclipse** - *“Elesterlios: nuevo alba”*|
 |3026|Willow guardiana - Memory Violet|*“El secreto del recuerdo”*|

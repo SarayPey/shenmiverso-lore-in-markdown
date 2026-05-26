@@ -1,4 +1,4 @@
 # GLOSARIO DE TÉRMINOS
 
-Kiiuskaki - 
-Redigis keoari - 
+1. Kiiuskaki - 
+2. Redigis keoari - 
