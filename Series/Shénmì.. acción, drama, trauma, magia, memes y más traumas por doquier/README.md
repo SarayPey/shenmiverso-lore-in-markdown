@@ -2,6 +2,10 @@
 
 [Versión escrita en Plumasy](https://plumasy.com/libreria/1700/shenmi-accion-drama-trauma-magia-memes-y-mas-traumas-por-doquier)
 
+> [!CAUTION]
+> ### Para lectores de Plumasy, Wattpad, Inkspired u otros:
+> Esto incluye spoilers de la serie para quienes no la han leído en sus respectivas plataformas
+
 ## Información básica:
 
 > **Sinopsis:**
@@ -12,7 +16,8 @@
 **Temporada:** Lo que me alcance. (28-33 capítulos cada una)  
 **Producción:** 2025.  
 **Idea original:** SarayPey (yo).  
-**Público:** 15+ (Contiene temas sensibles).  
+> [!WARNING]
+> **Público:** 15+ (Contiene temas sensibles, acción, sangre y discursos de odio).  
 
 
 ## Formatos usados en la producción:
@@ -61,11 +66,12 @@ Presentación de los capítulos:
 
 # CAPÍTULOS
 
-### Simbología:  
-
-🫪 = Completo.  
-😶‍🌫️ = En proceso.  
-🫥 = Conceptual.  
+> [!TIP]
+> ### Simbología:  
+> 
+> 🫪 = Completo.  
+> 😶‍🌫️ = En proceso.  
+> 🫥 = Conceptual.  
 
 ***
 
