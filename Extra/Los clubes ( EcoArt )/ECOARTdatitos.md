@@ -68,7 +68,7 @@
 
 33. Aunque Julián es bastante listo, ordenado y le gusta aprender (el estudiante que muchos profesores querrían y el joven que muchos adultos querrían como hijo), es bastante retraído e inseguro, siente que no pertenece por ser distinto a otros chicos, incluso siendo distinto a los hombres del EcoClub (Ricardo siendo un caos divertido, Thiago viviendo con calma), algo que se refuerza en clases (y en matemáticas especialmente) al ver a sus compañeros.
 
-34. [].
+34. Salomé tiene hermanastros y una hermana en Frutillar.
 
 35. [].
 
