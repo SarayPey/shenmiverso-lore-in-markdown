@@ -1,6 +1,9 @@
 # ✨ Shénmì: acción, drama, trauma, magia, memes y más traumas por doquier ✨
 
 [Versión escrita en Plumasy](https://plumasy.com/libreria/1700/shenmi-accion-drama-trauma-magia-memes-y-mas-traumas-por-doquier)
+> [!IMPORTANT]
+> Si eres lector de alguna de estas plataformas, no recomiendo leer aquí, pues hay spoilers.
+
 
 ## Información básica:
 
@@ -12,64 +15,71 @@
 **Temporada:** Lo que me alcance. (28-33 capítulos cada una)  
 **Producción:** 2025.  
 **Idea original:** SarayPey (yo).  
-**Público:** 15+ (Contiene temas sensibles).  
-
-
-## Formatos usados en la producción:
-
-(Acción).  
-
-**Personaje:** Texto.  
-
-*(Pensamientos)*.  
-
-*~Cantando~*
-
-*//Pueden ser rolitas reales o canciones que se ocurren porque sí, si es la segunda, normalmente las canciones se me ocurren en inglés. Lo voy a especificar en ese momento-//*
-
-*//Fuera de rol para aclarar detalles//*
-
-
-⇢✮✮✮⋯⋯⋯✶✷✵✷✶⋯⋯⋯✮✮✮⇠ = Cambio de escena (OC mirando y hablando a la cámara como un reality o escena general)
-
-◕﹡✧﹡✦⋄✦﹡✧﹡◕ = (Cambio de POV *//solo en las escenas de personajes hablando a cámara//*)
-
-
-Cuando hay nuevo personaje:
-
-☆★☆★☆  
-*Música [Algo que represente al personaje].*   
-### ☄ NUEVO PERSONAJE
-
-[Nombre] [Apellido] (♂️♀️) - X años  
-[Descripción].  
-
-*—[Diálogo de presentación].*  
-★☆★☆★
-
-Presentación de los capítulos:
-
-*「 DD/MM/AAAA 」*
-
-# Shénmì: acción, drama, trauma, magia, memes y más traumas por doquier — *[Género]* edition*
-
-## Capítulo X: [nombre del cap]
-
-### [Aclaración cualquiera].
+> [!CAUTION]
+> **Público:** 15+ (Contiene temas sensibles).  
 
 ***
 
-# CAPÍTULOS
+> [!TIP]
+> ## Formatos usados en la producción:
+> 
+> (Acción).  
+> 
+> **Personaje:** Texto.  
+> 
+> *(Pensamientos)*.  
+> 
+> *~Cantando~*
+> 
+> *//Pueden ser rolitas reales o canciones que se ocurren porque sí, si es la segunda, normalmente las canciones se me ocurren en inglés. Lo voy a especificar en ese momento-//*
+> 
+> *//Fuera de rol para aclarar detalles//*
+> 
+> 
+> ⇢✮✮✮⋯⋯⋯✶✷✵✷✶⋯⋯⋯✮✮✮⇠ = Cambio de escena (OC mirando y hablando a la cámara como un reality o escena general)
+> 
+> ◕﹡✧﹡✦⋄✦﹡✧﹡◕ = (Cambio de POV *//solo en las escenas de personajes hablando a cámara//*)
+>
+> ***
+> 
+> ### Cuando hay nuevo personaje:
+> 
+> ☆★☆★☆  
+> *Música [Algo que represente al personaje].*   
+> ### ☄ NUEVO PERSONAJE
+> 
+> [Nombre] [Apellido] (♂️♀️) - X años  
+> [Descripción].  
+> 
+> *—[Diálogo de presentación].*  
+> ★☆★☆★
+>
+> ***
+> 
+> ### Presentación de los capítulos:
+> 
+> *「 DD/MM/AAAA 」*
+> 
+> # Shénmì: acción, drama, trauma, magia, memes y más traumas por doquier — *[Género]* edition*
+> 
+> ## Capítulo X: [nombre del cap]
+> 
+> ### [Aclaración cualquiera].
+> 
+***
 
-### Simbología:  
+## CAPÍTULOS
 
-🫪 = Completo.  
-😶‍🌫️ = En proceso.  
-🫥 = Conceptual.  
+> [!TIP]
+> ### Simbología:  
+> 
+> 🫪 = Completo.  
+> 😶‍🌫️ = En proceso.  
+> 🫥 = Conceptual.  
 
 ***
 
-# TEMPORADA 1 🌻
+## TEMPORADA 1 🌻
 
 1. Piloto: El que sea único, que lance su arma 🫪
 2. Cap 01: Una charla normal (y desastrosa) donde los 20 🫪
@@ -106,7 +116,7 @@ Presentación de los capítulos:
 
 ***
 
-# TEMPORADA 2 🌹
+## TEMPORADA 2 🌹
 
 1. Cap 1: Deskari Equilibria 🫥
 2. Cap 2: El día que no es para aprender 🫥
@@ -118,4 +128,4 @@ Presentación de los capítulos:
 
 ***
 
-# TEMPORADA 3 🌼
+## TEMPORADA 3 🌼

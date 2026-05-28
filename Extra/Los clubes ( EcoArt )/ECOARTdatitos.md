@@ -58,15 +58,15 @@
 
 28. Todavía no decido bien si la historia se va a desarrollar tomando de referencia en infraestructura al liceo polivalente B 133 o en el colegio Saint Orland N°2, pero sí o sí va a ser un liceo de la comuna de Lo Espejo que debería tener educación media científico humanista (que tenga TP es opcional).
 
-29. [].
+29. Julián NUNCA ha llevado al grupo a su casa.
 
 30. Por cierto, Julián es el mayor de su generación (fue el primer nieto de Alba y Pedro y el primer hijo de sus padres —Paloma Sandoval y Leonardo Riquelme—).
 
-31. [].
+31. Érika tiene un hermano menor, se llama Rubén Ramiro, es autista y bastante energético, tiene un spinner y un peluche como objetos de contención emocional. Tiene nueve años pero está en quinto básica (sí, lo adelantaron).
 
-32. [].
+32. Cuando Érika y Rubén toman micro para ir a estudiar y Érika pasa sin pagar, Rubén la queda mirando y se queda junto al conductor hasta que Érika se resigna y baja para subir y pagar, entonces Rubén paga (de hecho, han pasado veces donde cuando Érika ha bajado el bus se va y tiene que subir de alguna forma antes de que Rubén se descompense).
 
-33. [].
+33. Aunque Julián es bastante listo, ordenado y le gusta aprender (el estudiante que muchos profesores querrían y el joven que muchos adultos querrían como hijo), es bastante retraído e inseguro, siente que no pertenece por ser distinto a otros chicos, incluso siendo distinto a los hombres del EcoClub (Ricardo siendo un caos divertido, Thiago viviendo con calma), algo que se refuerza en clases (y en matemáticas especialmente) al ver a sus compañeros.
 
 34. [].
 

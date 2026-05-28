@@ -36,7 +36,7 @@
 # TANDA 2
 
 
-16. La familia de Érika es la más liberal del grupo (por eso las pijamas casi siempre son en su casa), la de Eirene es la más conservadora, aunque la han visto desde afuera. Julián NUNCA ha llevado al grupo a su casa.
+16. La familia de Érika es la más liberal del grupo (por eso las pijamadas casi siempre son en su casa), la de Eirene es la más conservadora, aunque la han visto desde afuera. Julián NUNCA ha llevado al grupo a su casa.
 
 17. Vanessa sabe español, francés e inglés.
 
