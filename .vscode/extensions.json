@@ -1,5 +1,11 @@
 {
+<<<<<<< HEAD
 	"recommendations": [
 		"docsmsft.docs-markdown"
 	]
+=======
+    "recommendations": [
+        "docsmsft.docs-markdown"
+    ]
+>>>>>>> 58662463a2afc06cb5a6fe047a91772c7e8f1b38
 }

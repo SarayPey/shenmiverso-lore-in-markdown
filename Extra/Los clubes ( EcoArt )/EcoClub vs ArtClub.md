@@ -122,10 +122,10 @@
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |-|-|-|
 |Pie|Julián, Thiago|Salomé, Nayeli|
-|Bici|Ricardo|Peyton|
-|Micro|Eirene|Nora|
+|Bici|Ricardo|--|
+|Micro|Eirene, Érika|Nora|
 |Metro|Vanessa|Kaleb|
-|Auto|Érika|Noah|
+|Auto|--|Noah, Peyton|
 |+2|Bianca (Tren-Micro)|Milán (Metro-Micro)|
 
 ## Llegada

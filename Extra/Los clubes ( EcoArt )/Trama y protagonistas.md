@@ -10,7 +10,7 @@
 # EcoClub
 
 - Érika Yaretzi Aurora Valdés Salazar: Líder y fundadora del EcoClub, rebelde y observadora, tiene un hermano menor con TEA que se llama Rubén. Tiene muchos apodos como Éri, Yaretzi, Yare, Alex o Alexis.  
-- Eirene Paz Castillo Soto : Responsable y amable, sus familiares (nada que ver con sus padres) son clasistas y racistas, tiene una hermana rebelde llamada Valentina.  
+- Eirene Paz Castillo Soto: Responsable y amable, sus familiares (nada que ver con sus padres) son clasistas y racistas, tiene una hermana rebelde llamada Valentina.  
 - Ricardo Alfredo Ulloa Castro: Reguetonero que le gusta Gorillaz, inicia los debates y de alguna forma pasa de curso. (Sus padres están divorciados).  
 - Julián Mateo Santiago Riquelme Sandoval: El inteligente del grupo, tímido, ansioso y experto en comunicación. Carga algo pesado.  
 - Bianca Alba Araya Tapia: Vive en Melipilla, pero viene a Santiago a estudiar para tener una mejor educación, es la millonaria del grupo.  

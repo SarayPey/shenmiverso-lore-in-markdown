@@ -1,4 +1,6 @@
-> [!IMPORTANT]
+¡Hola! Aquí es donde anoto TODO sobre el Shénmìverso, por si les gusta el chisme o algo así.
+
+> [!NOTE]
 > # Lugares relevantes
 >
 > - **Archivos de traumas:** Textos sobre los personajes, solo hay uno disponible por ahora.  
@@ -11,11 +13,14 @@
 > - ***AUs.md:*** Pues acá hay detalles de los universos alternativos, no hay mucho por ahora.  
 > - ***Character.md:*** Como las plantillas, pero en un resumen de tablas.  
 > - ***README.md:*** Este archivo, acá tienes avisos, links, guía y aviso de contenido.  
+> - ***checklist.md:*** Aquí es donde reviso el progreso de mis personajes de forma visual porque me gusta  
 > - ***TERMS.md:*** Acá en teoría debería tener traducciones en mochibria o seikatsibria (No hay nada).
 
-# Otros enlaces
+***
 
 > [!TIP]
+># Otros enlaces
+>
 > [Enlace para ver diseños de mis personajes](https://drive.google.com/drive/folders/19d-j8e39bm7vu1OxduPHIh7LwAaVaaqY?usp=sharing)
 
 ***
