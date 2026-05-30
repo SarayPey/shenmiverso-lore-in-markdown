@@ -117,6 +117,16 @@
 |Punto medio|Érika, Eirene, Julián|Kaleb, Nayeli, Milán|
 |Vive lejos|Bianca, Vanessa|Noah, Peyton|
 
+|Rol|EcoClub (3ro A)|ArtClub (3ro B)|
+|-|-|-|
+|Distrito 8|N/A|N/A|
+|Distrito 9|Vanessa (Huechuraba)|N/A|
+|Distrito 10|N/A|Milán (San Joaquín)|
+|Distrito 11|N/A|Kurt (Vitacura), Peyton (Las Condes)|
+|Distrito 12|Érika (La Pintana), Eirene (La Pintana)|N/A|
+|Distrito 13|Ricardo (San Miguel), Thiago (Lo Espejo)|Kaleb (San Ramón), Salomé (Lo Espejo), Nora (Pedro Aguirre Cerda)|
+|Distrito 14|Julián (San Bernardo), Bianca (Melipilla)|Nayeli (San Bernardo)|
+
 ## Medio de transporte
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|

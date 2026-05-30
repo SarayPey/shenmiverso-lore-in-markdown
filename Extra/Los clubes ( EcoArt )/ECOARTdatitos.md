@@ -32,7 +32,7 @@
 
 16. Hablando de Ricardo (o Regguei —se pronuncia "Reyi"), básicamente adoptó a Lego Bravo cuando él tenía siete años y sus padres siguen juntos, se lo encontró abandonado en una caja (era el único que quedaba de una camada de cachorros) y logró adoptarlo. Su nombre no es al azar, se llama Lego bravo porque tenía una mancha que parecía una pieza de lego (sí, a Ricardo le encantaban los legos en ese entonces).
 
-17. Peyton es hermana mayor, y al tener una madurez al ayudar en su crianza, es la mano derecha de Noah en lo que respecta a liderar el ArtClub.
+17. Peyton es la mano derecha de Noah en lo que respecta a liderar el ArtClub.
 
 18. Ricardo tiene un setup gamer envidiable, tiene una silla gamer, una PC buenísima para juegos y un mouse con luces, esto porque es de clase media-alta gracias a los sueldos de su padre y madastra y a la pensión alimenticia de su madre.
 
@@ -56,7 +56,7 @@
 
 27. Eirene tiene una hermana mayor, se llama Valentina Barbara Castillo Soto, tiene unos 24 años y es estudiante de diseño de interiores en la universidad de Chile (antes de eso sacó el título de ingienería en mecánica automotriz en la universidad Federico Santa María), es la rebelde de la familia porque tiene un estilo alternativo (creen que Érika es su mejor amiga).
 
-28. Todavía no decido bien si la historia se va a desarrollar tomando de referencia en infraestructura al liceo polivalente B 133 o en el colegio Saint Orland N°2, pero sí o sí va a ser un liceo de la comuna de Lo Espejo que debería tener educación media científico humanista (que tenga TP es opcional).
+28. La historia se va a desarrollar tomando de referencia en infraestructura al liceo polivalente B 133, todo esto en la comuna de Lo Espejo (aunque la mayoría vive en otras comunas, naturalmente).
 
 29. Julián NUNCA ha llevado al grupo a su casa.
 
@@ -68,15 +68,15 @@
 
 33. Aunque Julián es bastante listo, ordenado y le gusta aprender (el estudiante que muchos profesores querrían y el joven que muchos adultos querrían como hijo), es bastante retraído e inseguro, siente que no pertenece por ser distinto a otros chicos, incluso siendo distinto a los hombres del EcoClub (Ricardo siendo un caos divertido, Thiago viviendo con calma), algo que se refuerza en clases (y en matemáticas especialmente) al ver a sus compañeros.
 
-34. Salomé tiene hermanastros y una hermana en Frutillar.
+34. Salomé tiene cinco hermanastros (Cassia, Willow, Asher, Oakley y Hazel Lane, todos por parte de su madrastra, Katherine Lane) y una hermana mayor, Mikaela, en Frutillar; ella vive con cuatro hermanastros (Josefina, Emilio, Vicente e Iris Sepúlveda, todos de parte de su padrastro, Klaus Sepúlveda) y su hermano menor, Nicolas.
 
-35. [].
+35. Noah es hijo de padres divorciados, Edward White y Beatrice Smith (cuando se divorció, ella se cambió a su apellido de soltera).
 
-36. [].
+36. Noah vive con su madre y con dos hermanos más: Cody y Ava Smith; sus otros hermanos (Mason, Chloe y Emily White) viven con Edward.
 
-37. [].
+37. Peyton vive con sus dos padres (George y Lindsay Wilson) y con sus dos hermanos mayores: Sawyar y Lincoln Wilson.
 
-38. [].
+38. Eirene no tiene los ojos verdes; en realidad, son marrones, pero usa lentes de contacto porque (además de que necesita lentes) es la única en su familia que no tiene ojos verdes y sus padres quieren evitar que la desprecien por eso, porque su familia es medio clasista y siguen mucho las tradiciones, incluso su forma de vestir les parece "inadecuada" a sus tíos (algo que contrasta con la familia de Érika, que la tratan bonito y la quieren mucho por juntarse con Érika y soportarla).
 
 39. [].
 
