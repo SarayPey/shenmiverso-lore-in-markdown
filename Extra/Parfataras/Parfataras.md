@@ -1,5 +1,5 @@
 |Color|Sol|Luna|Estrella|Cristal|Escudero|Forastero|Roca|Árbol|
-|-|-|-|-|-|-|-|-|-|
+|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Rojo|Zared 🪐|Akane 🍀|Irvette Ortega 🌻|James Larson 🌻|Brisa Fowler 🌻|Noah Smith 🌎|Teo 🪐|Sándara 🌻|
 |Naranjo|Inayah 🍀|Farrah 🌻|James Rosales 🌎|Kaney 🌻🌠|Elysia Valfyre 🌻|Kelsey 🌻|Karma 🌻|Íker 🍀|
 |Dorado|Polaris Lintang 🌠|Adam Carter 🌻|Elio 🪐|Diamona Dyamblor 🌻👻|Everly Boyer 🌻👻|Piper Dellacruz 🌻|Harsha 🪐👻|Dorald 🌻|

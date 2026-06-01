@@ -14,7 +14,7 @@
 
 6. Eirene tiene una hermana mayor, se llama Valentina Barbara Castillo Soto, tiene unos 24 años y es estudiante de diseño gráfico en la universidad, es la rebelde de la familia porque tiene un estilo alternativo (creen que Érika es su mejor amiga).
 
-7. Los padres de Eirene solo conocen a Bianca como amiga de Eirene, son medio racistas, por eso no conocen a Thiago ni a Vanessa, y como son conservadoras, tampoco conocen a Ricardo ni a Julián, a Érika la ven como amiga de Valentina, como dije.
+7. Los padres de Eirene solo conocen a Bianca como amiga de Eirene, como sus tíos y sus abuelos son racistas, no conocen a Thiago ni a Vanessa (más que nada para evitar que se les salga en una conversación), y como en la familia extendida también son conservadoras, tampoco conocen a Ricardo (que sabemos que adora el reggueton) ni a Julián (que sabemos que no cumple lo que se considera "masculino"), a Érika la ven como amiga de Valentina, como dije.
 
 8. Julián tiene las uñas por debajo de la piel porque se las arranca constantemente.
 
@@ -60,7 +60,8 @@
 
 27. Si la bully se acerca a Eirene, Érika se acerca con una cara "acércate a la niña y te mando volando al cerro, ¿eh?" y el resto se asoma si es necesario (Éri no sabe nada de artes marciales, pero le sabe a la pelea, incluso tiene cosas de defensa personal en su bolso y llavero si es necesario en la calle).
 
-28. Valentina sí tiene los ojos verde natural, le queda mirando a Eire tipo "el color de tus ojos no cambia nada, tú eres especial" mientras Eire se acomoda con ella mientras hace ojitos de perrito triste por si tiene cabritas del cine (spoiler: no hay el 99,9% de las veces)
+28. Valentina sí tiene los ojos verde natural, le queda mirando a Eire tipo "el color de tus ojos no cambia nada, tú eres especial" mientras Eire se acomoda con ella mientras hace ojitos de perrito triste por si tiene cabritas del cine (spoiler: no hay el 99,9% de las veces).
+
 29. A Julián siempre lo regañan por tener el cabello cubriendo sus ojos, intenta acomodarlo para evitarlo pero se le va adelante. Es curioso porque ha visto que no regañan a Érika o a Ricardo por sus tatuajes y/o piercings (a Érika tampoco la regañan por tener el cabello teñido).
 
 30. Bianca adora hacerle trenzas a Julián y ponerle moños coquette, a Eirene le parece bonito y la ayuda con eso.

@@ -78,7 +78,7 @@
 
 38. Eirene no tiene los ojos verdes; en realidad, son marrones, pero usa lentes de contacto porque (además de que necesita lentes) es la única en su familia que no tiene ojos verdes y sus padres quieren evitar que la desprecien por eso, porque su familia es medio clasista y siguen mucho las tradiciones, incluso su forma de vestir les parece "inadecuada" a sus tíos (algo que contrasta con la familia de Érika, que la tratan bonito y la quieren mucho por juntarse con Érika y soportarla).
 
-39. [].
+39. Érika siempre lleva su skateboard con ella en la mochila.
 
 40. [].
 

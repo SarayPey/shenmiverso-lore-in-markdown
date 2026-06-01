@@ -3,14 +3,14 @@
 ## Generación 0
 
 |Código|Categoría|Nombres|Apellidos|Sexo|País|Habilidad experimental|Magia|Arma|Habilidad 1|Habilidad 2|
-|-|-|-|-|-|-|-|-|-|-|-|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 00-01 | Categoría | Makari | Sotiriu | ♂️ | Grecia | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 00-02 | Categoría | Maired | Petridis | ♀️ | Grecia | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 
 ## Generación 1
 
 |Código|Categoría|Nombres|Apellidos|Sexo|País|Habilidad experimental|Magia|Arma|Habilidad 1|Habilidad 2|
-|-|-|-|-|-|-|-|-|-|-|-|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 01-01 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 01-02 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 01-03 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
@@ -28,7 +28,7 @@
 ## Generación 2
 
 |Código|Categoría|Nombres|Apellidos|Sexo|País|Habilidad experimental|Magia|Arma|Habilidad 1|Habilidad 2|
-|-|-|-|-|-|-|-|-|-|-|-|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 02-01 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 02-02 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 02-03 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
@@ -44,7 +44,7 @@
 ## Generación 3
 
 |Código|Categoría|Nombres|Apellidos|Sexo|País|Habilidad experimental|Magia|Arma|Habilidad 1|Habilidad 2|
-|-|-|-|-|-|-|-|-|-|-|-|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 03-01 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 03-02 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 03-03 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
@@ -55,7 +55,7 @@
 ## Generación 4
 
 |Código|Categoría|Nombres|Apellidos|Sexo|País|Habilidad experimental|Magia|Arma|Habilidad 1|Habilidad 2|
-|-|-|-|-|-|-|-|-|-|-|-|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 04-01 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 04-02 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 04-03 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
@@ -65,7 +65,7 @@
 ## Generación 5
 
 |Código|Categoría|Nombres|Apellidos|Sexo|País|Habilidad experimental|Magia|Arma|Habilidad 1|Habilidad 2|
-|-|-|-|-|-|-|-|-|-|-|-|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 05-01 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 05-02 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 05-03 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
@@ -80,7 +80,7 @@
 ## Generación 6:
 
 |Código|Categoría|Nombres|Apellidos|Sexo|País|Habilidad experimental|Magia|Arma|Habilidad 1|Habilidad 2|
-|-|-|-|-|-|-|-|-|-|-|-|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 06-01 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 06-02 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 06-03 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
@@ -94,7 +94,7 @@
 ## Generación 7
 
 |Código|Categoría|Nombres|Apellidos|Sexo|País|Habilidad experimental|Magia|Arma|Habilidad 1|Habilidad 2|
-|-|-|-|-|-|-|-|-|-|-|-|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 07-01 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 07-02 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 07-03 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
@@ -106,7 +106,7 @@
 ## Generación 8
 
 |Código|Categoría|Nombres|Apellidos|Sexo|País|Habilidad experimental|Magia|Arma|Habilidad 1|Habilidad 2|
-|-|-|-|-|-|-|-|-|-|-|-|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 08-01 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 08-02 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 08-03 | Categoría | Nombres | Apellidos | ♀️/♂️ | País(Otro) | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
@@ -123,7 +123,7 @@
 ## Generación 9:
 
 |Código|Categoría|Nombres|Apellidos|Sexo|País|Habilidad experimental|Magia|Arma|Habilidad 1|Habilidad 2|
-|-|-|-|-|-|-|-|-|-|-|-|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 09-01 | Categoría | Rarahu | Faatasi | ♀️ | Samoa | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 09-02 | Categoría | Ezra | Lemaire | ♂️ | Francia | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 09-03 | Categoría | Eowyn | Todd | ♀️ | Inglaterra (Gran Bretaña) | Habilidad de "nacimiento" | Esmeralda (Emerald) | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
@@ -132,7 +132,7 @@
 ## Generación 10:
 
 |Código|Categoría|Nombres|Apellidos|Sexo|País|Habilidad experimental|Magia|Arma|Habilidad 1|Habilidad 2|
-|-|-|-|-|-|-|-|-|-|-|-|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 10-01 | Categoría | Jacob | Sanders | ♂️ | Ecuador | Habilidad de "nacimiento" | Carmesí (Crimson) | Cortadora de almas carmesí (Cuchilla) | El daño que haga su espada puede trascender otros planos, siendo capaz de destruir almas y hacer daño a espíritus, muertos o espectros. | Puede concentrar sus ataques mágicos en la punta de la espada y atacar con presión, como si de un francotirador se tratase. |
 | 10-02 | Categoría | Naira | Athumani | ♀️ | Tanzania (China) | Habilidad de "nacimiento" | Azur (Azure) | Guja del [] azur | Habilidad 1 | Habilidad 2 |
 | 10-03 | Categoría | "Kaede" ~(Maritza)~ | Rodriguez | ♀️ | Cuba | Habilidad de "nacimiento" | Escarlata (Scarlet) | Arco del intercambio escarlata (Arco) | Puede cambiar de forma al arma que desee, incluso ser el arma de sus compañeros prototipos y usar sus habilidades. | Puede lanzar flechas con los efectos que ella desee, las flechas regresan a ella una vez cumplen su objetivo. |
@@ -145,7 +145,7 @@
 ## Generación 11:
 
 |Código|Categoría|Nombres|Apellidos|Sexo|País|Habilidad experimental|Magia|Arma|Habilidad 1|Habilidad 2|
-|-|-|-|-|-|-|-|-|-|-|-|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 11-01 | Categoría | Kai | Watts | ♂️ | Chile (Inca - Estadounidense) | Habilidad de "nacimiento" | Tronco araucario | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 11-02 | Categoría | Cole | Gregory | ♂️ | Estados Unidos | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
 | 11-03 | Categoría | Shayla | Ford | ♀️ | Estados Unidos | Habilidad de "nacimiento" | ColorM | Arma(Tipo) | Habilidad 1 | Habilidad 2 |
@@ -221,7 +221,7 @@ Peligrosos
 
 ### Métricas
 |Generación|Prototipos|♂️|♀️|Países|
-|--|--|-|-|-|
+|:-:-|:-:-|:-:|:-:|:-:|
 |0 |2 |1|1|1|
 |1 |13|?|?|?|
 |2 |11|?|?|?|

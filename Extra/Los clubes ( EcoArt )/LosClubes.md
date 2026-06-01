@@ -1,7 +1,7 @@
 # Rama básica
 
 |Fecha|Evento|
-|-|-|
+|:-:|:-:|
 |1963|Manuel Hurtado nace|
 |1971|Cecilia Muñoz nace|
 |2007|Nora Castro nace|
@@ -31,7 +31,7 @@
 ## Julián
 
 |Fecha|Evento|
-|-|-|
+|:-:|:-:|
 |1938|Pedro nace|
 |1953|Alba nace|
 |1970|Casan a Alba con Pedro|
@@ -63,5 +63,5 @@
 ## Nayeli
 
 |Fecha|Evento|
-|-|-|
+|:-:|:-:|
 |.|.|

@@ -5,7 +5,7 @@
 ## Integrantes
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
-|-|-|-|
+|:-:|:-:|:-:|
 |Integrante 1|Érika|Noah|
 |Integrante 2|Eirene|Kaleb|
 |Integrante 3|Ricardo|Salomé|
@@ -17,7 +17,7 @@
 ## Roles
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
-|-|-|-|
+|:-:|:-:|:-:|
 |Líder|Érika/Yaretzi/Alex/Alexis|Noah/Kurt|
 |Mediador|Vanessa|Kaleb|
 |Cerebro|Julián|Nayeli|
@@ -29,7 +29,7 @@
 ## Otros
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
-|-|-|-|
+|:-:|:-:|:-:|
 |Personaje favorito en común|Kirby|Zelda|
 |Lugar de junta|Banca del kiosco|Banca cerca del comedor|
 |Arte en común|✓|✓|
@@ -41,14 +41,14 @@
 ## Clases sociales
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
-|-|-|-|
+|:-:|:-:|:-:|
 |Clase alta|Bianca|Noah/Kurt, Peyton|
 |Clase media-alta|Ricardo, Vanessa|Kaleb, Nora|
 |Clase media|Érika, Eirene, Thiago|Salomé, Milán|
 |Clase baja|Julián|Nayeli|
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
-|-|-|-|
+|:-:|:-:|:-:|
 |Familia liberal|Érika, Ricardo|Nora, Kaleb|
 |Familia conservadora|Eirene|Milán|
 |Familia disfuncional|N/A|Nayeli|
@@ -57,14 +57,14 @@
 ## Orígenes
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
-|-|-|-|
+|:-:|:-:|:-:|
 |Chilenos|Érika, Eirene, Ricardo, Julián, Bianca|Nayeli, Nora|
 |Inmigrantes|Thiago (Colombia), Vanessa (República Dominicana)|Noah (Estados Unidos), Peyton (Estados Unidos), Salomé (Puerto Rico), Milán (Puerto Rico), Kaleb (Colombia)|
 
 ## Familia
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
-|-|-|-|
+|:-:|:-:|:-:|
 |Padres casados|Érika, Eirene, Julián, Bianca|Milán, Peyton|
 |Padres divorciados|Ricardo, Vanessa|Noah, Salomé, Nayeli|
 |Padre viudo|Thiago|Nora|
@@ -77,7 +77,7 @@
 ## Vive con
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
-|-|-|-|
+|:-:|:-:|:-:|
 |Vive con ambos padres|Érika, Eirene, Julián, Bianca|Milán, Peyton|
 |Vive **solo** con su padre|Thiago|Nayeli|
 |Vive **solo** con su madre|N/A|Noah, Nora (+ padastro)|
@@ -87,7 +87,7 @@
 ## Hermanos
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
-|-|-|-|
+|:-:|:-:|:-:|
 |Hijo único|Ricardo, Thiago,|Kaleb, Nayeli, Milán|
 |Hermano mayor|Érika *(1 hermano)*, Julián *(1 hermana + 1 hermano)*, Bianca *(2 hermanas)*|Noah *(3 hermanas + 2 hermanos)*|
 |Hermano mediano|Vanessa *(1 hermano + 1 hermanastra)*|Salomé *(1 hermana, 1 hermano, 5 hermanastras y 4 hermanastros)** , Nora *(2 hermanos + 1 hermana + 2 hermanastras + 1 hermanastro)*|
@@ -100,7 +100,7 @@
 # Secretos
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
-|-|-|-|
+|:-:|:-:|:-:|
 |Esconde cosas de familia directa|Eirene (amigos)|Milán (gustos personales, identidad personal, planes a futuro)|
 |Esconde cosas de familia extendida|Eirene (amigos, color de ojos)|Milán (gustos personales, identidad personal, planes a futuro)|
 |Oculta cosas de su grupo|Julián (pobreza, ansiedad, problemas con familia extendida, Nayeli)|Nayeli (pobreza, abuso familiar, bullying, Julián)|
@@ -112,13 +112,13 @@
 ## Ubicación
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
-|-|-|-|
+|:-:|:-:|:-:|
 |Vive cerca|Ricardo, Thiago|Salomé, Nora|
 |Punto medio|Érika, Eirene, Julián|Kaleb, Nayeli, Milán|
 |Vive lejos|Bianca, Vanessa|Noah, Peyton|
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
-|-|-|-|
+|:-:|:-:|:-:|
 |Distrito 8|N/A|N/A|
 |Distrito 9|Vanessa (Huechuraba)|N/A|
 |Distrito 10|N/A|Milán (San Joaquín)|
@@ -130,7 +130,7 @@
 ## Medio de transporte
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
-|-|-|-|
+|:-:|:-:|:-:|
 |Pie|Julián, Thiago|Salomé, Nayeli|
 |Bici|Ricardo|--|
 |Micro|Eirene, Érika|Nora|
@@ -141,7 +141,7 @@
 ## Llegada
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
-|-|-|-|
+|:-:|:-:|:-:|
 |Llega temprano|Julián, Bianca, Vanessa|Noah, Peyton, Milán, Nora|
 |Llega justo|Érika, Eirene|Nayeli|
 |Llega tarde|Ricardo, Thiago|Kaleb, Salomé|
@@ -149,7 +149,7 @@
 ## Notas
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
-|-|-|-|
+|:-:|:-:|:-:|
 |Buenas notas|Julián|Nayeli|
 |Malas notas|Ricardo (Matemáticas lo salva)|Nora|
 |Sobreviviente de matemáticas|Thiago|Salomé (Nadie sabe cómo le va mal en matemáticas CON MANUEL)|
@@ -157,7 +157,7 @@
 ## Profesores y estudiantes
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
-|-|-|-|
+|:-:|:-:|:-:|
 |Presidente de curso|Érika|Kaleb|
 |Bully|Susana|Maite|
 |Matemática|Cecilia|Manuel|

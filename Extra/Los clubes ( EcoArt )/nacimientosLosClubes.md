@@ -2,7 +2,7 @@
 ###### (Aviso, aquí habrán más de 100 personajes)
 
 |N°|Año|Mes|Día|Personaje|
-|-|-|-|-|-|
+|:-:|:-:|:-:|:-:|:-:|
 |001|1930|MES|DD|José Riquelme|
 |002|1935|MES|DD|Mercedes Elder|
 |003|1938|MES|DD|Pedro Sandoval|
