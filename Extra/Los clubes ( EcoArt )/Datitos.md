@@ -246,7 +246,7 @@
 
 108. Salomé es la que tiene más hermanos (contando hermanastros) entre ambos clubes, teniendo dos hermanos y nueve hermanastros, puesto a que sus padastros (Klaus Sepúlveda y Katherine Lane) ya tenían familias antes de volver a casarse. Actualmente Klaus está con la madre de Salomé —Renata Molina— y Katherine con su padre —Diego Zúñiga.
 
-109. Nora tiene un medio hermano, Santiago Fuentes, esto es porque su padre (Leandro Castro) actualmente está fallecido por leucémia, y su madre (Leonor Vera) actualmente está comprometida con Gustado Fuentes (digamos que él y Leandro eran amigos y cuando estaba empeorando le dijo casi de broma a Gustavo que podía casarse con Leonor —tampoco tan broma porque en su juventud hubo rivalidad porque a ambos les gustaba Leonor).
+109. Nora tiene un medio hermano, Santiago Fuentes, esto es porque su padre (Leandro Castro) actualmente está fallecido por leucémia, y su madre (Leonor Vera) actualmente está comprometida con Gustavo Fuentes (digamos que él y Leandro eran amigos y cuando estaba empeorando le dijo casi de broma a Gustavo que podía casarse con Leonor —tampoco tan broma porque en su juventud hubo rivalidad porque a ambos les gustaba Leonor).
 
 110. Por suerte Ricardo es hijo único, no tiene hermanastros ni medio hermanos (le gusta bromear de que no tiene competencia por la atención y cariño de sus padres y padastros), aunque esto significa que básicamente está solo en casa.
 
