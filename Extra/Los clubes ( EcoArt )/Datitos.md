@@ -244,7 +244,7 @@
 
 107. La personalidad de Ricardo es fruto de ser hijo de padres divorciados (Juan Ulloa y Úrsula Castro) y viendo a sus padres casarse con otras personas (Juan se casó con Yesenia Olivares, y Úrsula actualmente está con Armando Reyes), considerando que vive con su padre que trabaja mucho y nunca tuvo tiempo para él, además de que le cuesta llevarse bien con su madastra, pues Yesenia es bastante estructurada al haber estado en las fuerzas armadas y tampoco tiene tiempo para él porque trabaja de forma remota (actualmente ni ella ni Juan le dan atención porque Ricardo es adulto), prefería vivir con Úrsula (porque era más atenta) pero no puede porque ella vive en San Antonio con su padastro y no quiere alejarse del EcoClub (aunque de vez en cuando debe ir allá por tutela compartida), así que él mismo aprendió a conseguir sus cosas, además de que se siente querido en el EcoClub.
 
-108. Salomé es la que tiene más hermanos (contando hermanastros) entre ambos clubes, teniendo dos hermanos y nueve hermanastros, puesto a que sus padastros (Klaus Sepúlveda y Katherine Lane) ya tenían familias antes de volver a casarse (Klaus con la madre de Salomé —Renata Molina— y Katherine con su padre —Diego Zúñiga).
+108. Salomé es la que tiene más hermanos (contando hermanastros) entre ambos clubes, teniendo dos hermanos y nueve hermanastros, puesto a que sus padastros (Klaus Sepúlveda y Katherine Lane) ya tenían familias antes de volver a casarse. Actualmente Klaus está con la madre de Salomé —Renata Molina— y Katherine con su padre —Diego Zúñiga.
 
 109. Nora tiene un medio hermano, Santiago Fuentes, esto es porque su padre (Leandro Castro) actualmente está fallecido por leucémia, y su madre (Leonor Vera) actualmente está comprometida con Gustado Fuentes (digamos que él y Leandro eran amigos y cuando estaba empeorando le dijo casi de broma a Gustavo que podía casarse con Leonor —tampoco tan broma porque en su juventud hubo rivalidad porque a ambos les gustaba Leonor).
 
@@ -266,9 +266,9 @@
 
 118. Érika siempre lleva su skateboard con ella en la mochila.
 
-119. Cuando Érika y Rubén toman micro para ir a estudiar y Érika pasa sin pagar, Rubén la queda mirando y se queda junto al conductor hasta que Érika se resigna y baja para subir y pagar, entonces Rubén paga (de hecho, han pasado veces donde cuando Érika ha bajado el bus se va y tiene que subir de alguna forma antes de que Rubén se descompense).
+119. Salomé tiene cinco hermanastros (Cassia, Willow, Asher, Oakley y Hazel Lane, todos por parte de su Katherine) y una hermana mayor: Mikaela, que está en Frutillar; ella vive con su hermano menor, Nicolas, y con cuatro hermanastros: Josefina, Emilio, Vicente e Iris Sepúlveda, todos de parte de Klaus.
 
-120. [].
+120. Cuando Érika y Rubén toman micro para ir a estudiar y Érika pasa sin pagar, Rubén la queda mirando y se queda junto al conductor hasta que Érika se resigna y baja para subir y pagar, entonces Rubén paga (de hecho, han pasado veces donde, cuando Érika se baja, el bus se va y tiene que subir de alguna forma antes de que Rubén se descompense).
 
 
 # TANDA 9
