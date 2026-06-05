@@ -258,15 +258,15 @@
 
 114. La razón principal para el divorcio de Deborah y Juan fue que no podían ponerse de acuerdo en las cosas, especialmente en lo que respectaba a la crianza de Ricardo en ese entoncs (Juan siendo más estricto y represor mientras que Deborah siendo más permisiva y liberal), acuerdo que encontraron en sus parejas actuales.
 
-115. [].
+115. Noah es hijo de padres divorciados, Edward White y Beatrice Smith (cuando se divorció, ella se cambió a su apellido de soltera).
 
-116. [].
+116. Noah vive con su madre y con dos hermanos más: Cody y Ava Smith; sus otros hermanos (Mason, Chloe y Emily White) viven con Edward.
 
-117. [].
+117. La historia se va a desarrollar tomando de referencia en infraestructura al liceo polivalente B 133, todo esto en la comuna de Lo Espejo (aunque la mayoría vive en otras comunas, naturalmente).
 
-118. [].
+118. Érika siempre lleva su skateboard con ella en la mochila.
 
-119. [].
+119. Cuando Érika y Rubén toman micro para ir a estudiar y Érika pasa sin pagar, Rubén la queda mirando y se queda junto al conductor hasta que Érika se resigna y baja para subir y pagar, entonces Rubén paga (de hecho, han pasado veces donde cuando Érika ha bajado el bus se va y tiene que subir de alguna forma antes de que Rubén se descompense).
 
 120. [].
 
