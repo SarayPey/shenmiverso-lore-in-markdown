@@ -252,9 +252,9 @@
 
 111. Hablando de Ricardo, básicamente adoptó a Lego Bravo cuando él tenía diez años y sus padres siguen juntos, se lo encontró abandonado en una caja (era el único que quedaba de una camada de cachorros) y logró adoptarlo. Su nombre no es al azar, se llama Lego bravo porque tenía una mancha que parecía una pieza de lego (sí, a Ricardo le encantaban los legos en ese entonces).
 
-112. Noah adora la música rock y metal.
+112. Noah adora la música rock y metal, por algo es fan de Nirvana (que su apodo favorito sea Kurt es por Kurt Cobain).
 
-113. Peyton es hermana mayor, y al tener una madurez al ayudar en su crianza, es la mano derecha de Noah en lo que respecta a liderar el ArtClub.
+113. Peyton es la mano derecha de Noah en lo que respecta a liderar el ArtClub.
 
 114. La razón principal para el divorcio de Deborah y Juan fue que no podían ponerse de acuerdo en las cosas, especialmente en lo que respectaba a la crianza de Ricardo en ese entoncs (Juan siendo más estricto y represor mientras que Deborah siendo más permisiva y liberal), acuerdo que encontraron en sus parejas actuales.
 
