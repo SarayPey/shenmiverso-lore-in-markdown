@@ -7,6 +7,10 @@
 - Bianca Alba Araya Tapia: Vive en Melipilla, pero viene a Santiago a estudiar para tener una mejor educación, es la millonaria del grupo (Club: EcoClub).
 - Thiago Mathias Barros Muñóz: Colombiano inmigrante, siempre lo funan en internet cuando debate y Vanessa le puso control parental. Su madre falleció en un accidente en bote cuando era niño (Club: EcoClub).
 - Vanessa Raquel Rivas de Carrera: Dominicana inmigrante, quiere ser periodista, sabe español, inglés y francés y está aprendiendo portugués e italiano, adora los girasoles, sus padres están divorciados (Club: EcoClub).
+- Susana Antonella Pérez Díaz: Estudiante de judo, bully de Eirene.
+- Luciano [] Cárdenas Godoy: Chico que oculta que tiene cáncer.
+- Dante [] [] []: X.
+- Damián [] [] []: X.
 
 # 3ro medio B
 
@@ -17,20 +21,19 @@
 - Peyton Wilson: Estadounidense millonaria y amiga de la infancia de Noah, sus padres siguen casados (Club: ArtClub).
 - Milán Arturo Jiménez Vargas: Puertorriqueño fan de Alan Walker y la música electrónica en general, pero que mantiene lo que es en realidad oculto de su familia conservadora y estricta (Club: ArtClub).
 - Nora Mia Luna Castro Vera: Mejor amiga de Milán de la infancia, su padre murió cuando era niña, vive con su madre (su padre falleció por leucémia), su padastro, sus hermanos y algunos hermanastros. También adora la música electrónica, pero lo muestra abiertamente (Club: ArtClub).
+- Maite Isabella Cárdenas Godoy: Bully de Nayeli y hermana de Luciano.
+- Ignacia [] [] []: X.
+- Agustina [] [] []: X.
 
 # Pendientes de curso
 
-- Dante [] [] []: X.
-- Agustina [] [] []: X.
-- Ignacia [] [] []: X.
-- Geraldine [] [] []: X.
 - Ximena [] [] []: X.
 - Belén [] [] []: X.
-- Luciano [] [] []: X.
+- Geraldine [] [] []: X.
 - Emil [] [] []: X.
 - Simón [] [] []: X.
-- Johan [] [] []: X.
-- Greta [] [] []: X.
+- Johan [] [] []: Flaite de la zona mala de Puente Alto.
+- Greta [] [] []: Venezolana nacida en Lo Barnechea.
 - Sebastían [] [] []: X.
 - Emiliano [] [] []: X.
 - Benjamín [] [] []: X.
@@ -39,6 +42,5 @@
 - Braulio [] [] []: X.
 - Renata [] [] []: X.
 - Muriel [] [] []: X.
-- Damián [] [] []: X.
-- Erick [] [] []: X.
-- Rayen [] Huenchulao []: X.
+- Erick [] [] []: Manager de Geraldine.
+- Rayen [] Huenchulao []: Mapuche creadora de leyendas.
