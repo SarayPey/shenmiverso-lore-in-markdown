@@ -7,10 +7,12 @@
 - Bianca Alba Araya Tapia: Vive en Melipilla, pero viene a Santiago a estudiar para tener una mejor educación, es la millonaria del grupo (Club: EcoClub).
 - Thiago Mathias Barros Muñóz: Colombiano inmigrante, siempre lo funan en internet cuando debate y Vanessa le puso control parental. Su madre falleció en un accidente en bote cuando era niño (Club: EcoClub).
 - Vanessa Raquel Rivas de Carrera: Dominicana inmigrante, quiere ser periodista, sabe español, inglés y francés y está aprendiendo portugués e italiano, adora los girasoles, sus padres están divorciados (Club: EcoClub).
-- Susana Antonella Pérez Díaz: Estudiante de judo, bully de Eirene.
-- Luciano [] Cárdenas Godoy: Chico que oculta que tiene cáncer.
-- Dante [] [] []: X.
-- Damián [] [] []: X.
+- Susana Antonella Pérez Díaz: Estudiante de judo y boxeo, bully de Eirene.
+- Luciano Adriel Cárdenas Godoy: Chico que oculta que tiene cáncer.
+- Dante Ángel Godoy Mora: Enamorado de Agustina.
+- Damián Tobías Vergara Pulgar: Músico que le gusta la vida marina y la electrónica.
+- Muriel Mina Silva Reyes: Parte del grupo de básquetbol.
+- Sebastían Leo Molina Plaza: Flaite fan de Sebastían Yatra.
 
 # 3ro medio B
 
@@ -22,25 +24,30 @@
 - Milán Arturo Jiménez Vargas: Puertorriqueño fan de Alan Walker y la música electrónica en general, pero que mantiene lo que es en realidad oculto de su familia conservadora y estricta (Club: ArtClub).
 - Nora Mia Luna Castro Vera: Mejor amiga de Milán de la infancia, su padre murió cuando era niña, vive con su madre (su padre falleció por leucémia), su padastro, sus hermanos y algunos hermanastros. También adora la música electrónica, pero lo muestra abiertamente (Club: ArtClub).
 - Maite Isabella Cárdenas Godoy: Bully de Nayeli y hermana de Luciano.
-- Ignacia [] [] []: X.
-- Agustina [] [] []: X.
+- Ignacia Isabel Cabrera Concha: Ex-amiga de Bianca y ahora amiga de Maite.
+- Agustina Doris Gajardo Martínez: Enamorada de Dante.
+- Kori Suliris Peña Ñahuis: Estudiante que usa peluca para ocultar que tiene el cabello morado, no se lo puede desteñir porque tiene un trabajo en la cafetería de temática fantasía de su padre haciendo cosplay de un personaje original de él.
+- Johan Jonás Figueroa Pizarro: Flaite de la zona mala de Puente Alto.
+- Greta Marlén Colombo Vial: Venezolana nacida en Lo Barnechea.
 
 # Pendientes de curso
 
-- Ximena [] [] []: X.
-- Belén [] [] []: X.
-- Geraldine [] [] []: X.
-- Emil [] [] []: X.
-- Simón [] [] []: X.
-- Johan [] [] []: Flaite de la zona mala de Puente Alto.
-- Greta [] [] []: Venezolana nacida en Lo Barnechea.
-- Sebastían [] [] []: X.
-- Emiliano [] [] []: X.
-- Benjamín [] [] []: X.
-- Ellynor [] [] []: X.
-- Alberto [] [] []: X.
-- Braulio [] [] []: X.
-- Renata [] [] []: X.
-- Muriel [] [] []: X.
-- Erick [] [] []: Manager de Geraldine.
-- Rayen [] Huenchulao []: Mapuche creadora de leyendas.
+## Van juntos
+
+- Ximena Valeska Contreras Pardo: Cosplayer de anatomía ancha.
+- Erick Leonardo Silva Donoso: Futuro manager de Geraldine.
+- Geraldine Antonia Pereira Carrasco: Diseñadora de modas.
+
+- Benjamín Sansón Lagos Guerrero: Jugador de básquetbol enamorado de Ellynor.
+- Ellynor Matylde Aránguiz Guzmán: Jugadora de ajedrez en un lío amoroso entre Benjamín y Alberto.
+- Alberto Josué Ríos Hidalgo: Estudiante que practica calistenia y está enamorado de Ellynor.
+
+# Independientes
+
+- Emil Lautaro Villalobos Olguin: Artista otaku.
+- Braulio Jadiel Donoso Cortéz: Otaku.
+- Belén Zarina González López: Gótica.
+- Simón Axel Salamanca Paredes: Oculta que juega básquetbol.
+- Emiliano Javier Undurraga Pávez: Flaite con trauma que no recuerda, dueño secreto de uno de las cuentas de confesiones del colegio.
+- Renata Eva Vidal Lienlaf: Fan de My Little Pony que hace fanfics (y fanarts) del colegio (son muy buenos y populares, incluso en las cuentas de confesiones del colegio).
+- Rayen Asiri Huenchulao Nahuelpán: Mapuche creadora de leyendas.
