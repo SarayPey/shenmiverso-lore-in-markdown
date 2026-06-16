@@ -58,7 +58,7 @@
 	5. Aunque es bueno con las relaciones, una ardilla que le robó el gorro causó que finalmente se confesara a Darya.  
 	6. Está aprendiendo a hacer hamacas que no se queman, efectivamente no se queman, pero todavía debe mejorar en los diseños.  
 	7. Él hizo los columpios que hay en el patio trasero de la cabaña.  
-	8. Le gusta su ballesta, porque además de que de esa forma el cuarteto Darya-Andrés-Akiko-Alejandro es infalibre y todos cubren puntos débiles, se siente como un cupido de la cabaña.  
+	8. Le gusta su ballesta, porque además de que de esa forma el cuarteto Darya-Andrés-Akiko-Alejandro es infalible y todos cubren puntos débiles, se siente como un cupido de la cabaña.  
 	9. Sigue intentado avances con Elimes (Eliza-James), Michalissa (Michael-Melissa) y Jacora (Jacob-Cara), todavía no logra avances pero al menos son amigos, eso es algo. Además les tiene fe porque ya lo logró con Violec (Violeta-Alec) y Alexeph (Alexa-Joseph).  
 	10. Tiene muchos conocidos, de hecho, ella conoce a Elena (la hermana mayor de Gonzalo) desde que es niña.  
 
@@ -72,9 +72,9 @@
 **Altura:** 135cm.  
 **Peso:** 45kg.  
 **Piel:** Rojiza.  
-**Ojos:** Heterocromía, uno griz y otro dorado.  
+**Ojos:** Heterocromía, uno gris y otro dorado.  
 **Cabello:** Dorado, con una mecha amarilla.  
-**Detalles relevantes:** Siempre tiene algo de sonrojo natural, además de una mancha amarila en la zona de su ojo dorado.  
+**Detalles relevantes:** Siempre tiene algo de sonrojo natural, además de una mancha amarilla en la zona de su ojo dorado.  
 **Arma insignia:** Florero de la dulzura (Katana).  
 **Cuishiga:** Darya Collins (Akiko: Ookamimi —tiene orejas de lobo).  
 **Gema de unión:** Pulsera.  
@@ -86,7 +86,7 @@
 	1. Adora los dulces, pero es alérgica al maní.  
 	2. Le cuesta nadar, se hunde rápido.  
 	3. Es la más joven y bajita, eso es genética porque era pequeña cuando nació.  
-	4. Su piel es más sonrisada de nacimiento, si se sonroja, se vuelve un tomatito pequeño.  
+	4. Su piel es más sonrosada de nacimiento, si se sonroja, se vuelve un tomatito pequeño.  
 	5. El primer regalo de cumpleaños que tuvo en toda su vida fue un peluche que Darya le regaló cuando Akiko cumplió 10 años. Lloró de felicidad cuando lo recibió.  
 	6. Sus dulces favoritos son los EnergyCandy, unos masticables dulces que dan energía.  
 	7. Si come dulces en exceso se pone más hiperactiva de lo normal. 
@@ -266,7 +266,7 @@
 **Piel:** Oliva pálido.  
 **Ojos:** Rosas.  
 **Cabello:**Castaño, con un mechón naranjo.  
-**Detalles relevantes:** Cicatricez de golpes y cortes, una cicatríz desde su hombro derecho hasta su espalda, apariencia levemente afeminada.  
+**Detalles relevantes:** Cicatrices de golpes y cortes, una cicatriz desde su hombro derecho hasta su espalda, apariencia levemente afeminada.  
 **Arma insignia:** Defensor de la naturaleza (Navaja).  
 **Cuishiga:** Diana Ramirez (Daniel: Inumimi —tiene orejas de perro).  
 **Gema de unión:** Aretes que usa como argollas en su gorra.  
@@ -314,7 +314,7 @@
 	5. Extraña su hogar, a veces tiene pesadillas con Alan y cómo era tan joven para poder evitar su final.  
 	6. Violeta lo sonroja con facilidad, en general, es bastante expresivo aunque no lo demuestre de forma normal.  
 	7. Me lo imagino teniendo un lente de cámara junto a él que puede usar para ver las cosas sin tener que levantar su cámara.  
-	8. Cuando los otros van a resolver anomalías, normalmente él se queda en la cabaña y ayuda en la logística y análisis de datos. Solo sale si es una situación usgente o no hay personas disponibles para dicha anomalía.  
+	8. Cuando los otros van a resolver anomalías, normalmente él se queda en la cabaña y ayuda en la logística y análisis de datos. Solo sale si es una situación urgente o no hay personas disponibles para dicha anomalía.  
 	9. Es muy bueno jugando al escondite, no solo porque a veces los espíritus lo ayudan, sino porque jugaba todos los días con Alan.  
 	10. Si Zadok llega a caer, Alec seguiría en la cabaña, porque ahí tiene todo lo que desea.  
 

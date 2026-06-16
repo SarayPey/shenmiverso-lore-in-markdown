@@ -16,7 +16,7 @@
 - [ ] Concepto base
 - [ ] Cositas interesantes
 - [ ] Traumas/lore
-- [ ] 10 datos (minimo)
+- [ ] 10 datos (mínimo)
 - [ ] Posibles arcos
 - [ ] Frases que diría
 - [ ] Amigos

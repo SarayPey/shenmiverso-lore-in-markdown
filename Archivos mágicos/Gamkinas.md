@@ -26,7 +26,7 @@ Habilidades:
 - Telequinesis.  
 - Crear ilusiones (desde 0).  
 - Puede controlar las materias de sus ilusiones (que sean transparentes, tocables u otros).  
-- Usar el psico material. 
+- Usar la Psicomasa. 
 
 Soreiyahomagia (Esquizomagia): Algo similar a la Psicomagia, con la particularidad de que es para aquellos cuyas habilidades de nacimiento son consideradas "extrañas" por sus bajas probabilidades de tenerlas (Como James y su habilidad de ver cosas), tienen habilidades similares a la Psicomagia, pero con bastantes peculiaridades.  
 Habilidades:
@@ -35,7 +35,7 @@ Habilidades:
 - Generar alucinaciones (pueden basarse en sus propias ilusiones o hacer una desde 0).  
 - Posible telepatía.  
 - Leer mentes.  
-- Usar la Soreiyaho masa. 
+- Usar la Soreiyahomasa. 
 
 Espectromagia: La magia para los que tuvieron la oportunidad y se volvieron fantasmas después de la muerte (como Diamona), mantienen las habilidades que ya tenían antes de morir y reciben unas nuevas muy ingeniosas.  
 Habilidades:
@@ -49,7 +49,7 @@ Antañomagia: La magia otorgada a aquellos que han vivido siglos, incluso mileni
 Habilidades:
 - *DESARROLLANDO*
 
-Protectomagia: Esta magia es un agregado especial para aquellos que tienen la Serfania protecta.  
+Protectomagia: Esta magia es un agregado especial para aquellos que tienen la Serfanía protecta.  
 Habilidades:
 - Lanzar escudos, ya sea para defender a otro de último momento o de forma ofensiva.  
 - Creación de escudos ilusorios.  
