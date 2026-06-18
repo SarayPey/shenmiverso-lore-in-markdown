@@ -1,6 +1,6 @@
 # ECOCLUB vs ARTCLUB
 
-# Roles
+# General
 
 ## Integrantes
 
@@ -25,6 +25,19 @@
 |El de los mil apodos|Érika|Noah|
 |Peleando en Internet|Thiago|Salomé|
 |Control parental|Vanessa|Noah|
+
+## Uso de jerga chilena
+
+|Rol|EcoClub (3ro A)|ArtClub (3ro B)|
+|:-:|:-:|:-:|
+|Cotidiano|Érika, Ricardo|Kaleb[^1], Salomé, Nora|
+|De vez en cuando|Thiago|Noah|
+|Raro|Vanessa[^2]|Peyton, Milán|
+|Nunca|Eirene, Julián[^3], Bianca|Nayeli|
+
+[^1]: Ha pasado más en Chile que en Cuba.
+[^2]: En juegos o cuando está enojada
+[^3]: Nunca lo han escuchado, pero si se molesta lo suficiente lo haría, y sería legendario.
 
 ## Otros
 
@@ -52,7 +65,7 @@
 |Familia liberal|Érika, Ricardo|Nora, Kaleb|
 |Familia conservadora|Eirene|Milán|
 |Familia disfuncional|N/A|Nayeli|
-|Familia compleja|Ricardo (padre trabajando, madastra compleja, madre lejos, padastro desconocido)|Salomé (muchos hermanos, padre al sur de Chile, madre y padastro trabajando)|
+|Familia compleja|Ricardo (padre trabajando y estricto, madastra compleja, madre lejos)|Salomé (muchos hermanos, padre al sur de Chile, madre y padastro trabajando)|
 
 ## Orígenes
 
@@ -90,10 +103,10 @@
 |:-:|:-:|:-:|
 |Hijo único|Ricardo, Thiago,|Kaleb, Nayeli, Milán|
 |Hermano mayor|Érika *(1 hermano)*, Julián *(1 hermana + 1 hermano)*, Bianca *(2 hermanas)*|Noah *(3 hermanas + 2 hermanos)*|
-|Hermano mediano|Vanessa *(1 hermano + 1 hermanastra)*|Salomé *(1 hermana, 1 hermano, 5 hermanastras y 4 hermanastros)** , Nora *(2 hermanos + 1 hermana + 2 hermanastras + 1 hermanastro)*|
+|Hermano mediano|Vanessa *(1 hermano + 1 hermanastra)*|Salomé *(1 hermana, 1 hermano, 5 hermanastras y 4 hermanastros)[^4]* , Nora *(2 hermanos + 1 hermana + 2 hermanastras + 1 hermanastro)*|
 |Hermano menor|Eirene *(1 hermana)*|Peyton *(2 hermanos)*|
 
-*: *(De forma exacta los hermanos de Salomé son: 1 hermano + 2 hermanastras —padastro— + 3 hermanastras —madastra— + 2 hermanastros —padastro— + 2 hermanastros —madastra— + 1 hermana)*
+[^4]: *De forma exacta los hermastros de Salomé son 2 hermanastras (padastro) + 3 hermanastras (madastra) + 2 hermanastros (padastro) + 2 hermanastros (madastra)*
 
 ***
 
@@ -146,7 +159,17 @@
 |Llega justo|Érika, Eirene|Nayeli|
 |Llega tarde|Ricardo, Thiago|Kaleb, Salomé|
 
-## Notas
+## Rango de notas[^5]
+
+|Rol|EcoClub (3ro A)|ArtClub (3ro B)|
+|:-:|:-:|:-:|
+|1,0 — 3,9|N/A|N/A|[^6]
+|4,0 — 4,9|Ricardo (4,5)|Nora (4,5), Kaleb (4,8)|
+|5,0 — 5,9|Érika (5,9), Bianca (5,5), Thiago (5,7)|Noah (5,8), Salomé (5,3), Peyton (5,7)|
+|6,0 — 7,0|Eirene (6,7), Julían (6,9), Vanessa (6,4)|Nayeli (6,6), Milán (6,5)|
+
+[^5]: Esto es un promedio general, pueden haber fluctuaciones, pero siempre dentro de cierto rando.
+[^6]: Aunque por ahora no hay nadie ahí, a inicios de años anteriores este puesto sería ocupado por Ricardo y por Nora.
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |:-:|:-:|:-:|
