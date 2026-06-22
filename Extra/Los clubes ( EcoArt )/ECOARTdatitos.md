@@ -56,7 +56,7 @@
 
 27. Eirene tiene una hermana mayor, se llama Valentina Barbara Castillo Soto, tiene unos 24 años y es estudiante de diseño de interiores en la universidad de Chile (antes de eso sacó el título de ingienería en mecánica automotriz en la universidad Federico Santa María), es la rebelde de la familia porque tiene un estilo alternativo (creen que Érika es su mejor amiga).
 
-28. La historia se va a desarrollar tomando de referencia en infraestructura al liceo polivalente B 133, todo esto en la comuna de Lo Espejo (aunque la mayoría vive en otras comunas, naturalmente).
+28. La historia se va a desarrollar en el Colegio Bicentenario Antares Subercaseaux (colegio ficticio creado solo para esta ocación), todo esto en la comuna de Lo Espejo (aunque la mayoría vive en otras comunas naturalmente).
 
 29. Julián NUNCA ha llevado al grupo a su casa.
 
@@ -80,17 +80,17 @@
 
 39. Érika siempre lleva su skateboard con ella en la mochila.
 
-40. [].
+40. Julián tiene un lunar en la rodilla.
 
-41. [].
+41. Julián tiene unas gafas de mentira en su mochila que le regaló Ricardo para que hiciera el meme del "de hecho 🤓☝️".
 
-42. [].
+42. Ricardo se pone a hacer música y remixes de vez en cuando.
 
-43. [].
+43. Julián también hace música, pero nadie del EcoClub lo sabe.
 
-44. [].
+44. En términos de gustos y personalidad, a Nayeli le gusta dibujar, cantar y hacer música; a veces va a la casa de Julián a estudiar y ayudarlo con los gráficos de sus juegos. Ambos se entienden perfectamente, tratan de aprender más y no entienden por qué hay rivalidad entre sus cursos.
 
-45. [].
+45. Julián y Nayeli son la clave para unificar los cursos, son amigos en secreto, esconden sus problemas de los amigos del otro y evitan meterse en los problemas de los cursos.
 
 46. [].
 

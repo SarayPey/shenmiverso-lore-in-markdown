@@ -152,7 +152,7 @@
 
 67. Julián tiene unas gafas de mentira en su mochila que le regaló Ricardo para que hiciera el meme del "de hecho 🤓☝️".
 
-68. Ricardo se pone a hacer música y remixes de vez en cuando (Julián también hace música, pero ninguno lo sabe)
+68. Ricardo se pone a hacer música y remixes de vez en cuando (Julián también hace música, pero ninguno lo sabe).
 
 69. Los primos maternos de Julián, Cristina, Martina y Gael fueron manipulados por sus padres para que estos se lleven mal con los mencionados, cuando aparecen es para molestarlos por ser pobres.
 

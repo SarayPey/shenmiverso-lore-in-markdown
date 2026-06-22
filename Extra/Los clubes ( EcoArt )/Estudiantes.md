@@ -44,7 +44,24 @@
 - Ellynor Matylde Aránguiz Guzmán: Jugadora de ajedrez en un lío amoroso entre Benjamín y Alberto.
 - Alberto Josué Ríos Hidalgo: Estudiante que practica calistenia y está enamorado de Ellynor.
 
-# Independientes
+***
+
+- [][][][]: X.
+- [][][][]: X.
+- [][][][]: X.
+- [][][][]: X.
+- [][][][]: X.
+- [][][][]: X.
+- [][][][]: X.
+- [][][][]: X.
+- [][][][]: X.
+- [][][][]: X.
+- [][][][]: X.
+- [][][][]: X.
+- [][][][]: X.
+- [][][][]: X.
+
+## Independientes
 
 - Emil Lautaro Villalobos Olguín: Artista otaku.
 - Braulio Jadiel Donoso Cortéz: Otaku.
@@ -52,4 +69,4 @@
 - Simón Axel Salamanca Paredes: Oculta que juega básquetbol.
 - Emiliano Javier Undurraga Pávez: Flaite con trauma que no recuerda, dueño secreto de una de las cuentas de confesiones del colegio.
 - Renata Eva Vidal Lienlaf: Fan de My Little Pony que hace fanfics (y fanarts) del colegio (son muy buenos y populares, incluso en las cuentas de confesiones).
-- Rayen Asiri Huenchulao Nahuelpán: Mapuche creadora de leyendas. 
+- Rayen Asiri Huenchulao Nahuelpán: Mapuche creadora de leyendas.
