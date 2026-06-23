@@ -22,7 +22,7 @@
 |017|1971|MES|DD|Cecilia Muñoz|
 |018|1971|MES|DD|Mirella Acevedo|
 |019|1971|MES|DD|Leonor Vera|
-|020|1972|MES|DD|Emilio Herrera|
+|020|1972|MES|DD|Eduardo Herrera|
 |021|1972|MES|DD|Juan Ulloa|
 |022|1972|MES|DD|Gustavo Fuentes|
 |023|1973|MES|DD|Yesenia Olivares|
