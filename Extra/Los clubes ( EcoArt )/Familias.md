@@ -84,7 +84,7 @@
 **Padres:** Mauricio Aguilar (?) & Miranda Herrera (?)  
 **Tutores:** Gaspar Aguilar & Fabiola Lagos   
 **Abuelos:** Jerónimo Herrera & Carolina Farias  
-**Tíos:** Rafaella Aguilar, Emilio Herrera & Amparo Bustamante  
+**Tíos:** Rafaella Aguilar, Eduardo Herrera & Amparo Bustamante  
 **Primos:** Daphne Aguilar, Marlén Herrera & Dante Herrera  
 
 ## 2.3. Salomé Arleth Zúñiga Molina  
