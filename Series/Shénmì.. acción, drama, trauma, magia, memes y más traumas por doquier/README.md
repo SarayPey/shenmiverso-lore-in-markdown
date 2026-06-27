@@ -97,9 +97,9 @@
 10. Cap 09: Los guías policiales 🫪
 11. Cap 10: Preparación del vengador 🫪
 12. Cap 11: Tras los ojos celestes y la doctora 🫪
-13. Cap 12: Acuarias: Bajo el océano y sobre la oscuridad 😶‍🌫️
-14. Cap 13: Cuando un gusto se vuelve veneno 😶‍🌫️
-14. Cap 14: Tras la sombra del fotógrafo de espíritus 🫥
+13. Cap 12: Acuarias: Bajo el océano y sobre la oscuridad 🫪
+14. Cap 13: Cuando un gusto se vuelve veneno 🫪 (Corrigiendo)
+14. Cap 14: Tras la sombra del fotógrafo de espíritus 😶‍🌫️
 16. Cap 15: Yìshù: Toques de ninjas y arte 🫥
 17. Cap 16: Viator memoriarum 🫥
 18. Cap 17: Un día desastroso con los 20 🫥
@@ -110,7 +110,7 @@
 23. Cap 22: Con altura de mira 🫥
 24. Cap 23: Al7er3d l1ne5: Villanos y cazadores 🫥
 25. Cap 24: Al7er3d l1ne5: Héroes y cuentos de hadas 🫥
-26. Cap 25: Shotsindescai en aprietos 🫥
+26. Cap 25: Shotsindescai en aprietos 😶‍🌫️
 27. Cap 26: Humanidad metalizada 🫥
 28. Cap 27: Ojos de terror 🫥
 29. Cap 28: Reckoning 😶‍🌫️
