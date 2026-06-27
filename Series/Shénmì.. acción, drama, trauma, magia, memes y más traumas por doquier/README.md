@@ -19,7 +19,7 @@
 **Temporada:** Lo que me alcance. (28-33 capítulos cada una)  
 **Producción:** 2025.  
 **Idea original:** SarayPey (yo).  
-> > [!CAUTION]
+> [!CAUTION]
 > **Público:** 15+ (Contiene temas sensibles, acción, sangre y discursos de odio).  
 
 ***
