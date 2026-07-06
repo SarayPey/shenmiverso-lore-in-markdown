@@ -303,7 +303,7 @@
 **Anish:** Christian Garten.  
 **Gema de unión:** Broche.  
 **Rol en el grupo:** Fotógrafo sensible que todos aman.  
-**Lore rápido:** Tenía una vida feliz en Jeonsa, vivía con su madre, su padre y su hermano mayor Alan (que era un pintor), hasta que inculparon a su padre y Zadok (el juez corrupto del piloto) le dio pena de muerte, cuando Alec tenía 12 años, vio a su hermano acabar con su propia vida saltando del edificio más alto de Jeonsa. Su madre falleció tiempo después por pena, pero una vecina de Ñore lo adoptó hasta que le dijo que fuera a Senlín a enfrentar a Zadok para hacerlo pagar por lo que causó en su familia.  
+**Lore rápido:** Tenía una vida feliz en Jeonsa, vivía con su madre, su padre y su hermano mayor Alan (que era un pintor), hasta que inculparon a su padre y Zadok le dio pena de muerte, cuando Alec tenía 12 años, vio a su hermano acabar con su propia vida saltando del edificio más alto de Jeonsa. Su madre falleció tiempo después por pena, pero una vecina de Ñore lo adoptó hasta que le dijo que fuera a Senlín a enfrentar a Zadok para hacerlo pagar por lo que causó en su familia.  
 **Cómo llegó al grupo:** En su búsqueda de respuestas, un espíritu benigno lo guió a la cabaña.  
 **En el presente:** Es el cuishigo más tranquilo de la cabaña, nunca empieza pleitos y trata de controlarlos, además de sacar las fotos del grupo.  
 **Diez datos:**
@@ -638,4 +638,4 @@
 	9. Prefiere que todo sea planeado y anticipado, no es amante de las improvisaciones (Adam es experto improvisando, ella no sabe cómo una gran parte de sus planes funcionan).  
 	10. Es díficil verla expresar alguna emoción, pero sus expresiones habituales son sutiles (la más notoria suele ser la molestia o el estrés).  
 
-**Un secreto:** (OH NO) por razones que ni siquiera ella sabe, es la mensajera de la guardiana elesterlia, osea, le toca entregar los elesterlios a los elegidos para mantener a la guardiana a salvo.
+**Un secreto:** (OH NO) por razones que ni siquiera ella sabe, es la mensajera de la guardiana elesterlia, o sea, le toca entregar los elesterlios a los elegidos para mantener a la guardiana a salvo.
