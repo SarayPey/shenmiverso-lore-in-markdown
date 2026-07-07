@@ -23,7 +23,7 @@
 13. Milán Arturo Jiménez Vargas: @milan.JV ().
 14. Nora Mia Luna Castro Vera: @N0r4_W4lk3r ().
 15. Susana Antonella Pérez Díaz: @Susy.Chandler ().
-16. Luciano Adriel Cárdenas Godoy: @Luck_dark055 ().
+16. Luciano Adriel Cárdenas Godoy: @Luckk_dark055 ().
 17. Dante Ángel Godoy Mora: @ ().
 18. Damián Tobías Vergara Pulgar: @ ().
 19. Muriel Mina Silva Reyes: @ ().
@@ -36,7 +36,7 @@
 26. Rayen Asiri Huenchulao Nahuelpán: @RayChy ().
 27. Emil Lautaro Villalobos Olguín: @ ().
 28. Mía Francesca Opazo Muñoz: @girlyyP0p ().
-29. Arturo Alexis Vidal Sepúlveda: @Vidal_Arturo ().
+29. Arturo Alexis Vidal Sepúlveda: @VidalArtur ().
 30. Leire Antonia Bascuñán Orellana: @LyliPop_ ().
 31. Pablo Ignacio Maturana Flores: @ ().
 32. Ana Belén San Martín Olivares: @ ().
@@ -57,18 +57,18 @@
 47. Alberto Josué Ríos Hidalgo: @ ().
 48. Braulio Jadiel Donoso Cortéz: @ ().
 49. Emiliano Javier Undurraga Pávez: @ ().
-50. Gaspar Alonso Toro Paredes: @_AstraCoffee.cl ().
-51. Fermín Esteban Campos Astudillo: @ ().
+50. Gaspar Alonso Toro Paredes: @Karieel_AstraCoffee.cl ().
+51. Fermín Esteban Campos Astudillo: @FelzanioOG (Instagram, TikTok, YouTube, Twitch, Kick).
 52. Hilda del Carmen Quintelén Carimán: @ ().
 53. Candelaria Jesús Quintelén Carimán: @ ().
 54. Renata Eva Meñique Lienlaf: @antaresSubxX_ (Wattpad).
 55. Doris Estefanía Poblete Maluenda: @ ().
-56. Jessenia Yulitza Gutiérrez Mendoza: @AstraCoffee.cl ().
+56. Jessenia Yulitza Gutiérrez Mendoza: @Yulizya_AstraCoffee.cl ().
 57. Anthony Maicol Sifuentes Henríquez: @ ().
 58. Jadiel Emanuel Cáceres Fuentes: @ ().
 59. Martín Alexis Loyola Arriagada: @ ().
 60. Mateo Tomás Arancibia Salgado: @ ().
 61. Amaro León Fuenzalida Rojas: @ ().
-62. Rick Damiano Sanhueza Ortega: @ ().
+62. Rick Damiano Sanhueza Ortega: @Ric ().
 
 [^1]: Inactiva desde 2018 porque no tiene internet para usarla, pero había alcanzado a hacer un par de jueguitos.
