@@ -11,5 +11,7 @@
 8. , manifestación de la luz.
 9. , manifestación de la oscuridad.
 10. , manifestación de la naturaleza.
+11. , manifestación de la vida
+12. , manifestación de la muerte.
 
 [^1]: Normalmente son vistos en su forma animal, puesto a que prefieren no ser confundidos por los primordiales (en forma humana tienen una forma etérea como ellos).
