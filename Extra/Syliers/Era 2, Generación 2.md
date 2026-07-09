@@ -7,7 +7,7 @@
 |Darya Collins|Sylier|Elesterlio|Agua|Irvette|
 |Renato []|Sylier|Visterlio|Fantasmal|[]|
 |Andrés Johnson|Sylier|Elesterlio|Fuego|Mishan|
-|Natasha []|Sylier|Visterlio|Bombas/Silencio|Saykalen|
+|Natasha []|Sylier|Visterlio|Explosión|Saykalen|
 |Alejandro Rivera|Sylier|Elesterlio|Luz|Elián|
 |Raelynn White|Sylier|Visterlio|Poder|Controlmentris|
 |Laura Flores|Sylier|Elesterlio|Viento|Breeze|

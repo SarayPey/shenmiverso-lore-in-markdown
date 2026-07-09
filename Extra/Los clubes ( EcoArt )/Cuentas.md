@@ -68,7 +68,7 @@
 58. Jadiel Emanuel Cáceres Fuentes: @ ().
 59. Martín Alexis Loyola Arriagada: @ ().
 60. Mateo Tomás Arancibia Salgado: @ ().
-61. Amaro León Fuenzalida Rojas: @ ().
-62. Rick Damiano Sanhueza Ortega: @Ric ().
+61. Amaro León Fuenzalida Rojas: @Nah.Leon124 ().
+62. Rick Damiano Sanhueza Ortega: @Ric78 ().
 
 [^1]: Inactiva desde 2018 porque no tiene internet para usarla, pero había alcanzado a hacer un par de jueguitos.
