@@ -26,7 +26,7 @@
 |Peleando en Internet|Thiago|Salomé|
 |Control parental|Vanessa|Noah|
 
-## Uso de jerga chilena
+## Uso de jerga chilena (Groserías y la palabra weon y sus variantes principalmente, pero incluye chilenismos en general).
 
 |Rol|EcoClub (3ro A)|ArtClub (3ro B)|
 |:-:|:-:|:-:|
