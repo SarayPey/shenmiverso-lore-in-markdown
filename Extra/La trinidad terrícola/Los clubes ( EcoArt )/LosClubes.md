@@ -2,8 +2,8 @@
 
 |Fecha|Evento|
 |:-:|:-:|
-|1963|Manuel Hurtado nace|
-|1971|Cecilia Muñoz nace|
+|1960|Manuel Hurtado nace|
+|1968|Cecilia Muñoz nace|
 |2007|Nora Castro nace|
 |2007|Ricardo Ulloa nace|
 |2008|Érika Valdés nace|

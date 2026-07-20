@@ -1,4 +1,4 @@
-# *Los clubes* (EcoClub & ArtClub) × *El viaje al más allá* (Juno, James y Willow)
+# *Los clubes: EcoArt* (EcoClub & ArtClub) × *El viaje al más allá* (Juno, James y Willow)
 
 - James, Juno y Willow viven en Frutillar, al sur de Chile.
 - La madre de Willow se casó con otro hombre tras la muerte de su padre.
@@ -9,7 +9,7 @@
 - Willow es hermanastra de Salomé.
 - Probablemente James y Juno la conocen.
 
-# *Los clubes* (EcoClub & ArtClub) × *Ruegos y una fantasía* (Víctor, Valeria, Nelson, Lisa)
+# *Los clubes: EcoArt* (EcoClub & ArtClub) × *Ruegos y una fantasía* (Víctor, Valeria, Nelson, Lisa)
 
 - Julián (EcoClub) tiene una madre, Paloma.
 - Paloma tiene un padrino, Ernesto Villa.
@@ -18,7 +18,11 @@
 - De hecho, Víctor no se llamaba Víctor cuando nació, su nombre cuando nació era Steven Adams.
 - Víctor descubrió que tiene un hermano llamado John (en su tiempo como investigador encontró unos pasaportes antiguos y reconoció el nombre de sus padres), pero no sabe que ahora es Ernesto Villa.
 - Ernesto todavía no sabe que tiene un hermano menor, y mucho menos de lo que ha pasado (el internado, los abusos).
-- 
+
+# *Los clubes: EcoArt* (EcoClub & ArtClub) × *Ruegos y una fantasía* (Víctor, Valeria, Nelson, Lisa)
+
+- Similar a lo que dijismos antes, Víctor sufrió abusos en un internado católico.  
+- Cecilia estuvo ahí en esa época, también sufriendo ese abuso.
 
 # *Ruegos y una fantasía* (Víctor, Valeria, Nelson, Lisa) × *Expedición Sombrarix: renacer* (Adam, Maryam, Brayan, Luis, Evelyn, Melissa, Eneko, Orfeo)
 
@@ -33,6 +37,6 @@
 
 # *Ruegos y una fantasía* (Víctor, Valeria, Nelson, Lisa) × *Parfataras*
 
-- *Los clubes* y *El viaje al más alla* tienen parfataras (Julián, Érika, Juno, James y Willow).
-- Pero Víctor y Ryuf en general ha hecho MÁS por Shénmì que *Los clubes*, que no los conocen, ¿no debería al menos Víctor ser parte de los Parfataras?
+- *Los clubes: EcoArt* y *El viaje al más alla* tienen parfataras (Julián, Érika, Juno, James y Willow).
+- Pero Víctor y Ryuf en general ha hecho MÁS por Shénmì que *Los clubes: EcoArt*, que no los conocen, ¿no debería al menos Víctor ser parte de los Parfataras?
 - Mira de nuevo. 👀

@@ -21,14 +21,14 @@
 |1956|Mochu|Hasikari nace|✗|
 |1958|Tierra|Nelson Araneda nace|✗|
 |1959|Mochu|Harkan descubre juventud y longevidad|✗|
-|1963|Tierra|Manuel Hurtado nace|✗|
+|1960|Tierra|Manuel Hurtado nace|✗|
 |1966|Tierra|Valeria Yáñez nace|✗|
+|1968|Tierra|Cecilia Muñoz nace|✗|
 |1969|Tierra|Víctor Adams nace|✗|
 |1970|Tierra|María Watts nace|✗|
-|1971|Tierra|Cecilia Muñoz nace|✗|
 |1972|Tierra|Fransisco Watts nace|✗|
 |1973|Tierra|Víctor mandado a internado|✗|
-|1976|Tierra|Cecilia mandada a internado|✗|
+|1973|Tierra|Cecilia mandada a internado|✗|
 |1986|Tierra|Kai Watts nace|✗|
 |1986|Tierra|Padre de Kai muere|✗|
 |1987|Tierra|María Watts es asesinada|✗|

@@ -10,16 +10,17 @@
 |005|1940|MES|DD|Carolina Farias|
 |006|1953|MES|DD|John Adams (Ernesto Villa)|
 |007|1953|MES|DD|Alba Silveira|
-|008|1963|MES|DD|Manuel Hurtado|
+|008|1960|MES|DD|Manuel Hurtado|
 |009|1965|MES|DD|Armando Reyes|
 |010|1968|MES|DD|Úrsula Castro|
+|010|1968|MES|DD|Cecilia Muñoz|
 |011|1969|MES|DD|Fabio Medina| 
+|012|1969|Septiembre|18|Steven Adams (Víctor)| 
 |012|1970|MES|DD|Leandro Castro|
 |013|1970|MES|DD|Amparo Bustamante|
 |014|1970|MES|DD|Caleb Sandoval|
 |015|1970|MES|DD|Simón Vargas|
 |016|1971|MES|DD|Deborah Jiménez|
-|017|1971|MES|DD|Cecilia Muñoz|
 |018|1971|MES|DD|Mirella Acevedo|
 |019|1971|MES|DD|Leonor Vera|
 |020|1972|MES|DD|Eduardo Herrera|
@@ -63,7 +64,7 @@
 |058|2002|MES|DD|Josefina Sepúlveda|
 |059|2002|MES|DD|Trinidad Fuentes|
 |060|2003|MES|DD|Daphne Aguilar|
-|061|2004|MES|DD|Sawyer Wilson|
+|061|2002|MES|DD|Sawyer Wilson|
 |062|2004|MES|DD|Ángela Castro|
 |104|2004|MES|DD|Mikaela Zúñiga|
 |064|2004|MES|DD|Lincoln Wilson|
@@ -73,8 +74,9 @@
 |068|2005|MES|DD|Maximiliano Rivas|
 |069|2006|MES|DD|Dante Herrera|
 |070|2006|MES|DD|Emilio Sepúlveda|
+|072|2006|MES|DD|Asher Lane|
+|071|2007|MES|DD|Juno y James Rosales|
 |071|2007|MES|DD|Willow Lane|
-|072|2007|MES|DD|Asher Lane|
 |073|2007|Marzo|06|Nora Castro|
 |074|2007|Julio|26|Ricardo Ulloa|
 |075|2008|Enero|15|Érika Valdés|
