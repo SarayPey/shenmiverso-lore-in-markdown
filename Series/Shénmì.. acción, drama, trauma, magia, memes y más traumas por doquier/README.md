@@ -20,7 +20,7 @@
 **Producción:** 2025.  
 **Idea original:** SarayPey (yo).  
 > [!CAUTION]
-> **Público:** 15+ (Contiene temas sensibles, acción, sangre y discursos de odio).  
+> Público: A partir de los 18 años (Temas sensibles, sangre, violencia, fobias, mención de muerte, mención de suicidio).  
 
 ***
 
@@ -35,14 +35,14 @@
 > 
 > *~Cantando~*
 > 
-> *//Pueden ser rolitas reales o canciones que se ocurren porque sí, si es la segunda, normalmente las canciones se me ocurren en inglés. Lo voy a especificar en ese momento-//*
+> *// Pueden ser rolitas reales o canciones que se ocurren porque sí, si es la segunda, normalmente las canciones se me ocurren en inglés. Lo voy a especificar en ese momento- //*
 > 
-> *//Fuera de rol para aclarar detalles//*
+> *// Fuera de rol para aclarar detalles //*
 > 
 > 
 > ⇢✮✮✮⋯⋯⋯✶✷✵✷✶⋯⋯⋯✮✮✮⇠ = Cambio de escena (OC mirando y hablando a la cámara como un reality o escena general)
 > 
-> ◕﹡✧﹡✦⋄✦﹡✧﹡◕ = (Cambio de POV *//solo en las escenas de personajes hablando a cámara//*)
+> ◕﹡✧﹡✦⋄✦﹡✧﹡◕ = (Cambio de POV *// solo en las escenas de personajes hablando a cámara //*)
 >
 > ***
 > 
@@ -62,7 +62,7 @@
 > 
 > ### Presentación de los capítulos:
 > 
-> *「 DD/MM/AAAA 」*
+> *「 DD/MM/AAAA 」* *// ← Fecha de creación/conceptualización del capítulo //.*
 > 
 > # Shénmì: acción, drama, trauma, magia, memes y más traumas por doquier — *[Género]* edition*
 > 
@@ -98,16 +98,16 @@
 11. Cap 10: Preparación del vengador 🫪
 12. Cap 11: Tras los ojos celestes y la doctora 🫪
 13. Cap 12: Acuarias: Bajo el océano y sobre la oscuridad 🫪
-14. Cap 13: Cuando un gusto se vuelve veneno 🫪 (Corrigiendo)
+14. Cap 13: Cuando un gusto se vuelve veneno 🫪
 14. Cap 14: Tras la sombra del fotógrafo de espíritus 😶‍🌫️
 16. Cap 15: Yìshù: Toques de ninjas y arte 🫥
-17. Cap 16: Viator memoriarum 🫥
+17. Cap 16: Viator memoriarum 😶‍🌫️
 18. Cap 17: Un día desastroso con los 20 🫥
 19. Cap 18: Pastlink 🫥
 20. Cap 19: ElectroShock 🫥
 21. Cap 20: Secretos de una asociación en ruinas 🫥
 22. Cap 21: Chef de milagros 🫥
-23. Cap 22: Con altura de mira 🫥
+23. Cap 22: Con altura de mira 😶‍🌫️
 24. Cap 23: Al7er3d l1ne5: Villanos y cazadores 🫥
 25. Cap 24: Al7er3d l1ne5: Héroes y cuentos de hadas 🫥
 26. Cap 25: Shotsindescai en aprietos 😶‍🌫️
