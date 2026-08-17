@@ -1,15 +1,15 @@
-# *Los clubes: EcoArt* (EcoClub & ArtClub) × *El viaje al más allá* (Juno, James y Willow)
+# Los clubes: EcoArt (EcoClub & ArtClub) × El viaje al más allá (Juno, James y Willow)
 
 - James, Juno y Willow viven en Frutillar, al sur de Chile.
 - La madre de Willow se casó con otro hombre tras la muerte de su padre.
-- Willow tiene un hermanastro (que vive en Santiago con la ex-esposa de su padastro) y dos hermanastras, una que vive con la ex-esposa de su padastro y la otra que vive con ellos. Además de que ella tiene dos hermanas y dos hermanos.
+- Willow tiene un hermanastro (que vive en Santiago con la ex-esposa de su padrastro) y dos hermanastras, una que vive con la ex-esposa de su padrastro y la otra que vive con ellos. Además de que ella tiene dos hermanas y dos hermanos.
 - Salomé (ArtClub) vive en Santiago de Chile.
 - Vive con su madre, su padastro, su hermano, dos hermanastros y dos hermanastras.
 - Salomé de vez en cuando debe ir a la casa de su madre, la cual está casada con otro hombre.
 - Willow es hermanastra de Salomé.
 - Probablemente James y Juno la conocen.
 
-# *Los clubes: EcoArt* (EcoClub & ArtClub) × *Ruegos y una fantasía* (Víctor, Valeria, Nelson, Lisa)
+# Los clubes: EcoArt (EcoClub & ArtClub) × Ruegos y una fantasía (Víctor, Valeria, Nelson, Lisa)
 
 - Julián (EcoClub) tiene una madre, Paloma.
 - Paloma tiene un padrino, Ernesto Villa.
@@ -19,11 +19,15 @@
 - Víctor descubrió que tiene un hermano llamado John (en su tiempo como investigador encontró unos pasaportes antiguos y reconoció el nombre de sus padres), pero no sabe que ahora es Ernesto Villa.
 - Ernesto todavía no sabe que tiene un hermano menor, y mucho menos de lo que ha pasado (el internado, los abusos).
 
-# *Los clubes: EcoArt* (EcoClub & ArtClub) × *Ruegos y una fantasía* (Víctor, Valeria, Nelson, Lisa)
+# Los clubes: EcoArt (EcoClub & ArtClub) × Ruegos y una fantasía (Víctor, Valeria, Nelson, Lisa)
 
-- Similar a lo que dijismos antes, Víctor sufrió abusos en un internado católico.  
+- Similar a lo que dijimos antes, Víctor sufrió abusos en un internado católico.
 - Cecilia estuvo ahí en esa época, también sufriendo ese abuso.
 
+# Ruegos y una fantasía (Víctor, Nelson, Valeria, Lisa) × El viaje al más allá (Juno, James, Willow)
+
+- Al inicio de la 3ra parte (LOSIX), Juno decide guiar al grupo a casa de Salomé.
+- Como Juno es Juno y es mala con las direcciones, terminaron en los restos del Internado católico Santa Julia de Cartago.
 # *Ruegos y una fantasía* (Víctor, Valeria, Nelson, Lisa) × *Expedición Sombrarix: renacer* (Adam, Maryam, Brayan, Luis, Evelyn, Melissa, Eneko, Orfeo)
 
 - Es curioso que el apellido de Víctor es Adams.
