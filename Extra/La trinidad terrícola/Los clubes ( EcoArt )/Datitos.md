@@ -318,22 +318,22 @@
 
 140. Salomé y Thiago se funan en redes.
 
-141. La forma en que Ricardo despierta en su cama y sabe que se quedo dormido por estar ebrio (porque a veces se queda dormido por cansancio, y normalmentre no se acuerda de por qué ni cómo se durmió) es porque Yesenia normalmente le deja un frasco de Paracetamol y un vaso de agua.
+141. La forma en que Ricardo despierta en su cama y sabe que se quedo dormido por estar ebrio (porque a veces se queda dormido por cansancio, y normalmentre no se acuerda de por qué ni cómo se durmió) es porque Yesenia normalmente le deja un frasco de Paracetamol y un vaso de agua para la resaca.
 
 142. Martín (el padre de Bianca) es el CEO y fundador de *L'éclat de Bianca*, una empresa de modelaje y diseño textil, Isabel (la madre de Bianca) es la modelo estrella.
 
-143. [].
+143. Peyton ama las novelas románticas (y a Noah).
 
-144. [].
+144. Cómo el 3ro A es impar (tienen 31 estudiantes, 3ro B también tienen 31), Julián suele quedarse solo en los trabajos que son en parejas.
 
-145. [].
+145. Érika es presidente de la directiva del 3ro A y Vanessa es la secretaria. En el caso de 3ro B, Kaleb es el presidente de directiva y Noah es su vicepresidente.
 
-146. [].
+146. Manuel y Cecilia se conocieron en el Internado católico Santa Julia de Cartago.
 
-147. [].
+147. Kaleb tiene un walkie talkie de cuando escapó de Cuba, todavía lo usa para tratar de tener una señal de vida de sus padres.
 
-148. [].
+148. Milán suele dormirse en el hombro de Nora cuando tiene sueño, se siente seguro con ella.
 
-149. [].
+149. Noah sabe tocar la guitarra, el oboe, la flauta y el saxofón.
 
-150. [].
+150. La rivalidad de cursos no es más que una ilusión, pues hay muchos reflejos (especialmente entre EcoClub y ArtClub) y hay algunas relaciones secretas entre cursos que complican la existencia de la rivalidad.
