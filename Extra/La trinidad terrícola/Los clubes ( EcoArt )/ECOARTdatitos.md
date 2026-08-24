@@ -58,25 +58,23 @@
 
 28. Eirene tiene una hermana mayor, se llama Valentina Barbara Castillo Soto, tiene unos 24 años y es estudiante de diseño de interiores en la universidad de Chile (antes de eso sacó el título de ingeniería en mecánica automotriz en la universidad Federico Santa María), es la rebelde de la familia porque tiene un estilo alternativo de motocicleta estadounidense (creen que Érika es su mejor amiga).
 
-29. 
+29. Julián NUNCA ha llevado al grupo a su casa.
 
-30. Julián NUNCA ha llevado al grupo a su casa.
+30. Por cierto, Julián es el mayor de su generación (fue el primer nieto de Alba y Pedro y el primer hijo de sus padres —Paloma Sandoval y Leonardo Riquelme).
 
-31. Por cierto, Julián es el mayor de su generación (fue el primer nieto de Alba y Pedro y el primer hijo de sus padres —Paloma Sandoval y Leonardo Riquelme).
+31. Érika tiene un hermano menor, se llama Rubén Ramiro, es autista y bastante energético, tiene un spinner y un peluche como objetos de contención emocional. Tiene nueve años pero está en quinto básica (sí, lo adelantaron).
 
-32. Érika tiene un hermano menor, se llama Rubén Ramiro, es autista y bastante energético, tiene un spinner y un peluche como objetos de contención emocional. Tiene nueve años pero está en quinto básica (sí, lo adelantaron).
+32. Cuando Érika y Rubén toman micro para ir a estudiar y Érika pasa sin pagar, Rubén la queda mirando y se queda junto al conductor hasta que Érika se resigna y baja para subir y pagar, entonces Rubén paga (de hecho, han pasado veces donde cuando Érika ha bajado el bus se va y tiene que subir de alguna forma antes de que Rubén se descompense).
 
-33. Cuando Érika y Rubén toman micro para ir a estudiar y Érika pasa sin pagar, Rubén la queda mirando y se queda junto al conductor hasta que Érika se resigna y baja para subir y pagar, entonces Rubén paga (de hecho, han pasado veces donde cuando Érika ha bajado el bus se va y tiene que subir de alguna forma antes de que Rubén se descompense).
+33. Aunque Julián es bastante listo, ordenado y le gusta aprender (el estudiante que muchos profesores querrían y el joven que muchos adultos querrían como hijo), es bastante retraído e inseguro, siente que no pertenece por ser distinto a otros chicos, incluso siendo distinto a los hombres del EcoClub (Ricardo siendo un caos divertido, Thiago viviendo con calma), algo que se refuerza en clases (y en matemáticas especialmente) al ver a sus compañeros.
 
-34. Aunque Julián es bastante listo, ordenado y le gusta aprender (el estudiante que muchos profesores querrían y el joven que muchos adultos querrían como hijo), es bastante retraído e inseguro, siente que no pertenece por ser distinto a otros chicos, incluso siendo distinto a los hombres del EcoClub (Ricardo siendo un caos divertido, Thiago viviendo con calma), algo que se refuerza en clases (y en matemáticas especialmente) al ver a sus compañeros.
+34. Salomé tiene cinco hermanastros (Cassia, Willow, Asher, Oakley y Hazel Lane, todos por parte de su madrastra, Katherine Lane) y una hermana mayor, Mikaela, en Frutillar; ella vive con cuatro hermanastros (Josefina, Emilio, Vicente e Iris Sepúlveda, todos de parte de su padrastro, Klaus Sepúlveda) y su hermano menor, Nicolas.
 
-35. Salomé tiene cinco hermanastros (Cassia, Willow, Asher, Oakley y Hazel Lane, todos por parte de su madrastra, Katherine Lane) y una hermana mayor, Mikaela, en Frutillar; ella vive con cuatro hermanastros (Josefina, Emilio, Vicente e Iris Sepúlveda, todos de parte de su padrastro, Klaus Sepúlveda) y su hermano menor, Nicolas.
+35. Noah es hijo de padres divorciados, Edward White y Beatrice Smith (cuando se divorció, ella se cambió a su apellido de soltera).
 
-36. Noah es hijo de padres divorciados, Edward White y Beatrice Smith (cuando se divorció, ella se cambió a su apellido de soltera).
+36. Noah vive con su madre y con dos hermanos más: Cody y Ava Smith; sus otros hermanos (Mason, Chloe y Emily White) viven con Edward.
 
-37. Noah vive con su madre y con dos hermanos más: Cody y Ava Smith; sus otros hermanos (Mason, Chloe y Emily White) viven con Edward.
-
-38. Peyton vive con sus dos padres (George y Lindsay Wilson) y con sus dos hermanos mayores: Sawyar y Lincoln Wilson.
+37. Peyton vive con sus dos padres (George y Lindsay Wilson) y con sus dos hermanos mayores: Sawyar y Lincoln Wilson.
 
 39. Eirene no tiene los ojos verdes; en realidad, son marrones, pero usa lentes de contacto porque (además de que necesita lentes) es la única en su familia que no tiene ojos verdes y sus padres quieren evitar que la desprecien por eso, porque su familia paterna es medio clasista y siguen mucho las tradiciones, incluso su forma de vestir les parece "inadecuada" a sus tíos (algo que contrasta con la familia de Érika, que la tratan bonito y la quieren mucho por juntarse con Érika y soportarla).
 
@@ -126,9 +124,9 @@
 
 61. Salomé y Thiago se funan en redes.
 
-62. [].
+62. La forma en que Ricardo despierta en su cama y sabe que se quedo dormido por estar ebrio (porque a veces se queda dormido por cansancio, y normalmentre no se acuerda de por qué ni cómo se durmió) es porque Yesenia normalmente le deja un frasco de Paracetamol y un vaso de agua.
 
-63. [].
+63. Martín (el padre de Bianca) es el CEO y fundador de *L'éclat de Bianca*, una empresa de modelaje y diseño textil, Isabel (la madre de Bianca) es la modelo estrella.
 
 64. [].
 

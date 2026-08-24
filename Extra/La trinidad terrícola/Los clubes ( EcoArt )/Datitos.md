@@ -274,53 +274,53 @@
 # TANDA 9
 
 
-121. [].
+121. Salomé tiene cinco hermanastros (Cassia, Willow, Asher, Oakley y Hazel Lane, todos por parte de su madrastra, Katherine Lane) y una hermana mayor, Mikaela, en Frutillar; ella vive con cuatro hermanastros (Josefina, Emilio, Vicente e Iris Sepúlveda, todos de parte de su padrastro, Klaus Sepúlveda) y su hermano menor, Nicolas.
 
-122. [].
+122. Noah es hijo de padres divorciados, Edward White y Beatrice Smith (cuando se divorció, ella se cambió a su apellido de soltera).
 
-123. [].
+123. Noah vive con su madre y con dos hermanos más: Cody y Ava Smith; sus otros hermanos (Mason, Chloe y Emily White) viven con Edward.Peyton vive con sus dos padres (George y Lindsay Wilson) y con sus dos hermanos mayores: Sawyar y Lincoln Wilson.
 
-124. [].
+124. Érika siempre lleva su skateboard con ella en la mochila.
 
-125. [].
+125. Julián tiene un lunar en la rodilla.
 
-126. [].
+126. Si el tatuaje de Érika parpadea un poco cerca de alguno de 3ro B (Peyton, Emiliano, Jessenia, Hilda o Candelaria), dice que es señal divina de odio eterna, si parpadea de forma dramática cerca de Julián, dice que el tatuaje tiene cortocircuito (perdió la cuenta de veces que lo dijo), en fin, la hipocresía.
 
-127. [].
+127. Rubén es fan de Pocoyó y de coleccionar boletas.
 
-128. [].
+128. Érika aprendió a detectar autismo por culpa de Rubén.
 
-129. [].
+129. Todos en el Antares adoran al profesor Antón Padilla, que es profesor jefe del 3ro A, hace Ciencias para la ciudadanía a 3ros y 4tos y el que hace el taller de Energías renovables.
 
-130. [].
+130. Julián conoció al EcoClub porque Érika lo salvó de que lo atropellara una micro.
 
-131. [].
+131. Fabio es alcohólico, y cuando se emborracha, duerme y trata con cariño a Nayeli.
 
-132. [].
+132. Ricardo se aprovecha de su adultez y está empezando a fumar porque se relaja, fuma antes de evaluaciones y cada fin de semana fuma con su madrastra.
 
-133. [].
+133. Yesenia fuma de vez en cuando para el estrés del trabajo, aguantar a Juan y entender a Ricardo. El que ambos fumen es un secreto compartido entre ella y Ricardo (que una vez la descubrió cuando estaba fumando) porque Juan ODIA que la gente fume o beba y casualmente ahora está con una fumadora que a veces bebe.
 
-134. [].
+134. Cuando Juan sale fuera de Santiago (un par de veces al mes por unos días) por su trabajo de piloto comercial, Yesenia y Ricardo beben y fuman juntos en las noches porque ambos son adultos y es donde mejor se entienden ambos (solo beben los viernes, sábados y feriados (o días antes de un feriado); el resto de los días solo fuman). El único problema es que, mientras Yesenia bebe de forma moderada, Ricardo bebe en exceso porque suele estar estresado y termina ebrio (no hace nada malo, solo se ríe, dice lo que piensa, se porta como un niño y después de un rato se duerme).
 
-135. [].
+135. Salomé falta a clases principalmente porque tiene que viajar a Frutillar por tutela compartida con su padre.
 
 
 # TANDA 10
 
 
-136. [].
+136. Cuando Fabio está ebrio, Julián se queda en la casa de Nayeli por si acaso.
 
-137. [].
+137. Antón sabe que Julián y Nayeli son amigos, y tiene un plan para unir a los clubes.
 
-138. [].
+138. Érika y Noah se odian como buenos líderes de sus clubes, Noah le dice "coladora triste" a Érika y ella le dice "Gringo cuico" o "cabeza de pichi" porque es rubio.
 
-139. [].
+139. Noah ODIA la saga de Crepúsculo.
 
-140. [].
+140. Salomé y Thiago se funan en redes.
 
-141. [].
+141. La forma en que Ricardo despierta en su cama y sabe que se quedo dormido por estar ebrio (porque a veces se queda dormido por cansancio, y normalmentre no se acuerda de por qué ni cómo se durmió) es porque Yesenia normalmente le deja un frasco de Paracetamol y un vaso de agua.
 
-142. [].
+142. Martín (el padre de Bianca) es el CEO y fundador de *L'éclat de Bianca*, una empresa de modelaje y diseño textil, Isabel (la madre de Bianca) es la modelo estrella.
 
 143. [].
 
