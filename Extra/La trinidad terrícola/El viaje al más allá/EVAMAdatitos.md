@@ -1,6 +1,6 @@
 # TANDA 1
 
-1. Juno puede ser inteligente, pero no sabe ubicarse, las tres veces que Willow y James la dejaron guiar la ruta resultaron en lo que vimos en la trilogía EVAMA.
+1. Juno puede ser muy inteligente, pero no sabe ubicarse, las tres veces que Willow y James la dejaron guiar la ruta resultaron en lo que vimos en la trilogía EVAMA.
 
 2. James es un gran guía turístico, sabe guiarse y tiene bastante conocimiento de cultura.
 
@@ -10,7 +10,7 @@
 
 5. James tiene como 30 posters de My Chemical Romance porque le suplicó a Juno todo un mes para que se los pidiera a sus padres.
 
-6. [].
+6. Willow tiene muchos contactos, eso explica que puedan ir a muchos lugares de Chile.
 
 7. [].
 

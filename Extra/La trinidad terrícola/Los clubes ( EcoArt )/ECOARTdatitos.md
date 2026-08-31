@@ -128,29 +128,29 @@
 
 63. Martín (el padre de Bianca) es el CEO y fundador de *L'éclat de Bianca*, una empresa de modelaje y diseño textil, Isabel (la madre de Bianca) es la modelo estrella.
 
-64. [].
+64. Peyton ama las novelas románticas (y a Noah).
 
-65. [].
+65. Cómo el 3ro A es impar (tienen 31 estudiantes, 3ro B también tienen 31), Julián suele quedarse solo en los trabajos que son en parejas.
 
-66. [].
+66. Érika es presidente de la directiva del 3ro A y Vanessa es la secretaria. En el caso de 3ro B, Kaleb es el presidente de directiva y Noah es su vicepresidente.
 
-67. [].
+67. Manuel y Cecilia se conocieron en el Internado católico Santa Julia de Cartago.
 
-68. [].
+68. Kaleb vivió un par de años en Cuba con sus padres, sus abuelos, unos tíos y primos, pero luego escaparon hacia Chile, los padres de Kaleb no logran subir al avión que los llevaba a Chile.
 
-69. [].
+69. Milán suele dormirse en el hombro de Nora cuando tiene sueño, se siente seguro con ella.
 
-70. [].
+70. Noah sabe tocar la guitarra, el oboe, la flauta y el saxofón.
 
-71. [].
+71. Aunque a simple vista no lo parezca, Yesenia no es tan estricta como Juan, en su juventud ella era una rebelde y por eso sus padres la mandaron al servicio militar.
 
-72. [].
+72. Kaleb tiene un walkie talkie de cuando escapó de Cuba, todavía lo usa para tratar de tener una señal de vida de sus padres.
 
-73. [].
+73. Vanessa tiene padres divorciados, su padre, Jesús Rivas, está en República Dominicana (aunque siempre se da el tiempo de visitarla). Ella vive con su madre (Celeste de Carrera), Hector Garrido, su padrastro; Maximiliano, su hermano mayor (que tiene 21 años), y Joy Garrido, su hermanastra menor (tiene 15 años).
 
-74. [].
+74. Salomé, su hermano y sus hermanastros hacen videollamada con los hermanastros (y hermana) de Frutillar para estar al día de lo que pasa.
 
-75. [].
+75. Yesenia adora el vino y le gusta la sidra, por otro lado, Ricardo prefiere bebidas más fuertes como el wisky o el vodka, incluso el tequila, pero está abierto a probar más.
 
 # TANDA 4
 
@@ -1034,4 +1034,4 @@
 
 499. [].
 
-500. [].
+500. La rivalidad de cursos no es más que una ilusión, pues hay muchos reflejos (especialmente entre EcoClub y ArtClub) y hay algunas relaciones secretas entre cursos que complican la existencia de la rivalidad.

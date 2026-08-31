@@ -8,9 +8,9 @@
 
 4. A Lisa de vez en cuando la mandan a hacer charlas a colegios para que se interesen en la ciencia forense o en la dermatología.
 
-5. Durante su tiempo en la vicaría, Nelson intentó todo para sacar a Víctor del Santa Julia.
+5. Durante su tiempo en la Vicaría de la solidaridad, Nelson intentó todo para sacar a Víctor del Santa Julia, en un punto incluso él y Miriam intentaron adoptarlo, pero no lograban convencer a los rectores.
 
-6. [].
+6. Miriam era fan de *The Beatles* y *The Rolling Stones*, y su forma de vestir y arreglar su cabello se inspiraba en Marilyn Monroe.
 
 7. [].
 

@@ -1,6 +1,6 @@
 # TANDA 1
 
-1. Su grupo se hace llamar "EcoClub" porque juntos hacen conciencia sobre el medioambiente y otras cosas que sus profes les den de tarea.
+1. El EcoClub se llama así porque juntos hacen conciencia sobre el medioambiente y otras cosas que sus profes les den de tarea.
 
 2. Por alguna razón, a todos les gusta Kirby, pero a Érika le sale mejor dibujarlo; es irónico porque casi ni hace círculos en sus dibujos. Todos lo adoran y lo tienen en sus compus de forma distinta y personalizada.
 
