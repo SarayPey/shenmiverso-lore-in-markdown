@@ -1,5 +1,3 @@
-# Algunos datitos del EcoClub
-
 # TANDA 1
 
 1. Su grupo se hace llamar "EcoClub" porque juntos hacen conciencia sobre el medioambiente y otras cosas que sus profes les den de tarea.
@@ -262,7 +260,7 @@
 
 116. Noah vive con su madre y con dos hermanos más: Cody y Ava Smith; sus otros hermanos (Mason, Chloe y Emily White) viven con Edward.
 
-117. La historia se va a desarrollar tomando de referencia en infraestructura al liceo polivalente B 133, todo esto en la comuna de Lo Espejo (aunque la mayoría vive en otras comunas, naturalmente).
+117. La historia se va a desarrollar en el Colegio Bicentenario Antares Subercaseaux (colegio ficticio creado solo para este universo), ubicado en la comuna de Lo Espejo (aunque la mayoría vive en otras comunas naturalmente).
 
 118. Érika siempre lleva su skateboard con ella en la mochila.
 
@@ -274,13 +272,13 @@
 # TANDA 9
 
 
-121. Salomé tiene cinco hermanastros (Cassia, Willow, Asher, Oakley y Hazel Lane, todos por parte de su madrastra, Katherine Lane) y una hermana mayor, Mikaela, en Frutillar; ella vive con cuatro hermanastros (Josefina, Emilio, Vicente e Iris Sepúlveda, todos de parte de su padrastro, Klaus Sepúlveda) y su hermano menor, Nicolas.
+121. Aunque a simple vista no lo parezca, Yesenia no es tan estricta como Juan, en su juventud ella era una rebelde y por eso sus padres la mandaron al servicio militar.
 
-122. Noah es hijo de padres divorciados, Edward White y Beatrice Smith (cuando se divorció, ella se cambió a su apellido de soltera).
+122. Kaleb vivió un par de años en Cuba con sus padres, sus abuelos, unos tíos y primos, pero luego escaparon hacia Chile, los padres de Kaleb no logran subir al avión que los llevaba a Chile.
 
-123. Noah vive con su madre y con dos hermanos más: Cody y Ava Smith; sus otros hermanos (Mason, Chloe y Emily White) viven con Edward.Peyton vive con sus dos padres (George y Lindsay Wilson) y con sus dos hermanos mayores: Sawyar y Lincoln Wilson.
+123. Peyton vive con sus dos padres (George y Lindsay Wilson) y con sus dos hermanos mayores: Sawyer y Lincoln Wilson.
 
-124. Érika siempre lleva su skateboard con ella en la mochila.
+124. Vanessa tiene padres divorciados, su padre, Jesús Rivas, está en República Dominicana (aunque siempre se da el tiempo de visitarla). Ella vive con su madre (Celeste de Carrera), Hector Garrido, su padrastro; Maximiliano, su hermano mayor (que tiene 21 años), y Joy Garrido, su hermanastra menor (tiene 15 años).
 
 125. Julián tiene un lunar en la rodilla.
 
@@ -318,7 +316,7 @@
 
 140. Salomé y Thiago se funan en redes.
 
-141. La forma en que Ricardo despierta en su cama y sabe que se quedo dormido por estar ebrio (porque a veces se queda dormido por cansancio, y normalmentre no se acuerda de por qué ni cómo se durmió) es porque Yesenia normalmente le deja un frasco de Paracetamol y un vaso de agua para la resaca.
+141. La forma en que Ricardo despierta en su cama y sabe que se quedo dormido por estar ebrio (porque a veces se queda dormido por cansancio, y normalmente no se acuerda de por qué ni cómo se durmió) es porque Yesenia normalmente le deja un frasco de Paracetamol y un vaso de agua para la resaca.
 
 142. Martín (el padre de Bianca) es el CEO y fundador de *L'éclat de Bianca*, una empresa de modelaje y diseño textil, Isabel (la madre de Bianca) es la modelo estrella.
 
