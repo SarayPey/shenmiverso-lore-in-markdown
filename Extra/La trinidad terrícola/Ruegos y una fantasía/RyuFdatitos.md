@@ -12,11 +12,11 @@
 
 6. Miriam era fan de *The Beatles* y *The Rolling Stones*, y su forma de vestir y arreglar su cabello se inspiraba en Marilyn Monroe.
 
-7. [].
+7. Cuando Nelson ve a Lisa, siente que es parecida a Miriam.
 
-8. [].
+8. Víctor sabía mucho de la biblia y la religión católica cuando joven porque creía que así no se acercarían a él (no funcionó), ahora no se acuerda mucho.
 
-9. [].
+9. Valeria escucha música de *Ace of base*.
 
 10. [].
 
