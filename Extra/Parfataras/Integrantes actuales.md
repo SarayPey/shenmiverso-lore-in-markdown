@@ -346,7 +346,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-3. **Nombre completo:** X X X X (**Apodos:** X).  
+3. **Nombre completo:** Kiyoshi X (**Apodos:** X).  
 	**Rol:** Estrella Azul: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -354,7 +354,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-4. **Nombre completo:** X X X X (**Apodos:** X).  
+4. **Nombre completo:** Taylor Daniels (**Apodos:** X).  
 	**Rol:** Cristal Azul: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -362,7 +362,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-5. **Nombre completo:** X X X X (**Apodos:** X).  
+5. **Nombre completo:** Rayco X (**Apodos:** X).  
 	**Rol:** Escudero Azul: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -370,7 +370,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-6. **Nombre completo:** X X X X (**Apodos:** X).  
+6. **Nombre completo:** Carel Jerome Boyer Jones (**Apodos:** X).  
 	**Rol:** Forastero Azul: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -378,7 +378,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-7. **Nombre completo:** X X X X (**Apodos:** X).  
+7. **Nombre completo:** Michael Elcaryn Sky Clyrk (**Apodos:** Mike, Sky-el).  
 	**Rol:** Roca Azul: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -386,7 +386,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 	
-8. **Nombre completo:** X X X X (**Apodos:** X).  
+8. **Nombre completo:** Yindee Farflysa (**Apodos:** X).  
 	**Rol:** Árbol Azul: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -396,7 +396,7 @@
 
 # MORADOS/PURPURAS
 
-1. **Nombre completo:** X X X X (**Apodos:** X).  
+1. **Nombre completo:** Melissa Isidora Torres Carson (**Apodos:** X).  
 	**Rol:** Sol Morado: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -404,7 +404,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-2. **Nombre completo:** X X X X (**Apodos:** X).  
+2. **Nombre completo:** Yunus X (**Apodos:** X).  
 	**Rol:** Luna Morada: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -412,7 +412,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-3. **Nombre completo:** X X X X (**Apodos:** X).  
+3. **Nombre completo:** Emma Solsy Park Doremi (**Apodos:** Emy, "Notita dorada").  
 	**Rol:** Estrella Morada: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -420,7 +420,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-4. **Nombre completo:** X X X X (**Apodos:** X).  
+4. **Nombre completo:** Sycorax X (**Apodos:** X).  
 	**Rol:** Cristal Morada: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -428,7 +428,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-5. **Nombre completo:** X X X X (**Apodos:** X).  
+5. **Nombre completo:** Kiara X (**Apodos:** X).  
 	**Rol:** Escudero Morada: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -436,7 +436,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-6. **Nombre completo:** X X X X (**Apodos:** X).  
+6. **Nombre completo:** Peyton Wilson (**Apodos:** X).  
 	**Rol:** Forastero Morada: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -444,7 +444,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-7. **Nombre completo:** X X X X (**Apodos:** X).  
+7. **Nombre completo:** Feredith X (**Apodos:** X).  
 	**Rol:** Roca Morada: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -452,7 +452,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 	
-8. **Nombre completo:** X X X X (**Apodos:** X).  
+8. **Nombre completo:** Saiko X (**Apodos:** X).  
 	**Rol:** Árbol Morada: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -462,7 +462,7 @@
 
 # ROSAS/FUCSIAS
 
-1. **Nombre completo:** X X X X (**Apodos:** X).  
+1. **Nombre completo:** Aarav (**Apodos:** X).  
 	**Rol:** Sol Rosa: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -470,7 +470,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-2. **Nombre completo:** X X X X (**Apodos:** X).  
+2. **Nombre completo:** Juno Atenea Rosales (**Apodos:** X).  
 	**Rol:** Luna Rosa: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -478,7 +478,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-3. **Nombre completo:** X X X X (**Apodos:** X).  
+3. **Nombre completo:** Ozara X (**Apodos:** X).  
 	**Rol:** Estrella Rosa: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -486,7 +486,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-4. **Nombre completo:** X X X X (**Apodos:** X).  
+4. **Nombre completo:** Érika Yaretzi Aurora Valdés Salazar (**Apodos:** X).  
 	**Rol:** Cristal Rosa: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -494,7 +494,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-5. **Nombre completo:** X X X X (**Apodos:** X).  
+5. **Nombre completo:** Kiria X (**Apodos:** X).  
 	**Rol:** Escudero Rosa: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -502,7 +502,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-6. **Nombre completo:** X X X X (**Apodos:** X).  
+6. **Nombre completo:** Paige X (**Apodos:** X).  
 	**Rol:** Forastero Rosa: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -510,7 +510,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-7. **Nombre completo:** X X X X (**Apodos:** X).  
+7. **Nombre completo:** Zaria X (**Apodos:** X).  
 	**Rol:** Roca Rosa: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -518,7 +518,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 	
-8. **Nombre completo:** X X X X (**Apodos:** X).  
+8. **Nombre completo:** Zelie Sakrihura (**Apodos:** X).  
 	**Rol:** Árbol Rosa: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -528,7 +528,7 @@
 
 # BLANCOS
 
-1. **Nombre completo:** X X X X (**Apodos:** X).  
+1. **Nombre completo:** Elidi X (**Apodos:** X).  
 	**Rol:** Sol Blanco: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -536,7 +536,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-2. **Nombre completo:** X X X X (**Apodos:** X).  
+2. **Nombre completo:** Laoise X (**Apodos:** X).  
 	**Rol:** Luna Blanca: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -544,7 +544,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-3. **Nombre completo:** X X X X (**Apodos:** X).  
+3. **Nombre completo:** Zuri X (**Apodos:** X).  
 	**Rol:** Estrella Blanca: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -552,7 +552,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-4. **Nombre completo:** X X X X (**Apodos:** X).  
+4. **Nombre completo:** Zelik X (**Apodos:** X).  
 	**Rol:** Cristal Blanca: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -560,7 +560,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-5. **Nombre completo:** X X X X (**Apodos:** X).  
+5. **Nombre completo:** Dyciel X (**Apodos:** X).  
 	**Rol:** Escudero Blanco: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -568,7 +568,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-6. **Nombre completo:** X X X X (**Apodos:** X).  
+6. **Nombre completo:** Zarathia X (**Apodos:** X).  
 	**Rol:** Forastero Blanco: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -576,7 +576,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-7. **Nombre completo:** X X X X (**Apodos:** X).  
+7. **Nombre completo:** Náyade X (**Apodos:** X).  
 	**Rol:** Roca Blanca: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -584,7 +584,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 	
-8. **Nombre completo:** X X X X (**Apodos:** X).  
+8. **Nombre completo:** Kizumi Qysamisare (**Apodos:** X).  
 	**Rol:** Árbol Blanco: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -594,7 +594,7 @@
 
 # PLATAS/PLATEADOS
 
-1. **Nombre completo:** X X X X (**Apodos:** X).  
+1. **Nombre completo:** Huldr X (**Apodos:** X).  
 	**Rol:** Sol Plateado: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -602,7 +602,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-2. **Nombre completo:** X X X X (**Apodos:** X).  
+2. **Nombre completo:** Zylvia X (**Apodos:** X).  
 	**Rol:** Luna Plateada: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -610,7 +610,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-3. **Nombre completo:** X X X X (**Apodos:** X).  
+3. **Nombre completo:** Koaka, La verdad desconocida (**Apodos:** X).  
 	**Rol:** Estrella Plateada: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -618,7 +618,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-4. **Nombre completo:** X X X X (**Apodos:** X).  
+4. **Nombre completo:** Rurik X (**Apodos:** X).  
 	**Rol:** Cristal Plateado: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -626,7 +626,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-5. **Nombre completo:** X X X X (**Apodos:** X).  
+5. **Nombre completo:** Nael, Sirviente de la paz (**Apodos:** X).  
 	**Rol:** Escudero Plateado: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -634,7 +634,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-6. **Nombre completo:** X X X X (**Apodos:** X).  
+6. **Nombre completo:** Idali X (**Apodos:** X).  
 	**Rol:** Forastero Plateado: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -642,7 +642,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-7. **Nombre completo:** X X X X (**Apodos:** X).  
+7. **Nombre completo:** Xavion Vespirfkar (**Apodos:** X).  
 	**Rol:** Roca Plateado: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -650,7 +650,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 	
-8. **Nombre completo:** X X X X (**Apodos:** X).  
+8. **Nombre completo:** Ruskin X (**Apodos:** X).  
 	**Rol:** Árbol Plateado: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -660,7 +660,7 @@
 
 # NEGROS
 
-1. **Nombre completo:** X X X X (**Apodos:** X).  
+1. **Nombre completo:** Daleth X (**Apodos:** X).  
 	**Rol:** Sol Negro: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -668,7 +668,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-2. **Nombre completo:** X X X X (**Apodos:** X).  
+2. **Nombre completo:** Kalonice X (**Apodos:** X).  
 	**Rol:** Luna Negra: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -676,7 +676,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-3. **Nombre completo:** X X X X (**Apodos:** X).  
+3. **Nombre completo:** Fairfax X (**Apodos:** X).  
 	**Rol:** Estrella Negra: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -684,7 +684,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-4. **Nombre completo:** X X X X (**Apodos:** X).  
+4. **Nombre completo:** Novax X (**Apodos:** X).  
 	**Rol:** Cristal Negro: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -692,7 +692,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-5. **Nombre completo:** X X X X (**Apodos:** X).  
+5. **Nombre completo:** Skyla Ross (**Apodos:** X).  
 	**Rol:** Escudero Negro: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -700,7 +700,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-6. **Nombre completo:** X X X X (**Apodos:** X).  
+6. **Nombre completo:** Eivor Garza (**Apodos:** X).  
 	**Rol:** Forastero Negro: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -708,7 +708,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-7. **Nombre completo:** X X X X (**Apodos:** X).  
+7. **Nombre completo:** Rexana Huai (**Apodos:** X).  
 	**Rol:** Roca Negra: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -716,7 +716,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 	
-8. **Nombre completo:** X X X X (**Apodos:** X).  
+8. **Nombre completo:** Nefer X (**Apodos:** X).  
 	**Rol:** Árbol Negro: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -726,7 +726,7 @@
 
 # SOMBRIOS
 
-1. **Nombre completo:** X X X X (**Apodos:** X).  
+1. **Nombre completo:** Seldon X (**Apodos:** X).  
 	**Rol:** Sol Sombrío: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -734,7 +734,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-2. **Nombre completo:** X X X X (**Apodos:** X).  
+2. **Nombre completo:** Amarisa X (**Apodos:** X).  
 	**Rol:** Luna Sombría: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -742,7 +742,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-3. **Nombre completo:** X X X X (**Apodos:** X).  
+3. **Nombre completo:** Varoun Arqazyva (**Apodos:** X).  
 	**Rol:** Estrella Sombía: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -750,7 +750,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-4. **Nombre completo:** X X X X (**Apodos:** X).  
+4. **Nombre completo:** Wyatt Rivera (**Apodos:** X).  
 	**Rol:** Cristal Sombrío: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -758,7 +758,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-5. **Nombre completo:** X X X X (**Apodos:** X).  
+5. **Nombre completo:** Fallyn Olssen (**Apodos:** "La maestra", "Fundadora").  
 	**Rol:** Escudero Sombrío: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -766,7 +766,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-6. **Nombre completo:** X X X X (**Apodos:** X).  
+6. **Nombre completo:** Zadok Durand (**Apodos:** X).  
 	**Rol:** Forastero Sombrío: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -774,7 +774,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 
-7. **Nombre completo:** X X X X (**Apodos:** X).  
+7. **Nombre completo:** Logan Hujarima (**Apodos:** X).  
 	**Rol:** Roca Sombrío: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  
@@ -782,7 +782,7 @@
 	**Mundo de residencia:** X.  
 	**Lore Rápido:** *En desarrollo*.  
 	
-8. **Nombre completo:** X X X X (**Apodos:** X).  
+8. **Nombre completo:** Ivy Qisakeri (**Apodos:** X).  
 	**Rol:** Árbol Sombrío: Color y rol.  
 	**Edad:** X.  
 	**Especie:** X.  

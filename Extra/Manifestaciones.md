@@ -4,7 +4,7 @@
 1. Itzal-Min, manifestación de la noche.
 2. Orzeanea, manifestación del agua.
 3. Solei-Pri, manifestación del día.
-4. Prired, manifestación del fuego.
+4. Pyredia, manifestación del fuego.
 5. , manifestación del aire.
 6. , manifestación de la magia.
 7. , manifestación de la tierra.
